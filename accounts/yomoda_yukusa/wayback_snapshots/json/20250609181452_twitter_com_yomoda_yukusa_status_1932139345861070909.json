@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1859174874415296513"
+      ],
+      "media_source_tweet_id": [
+        "1859174892261756992"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1932139345861070909",
+    "created_at": "2025-06-09T18:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T19:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932139345861070909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1467095000609849345",
+          "start": 3,
+          "username": "carnagesociety"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GQ8vsA7P2S",
+          "end": 124,
+          "expanded_url": "https://x.com/carnagesociety/status/1859174892261756992/photo/1",
+          "media_key": "3_1859174874415296513",
+          "start": 101,
+          "url": "https://t.co/GQ8vsA7P2S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932139345861070909",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 152
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859174892261756992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carnagesociety: ❤️300\nゴアゾノさん｢…これ以上どこを見るつもり？｣\nGore-zono \"...where are you going to look anymore?\" https://t.co/GQ8vsA7P2S"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932139345861070909].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932139345861070909",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932139345861070909"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1859174874415296513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc0dsqza8AEGAq5.jpg",
+        "width": 2405
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859174874415296513"
+          ]
+        },
+        "author_id": "1467095000609849345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1857978359613108605",
+        "created_at": "2024-11-20T10:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T11:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859174892261756992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GQ8vsA7P2S",
+              "end": 104,
+              "expanded_url": "https://x.com/carnagesociety/status/1859174892261756992/photo/1",
+              "media_key": "3_1859174874415296513",
+              "start": 81,
+              "url": "https://t.co/GQ8vsA7P2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859174892261756992",
+        "in_reply_to_user_id": "1467095000609849345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 31713,
+          "like_count": 1510,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 152
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858450805201989879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "❤️300\nゴアゾノさん｢…これ以上どこを見るつもり？｣\nGore-zono \"...where are you going to look anymore?\" https://t.co/GQ8vsA7P2S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2809,
+          "following_count": 2139,
+          "like_count": 28731,
+          "listed_count": 7,
+          "media_count": 1319,
+          "tweet_count": 19457
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T11:34:48.000Z",
+        "description": "ゴアゾノさんを推せ🩸メタルとV系が好き \n💀commission▶@yuki12278947 \n💀sub account▶@GorezonoNeo \n💀goods▶#CarnageSociety \n💀comic▶#ハイスクールゴアガール \n💀fanart▶#ゴアガールファンアート \n💀link▼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 82,
+                "tag": "CarnageSociety"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "tag": "ハイスクールゴアガール"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "tag": "ゴアガールファンアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "yuki12278947"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "GorezonoNeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukicarnagesoc…",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukicarnagesociety",
+                "start": 0,
+                "url": "https://t.co/ZWgT5VWTU9"
+              }
+            ]
+          }
+        },
+        "id": "1467095000609849345",
+        "location": "ご依頼は(@yuki12278947 )のDMへ",
+        "name": "幽妃-yuki-🫀G0RE-GlRL PR0JECT/流血少女",
+        "pinned_tweet_id": "1926237151458382090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876935508863102976/arithVKG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38689,
+          "following_count": 741,
+          "like_count": 95864,
+          "listed_count": 174,
+          "media_count": 1414,
+          "tweet_count": 37948
+        },
+        "url": "https://t.co/ZWgT5VWTU9",
+        "username": "carnagesociety",
+        "verified": true
+      }
+    ]
+  }
+}
