@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1839160026260451407",
+    "created_at": "2024-09-26T22:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T23:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839427275735130590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1749719755119071232",
+          "start": 0,
+          "username": "lan_shang32900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839427275735130590",
+    "in_reply_to_user_id": "1749719755119071232",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839303232369340553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lan_shang32900 抱抱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1839303232369340553].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1839303232369340553",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1839303232369340553"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1839160026260451407",
+        "created_at": "2024-09-26T22:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T23:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839427275735130590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839427275735130590",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839303232369340553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2715,
+          "following_count": 2604,
+          "like_count": 26376,
+          "listed_count": 7,
+          "tweet_count": 18265
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "#自傷行為 #shtwt #精神疾病 #自杀 #躁郁 #sm #ddlg #traumacore #babycore #ratcore #Yamikawaii #画性恋 #钱性恋 🚪80非典型地蕾女‖非二元‖开放式关系\n@SupernovaLLan  你是一个好爸爸。\n@HimeMiya_Nekoo 这是我的宝宝！！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "自傷行為"
+              },
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 18,
+                "start": 13,
+                "tag": "精神疾病"
+              },
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "自杀"
+              },
+              {
+                "end": 26,
+                "start": 23,
+                "tag": "躁郁"
+              },
+              {
+                "end": 30,
+                "start": 27,
+                "tag": "sm"
+              },
+              {
+                "end": 36,
+                "start": 31,
+                "tag": "ddlg"
+              },
+              {
+                "end": 48,
+                "start": 37,
+                "tag": "traumacore"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "tag": "babycore"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "ratcore"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "tag": "Yamikawaii"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "画性恋"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "钱性恋"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 124,
+                "start": 110,
+                "username": "SupernovaLLan"
+              },
+              {
+                "end": 150,
+                "start": 135,
+                "username": "HimeMiya_Nekoo"
+              }
+            ]
+          }
+        },
+        "id": "1749719755119071232",
+        "name": "めふき2.0（我想上学）",
+        "pinned_tweet_id": "1754759780609196120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757743074460213248/1YeTBemp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 872,
+          "like_count": 22403,
+          "listed_count": 1,
+          "tweet_count": 4435
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

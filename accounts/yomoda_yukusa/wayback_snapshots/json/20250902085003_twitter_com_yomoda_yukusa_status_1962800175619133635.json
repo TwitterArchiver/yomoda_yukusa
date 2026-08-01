@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962799970849087488",
+        "3_1962799970500886529"
+      ],
+      "media_source_tweet_id": [
+        "1962799973353037866",
+        "1962799973353037866"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1962800175619133635",
+    "created_at": "2025-09-02T08:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T09:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962800175619133635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1684456606623571968",
+          "start": 3,
+          "username": "er_mei74034"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zxVUCKI6B4",
+          "end": 44,
+          "expanded_url": "https://x.com/er_mei74034/status/1962799973353037866/photo/1",
+          "media_key": "3_1962799970849087488",
+          "start": 21,
+          "url": "https://t.co/zxVUCKI6B4"
+        },
+        {
+          "display_url": "pic.x.com/zxVUCKI6B4",
+          "end": 44,
+          "expanded_url": "https://x.com/er_mei74034/status/1962799973353037866/photo/1",
+          "media_key": "3_1962799970500886529",
+          "start": 21,
+          "url": "https://t.co/zxVUCKI6B4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962800175619133635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962799973353037866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @er_mei74034: 还真是 https://t.co/zxVUCKI6B4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 863,
+        "media_key": "3_1962799970849087488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1ELJObYAAQozw.jpg",
+        "width": 1919
+      },
+      {
+        "height": 432,
+        "media_key": "3_1962799970500886529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz1ELH7aQAEGNE8.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962799970849087488",
+            "3_1962799970500886529"
+          ],
+          "media_source_tweet_id": [
+            "1962799973353037866",
+            "1962799973353037866"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1962800175619133635",
+        "created_at": "2025-09-02T08:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T09:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962800175619133635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1684456606623571968",
+              "start": 3,
+              "username": "er_mei74034"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxVUCKI6B4",
+              "end": 44,
+              "expanded_url": "https://x.com/er_mei74034/status/1962799973353037866/photo/1",
+              "media_key": "3_1962799970849087488",
+              "start": 21,
+              "url": "https://t.co/zxVUCKI6B4"
+            },
+            {
+              "display_url": "pic.x.com/zxVUCKI6B4",
+              "end": 44,
+              "expanded_url": "https://x.com/er_mei74034/status/1962799973353037866/photo/1",
+              "media_key": "3_1962799970500886529",
+              "start": 21,
+              "url": "https://t.co/zxVUCKI6B4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962800175619133635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962799973353037866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @er_mei74034: 还真是 https://t.co/zxVUCKI6B4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962799970849087488",
+            "3_1962799970500886529"
+          ]
+        },
+        "author_id": "1684456606623571968",
+        "conversation_id": "1962799973353037866",
+        "created_at": "2025-09-02T08:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T09:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962799973353037866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxVUCKI6B4",
+              "end": 27,
+              "expanded_url": "https://x.com/er_mei74034/status/1962799973353037866/photo/1",
+              "media_key": "3_1962799970849087488",
+              "start": 4,
+              "url": "https://t.co/zxVUCKI6B4"
+            },
+            {
+              "display_url": "pic.x.com/zxVUCKI6B4",
+              "end": 27,
+              "expanded_url": "https://x.com/er_mei74034/status/1962799973353037866/photo/1",
+              "media_key": "3_1962799970500886529",
+              "start": 4,
+              "url": "https://t.co/zxVUCKI6B4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962799973353037866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还真是 https://t.co/zxVUCKI6B4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2209,
+          "like_count": 29575,
+          "listed_count": 9,
+          "media_count": 1357,
+          "tweet_count": 19879
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T06:52:15.000Z",
+        "description": "攻击我的手机自动下载原神",
+        "id": "1684456606623571968",
+        "name": "梅尔菲",
+        "pinned_tweet_id": "1918917020923429118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841805022339989505/YoA0S0Nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 1173,
+          "like_count": 21462,
+          "listed_count": 9,
+          "media_count": 2844,
+          "tweet_count": 16551
+        },
+        "username": "er_mei74034",
+        "verified": false
+      }
+    ]
+  }
+}

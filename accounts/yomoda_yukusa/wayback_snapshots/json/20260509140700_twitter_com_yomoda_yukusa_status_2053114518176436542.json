@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2053106677378097588",
+    "created_at": "2026-05-09T14:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053114518176436542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632832954421633029",
+          "start": 0,
+          "username": "482xxnay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053114518176436542",
+    "in_reply_to_user_id": "1632832954421633029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053113794650403119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@482xxnay 谢谢你  摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2053106677378097588",
+        "created_at": "2026-05-09T14:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053114518176436542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632832954421633029",
+              "start": 0,
+              "username": "482xxnay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053114518176436542",
+        "in_reply_to_user_id": "1632832954421633029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053113794650403119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@482xxnay 谢谢你  摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632832954421633029",
+        "conversation_id": "2053106677378097588",
+        "created_at": "2026-05-09T14:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053113794650403119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053113794650403119",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053106677378097588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 我先赚钱………摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859,
+          "following_count": 2393,
+          "like_count": 33996,
+          "listed_count": 9,
+          "media_count": 1636,
+          "tweet_count": 22250
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T19:58:19.000Z",
+        "description": "no way…！my life is so suck\n各类型一次性电子烟 烟弹 烟杆 锐克五六代杆子正品还有其他的杆子 冰熊 等 青海+10运费 禁发西藏/新疆/海南 库存消耗快 备注请填写主口味和备用口味 售后需要一口气的开箱视频不然没有视频拒绝守候 请拍摄第一次使用 每天18:30截单 如果可以请给我一些客返哦",
+        "id": "1632832954421633029",
+        "name": "im gay（yan的电子烟版）",
+        "pinned_tweet_id": "2052774374865006816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 486,
+          "like_count": 3746,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 4103
+        },
+        "username": "482xxnay",
+        "verified": false
+      }
+    ]
+  }
+}

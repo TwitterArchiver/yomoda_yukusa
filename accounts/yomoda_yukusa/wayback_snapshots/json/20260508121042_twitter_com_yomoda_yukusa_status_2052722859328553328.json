@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052722856778457088"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "2052722859328553328",
+    "created_at": "2026-05-08T12:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052722859328553328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040565175514779648",
+          "start": 0,
+          "username": "amber_digit"
+        },
+        {
+          "end": 29,
+          "id": "2035882965671215104",
+          "start": 13,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 43,
+          "id": "1424779836938022913",
+          "start": 30,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bV4OMRRwBL",
+          "end": 67,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/2052722859328553328/photo/1",
+          "media_key": "3_2052722856778457088",
+          "start": 44,
+          "url": "https://t.co/bV4OMRRwBL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052722859328553328",
+    "in_reply_to_user_id": "2040565175514779648",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@amber_digit @amber_medusozoa @amber_toffee https://t.co/bV4OMRRwBL"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [amber_medusozoa].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "amber_medusozoa",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "amber_medusozoa"
+    },
+    {
+      "detail": "User has been suspended: [amber_toffee].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "amber_toffee",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "amber_toffee"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2244,
+        "media_key": "3_2052722856778457088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHy8j_ya4AADRMg.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052722856778457088"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "2052722859328553328",
+        "created_at": "2026-05-08T12:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052722859328553328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040565175514779648",
+              "start": 0,
+              "username": "amber_digit"
+            },
+            {
+              "end": 29,
+              "id": "2035882965671215104",
+              "start": 13,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 43,
+              "id": "1424779836938022913",
+              "start": 30,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bV4OMRRwBL",
+              "end": 67,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2052722859328553328/photo/1",
+              "media_key": "3_2052722856778457088",
+              "start": 44,
+              "url": "https://t.co/bV4OMRRwBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052722859328553328",
+        "in_reply_to_user_id": "2040565175514779648",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@amber_digit @amber_medusozoa @amber_toffee https://t.co/bV4OMRRwBL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2861,
+          "following_count": 2394,
+          "like_count": 33972,
+          "listed_count": 9,
+          "media_count": 1635,
+          "tweet_count": 22237
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "previously: @amber_toffee @amber_medusozoa\n🏳️‍⚧️ ts/mtf\n🚪¥150/240 ($30/50)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 42,
+                "start": 26,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/8wrbgvlIrh"
+              }
+            ]
+          }
+        },
+        "id": "2040565175514779648",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2052283383942635587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052280202512719874/upe5_UUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 265,
+          "like_count": 267,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1120
+        },
+        "url": "https://t.co/8wrbgvlIrh",
+        "username": "amber_digit",
+        "verified": true
+      }
+    ]
+  }
+}

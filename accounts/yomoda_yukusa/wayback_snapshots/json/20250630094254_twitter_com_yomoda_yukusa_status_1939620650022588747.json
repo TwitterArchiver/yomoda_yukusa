@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1939616007158681644",
+    "created_at": "2025-06-30T09:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T10:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939620650022588747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1419686621109174272",
+          "start": 0,
+          "username": "tnaylsyk7865209"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939620650022588747",
+    "in_reply_to_user_id": "1419686621109174272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939616007158681644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tnaylsyk7865209 坏）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1939616007158681644",
+        "created_at": "2025-06-30T09:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T10:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939620650022588747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1419686621109174272",
+              "start": 0,
+              "username": "tnaylsyk7865209"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939620650022588747",
+        "in_reply_to_user_id": "1419686621109174272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939616007158681644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tnaylsyk7865209 坏）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419686621109174272",
+        "conversation_id": "1939616007158681644",
+        "created_at": "2025-06-30T09:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T10:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939616007158681644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yizhikapaiqaq/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Yizhikapaiqaq/status/1939562015472996567",
+              "start": 13,
+              "url": "https://t.co/R7WY6jC4lq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939616007158681644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939562015472996567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实不错\n我也想这么改了 https://t.co/R7WY6jC4lq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2805,
+          "following_count": 2161,
+          "like_count": 29086,
+          "listed_count": 0,
+          "media_count": 1340,
+          "tweet_count": 19628
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T15:50:51.000Z",
+        "description": "赫爾墨斯的臣民，雅典娜的僕從，普羅米修斯的使者。 \n是■■（檔案刪除）…… \n降臨的未知，琢磨不透的物。\n不明白意圖，𥥖而𢜛。\n\n性別不詳 性格不詳 愛好不詳 遙望水星",
+        "id": "1419686621109174272",
+        "location": "是一只乖可爱鲨猫宝宝",
+        "name": "如月咲雪/韞蘭/N.A.",
+        "pinned_tweet_id": "1939076210769989792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921943914883190784/UBq1oEV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 2563,
+          "like_count": 33268,
+          "listed_count": 4,
+          "media_count": 154,
+          "tweet_count": 3883
+        },
+        "username": "tnaylsyk7865209",
+        "verified": false
+      }
+    ]
+  }
+}

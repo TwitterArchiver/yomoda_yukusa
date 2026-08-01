@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2011865280411312238",
+    "created_at": "2026-01-16T02:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T03:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011986489052446780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1423494052733874182",
+          "start": 0,
+          "username": "SaturnXVIII_Pan"
+        },
+        {
+          "end": 33,
+          "id": "1484072544009347072",
+          "start": 17,
+          "username": "BelovedUren8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011986489052446780",
+    "in_reply_to_user_id": "1423494052733874182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011885758823780646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaturnXVIII_Pan @BelovedUren8964 不知道"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2011885758823780646].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2011885758823780646",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2011885758823780646"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2011865280411312238",
+        "created_at": "2026-01-16T02:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T03:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011986489052446780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1423494052733874182",
+              "start": 0,
+              "username": "SaturnXVIII_Pan"
+            },
+            {
+              "end": 33,
+              "id": "1484072544009347072",
+              "start": 17,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011986489052446780",
+        "in_reply_to_user_id": "1423494052733874182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011885758823780646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaturnXVIII_Pan @BelovedUren8964 不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 2352,
+          "like_count": 32795,
+          "listed_count": 9,
+          "media_count": 1516,
+          "tweet_count": 21256
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T04:00:17.000Z",
+        "description": "Nothing ever lasts forever",
+        "id": "1423494052733874182",
+        "location": "Encke Gap, Rings of Saturn",
+        "name": "Pan🍥",
+        "pinned_tweet_id": "1670140488639455232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721862599686733824/2W8dEMkd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 531,
+          "like_count": 25448,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 9980
+        },
+        "username": "SaturnXVIII_Pan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/💊oder 我支持为OD正名/自由万岁！自由永远高于一切/这还用说吗，我是汉奸哪🇯🇵 / 台湾支那，一边一国🇹🇼 / 反男反女反跨反人类反一切/支那人没有一个是无辜的/我心里的第一和唯一@Amenyan14_w /知音难寻@Psych_Angel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Amenyan14_w"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Psych_Angel"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTrKH9"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "2009339225901248808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009941021363507201/jjiJM8UQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 483,
+          "like_count": 5111,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 3759
+        },
+        "url": "https://t.co/DgJHLTrKH9",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

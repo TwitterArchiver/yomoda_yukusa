@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1947170753549639792",
+    "created_at": "2025-07-21T23:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T00:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947440806111154581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "931807368349810688",
+          "start": 0,
+          "username": "jike112_jike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947440806111154581",
+    "in_reply_to_user_id": "931807368349810688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947170753549639792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jike112_jike 这字顺序乱的读起来好累"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1971,
+        "media_key": "3_1947169266324942848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwW8IZTbMAAdhh6.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1947170753549639792",
+        "created_at": "2025-07-21T23:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T00:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947440806111154581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "931807368349810688",
+              "start": 0,
+              "username": "jike112_jike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947440806111154581",
+        "in_reply_to_user_id": "931807368349810688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947170753549639792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jike112_jike 这字顺序乱的读起来好累"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947169266324942848"
+          ]
+        },
+        "author_id": "931807368349810688",
+        "conversation_id": "1947170753549639792",
+        "created_at": "2025-07-21T05:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947170753549639792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YAihn3R0VO",
+              "end": 94,
+              "expanded_url": "https://x.com/jike112_jike/status/1947170753549639792/photo/1",
+              "media_key": "3_1947169266324942848",
+              "start": 71,
+              "url": "https://t.co/YAihn3R0VO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947170753549639792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 14523,
+          "like_count": 260,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "女儿奴龟男真的很招笑，人家夜场女一年赚你一辈子的钱，还能上岸嫁个有钱老公养她，你根本想象不到她们上岸有多容易，而底层男性只能去送外卖干苦力。 https://t.co/YAihn3R0VO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 2162,
+          "like_count": 29444,
+          "listed_count": 7,
+          "media_count": 1343,
+          "tweet_count": 19696
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T08:52:43.000Z",
+        "description": "男性要学会保护自己",
+        "id": "931807368349810688",
+        "name": "jike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770473487389294594/AqsssmrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4792,
+          "following_count": 215,
+          "like_count": 6114,
+          "listed_count": 23,
+          "media_count": 589,
+          "tweet_count": 2256
+        },
+        "username": "jike112_jike",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1961966351448473848",
+    "created_at": "2025-09-25T01:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T02:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971019097954713721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841768354178334721",
+          "start": 0,
+          "username": "jingzi004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971019097954713721",
+    "in_reply_to_user_id": "1841768354178334721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961966351448473848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzi004 有没有een（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 947,
+        "media_key": "3_1961966341059121152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzpN_gQaEAAwlD8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 947,
+        "media_key": "3_1961966341046575104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzpN_gNaoAAWKxA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1023,
+        "media_key": "3_1961966341059194880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzpN_gQbMAAc1nA.jpg",
+        "width": 1023
+      },
+      {
+        "height": 1912,
+        "media_key": "3_1961966341050732544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzpN_gOaEAAM994.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1961966351448473848",
+        "created_at": "2025-09-25T01:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T02:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971019097954713721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841768354178334721",
+              "start": 0,
+              "username": "jingzi004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971019097954713721",
+        "in_reply_to_user_id": "1841768354178334721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961966351448473848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzi004 有没有een（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961966341059121152",
+            "3_1961966341046575104",
+            "3_1961966341059194880",
+            "3_1961966341050732544"
+          ]
+        },
+        "author_id": "1841768354178334721",
+        "conversation_id": "1961966351448473848",
+        "created_at": "2025-08-31T01:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T02:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961966351448473848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FubSV35Vey",
+              "end": 49,
+              "expanded_url": "https://x.com/jingzi004/status/1961966351448473848/photo/1",
+              "media_key": "3_1961966341059121152",
+              "start": 26,
+              "url": "https://t.co/FubSV35Vey"
+            },
+            {
+              "display_url": "pic.x.com/FubSV35Vey",
+              "end": 49,
+              "expanded_url": "https://x.com/jingzi004/status/1961966351448473848/photo/1",
+              "media_key": "3_1961966341046575104",
+              "start": 26,
+              "url": "https://t.co/FubSV35Vey"
+            },
+            {
+              "display_url": "pic.x.com/FubSV35Vey",
+              "end": 49,
+              "expanded_url": "https://x.com/jingzi004/status/1961966351448473848/photo/1",
+              "media_key": "3_1961966341059194880",
+              "start": 26,
+              "url": "https://t.co/FubSV35Vey"
+            },
+            {
+              "display_url": "pic.x.com/FubSV35Vey",
+              "end": 49,
+              "expanded_url": "https://x.com/jingzi004/status/1961966351448473848/photo/1",
+              "media_key": "3_1961966341050732544",
+              "start": 26,
+              "url": "https://t.co/FubSV35Vey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961966351448473848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7234,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "成分保真，激素六項可查🌝\n品質保證，我自己就在用🌚 https://t.co/FubSV35Vey"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2787,
+          "following_count": 2276,
+          "like_count": 29821,
+          "listed_count": 10,
+          "media_count": 1370,
+          "tweet_count": 20005
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T09:14:54.000Z",
+        "description": "常駐昆山😁是剛用上雌激素沒幾年的亞洲人妖🌝自產自銷人妖藥（雌二醇）糖商🌚減肥、豐胸、泌乳、脫毛、美白、雌墮、互fo、面基找我☝️🤓會轉發好看的",
+        "id": "1841768354178334721",
+        "location": "中國大陸江蘇",
+        "name": "劉陰嫚（京本京子）",
+        "pinned_tweet_id": "1961966351448473848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947896196036759558/jZW-lLDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3551,
+          "following_count": 3547,
+          "like_count": 1044,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 5315
+        },
+        "username": "jingzi004",
+        "verified": false
+      }
+    ]
+  }
+}

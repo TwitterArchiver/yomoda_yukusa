@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1934215537531420715",
+    "created_at": "2025-06-15T11:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T12:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934216790508539927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1617094717153628160",
+          "start": 0,
+          "username": "Drugsneko18"
+        },
+        {
+          "end": 20,
+          "id": "3319885484",
+          "start": 13,
+          "username": "LaWbda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934216790508539927",
+    "in_reply_to_user_id": "1617094717153628160",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934215537531420715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Drugsneko18 @LaWbda"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1407,
+        "media_key": "3_1934215530514415616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gte2xu9bAAAl75m.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1934215537531420715",
+        "created_at": "2025-06-15T11:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T12:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934216790508539927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617094717153628160",
+              "start": 0,
+              "username": "Drugsneko18"
+            },
+            {
+              "end": 20,
+              "id": "3319885484",
+              "start": 13,
+              "username": "LaWbda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934216790508539927",
+        "in_reply_to_user_id": "1617094717153628160",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934215537531420715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Drugsneko18 @LaWbda"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934215530514415616"
+          ]
+        },
+        "author_id": "1617094717153628160",
+        "conversation_id": "1934215537531420715",
+        "created_at": "2025-06-15T11:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T12:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934215537531420715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gdwwG8nHrS",
+              "end": 23,
+              "expanded_url": "https://x.com/Drugsneko18/status/1934215537531420715/photo/1",
+              "media_key": "3_1934215530514415616",
+              "start": 0,
+              "url": "https://t.co/gdwwG8nHrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934215537531420715",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 125,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gdwwG8nHrS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2810,
+          "following_count": 2148,
+          "like_count": 28748,
+          "listed_count": 7,
+          "media_count": 1321,
+          "tweet_count": 19478
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T09:40:09.000Z",
+        "description": "@Dr0gsneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Dr0gsneko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/Hawawa",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/Hawawa",
+                "start": 0,
+                "url": "https://t.co/QnnD1V01pw"
+              }
+            ]
+          }
+        },
+        "id": "1617094717153628160",
+        "location": "CM closed",
+        "name": "Dr0gsneko",
+        "pinned_tweet_id": "1927280471131463900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927280403242491904/xTUiX2B4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13918,
+          "following_count": 45,
+          "like_count": 1121,
+          "listed_count": 18,
+          "media_count": 96,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/QnnD1V01pw",
+        "username": "Drugsneko18",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-19T10:16:12.000Z",
+        "description": "半生因果，缘起我执| Programmer | Nekomancer. Wish all my friends live long and prosper. 最好的大猫: @Iceblue_Sakura, 天然呆妹妹:@qiyishi512（转生版）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "Iceblue_Sakura"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "qiyishi512"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Sewens",
+                "end": 23,
+                "expanded_url": "https://github.com/Sewens",
+                "start": 0,
+                "url": "https://t.co/6yqgj7jetJ"
+              }
+            ]
+          }
+        },
+        "id": "3319885484",
+        "name": "半生",
+        "pinned_tweet_id": "1809946193080017312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770260761631227904/HldxKxkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3044,
+          "following_count": 3201,
+          "like_count": 38578,
+          "listed_count": 9,
+          "media_count": 1195,
+          "tweet_count": 20836
+        },
+        "url": "https://t.co/6yqgj7jetJ",
+        "username": "LaWbda",
+        "verified": false
+      }
+    ]
+  }
+}

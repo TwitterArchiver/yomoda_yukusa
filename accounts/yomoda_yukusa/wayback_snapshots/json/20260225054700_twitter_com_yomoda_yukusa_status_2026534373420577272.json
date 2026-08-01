@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2026530588228988943",
+    "created_at": "2026-02-25T05:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T06:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026534373420577272"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026534373420577272",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026530658517135503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2026530588228988943",
+        "created_at": "2026-02-25T05:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026534373420577272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026534373420577272",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026530658517135503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2026530588228988943",
+        "created_at": "2026-02-25T05:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026530658517135503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026530658517135503",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026530588228988943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要不要来一片曲马多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2824,
+          "following_count": 2376,
+          "like_count": 33180,
+          "listed_count": 9,
+          "media_count": 1557,
+          "tweet_count": 21607
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

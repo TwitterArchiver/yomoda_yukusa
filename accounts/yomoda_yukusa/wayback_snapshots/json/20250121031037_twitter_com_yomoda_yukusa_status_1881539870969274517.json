@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1881532887700525492",
+    "created_at": "2025-01-21T03:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T04:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881539870969274517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721895937357004800",
+          "start": 0,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881539870969274517",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881532887700525492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strf_9040C 哪里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1881532887700525492",
+        "created_at": "2025-01-21T03:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T04:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881539870969274517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881539870969274517",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881532887700525492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 哪里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "1881532887700525492",
+        "created_at": "2025-01-21T02:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T03:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881532887700525492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YumekaAyumi/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/YumekaAyumi/status/1881370000935776499",
+              "start": 33,
+              "url": "https://t.co/U0NR29abez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881532887700525492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881370000935776499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "09 年家里人说不养我了，誰能收留我一段时间，我会想办法还你钱的 https://t.co/U0NR29abez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2768,
+          "following_count": 2762,
+          "like_count": 26760,
+          "listed_count": 6,
+          "media_count": 1245,
+          "tweet_count": 18736
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 1309,
+          "like_count": 2773,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

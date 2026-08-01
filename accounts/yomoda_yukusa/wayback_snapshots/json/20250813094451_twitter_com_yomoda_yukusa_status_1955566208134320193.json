@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955464467539693569"
+      ],
+      "media_source_tweet_id": [
+        "1955464473734680691"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1955566208134320193",
+    "created_at": "2025-08-13T09:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T10:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955566208134320193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692136120027320320",
+          "start": 3,
+          "username": "Cypress_7593"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TyzaziSecz",
+          "end": 56,
+          "expanded_url": "https://x.com/Cypress_7593/status/1955464473734680691/photo/1",
+          "media_key": "3_1955464467539693569",
+          "start": 33,
+          "url": "https://t.co/TyzaziSecz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955566208134320193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955464473734680691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cypress_7593: 🤯🤯🤯🤯🤯遗传抑郁基因这一块 https://t.co/TyzaziSecz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1955464467539693569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyM0kp6aEAETH7n.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955464467539693569"
+          ],
+          "media_source_tweet_id": [
+            "1955464473734680691"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1955566208134320193",
+        "created_at": "2025-08-13T09:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955566208134320193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692136120027320320",
+              "start": 3,
+              "username": "Cypress_7593"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TyzaziSecz",
+              "end": 56,
+              "expanded_url": "https://x.com/Cypress_7593/status/1955464473734680691/photo/1",
+              "media_key": "3_1955464467539693569",
+              "start": 33,
+              "url": "https://t.co/TyzaziSecz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955566208134320193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955464473734680691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cypress_7593: 🤯🤯🤯🤯🤯遗传抑郁基因这一块 https://t.co/TyzaziSecz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955464467539693569"
+          ]
+        },
+        "author_id": "1692136120027320320",
+        "conversation_id": "1955464473734680691",
+        "created_at": "2025-08-13T03:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T04:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955464473734680691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TyzaziSecz",
+              "end": 38,
+              "expanded_url": "https://x.com/Cypress_7593/status/1955464473734680691/photo/1",
+              "media_key": "3_1955464467539693569",
+              "start": 15,
+              "url": "https://t.co/TyzaziSecz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955464473734680691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6219,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🤯🤯🤯🤯🤯遗传抑郁基因这一块 https://t.co/TyzaziSecz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 2165,
+          "like_count": 29269,
+          "listed_count": 8,
+          "media_count": 1345,
+          "tweet_count": 19719
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "【⚠️本账号随时可能被某🦊夺舍】INFJ 5w6（经常化身ISTP形态）|不是人类不说人话精神状态是量子叠加态|成分复杂关注请谨慎|分裂情感性精神病&阿斯伯格|无性恋&泛浪漫|误block致歉|看我不爽建议您去死捏|第二人格@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 112,
+                "username": "theDarkCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OyZXUu3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OyZXUu3",
+                "start": 0,
+                "url": "https://t.co/oROirNnIey"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANE】",
+        "pinned_tweet_id": "1953385277474664809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893603395346280448/j2VGmsv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 1072,
+          "like_count": 25531,
+          "listed_count": 5,
+          "media_count": 1035,
+          "tweet_count": 7179
+        },
+        "url": "https://t.co/oROirNnIey",
+        "username": "Cypress_7593",
+        "verified": true
+      }
+    ]
+  }
+}

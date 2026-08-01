@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1976583339902705723",
+    "created_at": "2025-10-10T09:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T10:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976585221278699835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1662058783215087617",
+          "start": 0,
+          "username": "HacchiTheMaid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976585221278699835",
+    "in_reply_to_user_id": "1662058783215087617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976583339902705723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HacchiTheMaid 唉有没有人能送我小牛奶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1976583319895891968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G248DptbYAAGvCM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1976583339902705723",
+        "created_at": "2025-10-10T09:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T10:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976585221278699835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1662058783215087617",
+              "start": 0,
+              "username": "HacchiTheMaid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976585221278699835",
+        "in_reply_to_user_id": "1662058783215087617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976583339902705723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HacchiTheMaid 唉有没有人能送我小牛奶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976583319895891968"
+          ]
+        },
+        "author_id": "1662058783215087617",
+        "conversation_id": "1976583339902705723",
+        "created_at": "2025-10-10T09:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T10:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976583339902705723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2NTZRiy49",
+              "end": 46,
+              "expanded_url": "https://x.com/HacchiTheMaid/status/1976583339902705723/photo/1",
+              "media_key": "3_1976583319895891968",
+              "start": 23,
+              "url": "https://t.co/J2NTZRiy49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976583339902705723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "友友送的牛奶！\n感谢chu9\nww，她超可爱 https://t.co/J2NTZRiy49"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 2286,
+          "like_count": 30242,
+          "listed_count": 10,
+          "media_count": 1389,
+          "tweet_count": 20150
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。狗狗@Sorsacerba 姐姐@emiya436900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "emiya436900"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi🏳️‍⚧️",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5832,
+          "following_count": 1936,
+          "like_count": 50734,
+          "listed_count": 12,
+          "media_count": 1063,
+          "tweet_count": 33018
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

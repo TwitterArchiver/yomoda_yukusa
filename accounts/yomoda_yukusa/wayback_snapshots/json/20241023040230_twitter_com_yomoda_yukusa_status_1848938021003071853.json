@@ -1,0 +1,160 @@
+{
+  "data": {
+    "author_id": "1547247978565423105",
+    "conversation_id": "1848938021003071853",
+    "created_at": "2024-10-23T04:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-23T05:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848938021003071853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "581317083",
+          "start": 3,
+          "username": "NdemicCreations"
+        }
+      ]
+    },
+    "id": "1848938021003071853",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20895
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848721327219147189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NdemicCreations: Official Plague Inc. Statement - we fully support the building of a new international airport in Greenland. #plagueinc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1547247978565423105",
+        "conversation_id": "1848938021003071853",
+        "created_at": "2024-10-23T04:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-23T05:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848938021003071853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "581317083",
+              "start": 3,
+              "username": "NdemicCreations"
+            }
+          ]
+        },
+        "id": "1848938021003071853",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20895
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848721327219147189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NdemicCreations: Official Plague Inc. Statement - we fully support the building of a new international airport in Greenland. #plagueinc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 2711,
+          "like_count": 26695,
+          "listed_count": 6,
+          "media_count": 1234,
+          "tweet_count": 18621
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-15T20:47:22.000Z",
+        "description": "(James & team) Creator of After Inc. , Rebel Inc. and Plague Inc, the smash hit #1 strategy game with over 190 Million Players!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ndemiccreations.com",
+                "end": 23,
+                "expanded_url": "http://www.ndemiccreations.com/",
+                "start": 0,
+                "url": "https://t.co/a4FUapfIax"
+              }
+            ]
+          }
+        },
+        "id": "581317083",
+        "location": "Bristol & London, UK",
+        "name": "After Inc. - Out now on Mobile!",
+        "pinned_tweet_id": "1861760636989968676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1439913576081379335/h6sNEfiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30396,
+          "following_count": 218,
+          "like_count": 1757,
+          "listed_count": 217,
+          "media_count": 1743,
+          "tweet_count": 19371
+        },
+        "url": "https://t.co/a4FUapfIax",
+        "username": "NdemicCreations",
+        "verified": false
+      }
+    ]
+  }
+}

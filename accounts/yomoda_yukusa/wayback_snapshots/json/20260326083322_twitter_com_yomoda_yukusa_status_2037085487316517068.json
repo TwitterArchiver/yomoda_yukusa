@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037085481071157248",
+        "3_2037085484154052609",
+        "3_2037085483629764609",
+        "3_2037085484141469698"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "2037085487316517068",
+    "created_at": "2026-03-26T08:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T09:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037085487316517068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4KsjCWRIiL",
+          "end": 130,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/2037085487316517068/photo/1",
+          "media_key": "3_2037085481071157248",
+          "start": 107,
+          "url": "https://t.co/4KsjCWRIiL"
+        },
+        {
+          "display_url": "pic.x.com/4KsjCWRIiL",
+          "end": 130,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/2037085487316517068/photo/1",
+          "media_key": "3_2037085484154052609",
+          "start": 107,
+          "url": "https://t.co/4KsjCWRIiL"
+        },
+        {
+          "display_url": "pic.x.com/4KsjCWRIiL",
+          "end": 130,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/2037085487316517068/photo/1",
+          "media_key": "3_2037085483629764609",
+          "start": 107,
+          "url": "https://t.co/4KsjCWRIiL"
+        },
+        {
+          "display_url": "pic.x.com/4KsjCWRIiL",
+          "end": 130,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/2037085487316517068/photo/1",
+          "media_key": "3_2037085484141469698",
+          "start": 107,
+          "url": "https://t.co/4KsjCWRIiL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037085487316517068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对不起，请给我钱。谢谢你，请给我钱。我需要钱，我需要很多钱，尽管我同时也知道其他人也需要钱但我还是希望大家可以给我一些钱。如果你给我钱，谢谢你选择我给我钱。或者给别人或者自己用也谢谢你。钱。谢谢，钱。\n“*”＝启 https://t.co/4KsjCWRIiL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_2037085481071157248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUuc7xaIAACO1C.jpg",
+        "width": 968
+      },
+      {
+        "height": 1420,
+        "media_key": "3_2037085484154052609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUudHQbYAENzkH.jpg",
+        "width": 1043
+      },
+      {
+        "height": 1620,
+        "media_key": "3_2037085483629764609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUudFTbYAEc4TW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2037085484141469698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUudHNbYAI3ypE.png",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037085481071157248",
+            "3_2037085484154052609",
+            "3_2037085483629764609",
+            "3_2037085484141469698"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "2037085487316517068",
+        "created_at": "2026-03-26T08:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037085487316517068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4KsjCWRIiL",
+              "end": 130,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2037085487316517068/photo/1",
+              "media_key": "3_2037085481071157248",
+              "start": 107,
+              "url": "https://t.co/4KsjCWRIiL"
+            },
+            {
+              "display_url": "pic.x.com/4KsjCWRIiL",
+              "end": 130,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2037085487316517068/photo/1",
+              "media_key": "3_2037085484154052609",
+              "start": 107,
+              "url": "https://t.co/4KsjCWRIiL"
+            },
+            {
+              "display_url": "pic.x.com/4KsjCWRIiL",
+              "end": 130,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2037085487316517068/photo/1",
+              "media_key": "3_2037085483629764609",
+              "start": 107,
+              "url": "https://t.co/4KsjCWRIiL"
+            },
+            {
+              "display_url": "pic.x.com/4KsjCWRIiL",
+              "end": 130,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2037085487316517068/photo/1",
+              "media_key": "3_2037085484141469698",
+              "start": 107,
+              "url": "https://t.co/4KsjCWRIiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037085487316517068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，请给我钱。谢谢你，请给我钱。我需要钱，我需要很多钱，尽管我同时也知道其他人也需要钱但我还是希望大家可以给我一些钱。如果你给我钱，谢谢你选择我给我钱。或者给别人或者自己用也谢谢你。钱。谢谢，钱。\n“*”＝启 https://t.co/4KsjCWRIiL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2838,
+          "following_count": 2381,
+          "like_count": 33405,
+          "listed_count": 9,
+          "media_count": 1594,
+          "tweet_count": 21844
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

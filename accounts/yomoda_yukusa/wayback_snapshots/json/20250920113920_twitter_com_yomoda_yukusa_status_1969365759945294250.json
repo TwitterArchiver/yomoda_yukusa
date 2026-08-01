@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1969359623439462597",
+    "created_at": "2025-09-20T11:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T12:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969365759945294250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1832834649493762048",
+          "start": 0,
+          "username": "1n_fhtagn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969365759945294250",
+    "in_reply_to_user_id": "1832834649493762048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969359623439462597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1n_fhtagn 你和茶是在一起吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1969359611192098822",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SSIdwbQAYkAXW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1969359623439462597",
+        "created_at": "2025-09-20T11:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T12:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969365759945294250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1832834649493762048",
+              "start": 0,
+              "username": "1n_fhtagn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969365759945294250",
+        "in_reply_to_user_id": "1832834649493762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969359623439462597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1n_fhtagn 你和茶是在一起吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969359611192098822"
+          ]
+        },
+        "author_id": "1832834649493762048",
+        "conversation_id": "1969359623439462597",
+        "created_at": "2025-09-20T11:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T12:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969359623439462597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y2rn3uvmEP",
+              "end": 47,
+              "expanded_url": "https://x.com/1n_fhtagn/status/1969359623439462597/photo/1",
+              "media_key": "3_1969359611192098822",
+              "start": 24,
+              "url": "https://t.co/Y2rn3uvmEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969359623439462597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "社团招新恩情课文之大祥老师精神指引超天酱向前进 https://t.co/Y2rn3uvmEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 2275,
+          "like_count": 29753,
+          "listed_count": 10,
+          "media_count": 1365,
+          "tweet_count": 19977
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T17:34:06.000Z",
+        "description": "受到致命伤害时持续使生命值不低于1，9秒后强制退出战场，开启技能后立即恢复所有生命；攻击力+330%，攻击距离+2，攻击目标数+3，生命上限+5000，逐渐失去生命（60秒后到达最大生命20%/秒）；持续时间无限",
+        "id": "1832834649493762048",
+        "name": "雪山葵",
+        "pinned_tweet_id": "1963264092254437775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907296465015459840/9ECT2Sd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3893,
+          "following_count": 1298,
+          "like_count": 31837,
+          "listed_count": 6,
+          "media_count": 3392,
+          "tweet_count": 15038
+        },
+        "username": "1n_fhtagn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933776622517432320"
+      ],
+      "media_source_tweet_id": [
+        "1933776625239535841"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1933980650962637001",
+    "created_at": "2025-06-14T20:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T21:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933980650962637001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "992551168944439296",
+          "start": 3,
+          "username": "pale_machine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qbsBOWhwsk",
+          "end": 68,
+          "expanded_url": "https://x.com/pale_machine/status/1933776625239535841/photo/1",
+          "media_key": "3_1933776622517432320",
+          "start": 45,
+          "url": "https://t.co/qbsBOWhwsk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933980650962637001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933776625239535841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pale_machine: 没有人问我但是只出现在我梦里的美好校园生活大概长这样 https://t.co/qbsBOWhwsk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1933776622517432320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtYnl7QbMAAfzce.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933776622517432320"
+          ],
+          "media_source_tweet_id": [
+            "1933776625239535841"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1933980650962637001",
+        "created_at": "2025-06-14T20:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T21:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933980650962637001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "992551168944439296",
+              "start": 3,
+              "username": "pale_machine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbsBOWhwsk",
+              "end": 68,
+              "expanded_url": "https://x.com/pale_machine/status/1933776625239535841/photo/1",
+              "media_key": "3_1933776622517432320",
+              "start": 45,
+              "url": "https://t.co/qbsBOWhwsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933980650962637001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933776625239535841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pale_machine: 没有人问我但是只出现在我梦里的美好校园生活大概长这样 https://t.co/qbsBOWhwsk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933776622517432320"
+          ]
+        },
+        "author_id": "992551168944439296",
+        "conversation_id": "1933776625239535841",
+        "created_at": "2025-06-14T06:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T07:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933776625239535841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbsBOWhwsk",
+              "end": 50,
+              "expanded_url": "https://x.com/pale_machine/status/1933776625239535841/photo/1",
+              "media_key": "3_1933776622517432320",
+              "start": 27,
+              "url": "https://t.co/qbsBOWhwsk"
+            },
+            {
+              "display_url": "x.com/pale_machine/s…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/pale_machine/status/1928931936816312449",
+              "start": 51,
+              "url": "https://t.co/3XllPcJHEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933776625239535841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1291,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928931936816312449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有人问我但是只出现在我梦里的美好校园生活大概长这样 https://t.co/qbsBOWhwsk https://t.co/3XllPcJHEv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2810,
+          "following_count": 2149,
+          "like_count": 28738,
+          "listed_count": 7,
+          "media_count": 1321,
+          "tweet_count": 19469
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-04T23:46:54.000Z",
+        "description": "",
+        "id": "992551168944439296",
+        "location": "⏻",
+        "name": "高中时那个辍学回家唱灵感菇的同学",
+        "pinned_tweet_id": "1899460463819121003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933216296214409223/PgnkGMYx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 822,
+          "like_count": 11190,
+          "listed_count": 4,
+          "media_count": 44,
+          "tweet_count": 250
+        },
+        "username": "pale_machine",
+        "verified": false
+      }
+    ]
+  }
+}

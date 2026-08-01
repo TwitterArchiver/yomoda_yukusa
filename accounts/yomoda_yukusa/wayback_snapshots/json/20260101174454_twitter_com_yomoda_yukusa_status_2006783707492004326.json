@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2006783707492004326",
+    "created_at": "2026-01-01T17:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T18:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006783707492004326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1354157392959660038",
+          "start": 3,
+          "username": "translate_cn"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love. It's where your interests connect you with your people.",
+          "display_url": "tumblr.com/blog/view/i-ne…",
+          "end": 119,
+          "expanded_url": "https://www.tumblr.com/blog/view/i-need-to-remake-my-blog/704308151397335040",
+          "start": 96,
+          "status": 200,
+          "title": "Tumblr",
+          "unwound_url": "https://www.tumblr.com/login_required/i-need-to-remake-my-blog",
+          "url": "https://t.co/uqrHZr6fs5"
+        },
+        {
+          "display_url": "t.co/JW",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/JW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006783707492004326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006542604981399566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @translate_cn: 我可以既“男性化”也“女性化”\n我可以既不“男性化”也不“女性化”\n我可以在任何一个篮筐里寻找能启发我的东西\n然后排列组合去塑造那个我想要的形象\n\n原文： https://t.co/uqrHZr6fs5\n翻译： https://t.co/JW…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2006542600518643712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ir3TKaMAADfMz.jpg",
+        "width": 1900
+      },
+      {
+        "height": 718,
+        "media_key": "3_2006542603035222016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ir3ciaIAABSD1.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2006783707492004326",
+        "created_at": "2026-01-01T17:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006783707492004326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1354157392959660038",
+              "start": 3,
+              "username": "translate_cn"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love. It's where your interests connect you with your people.",
+              "display_url": "tumblr.com/blog/view/i-ne…",
+              "end": 119,
+              "expanded_url": "https://www.tumblr.com/blog/view/i-need-to-remake-my-blog/704308151397335040",
+              "start": 96,
+              "status": 200,
+              "title": "Tumblr",
+              "unwound_url": "https://www.tumblr.com/login_required/i-need-to-remake-my-blog",
+              "url": "https://t.co/uqrHZr6fs5"
+            },
+            {
+              "display_url": "t.co/JW",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/JW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006783707492004326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006542604981399566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @translate_cn: 我可以既“男性化”也“女性化”\n我可以既不“男性化”也不“女性化”\n我可以在任何一个篮筐里寻找能启发我的东西\n然后排列组合去塑造那个我想要的形象\n\n原文： https://t.co/uqrHZr6fs5\n翻译： https://t.co/JW…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006542600518643712",
+            "3_2006542603035222016"
+          ]
+        },
+        "author_id": "1354157392959660038",
+        "conversation_id": "2006542604981399566",
+        "created_at": "2026-01-01T01:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T02:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006542604981399566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love. It's where your interests connect you with your people.",
+              "display_url": "tumblr.com/blog/view/i-ne…",
+              "end": 101,
+              "expanded_url": "https://www.tumblr.com/blog/view/i-need-to-remake-my-blog/704308151397335040",
+              "start": 78,
+              "status": 200,
+              "title": "Tumblr",
+              "unwound_url": "https://www.tumblr.com/login_required/i-need-to-remake-my-blog",
+              "url": "https://t.co/uqrHZr6fs5"
+            },
+            {
+              "description": "我意识到的事情中 对我人生改变最大的 是发现我不必在“男性化” 和“女性化”之间二选一 我可以既“男性化”也“女性化” 我可以既不“男性化”也不“女性化” 我可以在任何一个篮筐里寻找能启发我的东西 然后排列组合去塑造那个我想要的形象 这对我的人生真的很重要 因为只有放下那些没有意义的条条框框 我才能真正开始享受属于我的生活 source",
+              "display_url": "t.me/twitter_transl…",
+              "end": 129,
+              "expanded_url": "https://t.me/twitter_translate/30132",
+              "images": [
+                {
+                  "height": 180,
+                  "url": "https://pbs.twimg.com/news_img/2004639286868774912/aIniq_FP?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2004639286868774912/aIniq_FP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "推特翻译",
+              "unwound_url": "https://t.me/twitter_translate/30132",
+              "url": "https://t.co/JW1UCZG5Wf"
+            },
+            {
+              "display_url": "pic.x.com/UJTYzG1vCg",
+              "end": 153,
+              "expanded_url": "https://x.com/translate_cn/status/2006542604981399566/photo/1",
+              "media_key": "3_2006542600518643712",
+              "start": 130,
+              "url": "https://t.co/UJTYzG1vCg"
+            },
+            {
+              "display_url": "pic.x.com/UJTYzG1vCg",
+              "end": 153,
+              "expanded_url": "https://x.com/translate_cn/status/2006542604981399566/photo/1",
+              "media_key": "3_2006542603035222016",
+              "start": 130,
+              "url": "https://t.co/UJTYzG1vCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006542604981399566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 240,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我可以既“男性化”也“女性化”\n我可以既不“男性化”也不“女性化”\n我可以在任何一个篮筐里寻找能启发我的东西\n然后排列组合去塑造那个我想要的形象\n\n原文： https://t.co/uqrHZr6fs5\n翻译： https://t.co/JW1UCZG5Wf https://t.co/UJTYzG1vCg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2787,
+          "following_count": 2329,
+          "like_count": 31992,
+          "listed_count": 9,
+          "media_count": 1503,
+          "tweet_count": 21086
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T20:01:30.000Z",
+        "description": "这边是个人账号哦～ \n\n欢迎关注！欢迎贴贴！\n\n想要看我日常生活推的朋友请私信\n\n有意参与翻译的朋友请留言",
+        "id": "1354157392959660038",
+        "name": "推特翻译",
+        "pinned_tweet_id": "1856026041489498490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354668835484225540/azcPVoB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16171,
+          "following_count": 832,
+          "like_count": 939,
+          "listed_count": 93,
+          "media_count": 9467,
+          "tweet_count": 10054
+        },
+        "username": "translate_cn",
+        "verified": false
+      }
+    ]
+  }
+}

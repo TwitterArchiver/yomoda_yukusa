@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1917672492224885070",
+    "created_at": "2025-04-30T20:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T21:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917672492224885070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1487626553009721355",
+          "start": 3,
+          "username": "cyansoul2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917672492224885070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917671838953660489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cyansoul2: 想毁掉一切又一直在试着和别人创造联系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1917672492224885070",
+        "created_at": "2025-04-30T20:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T21:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917672492224885070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1487626553009721355",
+              "start": 3,
+              "username": "cyansoul2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917672492224885070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917671838953660489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cyansoul2: 想毁掉一切又一直在试着和别人创造联系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487626553009721355",
+        "conversation_id": "1917671838953660489",
+        "created_at": "2025-04-30T20:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T21:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917671838953660489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917671838953660489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想毁掉一切又一直在试着和别人创造联系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 2853,
+          "like_count": 27674,
+          "listed_count": 7,
+          "media_count": 1279,
+          "tweet_count": 19120
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T03:19:50.000Z",
+        "description": "mtx/HRT 2025.2.6/高中休学中/术曲爱好者/音游人/负能注意❗️❗️❗️/极度孤独/交友大欢迎/可以叫我青兰/里账@Shaky0721/对象@GuiMengNya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Shaky0721"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "GuiMengNya"
+              }
+            ]
+          }
+        },
+        "id": "1487626553009721355",
+        "location": "泡泡",
+        "name": "cyansoul01号机",
+        "pinned_tweet_id": "1811578546256855100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907417643147202560/-zpJysBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 1090,
+          "like_count": 16251,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 4762
+        },
+        "username": "cyansoul2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1856366946780111339",
+    "created_at": "2024-11-14T09:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T10:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856987866653757463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1527630932370661376",
+          "start": 0,
+          "username": "yuerMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856987866653757463",
+    "in_reply_to_user_id": "1527630932370661376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856366946780111339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuerMTF 找工作……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1856366946780111339",
+        "created_at": "2024-11-14T09:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T10:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856987866653757463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1527630932370661376",
+              "start": 0,
+              "username": "yuerMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856987866653757463",
+        "in_reply_to_user_id": "1527630932370661376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856366946780111339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerMTF 找工作……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527630932370661376",
+        "conversation_id": "1856366946780111339",
+        "created_at": "2024-11-12T16:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T17:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856366946780111339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856366946780111339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 549,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好希望快点找到工作，现在我想还钱都没钱啊，唉…，而且我有对象也不能出去赚快钱，我怎么说也要对我对象负责，压力好大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2756,
+          "following_count": 2715,
+          "like_count": 26694,
+          "listed_count": 6,
+          "tweet_count": 18561
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T12:43:20.000Z",
+        "description": "我叫羽儿，被叫姐姐妹妹会开心，友跨顺女（再问带把），les/Maso/INFP，喜欢cosplay，喜欢汉服，偶像@MTF_yuer，闺蜜@nigheron。 有对象!勿扰!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "MTF_yuer"
+              },
+              {
+                "end": 78,
+                "start": 69,
+                "username": "nigheron"
+              }
+            ]
+          }
+        },
+        "id": "1527630932370661376",
+        "location": "馨儿老婆怀里",
+        "name": "🏳️‍🌈羽儿（YuR）🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1831950957665735063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850938702958403584/Ly-Mb4Vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3524,
+          "following_count": 1616,
+          "like_count": 8317,
+          "listed_count": 15,
+          "tweet_count": 3567
+        },
+        "username": "yuerMTF",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2042909987937357909",
+    "created_at": "2026-04-11T10:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042909987937357909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1452123941686976519",
+          "start": 3,
+          "username": "C21Koy_7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042909987937357909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042283640688951740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C21Koy_7c: 我爸爸妈妈这个月可能不给我零花钱了\n说我欠了拔智齿的钱我乱吃乱喝才长歪的\n还说我眼镜丢了我的错\n我爸爸要我妈妈还舅舅女儿偷偷拿我爸爸信用卡充了五千\n我妈妈要我爸爸还猫咪丢失寻找费\n而且都是通过我告诉对方\n他们说这个月我没钱了\n我没钱买药 买喝的 买…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2042283622594723841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFemIl9bQAEGemB.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2042909987937357909",
+        "created_at": "2026-04-11T10:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042909987937357909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1452123941686976519",
+              "start": 3,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042909987937357909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042283640688951740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C21Koy_7c: 我爸爸妈妈这个月可能不给我零花钱了\n说我欠了拔智齿的钱我乱吃乱喝才长歪的\n还说我眼镜丢了我的错\n我爸爸要我妈妈还舅舅女儿偷偷拿我爸爸信用卡充了五千\n我妈妈要我爸爸还猫咪丢失寻找费\n而且都是通过我告诉对方\n他们说这个月我没钱了\n我没钱买药 买喝的 买…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042283622594723841"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "2042283640688951740",
+        "created_at": "2026-04-09T16:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042283640688951740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyNH9QJXRR",
+              "end": 154,
+              "expanded_url": "https://x.com/C21Koy_7c/status/2042283640688951740/photo/1",
+              "media_key": "3_2042283622594723841",
+              "start": 131,
+              "url": "https://t.co/QyNH9QJXRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042283640688951740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 445,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我爸爸妈妈这个月可能不给我零花钱了\n说我欠了拔智齿的钱我乱吃乱喝才长歪的\n还说我眼镜丢了我的错\n我爸爸要我妈妈还舅舅女儿偷偷拿我爸爸信用卡充了五千\n我妈妈要我爸爸还猫咪丢失寻找费\n而且都是通过我告诉对方\n他们说这个月我没钱了\n我没钱买药 买喝的 买补剂\n对不起 https://t.co/QyNH9QJXRR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2810,
+          "following_count": 2379,
+          "like_count": 33542,
+          "listed_count": 9,
+          "media_count": 1612,
+          "tweet_count": 21986
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038429861929496576/5PTvrZa3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 3405,
+          "like_count": 30058,
+          "listed_count": 5,
+          "media_count": 2148,
+          "tweet_count": 28303
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1969339156665974972",
+    "created_at": "2025-09-20T10:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T11:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969349781597155371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865419581206208512",
+          "start": 0,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969349781597155371",
+    "in_reply_to_user_id": "1865419581206208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969339156665974972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDzhanshou5150 没有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1969339149154205696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1R_haubQAAWkSe.png",
+        "width": 686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1969339156665974972",
+        "created_at": "2025-09-20T10:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T11:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969349781597155371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969349781597155371",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969339156665974972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 没有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969339149154205696"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1969339156665974972",
+        "created_at": "2025-09-20T09:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T10:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969339156665974972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/udbVkml7lE",
+              "end": 25,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1969339156665974972/photo/1",
+              "media_key": "3_1969339149154205696",
+              "start": 2,
+              "url": "https://t.co/udbVkml7lE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969339156665974972",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "? https://t.co/udbVkml7lE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2789,
+          "following_count": 2276,
+          "like_count": 29743,
+          "listed_count": 10,
+          "media_count": 1365,
+          "tweet_count": 19971
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7012,
+          "following_count": 6508,
+          "like_count": 22974,
+          "listed_count": 15,
+          "media_count": 4768,
+          "tweet_count": 33175
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1976193747395465712",
+    "created_at": "2025-11-07T14:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T15:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986796080659628215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1385212581342683139",
+          "start": 0,
+          "username": "SKYEN20011217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986796080659628215",
+    "in_reply_to_user_id": "1385212581342683139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986795899667010051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SKYEN20011217 要换一天吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1976193747395465712",
+        "created_at": "2025-11-07T14:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T15:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986796080659628215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1385212581342683139",
+              "start": 0,
+              "username": "SKYEN20011217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986796080659628215",
+        "in_reply_to_user_id": "1385212581342683139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986795899667010051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SKYEN20011217 要换一天吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385212581342683139",
+        "conversation_id": "1976193747395465712",
+        "created_at": "2025-11-07T14:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T15:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986795899667010051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986795899667010051",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986794987963777320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 哈哈哈哈，好可惜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984486210988089345/XvAXq227_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 2331,
+          "like_count": 30938,
+          "listed_count": 10,
+          "media_count": 1420,
+          "tweet_count": 20467
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T12:43:22.000Z",
+        "description": "也許是這樣子吧？身處的世界不同\n那顆最深處的本能也不會是一樣的；\n因此通過鮮血的交流，才能知道那些事",
+        "id": "1385212581342683139",
+        "location": "Taiwan",
+        "name": "齋椧",
+        "pinned_tweet_id": "1986095859843633294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983347758200508416/SQRKavGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 233,
+          "like_count": 2948,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1678
+        },
+        "username": "SKYEN20011217",
+        "verified": false
+      }
+    ]
+  }
+}

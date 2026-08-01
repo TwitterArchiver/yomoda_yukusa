@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1835760755448143996",
+    "created_at": "2024-09-16T19:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T20:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835769650594128109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452161302118363142",
+          "start": 0,
+          "username": "haimianxz"
+        },
+        {
+          "end": 21,
+          "id": "1779154402588172288",
+          "start": 11,
+          "username": "_Nikisade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835769650594128109",
+    "in_reply_to_user_id": "1452161302118363142",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835769165711348062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haimianxz @_Nikisade 啊哈……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1835760755448143996",
+        "created_at": "2024-09-16T19:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T20:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835769650594128109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452161302118363142",
+              "start": 0,
+              "username": "haimianxz"
+            },
+            {
+              "end": 21,
+              "id": "1779154402588172288",
+              "start": 11,
+              "username": "_Nikisade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835769650594128109",
+        "in_reply_to_user_id": "1452161302118363142",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835769165711348062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haimianxz @_Nikisade 啊哈……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452161302118363142",
+        "conversation_id": "1835760755448143996",
+        "created_at": "2024-09-16T19:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T20:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835769165711348062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779154402588172288",
+              "start": 0,
+              "username": "_Nikisade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835769165711348062",
+        "in_reply_to_user_id": "1779154402588172288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835760755448143996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Nikisade 屁吧，药娘不是在吸毒就是在自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2719,
+          "following_count": 2592,
+          "like_count": 26308,
+          "listed_count": 7,
+          "tweet_count": 18212
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T06:33:42.000Z",
+        "description": "画中世界的燃料已经烧尽，洛斯里克的高墙即将倒塌。奴隶举起骑士的剑，望眼欲穿群山之顶的王。吸干所有污秽的恶鬼，终是无路成佛，唯有死神永生。听到了嘛？只有死神永生。钟声再度响起之时，死神也会收获满仓，而无名王者也会归来。",
+        "id": "1452161302118363142",
+        "location": "Toronto, Ontario",
+        "name": "Mr.Meeseeks!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632870152424370182/RXnMKNkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 643,
+          "like_count": 6302,
+          "listed_count": 1,
+          "tweet_count": 1309
+        },
+        "username": "haimianxz",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:35:04.000Z",
+        "description": "等我死掉，你就会拥有独一无二的阴雨天娃娃。",
+        "id": "1779154402588172288",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空",
+        "pinned_tweet_id": "1828873920969355779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832269651679817728/C84bWT2o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 330,
+          "like_count": 66576,
+          "listed_count": 4,
+          "tweet_count": 11455
+        },
+        "username": "_Nikisade",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1912875335693246666",
+    "created_at": "2025-04-17T14:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T15:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912875335693246666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1788485889225834496",
+          "start": 3,
+          "username": "_temryava"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912875335693246666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912743512669581730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_temryava: “为什么有人想过跳楼、上吊，但没有想过\n退学？\n比如有人说，我要离开世界，就去上吊、跳楼。还有人选择退出所处的国家、党派、单位、战队。但是鲜有听说，我心情不好，想退学？？？”\n\n这个问题很奇怪，但我很好奇推上退学的朋友们退学后怎么样了 https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 565,
+        "media_key": "3_1912743499306565632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GotuFBabAAAkK0y.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1912875335693246666",
+        "created_at": "2025-04-17T14:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T15:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912875335693246666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1788485889225834496",
+              "start": 3,
+              "username": "_temryava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912875335693246666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912743512669581730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_temryava: “为什么有人想过跳楼、上吊，但没有想过\n退学？\n比如有人说，我要离开世界，就去上吊、跳楼。还有人选择退出所处的国家、党派、单位、战队。但是鲜有听说，我心情不好，想退学？？？”\n\n这个问题很奇怪，但我很好奇推上退学的朋友们退学后怎么样了 https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912743499306565632"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1912743512669581730",
+        "created_at": "2025-04-17T05:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T06:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912743512669581730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ko3Iqzhdeh",
+              "end": 141,
+              "expanded_url": "https://x.com/_temryava/status/1912743512669581730/photo/1",
+              "media_key": "3_1912743499306565632",
+              "start": 118,
+              "url": "https://t.co/ko3Iqzhdeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912743512669581730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 18321,
+          "like_count": 275,
+          "quote_count": 8,
+          "reply_count": 59,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "“为什么有人想过跳楼、上吊，但没有想过\n退学？\n比如有人说，我要离开世界，就去上吊、跳楼。还有人选择退出所处的国家、党派、单位、战队。但是鲜有听说，我心情不好，想退学？？？”\n\n这个问题很奇怪，但我很好奇推上退学的朋友们退学后怎么样了 https://t.co/ko3Iqzhdeh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2758,
+          "following_count": 2816,
+          "like_count": 27467,
+          "listed_count": 7,
+          "media_count": 1276,
+          "tweet_count": 19045
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "结论：患者的评估表现SA 得分8分进入autism spectrum 诊断界限值（7分），请结合临床。2025.4.16",
+        "id": "1788485889225834496",
+        "name": "Сонячна система",
+        "pinned_tweet_id": "1912730557395706318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910268710117675008/TifD1yiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2849,
+          "following_count": 1863,
+          "like_count": 15073,
+          "listed_count": 5,
+          "media_count": 229,
+          "tweet_count": 6546
+        },
+        "username": "_temryava",
+        "verified": false
+      }
+    ]
+  }
+}

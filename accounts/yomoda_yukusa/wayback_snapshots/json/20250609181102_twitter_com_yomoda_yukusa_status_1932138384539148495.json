@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1932138384539148495",
+    "created_at": "2025-06-09T18:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T19:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932138384539148495"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932138384539148495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不想上班 我可以工作 但是不上班 不想接受自己的时间被控制 不想每天睡觉之前都想着第二天要去准时去做自己不想做的事情 不想永远在这个房间里这条地铁线上 不想一辈子至少十几年几十年困在一家小店里 不想每天只做那些事情之后什么都没有精力 这不是很可怕吗 这不是很可怕吗 这不是很可怕吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1932138384539148495",
+        "created_at": "2025-06-09T18:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T19:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932138384539148495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932138384539148495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想上班 我可以工作 但是不上班 不想接受自己的时间被控制 不想每天睡觉之前都想着第二天要去准时去做自己不想做的事情 不想永远在这个房间里这条地铁线上 不想一辈子至少十几年几十年困在一家小店里 不想每天只做那些事情之后什么都没有精力 这不是很可怕吗 这不是很可怕吗 这不是很可怕吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2809,
+          "following_count": 2139,
+          "like_count": 28730,
+          "listed_count": 7,
+          "media_count": 1319,
+          "tweet_count": 19456
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1945942075599355949",
+    "created_at": "2025-07-17T20:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T21:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945942075599355949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1940622242381262848",
+          "start": 3,
+          "username": "AypashabintDan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945942075599355949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945927702579642457",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AypashabintDan: 我要创立一个国家，在这个国家，取消3.5mm耳机孔的企业会被罚款2000亿美金，主要负责人会被以反人类罪判处350年有期徒刑，在全球任何一个地方保留这一行为均可被长臂管辖。并且会对是否要对不可拆卸电池等行为采取t相等措施做研究。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1945942075599355949",
+        "created_at": "2025-07-17T20:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T21:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945942075599355949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1940622242381262848",
+              "start": 3,
+              "username": "AypashabintDan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945942075599355949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945927702579642457",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AypashabintDan: 我要创立一个国家，在这个国家，取消3.5mm耳机孔的企业会被罚款2000亿美金，主要负责人会被以反人类罪判处350年有期徒刑，在全球任何一个地方保留这一行为均可被长臂管辖。并且会对是否要对不可拆卸电池等行为采取t相等措施做研究。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940622242381262848",
+        "conversation_id": "1945927702579642457",
+        "created_at": "2025-07-17T19:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T20:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945927702579642457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945927702579642457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我要创立一个国家，在这个国家，取消3.5mm耳机孔的企业会被罚款2000亿美金，主要负责人会被以反人类罪判处350年有期徒刑，在全球任何一个地方保留这一行为均可被长臂管辖。并且会对是否要对不可拆卸电池等行为采取t相等措施做研究。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2795,
+          "following_count": 2160,
+          "like_count": 29402,
+          "listed_count": 7,
+          "media_count": 1343,
+          "tweet_count": 19688
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T04:03:08.000Z",
+        "description": "初九潜龙勿用\n\n我在一切处",
+        "id": "1940622242381262848",
+        "name": "Aypasha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940622314040971265/UC3cjKyu_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 22,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 37
+        },
+        "username": "AypashabintDan",
+        "verified": false
+      }
+    ]
+  }
+}

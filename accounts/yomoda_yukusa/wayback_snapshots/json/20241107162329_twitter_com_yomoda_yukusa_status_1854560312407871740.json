@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1854542712160313754",
+    "created_at": "2024-11-07T16:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T17:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854560312407871740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "JR_YamanoteE235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854560312407871740",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "ht",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854542712160313754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JR_YamanoteE235 Say byebye"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1854542712160313754].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1854542712160313754",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1854542712160313754"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1854542712160313754",
+        "created_at": "2024-11-07T16:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T17:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854560312407871740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "JR_YamanoteE235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854560312407871740",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "ht",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854542712160313754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JR_YamanoteE235 Say byebye"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2760,
+          "following_count": 2710,
+          "like_count": 26567,
+          "listed_count": 6,
+          "tweet_count": 18530
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "牡丹は散っても花だ 夏が去っても追慕は切だ",
+        "id": "1688233455363219456",
+        "name": "JR東日本E235系電車 山手線",
+        "pinned_tweet_id": "1850524863343288383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849373688258576384/cmk7PSGT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 1082,
+          "like_count": 131526,
+          "listed_count": 3,
+          "tweet_count": 24679
+        },
+        "username": "JR_YamanoteE235",
+        "verified": false
+      }
+    ]
+  }
+}

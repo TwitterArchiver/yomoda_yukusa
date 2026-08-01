@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1861265793134059661",
+    "created_at": "2024-12-18T00:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T01:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869175056653566195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1652757998995927043",
+          "start": 0,
+          "username": "Strv_122_B_PLSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869175056653566195",
+    "in_reply_to_user_id": "1652757998995927043",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861265793134059661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strv_122_B_PLSS 那麼如何使以上方法失效呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1861265793134059661",
+        "created_at": "2024-12-18T00:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T01:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869175056653566195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1652757998995927043",
+              "start": 0,
+              "username": "Strv_122_B_PLSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869175056653566195",
+        "in_reply_to_user_id": "1652757998995927043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861265793134059661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strv_122_B_PLSS 那麼如何使以上方法失效呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652757998995927043",
+        "conversation_id": "1861265793134059661",
+        "created_at": "2024-11-26T04:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T05:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861265793134059661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861265793134059661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1933,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "亚硝酸钠抢救要点：\n洗胃液：清水/微温水\n1:5000 高锰酸钾溶液：可用\n1%～2% 碳酸氢钠溶液：不用\n导泻剂：硫酸钠\n抢救用药：输液，用 1% 亚甲蓝 5～25ml 静脉滴注，2h 后可重复一次，输液剂可加大量维生素 C\n对症处理：必要时吸氧及给于中枢兴奋药\n并发症处理：重者输血"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2750,
+          "following_count": 2721,
+          "like_count": 26769,
+          "listed_count": 6,
+          "media_count": 1238,
+          "tweet_count": 18668
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T19:33:16.000Z",
+        "description": "Strv 122主战坦克（Stridsvagn 122）是瑞典的主战坦克，与德国豹2A5一样，以德国豹2改进型为基础，运用了指挥、控制和火控系统和强化装甲等新技术。从外观上看，该车与豹2A5的区别在于法制GALIX烟雾弹发射器、不同的储物箱和较厚的乘员舱口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se",
+                "start": 0,
+                "url": "https://t.co/QNeewOQ6E2"
+              }
+            ]
+          }
+        },
+        "id": "1652757998995927043",
+        "location": "［战区控制］瑞典 D 点",
+        "name": "Stridsvagn 122 Panoramautsikt Låg Signature System",
+        "pinned_tweet_id": "1860954183647773150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824048793278705664/gjVV_jOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2833,
+          "following_count": 5255,
+          "like_count": 133820,
+          "listed_count": 1,
+          "media_count": 1091,
+          "tweet_count": 3604
+        },
+        "url": "https://t.co/QNeewOQ6E2",
+        "username": "Strv_122_B_PLSS",
+        "verified": false
+      }
+    ]
+  }
+}

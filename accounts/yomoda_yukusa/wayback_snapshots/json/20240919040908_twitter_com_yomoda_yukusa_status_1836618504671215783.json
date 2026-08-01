@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1836614377556054318",
+    "created_at": "2024-09-19T04:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T05:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836618504671215783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1419743405697949696",
+          "start": 0,
+          "username": "Lizeroxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836618504671215783",
+    "in_reply_to_user_id": "1419743405697949696",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836618122914419105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lizeroxy 恭喜哦，好好享受這一天吧~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1836614377556054318",
+        "created_at": "2024-09-19T04:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T05:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836618504671215783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1419743405697949696",
+              "start": 0,
+              "username": "Lizeroxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836618504671215783",
+        "in_reply_to_user_id": "1419743405697949696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836618122914419105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lizeroxy 恭喜哦，好好享受這一天吧~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419743405697949696",
+        "conversation_id": "1836614377556054318",
+        "created_at": "2024-09-19T04:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T05:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836618122914419105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836618122914419105",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836614377556054318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 今天是一周中课最少的一天！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2720,
+          "following_count": 2600,
+          "like_count": 26334,
+          "listed_count": 7,
+          "tweet_count": 18226
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T19:36:40.000Z",
+        "description": "04|♂（M NO F） 社恐，不善言辞与社交。我是个烂人，如果打扰了大家，或者惹各位心烦，我很抱歉。 愛--@OvO_mmt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 55,
+                "username": "OvO_mmt"
+              }
+            ]
+          }
+        },
+        "id": "1419743405697949696",
+        "location": "空白小屋",
+        "name": "仟流",
+        "pinned_tweet_id": "1725185829155537239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768868990288629760/iAwlH211_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 1468,
+          "like_count": 79806,
+          "listed_count": 0,
+          "tweet_count": 5772
+        },
+        "username": "Lizeroxy",
+        "verified": false
+      }
+    ]
+  }
+}

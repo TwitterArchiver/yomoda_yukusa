@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1924880369922539756",
+    "created_at": "2025-05-20T17:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T18:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924881263913271434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1836276354041495553",
+          "start": 0,
+          "username": "CABR_Lies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924881263913271434",
+    "in_reply_to_user_id": "1836276354041495553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924880369922539756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CABR_Lies 可以诅咒我么"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1924880369922539756].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1924880369922539756",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1924880369922539756"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1924880369922539756",
+        "created_at": "2025-05-20T17:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T18:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924881263913271434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1836276354041495553",
+              "start": 0,
+              "username": "CABR_Lies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924881263913271434",
+        "in_reply_to_user_id": "1836276354041495553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924880369922539756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CABR_Lies 可以诅咒我么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 2101,
+          "like_count": 28331,
+          "listed_count": 7,
+          "media_count": 1296,
+          "tweet_count": 19293
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低智商低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt 我是DizzyRichter可以叫我毒枭｜he/them｜𝑳𝒐𝒗𝒆 𝑳𝒊𝒌𝒆 𝑹𝒐𝒄𝒌 𝑹𝒐𝒍𝒍｜爱之女巫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "shtwt"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/Esh7BcF",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/Esh7BcF",
+                "start": 0,
+                "url": "https://t.co/sFJNxGTC50"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝔻𝕚𝕫𝕫𝕪ℙ𝕚𝕟𝕜𝔾𝕚𝕟",
+        "pinned_tweet_id": "1917923917450367350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924875806435848192/PWfTsPxD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1737,
+          "following_count": 108,
+          "like_count": 20573,
+          "listed_count": 2,
+          "media_count": 640,
+          "tweet_count": 10551
+        },
+        "url": "https://t.co/sFJNxGTC50",
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1960823025240018944"
+      ],
+      "media_source_tweet_id": [
+        "1960823041883299893"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1961052766178267297",
+    "created_at": "2025-08-28T13:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T14:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961052766178267297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777754630375567361",
+          "start": 3,
+          "username": "illmemorialx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xwLtwCs723",
+          "end": 41,
+          "expanded_url": "https://x.com/illmemorialx/status/1960823041883299893/photo/1",
+          "media_key": "16_1960823025240018944",
+          "start": 18,
+          "url": "https://t.co/xwLtwCs723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961052766178267297",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 835
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960823041883299893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @illmemorialx: https://t.co/xwLtwCs723"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 304,
+        "media_key": "16_1960823025240018944",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GzY-Jw7WkAACx6_.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GzY-Jw7WkAACx6_.mp4"
+          }
+        ],
+        "width": 404
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1960823025240018944"
+          ],
+          "media_source_tweet_id": [
+            "1960823041883299893"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1961052766178267297",
+        "created_at": "2025-08-28T13:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T14:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961052766178267297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777754630375567361",
+              "start": 3,
+              "username": "illmemorialx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xwLtwCs723",
+              "end": 41,
+              "expanded_url": "https://x.com/illmemorialx/status/1960823041883299893/photo/1",
+              "media_key": "16_1960823025240018944",
+              "start": 18,
+              "url": "https://t.co/xwLtwCs723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961052766178267297",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 835
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960823041883299893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @illmemorialx: https://t.co/xwLtwCs723"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1960823025240018944"
+          ]
+        },
+        "author_id": "1777754630375567361",
+        "conversation_id": "1960823041883299893",
+        "created_at": "2025-08-27T21:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T22:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960823041883299893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xwLtwCs723",
+              "end": 23,
+              "expanded_url": "https://x.com/illmemorialx/status/1960823041883299893/photo/1",
+              "media_key": "16_1960823025240018944",
+              "start": 0,
+              "url": "https://t.co/xwLtwCs723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960823041883299893",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 633,
+          "impression_count": 80148,
+          "like_count": 3852,
+          "quote_count": 82,
+          "reply_count": 11,
+          "retweet_count": 835
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xwLtwCs723"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 2204,
+          "like_count": 29493,
+          "listed_count": 9,
+          "media_count": 1357,
+          "tweet_count": 19836
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T17:45:28.000Z",
+        "description": "all is fake / art purposes / dm for credits, removal or promo",
+        "id": "1777754630375567361",
+        "name": "ethereal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777756088303009792/4mT3k-1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44301,
+          "following_count": 7074,
+          "like_count": 126,
+          "listed_count": 73,
+          "media_count": 1083,
+          "tweet_count": 1973
+        },
+        "username": "illmemorialx",
+        "verified": true
+      }
+    ]
+  }
+}

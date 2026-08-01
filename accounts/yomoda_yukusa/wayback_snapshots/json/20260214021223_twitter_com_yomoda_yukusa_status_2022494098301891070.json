@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020357447966502912"
+      ],
+      "media_source_tweet_id": [
+        "2020357450864685515"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "2022494098301891070",
+    "created_at": "2026-02-14T02:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T03:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022494098301891070"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "千夜",
+          "probability": 0.5513,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 21,
+          "tag": "NOeSIS"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1660583595055157249",
+          "start": 3,
+          "username": "polpol096524"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hFjttsW6Qb",
+          "end": 52,
+          "expanded_url": "https://x.com/polpol096524/status/2020357450864685515/photo/1",
+          "media_key": "3_2020357447966502912",
+          "start": 29,
+          "url": "https://t.co/hFjttsW6Qb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022494098301891070",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020357450864685515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @polpol096524: 千夜\n#NOeSIS https://t.co/hFjttsW6Qb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020357447966502912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnAZQVbsAA5En7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020357447966502912"
+          ],
+          "media_source_tweet_id": [
+            "2020357450864685515"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "2022494098301891070",
+        "created_at": "2026-02-14T02:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T03:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022494098301891070"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "千夜",
+              "probability": 0.5513,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "NOeSIS"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1660583595055157249",
+              "start": 3,
+              "username": "polpol096524"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hFjttsW6Qb",
+              "end": 52,
+              "expanded_url": "https://x.com/polpol096524/status/2020357450864685515/photo/1",
+              "media_key": "3_2020357447966502912",
+              "start": 29,
+              "url": "https://t.co/hFjttsW6Qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022494098301891070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020357450864685515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @polpol096524: 千夜\n#NOeSIS https://t.co/hFjttsW6Qb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020357447966502912"
+          ]
+        },
+        "author_id": "1660583595055157249",
+        "conversation_id": "2020357450864685515",
+        "created_at": "2026-02-08T04:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T05:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020357450864685515"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "千夜",
+              "probability": 0.467,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 3,
+              "tag": "NOeSIS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hFjttsW6Qb",
+              "end": 34,
+              "expanded_url": "https://x.com/polpol096524/status/2020357450864685515/photo/1",
+              "media_key": "3_2020357447966502912",
+              "start": 11,
+              "url": "https://t.co/hFjttsW6Qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020357450864685515",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 630,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "千夜\n#NOeSIS https://t.co/hFjttsW6Qb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2827,
+          "following_count": 2374,
+          "like_count": 33141,
+          "listed_count": 9,
+          "media_count": 1554,
+          "tweet_count": 21538
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T09:49:41.000Z",
+        "description": "学マスのことしか話さなくなった人。あとたまに絵を描く人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/93344977",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/93344977",
+                "start": 0,
+                "url": "https://t.co/HOgftEVPB2"
+              }
+            ]
+          }
+        },
+        "id": "1660583595055157249",
+        "name": "ぽるぽる².P",
+        "pinned_tweet_id": "1969737728930783676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957425805719638016/7xmidG2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 238,
+          "like_count": 10584,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 4126
+        },
+        "url": "https://t.co/HOgftEVPB2",
+        "username": "polpol096524",
+        "verified": false
+      }
+    ]
+  }
+}

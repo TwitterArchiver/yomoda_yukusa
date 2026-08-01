@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032828538894823426"
+      ],
+      "media_source_tweet_id": [
+        "2032828635653214543"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "2033453512588411194",
+    "created_at": "2026-03-16T08:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T09:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033453512588411194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1663729897062412288",
+          "start": 3,
+          "username": "nejimagari__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zfZ532Vg7i",
+          "end": 48,
+          "expanded_url": "https://x.com/nejimagari__/status/2032828635653214543/photo/1",
+          "media_key": "3_2032828538894823426",
+          "start": 25,
+          "url": "https://t.co/zfZ532Vg7i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033453512588411194",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032828635653214543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nejimagari__: ブロン擬人化 https://t.co/zfZ532Vg7i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1788,
+        "media_key": "3_2032828538894823426",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYOySYaMAIUls8.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032828538894823426"
+          ],
+          "media_source_tweet_id": [
+            "2032828635653214543"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "2033453512588411194",
+        "created_at": "2026-03-16T08:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033453512588411194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1663729897062412288",
+              "start": 3,
+              "username": "nejimagari__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfZ532Vg7i",
+              "end": 48,
+              "expanded_url": "https://x.com/nejimagari__/status/2032828635653214543/photo/1",
+              "media_key": "3_2032828538894823426",
+              "start": 25,
+              "url": "https://t.co/zfZ532Vg7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033453512588411194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032828635653214543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nejimagari__: ブロン擬人化 https://t.co/zfZ532Vg7i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032828538894823426"
+          ]
+        },
+        "author_id": "1663729897062412288",
+        "conversation_id": "2032828635653214543",
+        "created_at": "2026-03-14T14:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032828635653214543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfZ532Vg7i",
+              "end": 30,
+              "expanded_url": "https://x.com/nejimagari__/status/2032828635653214543/photo/1",
+              "media_key": "3_2032828538894823426",
+              "start": 7,
+              "url": "https://t.co/zfZ532Vg7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032828635653214543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 10992,
+          "like_count": 813,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "ブロン擬人化 https://t.co/zfZ532Vg7i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2826,
+          "following_count": 2376,
+          "like_count": 33297,
+          "listed_count": 9,
+          "media_count": 1576,
+          "tweet_count": 21754
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T02:11:42.000Z",
+        "description": "孤独と不幸に処方箋を。 虚無感を抱えて今日を延命。　♡@iseka___i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "iseka___i"
+              }
+            ]
+          }
+        },
+        "id": "1663729897062412288",
+        "location": "インターネットの端っこ",
+        "name": "ねじまがり",
+        "pinned_tweet_id": "1909150367247429854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004680587748204545/3C6nRr1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 399,
+          "like_count": 4148,
+          "listed_count": 3,
+          "media_count": 531,
+          "tweet_count": 1858
+        },
+        "username": "nejimagari__",
+        "verified": false
+      }
+    ]
+  }
+}

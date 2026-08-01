@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1838397579438231552",
+        "3_1838397581313085444"
+      ],
+      "media_source_tweet_id": [
+        "1838397613814747608",
+        "1838397613814747608"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1838397857273086129",
+    "created_at": "2024-09-24T01:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T02:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838397857273086129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1708398562646896640",
+          "start": 3,
+          "username": "Ganlongyu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4a5zyo8yhp",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Ganlongyu_/status/1838397613814747608/video/1",
+          "media_key": "7_1838397579438231552",
+          "start": 49,
+          "url": "https://t.co/4A5zyo8yHp"
+        },
+        {
+          "display_url": "pic.x.com/4a5zyo8yhp",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Ganlongyu_/status/1838397613814747608/video/1",
+          "media_key": "3_1838397581313085444",
+          "start": 49,
+          "url": "https://t.co/4A5zyo8yHp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838397857273086129",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838397613814747608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ganlongyu_: od小子现状be like：\n我药效呢？\n我药效呢？\n我药效呢？ https://t.co/4A5zyo8yHp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15933,
+        "height": 720,
+        "media_key": "7_1838397579438231552",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1838397579438231552/pu/img/4sx50BXsP2shkwEn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1838397579438231552/pu/vid/avc1/480x270/5GQD3rSxHpVb-1C7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1838397579438231552/pu/vid/avc1/640x360/jGgpq6htCFl0UXfq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1838397579438231552/pu/vid/avc1/1280x720/-RO1EGkRvwb_Z02l.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1838397579438231552/pu/pl/Ejef9A0qtYeznY2U.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1838397581313085444",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYNM3CYakAQMFFe.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1838397579438231552",
+            "3_1838397581313085444"
+          ],
+          "media_source_tweet_id": [
+            "1838397613814747608",
+            "1838397613814747608"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1838397857273086129",
+        "created_at": "2024-09-24T01:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T02:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838397857273086129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1708398562646896640",
+              "start": 3,
+              "username": "Ganlongyu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4a5zyo8yhp",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Ganlongyu_/status/1838397613814747608/video/1",
+              "media_key": "7_1838397579438231552",
+              "start": 49,
+              "url": "https://t.co/4A5zyo8yHp"
+            },
+            {
+              "display_url": "pic.x.com/4a5zyo8yhp",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Ganlongyu_/status/1838397613814747608/video/1",
+              "media_key": "3_1838397581313085444",
+              "start": 49,
+              "url": "https://t.co/4A5zyo8yHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838397857273086129",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838397613814747608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ganlongyu_: od小子现状be like：\n我药效呢？\n我药效呢？\n我药效呢？ https://t.co/4A5zyo8yHp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1838397579438231552",
+            "3_1838397581313085444"
+          ]
+        },
+        "author_id": "1708398562646896640",
+        "conversation_id": "1838397613814747608",
+        "created_at": "2024-09-24T01:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T02:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838397613814747608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4a5zyo8yhp",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Ganlongyu_/status/1838397613814747608/video/1",
+              "media_key": "7_1838397579438231552",
+              "start": 33,
+              "url": "https://t.co/4A5zyo8yHp"
+            },
+            {
+              "display_url": "pic.x.com/4a5zyo8yhp",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Ganlongyu_/status/1838397613814747608/video/1",
+              "media_key": "3_1838397581313085444",
+              "start": 33,
+              "url": "https://t.co/4A5zyo8yHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838397613814747608",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "od小子现状be like：\n我药效呢？\n我药效呢？\n我药效呢？ https://t.co/4A5zyo8yHp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2715,
+          "following_count": 2602,
+          "like_count": 26369,
+          "listed_count": 7,
+          "tweet_count": 18249
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T08:29:24.000Z",
+        "description": "是星晚 @StarNekoNeko 的猫猫🐱 ｜07无证含糖喵🍥｜172/42🥺✨hrt23.10.28✨｜喜欢吃鱼🐟🦈🐋｜入🚪67CNY喵 ⚠️看我心情过门⚠️｜账号可出€1919810",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "StarNekoNeko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vlink.cc/limi520",
+                "end": 23,
+                "expanded_url": "https://vlink.cc/limi520",
+                "start": 0,
+                "url": "https://t.co/F8tMZKj1xJ"
+              }
+            ]
+          }
+        },
+        "id": "1708398562646896640",
+        "location": "红魔馆",
+        "name": "厘米『男娘版』",
+        "pinned_tweet_id": "1834693143377461471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833519761571094528/54u--5yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2926,
+          "following_count": 1019,
+          "like_count": 9558,
+          "listed_count": 6,
+          "tweet_count": 2108
+        },
+        "url": "https://t.co/F8tMZKj1xJ",
+        "username": "Ganlongyu_",
+        "verified": false
+      }
+    ]
+  }
+}

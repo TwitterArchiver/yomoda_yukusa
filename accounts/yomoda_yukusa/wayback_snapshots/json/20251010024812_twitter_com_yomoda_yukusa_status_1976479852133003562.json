@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976479846860726272"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1976193747395465712",
+    "created_at": "2025-10-10T02:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T03:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976479852133003562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1225358261467197440",
+          "start": 0,
+          "username": "chanxiulumanzhi"
+        },
+        {
+          "end": 28,
+          "id": "1679118022861271040",
+          "start": 17,
+          "username": "Anarchmama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7iQfpRG61T",
+          "end": 52,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1976479852133003562/photo/1",
+          "media_key": "3_1976479846860726272",
+          "start": 29,
+          "url": "https://t.co/7iQfpRG61T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976479852133003562",
+    "in_reply_to_user_id": "1225358261467197440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976292991523492004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanxiulumanzhi @Anarchmama https://t.co/7iQfpRG61T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976479846860726272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G23d8unaIAAv1Ie.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976479846860726272"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1976193747395465712",
+        "created_at": "2025-10-10T02:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T03:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976479852133003562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1225358261467197440",
+              "start": 0,
+              "username": "chanxiulumanzhi"
+            },
+            {
+              "end": 28,
+              "id": "1679118022861271040",
+              "start": 17,
+              "username": "Anarchmama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7iQfpRG61T",
+              "end": 52,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1976479852133003562/photo/1",
+              "media_key": "3_1976479846860726272",
+              "start": 29,
+              "url": "https://t.co/7iQfpRG61T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976479852133003562",
+        "in_reply_to_user_id": "1225358261467197440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976292991523492004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanxiulumanzhi @Anarchmama https://t.co/7iQfpRG61T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225358261467197440",
+        "conversation_id": "1976193747395465712",
+        "created_at": "2025-10-09T14:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T15:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976292991523492004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976292991523492004",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976193747395465712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 2023.11.5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 2286,
+          "like_count": 30235,
+          "listed_count": 10,
+          "media_count": 1387,
+          "tweet_count": 20145
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T09:59:23.000Z",
+        "description": "圈名泠风/精神医学在读/重度社恐/友跨顺女/泛性恋/inxp/绘画/怪谈爱好者/恋姐/精神状态堪忧/欢迎私信互关扩列(没回关可能是没提示，如需互关可以私信我) \n\n“谁にも爱されず闇の中朽ちるだけ それは楽园?”",
+        "id": "1225358261467197440",
+        "location": "站在世界中心呼唤爱💙",
+        "name": "爱，死亡与猫猫娘",
+        "pinned_tweet_id": "1764669814717718863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927756291612766208/gL5z2gOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 255,
+          "like_count": 1755,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 2670
+        },
+        "username": "chanxiulumanzhi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T13:18:46.000Z",
+        "description": "我要读的诗，必然是旨在摈弃传统语言的，至少及于此，并已经完成。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.m.wikipedia.org/zh-cn/%E6%B3%9…",
+                "end": 23,
+                "expanded_url": "https://zh.m.wikipedia.org/zh-cn/%E6%B3%95%E5%9C%8B%E5%85%B1%E5%92%8C%E6%9B%86",
+                "start": 0,
+                "url": "https://t.co/b0g7kYnDrW"
+              }
+            ]
+          }
+        },
+        "id": "1679118022861271040",
+        "location": "末人之间",
+        "name": "纯氧",
+        "pinned_tweet_id": "1936027634074632262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930289519007608832/s1nC7cLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 275,
+          "like_count": 3821,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/b0g7kYnDrW",
+        "username": "Anarchmama",
+        "verified": false
+      }
+    ]
+  }
+}

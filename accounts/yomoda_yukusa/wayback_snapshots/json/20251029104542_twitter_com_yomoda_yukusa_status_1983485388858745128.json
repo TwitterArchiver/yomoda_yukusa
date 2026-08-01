@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1983483445247672348",
+    "created_at": "2025-10-29T10:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T11:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983485388858745128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "992551168944439296",
+          "start": 0,
+          "username": "pale_machine"
+        },
+        {
+          "end": 24,
+          "id": "1452123941686976519",
+          "start": 14,
+          "username": "C21Koy_7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983485388858745128",
+    "in_reply_to_user_id": "992551168944439296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983485034490384851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pale_machine @C21Koy_7c 我没看错 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1983483445247672348",
+        "created_at": "2025-10-29T10:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983485388858745128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "992551168944439296",
+              "start": 0,
+              "username": "pale_machine"
+            },
+            {
+              "end": 24,
+              "id": "1452123941686976519",
+              "start": 14,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983485388858745128",
+        "in_reply_to_user_id": "992551168944439296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983485034490384851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pale_machine @C21Koy_7c 我没看错 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "992551168944439296",
+        "conversation_id": "1983483445247672348",
+        "created_at": "2025-10-29T10:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983485034490384851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452123941686976519",
+              "start": 0,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983485034490384851",
+        "in_reply_to_user_id": "1452123941686976519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983484374583783828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C21Koy_7c 其实就是胡子但是很多人把胡子看成眼睛哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 2329,
+          "like_count": 30707,
+          "listed_count": 10,
+          "media_count": 1406,
+          "tweet_count": 20356
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-04T23:46:54.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "box.n3ko.cc/_/palemachichi",
+                "end": 23,
+                "expanded_url": "http://box.n3ko.cc/_/palemachichi",
+                "start": 0,
+                "url": "https://t.co/KhELlChHi2"
+              }
+            ]
+          }
+        },
+        "id": "992551168944439296",
+        "location": "苍绿之经",
+        "name": "⏻",
+        "pinned_tweet_id": "1980886254154911905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982384126536622080/X66McEPt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 845,
+          "like_count": 11230,
+          "listed_count": 5,
+          "media_count": 14,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/KhELlChHi2",
+        "username": "pale_machine",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964100290095042560/8WRhPH87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 3134,
+          "like_count": 25035,
+          "listed_count": 5,
+          "media_count": 1658,
+          "tweet_count": 24045
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

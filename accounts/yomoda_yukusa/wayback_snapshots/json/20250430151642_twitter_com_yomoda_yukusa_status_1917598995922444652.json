@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1917512719554732211",
+    "created_at": "2025-04-30T15:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T16:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917598995922444652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1738437488912617472",
+          "start": 0,
+          "username": "ASUSynoptic777"
+        },
+        {
+          "end": 27,
+          "id": "1757616332240224256",
+          "start": 16,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917598995922444652",
+    "in_reply_to_user_id": "1738437488912617472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917578947908493481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ASUSynoptic777 @B_cat38324 不是啦，我是说，尸体会保持一个很漂亮的状态。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1917512719554732211",
+        "created_at": "2025-04-30T15:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T16:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917598995922444652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1738437488912617472",
+              "start": 0,
+              "username": "ASUSynoptic777"
+            },
+            {
+              "end": 27,
+              "id": "1757616332240224256",
+              "start": 16,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917598995922444652",
+        "in_reply_to_user_id": "1738437488912617472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917578947908493481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ASUSynoptic777 @B_cat38324 不是啦，我是说，尸体会保持一个很漂亮的状态。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738437488912617472",
+        "conversation_id": "1917512719554732211",
+        "created_at": "2025-04-30T13:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T14:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917578947908493481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 26,
+              "id": "1757616332240224256",
+              "start": 15,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917578947908493481",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917523031674741037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa @B_cat38324 不是一氧化氮？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 2852,
+          "like_count": 27656,
+          "listed_count": 7,
+          "media_count": 1279,
+          "tweet_count": 19115
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T05:53:01.000Z",
+        "description": "是谁指使你来的！\nDies irae, dies illa, \nSolvet saeclum in favilla\n一只大猫",
+        "id": "1738437488912617472",
+        "name": "Νέμεσις(涅墨西斯子)🏳️🏳️🏳️",
+        "pinned_tweet_id": "1916092032533336244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912930514417446912/yPtAoci5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 190,
+          "like_count": 7389,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 550
+        },
+        "username": "ASUSynoptic777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "F猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16174,
+          "following_count": 184,
+          "like_count": 544,
+          "listed_count": 59,
+          "media_count": 80,
+          "tweet_count": 16133
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

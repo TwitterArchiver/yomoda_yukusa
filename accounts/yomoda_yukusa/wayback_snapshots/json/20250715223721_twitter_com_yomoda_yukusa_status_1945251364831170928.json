@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945060050797797376"
+      ],
+      "media_source_tweet_id": [
+        "1945060058271801588"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1945251364831170928",
+    "created_at": "2025-07-15T22:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T23:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945251364831170928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573944250911559680",
+          "start": 3,
+          "username": "CathayFormosa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7NpJzPSJUp",
+          "end": 81,
+          "expanded_url": "https://x.com/CathayFormosa/status/1945060058271801588/photo/1",
+          "media_key": "3_1945060050797797376",
+          "start": 58,
+          "url": "https://t.co/7NpJzPSJUp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945251364831170928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945060058271801588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CathayFormosa: 用重水做的冰做的鸡尾酒\n冰真的会沉在下面哦\n（猜猜这杯鸡尾酒的售价会是多少） https://t.co/7NpJzPSJUp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1945060050797797376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv49z5KbIAAfmq-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945060050797797376"
+          ],
+          "media_source_tweet_id": [
+            "1945060058271801588"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1945251364831170928",
+        "created_at": "2025-07-15T22:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T23:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945251364831170928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573944250911559680",
+              "start": 3,
+              "username": "CathayFormosa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NpJzPSJUp",
+              "end": 81,
+              "expanded_url": "https://x.com/CathayFormosa/status/1945060058271801588/photo/1",
+              "media_key": "3_1945060050797797376",
+              "start": 58,
+              "url": "https://t.co/7NpJzPSJUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945251364831170928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945060058271801588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CathayFormosa: 用重水做的冰做的鸡尾酒\n冰真的会沉在下面哦\n（猜猜这杯鸡尾酒的售价会是多少） https://t.co/7NpJzPSJUp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945060050797797376"
+          ]
+        },
+        "author_id": "1573944250911559680",
+        "conversation_id": "1945060058271801588",
+        "created_at": "2025-07-15T09:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T10:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945060058271801588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NpJzPSJUp",
+              "end": 62,
+              "expanded_url": "https://x.com/CathayFormosa/status/1945060058271801588/photo/1",
+              "media_key": "3_1945060050797797376",
+              "start": 39,
+              "url": "https://t.co/7NpJzPSJUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945060058271801588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3750,
+          "like_count": 81,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "用重水做的冰做的鸡尾酒\n冰真的会沉在下面哦\n（猜猜这杯鸡尾酒的售价会是多少） https://t.co/7NpJzPSJUp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 2158,
+          "like_count": 29365,
+          "listed_count": 7,
+          "media_count": 1342,
+          "tweet_count": 19684
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T07:55:39.000Z",
+        "description": "福冈/大学生/结构生物学&临床医学/深空摄影/曾居深圳，曼彻斯特，仙台/MtF, HRT 2022.11.19/同类会回关/日本学术振兴会&日本医疗研究开发机构签约摄影师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+mjLV1NLLC6swO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+mjLV1NLLC6swODVl",
+                "start": 0,
+                "url": "https://t.co/uwlD7GCjIh"
+              }
+            ]
+          }
+        },
+        "id": "1573944250911559680",
+        "location": "Fukuoka, Guangdong, UK",
+        "name": "源/CathyForMosa🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1937714590122684891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840900352935411712/oyDhvbKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203,
+          "following_count": 1314,
+          "like_count": 17919,
+          "listed_count": 5,
+          "media_count": 729,
+          "tweet_count": 3484
+        },
+        "url": "https://t.co/uwlD7GCjIh",
+        "username": "CathayFormosa",
+        "verified": false
+      }
+    ]
+  }
+}

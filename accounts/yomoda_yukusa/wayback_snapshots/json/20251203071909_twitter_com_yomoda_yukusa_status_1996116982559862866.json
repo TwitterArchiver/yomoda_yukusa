@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1995914083841843503",
+    "created_at": "2025-12-03T07:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T08:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996116982559862866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1903099585129816064",
+          "start": 0,
+          "username": "tokerumaisurii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996116982559862866",
+    "in_reply_to_user_id": "1903099585129816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995914083841843503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokerumaisurii 衡水本来也没师资啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1995914083841843503",
+        "created_at": "2025-12-03T07:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T08:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996116982559862866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996116982559862866",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995914083841843503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 衡水本来也没师资啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1995914083841843503",
+        "created_at": "2025-12-02T17:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T18:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995914083841843503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ottertywood/st…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/ottertywood/status/1995634301367714020",
+              "start": 110,
+              "url": "https://t.co/jLJTD3DyST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995914083841843503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3657,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995634301367714020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "衡水中学系好死。\n既然“中国是社会主义国家”，我认为终止全省掐尖特权还不足够，应该强制拆分衡水中学系一部分师资到非衡水系学校和省内没有衡水系学校的地区，以此弥补衡水系多年来对全省教育系统的吸食侵害，并且钱还要衡水系出。 https://t.co/jLJTD3DyST"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 2328,
+          "like_count": 31462,
+          "listed_count": 9,
+          "media_count": 1447,
+          "tweet_count": 20655
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 236,
+          "like_count": 63427,
+          "listed_count": 7,
+          "media_count": 796,
+          "tweet_count": 11952
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

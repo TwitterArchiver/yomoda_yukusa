@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917844629967495168"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1917844638800699703",
+    "created_at": "2025-05-01T07:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T08:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917844638800699703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HWz7YbP56b",
+          "end": 23,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1917844638800699703/photo/1",
+          "media_key": "3_1917844629967495168",
+          "start": 0,
+          "url": "https://t.co/HWz7YbP56b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917844638800699703",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/HWz7YbP56b"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1917844638800699703].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1917844638800699703",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1917844638800699703"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1488,
+        "media_key": "3_1917844629967495168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp2Nh5-aYAAZWAl.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2778,
+          "following_count": 2854,
+          "like_count": 27690,
+          "listed_count": 7,
+          "media_count": 1280,
+          "tweet_count": 19123
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

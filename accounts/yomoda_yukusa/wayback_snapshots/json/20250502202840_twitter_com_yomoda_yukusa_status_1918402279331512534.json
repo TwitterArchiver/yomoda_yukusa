@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1917908104710349309",
+    "created_at": "2025-05-02T20:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T21:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918402279331512534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1183028604248027137",
+          "start": 0,
+          "username": "dhqqwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918402279331512534",
+    "in_reply_to_user_id": "1183028604248027137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917908104710349309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dhqqwww 打扰一下，r18g视频能发我一下吗？万分感谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1917908104710349309",
+        "created_at": "2025-05-02T20:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T21:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918402279331512534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1183028604248027137",
+              "start": 0,
+              "username": "dhqqwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918402279331512534",
+        "in_reply_to_user_id": "1183028604248027137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917908104710349309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dhqqwww 打扰一下，r18g视频能发我一下吗？万分感谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1183028604248027137",
+        "conversation_id": "1917908104710349309",
+        "created_at": "2025-05-01T11:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T12:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917908104710349309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917908104710349309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 256887,
+          "like_count": 1866,
+          "quote_count": 5,
+          "reply_count": 46,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "酒店开房，大数据推送给我小心酒店内有针孔摄像头的新闻，附有找摄像头的教程。遂按图索骥，居然真的在正对床的电视下的插座里找到一个真空摄像头，内附SD卡一张。\n和同行者一合计，没有声张，买来读卡器往里拷了大量R18G视频和GV，然后把名字一个个改成日期，放回原位退房。\n希望摄像头原主人会喜欢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2779,
+          "following_count": 2057,
+          "like_count": 27796,
+          "listed_count": 7,
+          "media_count": 1284,
+          "tweet_count": 19144
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T14:36:19.000Z",
+        "description": "来了可以点个关注。",
+        "id": "1183028604248027137",
+        "location": "Hong Kong",
+        "name": "灯火千秋.",
+        "pinned_tweet_id": "1916414860105290153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1400440744435847171/4IUONslj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244605,
+          "following_count": 278,
+          "like_count": 524,
+          "listed_count": 642,
+          "media_count": 40,
+          "tweet_count": 639
+        },
+        "username": "dhqqwww",
+        "verified": false
+      }
+    ]
+  }
+}

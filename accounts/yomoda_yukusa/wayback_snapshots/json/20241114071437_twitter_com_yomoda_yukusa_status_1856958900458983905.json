@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1856864859549569178",
+    "created_at": "2024-11-14T07:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T08:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856958900458983905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1374034349700444161",
+          "start": 0,
+          "username": "pizyj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856958900458983905",
+    "in_reply_to_user_id": "1374034349700444161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856864859549569178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pizyj 好贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1856864859549569178",
+        "created_at": "2024-11-14T07:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T08:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856958900458983905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1374034349700444161",
+              "start": 0,
+              "username": "pizyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856958900458983905",
+        "in_reply_to_user_id": "1374034349700444161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856864859549569178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pizyj 好贵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856864851676798976"
+          ]
+        },
+        "author_id": "1374034349700444161",
+        "conversation_id": "1856864859549569178",
+        "created_at": "2024-11-14T01:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T02:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856864859549569178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5d8Gvo9bH",
+              "end": 27,
+              "expanded_url": "https://x.com/pizyj/status/1856864859549569178/photo/1",
+              "media_key": "3_1856864851676798976",
+              "start": 4,
+              "url": "https://t.co/j5d8Gvo9bH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856864859549569178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 570,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不嘻嘻 https://t.co/j5d8Gvo9bH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2755,
+          "following_count": 2712,
+          "like_count": 26661,
+          "listed_count": 6,
+          "tweet_count": 18548
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-22T16:24:59.000Z",
+        "description": "⬅️⬆️不文明的物种，又丑又凶，打人，还抢东西，坏brat，不是abdl，内有恶🐱@NekomiyaKoharu ,请勿靠近😈😈😈III 个人梯子，测试通用性还可以https://t.co/RvgI8jisyN 置顶有个推荐的伪音老师可以了解下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "NekomiyaKoharu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 105,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=SR31PQgn",
+                "start": 82,
+                "url": "https://t.co/RvgI8jisyN"
+              }
+            ]
+          }
+        },
+        "id": "1374034349700444161",
+        "location": "猫罐头",
+        "name": "喵小白是吃饭不花钱高兴猫",
+        "pinned_tweet_id": "1850119750019695013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801534219031822337/VnO6zTX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54786,
+          "following_count": 5129,
+          "like_count": 39213,
+          "listed_count": 96,
+          "tweet_count": 47065
+        },
+        "username": "pizyj",
+        "verified": false
+      }
+    ]
+  }
+}

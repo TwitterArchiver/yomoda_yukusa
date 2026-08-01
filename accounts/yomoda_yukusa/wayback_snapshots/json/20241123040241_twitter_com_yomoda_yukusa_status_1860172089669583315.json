@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1859627994375176530",
+    "created_at": "2024-11-23T04:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T05:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860172089669583315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1710391034302337024",
+          "start": 0,
+          "username": "AypashaYomoda"
+        },
+        {
+          "end": 31,
+          "id": "1225358261467197440",
+          "start": 15,
+          "username": "chanxiulumanzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860172089669583315",
+    "in_reply_to_user_id": "1710391034302337024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860171687188398087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AypashaYomoda @chanxiulumanzhi 我要完蛋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1859627994375176530",
+        "created_at": "2024-11-23T04:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T05:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860172089669583315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1710391034302337024",
+              "start": 0,
+              "username": "AypashaYomoda"
+            },
+            {
+              "end": 31,
+              "id": "1225358261467197440",
+              "start": 15,
+              "username": "chanxiulumanzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860172089669583315",
+        "in_reply_to_user_id": "1710391034302337024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860171687188398087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AypashaYomoda @chanxiulumanzhi 我要完蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710391034302337024",
+        "conversation_id": "1859627994375176530",
+        "created_at": "2024-11-23T04:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T05:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860171687188398087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1225358261467197440",
+              "start": 0,
+              "username": "chanxiulumanzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860171687188398087",
+        "in_reply_to_user_id": "1225358261467197440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859627994375176530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanxiulumanzhi 坏人要完蛋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2762,
+          "following_count": 2728,
+          "like_count": 26687,
+          "listed_count": 6,
+          "tweet_count": 18588
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T20:26:30.000Z",
+        "description": "珠江酷儿联谊 Chinese Queer Canton\n佛狸祠主、the Vixenkami、人的Aypasha\n降生并成长为现在的样子、永远期待着与大家的重逢。只知道侍奉的佛狸祠主，究竟能给大家什么程度的新的祝福呢？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_1aam6lCGB80M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_1aam6lCGB80M2I1",
+                "start": 0,
+                "url": "https://t.co/DHnFSbuVlw"
+              }
+            ]
+          }
+        },
+        "id": "1710391034302337024",
+        "location": "？？？",
+        "name": "Aypasha bint Dan 阿依帕夏 “帕夏肯定早死了”",
+        "pinned_tweet_id": "1857196871212728756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821927369189306368/CixxvOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 406,
+          "like_count": 281,
+          "listed_count": 1,
+          "tweet_count": 2190
+        },
+        "url": "https://t.co/DHnFSbuVlw",
+        "username": "AypashaYomoda",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T09:59:23.000Z",
+        "description": "圈名泠风/精神医学在读/重度社恐/友跨顺女/泛性恋/inxp/绘画/怪谈爱好者/恋姐/精神状态堪忧/欢迎私信互关扩列(没回关可能是没提示，如需互关可以私信我) \n\n“谁にも爱されず闇の中朽ちるだけ それは楽园?”",
+        "id": "1225358261467197440",
+        "location": "站在世界中心呼唤爱💙",
+        "name": "爱，死亡与猫猫娘",
+        "pinned_tweet_id": "1764669814717718863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850947849573523456/Pxh9sKtC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 200,
+          "like_count": 1555,
+          "listed_count": 0,
+          "tweet_count": 1665
+        },
+        "username": "chanxiulumanzhi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970173413462511616",
+        "3_1970173413907144704",
+        "3_1970173413777121281"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1970173424166449295",
+    "created_at": "2025-09-22T17:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T18:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970173424166449295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AMvIuvx8vd",
+          "end": 67,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1970173424166449295/photo/1",
+          "media_key": "3_1970173413462511616",
+          "start": 44,
+          "url": "https://t.co/AMvIuvx8vd"
+        },
+        {
+          "display_url": "pic.x.com/AMvIuvx8vd",
+          "end": 67,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1970173424166449295/photo/1",
+          "media_key": "3_1970173413907144704",
+          "start": 44,
+          "url": "https://t.co/AMvIuvx8vd"
+        },
+        {
+          "display_url": "pic.x.com/AMvIuvx8vd",
+          "end": 67,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1970173424166449295/photo/1",
+          "media_key": "3_1970173413777121281",
+          "start": 44,
+          "url": "https://t.co/AMvIuvx8vd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970173424166449295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么喝了这些酒只是感觉晕了 没有开心 甚至没有情感宣泄 感觉情绪平平静静的 也很清醒 https://t.co/AMvIuvx8vd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 921,
+        "media_key": "3_1970173413462511616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1d2R_daEAAzjew.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1970173413907144704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1d2SBHaoAAyyYs.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1970173413777121281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1d2SAoaoAEFjI4.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970173413462511616",
+            "3_1970173413907144704",
+            "3_1970173413777121281"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1970173424166449295",
+        "created_at": "2025-09-22T17:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970173424166449295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AMvIuvx8vd",
+              "end": 67,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1970173424166449295/photo/1",
+              "media_key": "3_1970173413462511616",
+              "start": 44,
+              "url": "https://t.co/AMvIuvx8vd"
+            },
+            {
+              "display_url": "pic.x.com/AMvIuvx8vd",
+              "end": 67,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1970173424166449295/photo/1",
+              "media_key": "3_1970173413907144704",
+              "start": 44,
+              "url": "https://t.co/AMvIuvx8vd"
+            },
+            {
+              "display_url": "pic.x.com/AMvIuvx8vd",
+              "end": 67,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1970173424166449295/photo/1",
+              "media_key": "3_1970173413777121281",
+              "start": 44,
+              "url": "https://t.co/AMvIuvx8vd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970173424166449295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么喝了这些酒只是感觉晕了 没有开心 甚至没有情感宣泄 感觉情绪平平静静的 也很清醒 https://t.co/AMvIuvx8vd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2789,
+          "following_count": 2275,
+          "like_count": 29797,
+          "listed_count": 10,
+          "media_count": 1367,
+          "tweet_count": 19992
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

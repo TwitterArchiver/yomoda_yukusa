@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935832093361090560"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1935832089641042165",
+    "created_at": "2025-06-19T22:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T23:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935832107282317740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1484072544009347072",
+          "start": 8,
+          "username": "BelovedUren8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/STuFy5iFJi",
+          "end": 59,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1935832107282317740/photo/1",
+          "media_key": "3_1935832093361090560",
+          "start": 36,
+          "url": "https://t.co/STuFy5iFJi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935832107282317740",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935832089641042165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出镜：滨边雨怜 @BelovedUren8964 \n这家伙调了滤镜（） https://t.co/STuFy5iFJi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1935832107282317740].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1935832107282317740",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1935832107282317740"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1935832093361090560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt11CE2WsAA_noC.jpg",
+        "width": 864
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935832028336848896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt10-SnXgAA-UzT.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935832028802367488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt10-UWWwAAL1Sc.jpg",
+        "width": 921
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1935832028882051072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt10-UpWoAAwlY_.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1935832029247266816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt10-WAbYAA7745.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935832028336848896",
+            "3_1935832028802367488",
+            "3_1935832028882051072",
+            "3_1935832029247266816"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1935832089641042165",
+        "created_at": "2025-06-19T22:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T23:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935832089641042165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YFvpXxDVzR",
+              "end": 42,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1935832089641042165/photo/1",
+              "media_key": "3_1935832028336848896",
+              "start": 19,
+              "url": "https://t.co/YFvpXxDVzR"
+            },
+            {
+              "display_url": "pic.x.com/YFvpXxDVzR",
+              "end": 42,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1935832089641042165/photo/1",
+              "media_key": "3_1935832028802367488",
+              "start": 19,
+              "url": "https://t.co/YFvpXxDVzR"
+            },
+            {
+              "display_url": "pic.x.com/YFvpXxDVzR",
+              "end": 42,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1935832089641042165/photo/1",
+              "media_key": "3_1935832028882051072",
+              "start": 19,
+              "url": "https://t.co/YFvpXxDVzR"
+            },
+            {
+              "display_url": "pic.x.com/YFvpXxDVzR",
+              "end": 42,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1935832089641042165/photo/1",
+              "media_key": "3_1935832029247266816",
+              "start": 19,
+              "url": "https://t.co/YFvpXxDVzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935832089641042165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒掉自残五年来第一次\n好吧非常浅（） https://t.co/YFvpXxDVzR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 2145,
+          "like_count": 28741,
+          "listed_count": 7,
+          "media_count": 1326,
+          "tweet_count": 19509
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。\n💊oder 我支持为OD正名/这还用说吗，我是汉奸哪🇯🇵 / #台湾は国です🇹🇼 / 反男反女反跨反人类反一切",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 44,
+                "tag": "台湾は国です"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "1808346704829468916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801971387571277824/4_0eu45P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 416,
+          "like_count": 3460,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 2686
+        },
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

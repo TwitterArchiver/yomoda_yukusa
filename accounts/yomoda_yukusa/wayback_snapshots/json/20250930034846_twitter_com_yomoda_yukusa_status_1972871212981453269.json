@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967984045880643586"
+      ],
+      "media_source_tweet_id": [
+        "1967984048225259869"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1972871212981453269",
+    "created_at": "2025-09-30T03:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T04:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972871212981453269"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "NOeSIS"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4833997540",
+          "start": 3,
+          "username": "NOeSIS_Steam"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p5JcsK9tdf",
+          "end": 49,
+          "expanded_url": "https://x.com/NOeSIS_Steam/status/1967984048225259869/photo/1",
+          "media_key": "3_1967984045880643586",
+          "start": 26,
+          "url": "https://t.co/p5JcsK9tdf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972871212981453269",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967984048225259869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NOeSIS_Steam: #NOeSIS https://t.co/p5JcsK9tdf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_1967984045880643586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-vEBpaEAIZzPj.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967984045880643586"
+          ],
+          "media_source_tweet_id": [
+            "1967984048225259869"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1972871212981453269",
+        "created_at": "2025-09-30T03:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T04:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972871212981453269"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "NOeSIS"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4833997540",
+              "start": 3,
+              "username": "NOeSIS_Steam"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5JcsK9tdf",
+              "end": 49,
+              "expanded_url": "https://x.com/NOeSIS_Steam/status/1967984048225259869/photo/1",
+              "media_key": "3_1967984045880643586",
+              "start": 26,
+              "url": "https://t.co/p5JcsK9tdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972871212981453269",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967984048225259869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NOeSIS_Steam: #NOeSIS https://t.co/p5JcsK9tdf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967984045880643586"
+          ]
+        },
+        "author_id": "4833997540",
+        "conversation_id": "1967984048225259869",
+        "created_at": "2025-09-16T16:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T17:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967984048225259869"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "NOeSIS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5JcsK9tdf",
+              "end": 31,
+              "expanded_url": "https://x.com/NOeSIS_Steam/status/1967984048225259869/photo/1",
+              "media_key": "3_1967984045880643586",
+              "start": 8,
+              "url": "https://t.co/p5JcsK9tdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967984048225259869",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1114,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "#NOeSIS https://t.co/p5JcsK9tdf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2787,
+          "following_count": 2281,
+          "like_count": 29883,
+          "listed_count": 10,
+          "media_count": 1373,
+          "tweet_count": 20032
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-22T02:41:31.000Z",
+        "description": "NOeSIS同人開発中...SteamのNOeSISエージェントを担当します。E-mail：noesis_steam@foxmail.com",
+        "id": "4833997540",
+        "location": "火星のローマ帝国",
+        "name": "WeAreFun@NOeSIS_Steam",
+        "pinned_tweet_id": "1457969632996835332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/916177757855518722/1RK9Yf4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 14,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 257
+        },
+        "username": "NOeSIS_Steam",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1973246106671915521",
+    "created_at": "2025-10-01T04:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T05:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973246109255635091"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1973246109255635091",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973246106671915521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "旁边的门是开着的，那只猫很小，它可以不理会开着的门，也可以不理会拦着它的组成铁门的栅栏。它很小只。没有任何接触的，越过，于是穿过了栅栏之间的缝隙。这时，我忽然不想上班了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1973246106671915521",
+        "created_at": "2025-10-01T04:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T05:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973246109255635091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973246109255635091",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973246106671915521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "旁边的门是开着的，那只猫很小，它可以不理会开着的门，也可以不理会拦着它的组成铁门的栅栏。它很小只。没有任何接触的，越过，于是穿过了栅栏之间的缝隙。这时，我忽然不想上班了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1973246106671915521",
+        "created_at": "2025-10-01T04:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T05:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973246106671915521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973246106671915521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上和经理说了一声上厕所，于是去隔壁的小区上厕所了。小区大门是双扇平开式铁艺门，其中一扇门此时是开着的。回店里经过小区门口，看到一只猫从小区外钻入了铁门。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 2282,
+          "like_count": 29892,
+          "listed_count": 10,
+          "media_count": 1373,
+          "tweet_count": 20039
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

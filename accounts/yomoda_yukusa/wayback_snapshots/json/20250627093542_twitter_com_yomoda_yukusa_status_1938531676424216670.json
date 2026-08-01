@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1938494460528320959",
+    "created_at": "2025-06-27T09:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T10:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938531676424216670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845443887919493120",
+          "start": 0,
+          "username": "nailv210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938531676424216670",
+    "in_reply_to_user_id": "1845443887919493120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938494460528320959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nailv210 坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1938494460528320959",
+        "created_at": "2025-06-27T09:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938531676424216670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845443887919493120",
+              "start": 0,
+              "username": "nailv210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938531676424216670",
+        "in_reply_to_user_id": "1845443887919493120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938494460528320959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nailv210 坏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845443887919493120",
+        "conversation_id": "1938494460528320959",
+        "created_at": "2025-06-27T07:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T08:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938494460528320959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938494460528320959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操这个推特怎么那么坏 我掉了5个粉丝😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2148,
+          "like_count": 28979,
+          "listed_count": 7,
+          "media_count": 1336,
+          "tweet_count": 19603
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T12:38:19.000Z",
+        "description": "可以叫我茉莉奶绿/奶绿 女宝可以找我互fo 男生fo发推多的 不线下 不鉴正 不参与网络纠纷 喜欢发自己的想法 喜欢发长文 感谢您的阅读 如果我说错了话 请您指正",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nailv210",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nailv210",
+                "start": 0,
+                "url": "https://t.co/Wf57dpEuO6"
+              }
+            ]
+          }
+        },
+        "id": "1845443887919493120",
+        "name": "我总是喝茉莉奶绿",
+        "pinned_tweet_id": "1935247382092083615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928160098482016260/5ErPgTJ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 71,
+          "like_count": 2718,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 488
+        },
+        "url": "https://t.co/Wf57dpEuO6",
+        "username": "nailv210",
+        "verified": false
+      }
+    ]
+  }
+}

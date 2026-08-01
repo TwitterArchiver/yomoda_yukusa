@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1826652251265663218",
+    "created_at": "2024-08-22T16:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T17:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826656712293773734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1435172366330388481",
+          "start": 0,
+          "username": "OTUTOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826656712293773734",
+    "in_reply_to_user_id": "1435172366330388481",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826656198407716888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTUTOX 我不知道 沒修頭髮自己變成這樣子的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1826652251265663218",
+        "created_at": "2024-08-22T16:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T17:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826656712293773734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1435172366330388481",
+              "start": 0,
+              "username": "OTUTOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826656712293773734",
+        "in_reply_to_user_id": "1435172366330388481",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826656198407716888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTUTOX 我不知道 沒修頭髮自己變成這樣子的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1435172366330388481",
+        "conversation_id": "1826652251265663218",
+        "created_at": "2024-08-22T16:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T17:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826656198407716888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826656198407716888",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826652251265663218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 同款水母🪼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2680,
+          "following_count": 2535,
+          "like_count": 25924,
+          "listed_count": 7,
+          "tweet_count": 18020
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-07T09:25:37.000Z",
+        "description": "冒个泡，嘻嘻嘻。\n\n😞可能永远也等不到我的爱人了。\n希望有人能帮我照顾好猫猫，就是阿比小猫啦。\n爱你😘",
+        "id": "1435172366330388481",
+        "location": "IP属地：死心塌地",
+        "name": "夏日#恰噗恰噗😗😗😗",
+        "pinned_tweet_id": "1688045502888329216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712233486504108032/IekOAAFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 488,
+          "like_count": 11397,
+          "listed_count": 1,
+          "tweet_count": 1264
+        },
+        "username": "OTUTOX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1980231248418312309",
+    "created_at": "2025-10-20T11:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T12:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980231248418312309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1662058783215087617",
+          "start": 3,
+          "username": "HacchiTheMaid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980231248418312309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980227729770561872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HacchiTheMaid: 没有含糖的mtf也是mtf，我愿意把她当做好姐妹，丑的mtf也是mtf，是我的同类，我也是这样过来的，并且今天也丑陋着，今天也像条蛆虫一样仰望着其他更成功的不愿意认为我是同类的同类们\n我是弱势群体的一员，我知道被践踏歧视侮辱的感受，所以我和…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1980231248418312309",
+        "created_at": "2025-10-20T11:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T12:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980231248418312309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1662058783215087617",
+              "start": 3,
+              "username": "HacchiTheMaid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980231248418312309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980227729770561872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HacchiTheMaid: 没有含糖的mtf也是mtf，我愿意把她当做好姐妹，丑的mtf也是mtf，是我的同类，我也是这样过来的，并且今天也丑陋着，今天也像条蛆虫一样仰望着其他更成功的不愿意认为我是同类的同类们\n我是弱势群体的一员，我知道被践踏歧视侮辱的感受，所以我和…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662058783215087617",
+        "conversation_id": "1980227086372704594",
+        "created_at": "2025-10-20T11:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T12:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980227729770561872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980227729770561872",
+        "in_reply_to_user_id": "1662058783215087617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980227086372704594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有含糖的mtf也是mtf，我愿意把她当做好姐妹，丑的mtf也是mtf，是我的同类，我也是这样过来的，并且今天也丑陋着，今天也像条蛆虫一样仰望着其他更成功的不愿意认为我是同类的同类们\n我是弱势群体的一员，我知道被践踏歧视侮辱的感受，所以我和我的同类们站在一起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 2307,
+          "like_count": 30500,
+          "listed_count": 10,
+          "media_count": 1396,
+          "tweet_count": 20241
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。狗狗@Sorsacerba 姐姐@emiya436900 匿名提问https://t.co/FqhYHQnDQd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "emiya436900"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/anastasia195113",
+                "end": 66,
+                "expanded_url": "https://ngl.link/anastasia195113",
+                "start": 43,
+                "url": "https://t.co/FqhYHQnDQd"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi🏳️‍⚧️",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6059,
+          "following_count": 1933,
+          "like_count": 50722,
+          "listed_count": 13,
+          "media_count": 1074,
+          "tweet_count": 33244
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

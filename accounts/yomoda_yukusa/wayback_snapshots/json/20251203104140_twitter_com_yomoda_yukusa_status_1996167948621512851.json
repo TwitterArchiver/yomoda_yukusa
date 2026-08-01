@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1995830878770176195",
+    "created_at": "2025-12-03T10:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996167948621512851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "992551168944439296",
+          "start": 0,
+          "username": "pale_machine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996167948621512851",
+    "in_reply_to_user_id": "992551168944439296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995830878770176195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pale_machine 今日も、明日も"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1995830878770176195",
+        "created_at": "2025-12-03T10:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996167948621512851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "992551168944439296",
+              "start": 0,
+              "username": "pale_machine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996167948621512851",
+        "in_reply_to_user_id": "992551168944439296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995830878770176195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pale_machine 今日も、明日も"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "992551168944439296",
+        "conversation_id": "1995830878770176195",
+        "created_at": "2025-12-02T12:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995830878770176195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995830878770176195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 541,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天我还活着，至于明天我再想想办法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 2328,
+          "like_count": 31477,
+          "listed_count": 9,
+          "media_count": 1447,
+          "tweet_count": 20659
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-04T23:46:54.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "box.n3ko.cc/_/palemachichi",
+                "end": 23,
+                "expanded_url": "http://box.n3ko.cc/_/palemachichi",
+                "start": 0,
+                "url": "https://t.co/KhELlChHi2"
+              }
+            ]
+          }
+        },
+        "id": "992551168944439296",
+        "location": "苍绿之经",
+        "name": "⏻",
+        "pinned_tweet_id": "1980886254154911905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992850381651750912/JlHslgtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 848,
+          "like_count": 11304,
+          "listed_count": 5,
+          "media_count": 40,
+          "tweet_count": 181
+        },
+        "url": "https://t.co/KhELlChHi2",
+        "username": "pale_machine",
+        "verified": false
+      }
+    ]
+  }
+}

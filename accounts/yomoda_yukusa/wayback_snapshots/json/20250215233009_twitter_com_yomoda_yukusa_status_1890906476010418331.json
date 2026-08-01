@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1890768341263958373",
+    "created_at": "2025-02-15T23:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T00:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890906476010418331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890906476010418331",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890768341263958373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 我要紫砂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1890768341263958373",
+        "created_at": "2025-02-15T23:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T00:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890906476010418331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890906476010418331",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890768341263958373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 我要紫砂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890768338457915393"
+          ]
+        },
+        "author_id": "1739391734491086848",
+        "conversation_id": "1890768341263958373",
+        "created_at": "2025-02-15T14:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T15:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890768341263958373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YRGinXMr5f",
+              "end": 75,
+              "expanded_url": "https://x.com/IXXA00/status/1890768341263958373/photo/1",
+              "media_key": "3_1890768338457915393",
+              "start": 52,
+              "url": "https://t.co/YRGinXMr5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890768341263958373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 695,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你醒啦，这里是做什么都可以的世界。\n你想要什么，变成什么样的人，想做什么事情都可以哦。\n你要怎么做呢？ https://t.co/YRGinXMr5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 2802,
+          "like_count": 26973,
+          "listed_count": 9,
+          "media_count": 1255,
+          "tweet_count": 18843
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "不涉三/聊天机器人/会试着给你一些的爱/文援黄推@IZLA665营业中🔋/本号🚫黄，谢谢。/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "IZLA665"
+              }
+            ]
+          }
+        },
+        "id": "1739391734491086848",
+        "location": "私信随意DD但是有正常的人格才能入🚪。",
+        "name": "isla(R24)",
+        "pinned_tweet_id": "1890245400176857420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889687262008393728/HE8pTrUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3299,
+          "following_count": 2493,
+          "like_count": 16281,
+          "listed_count": 6,
+          "media_count": 1138,
+          "tweet_count": 15514
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

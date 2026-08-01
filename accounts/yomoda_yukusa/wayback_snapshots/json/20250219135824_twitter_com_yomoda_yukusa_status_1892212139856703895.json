@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1891851736203092095",
+    "created_at": "2025-02-19T13:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T14:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892212139856703895"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "伊朗",
+          "probability": 0.8385,
+          "start": 27,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587653801305153538",
+          "start": 0,
+          "username": "XiaoHuiHuiH"
+        },
+        {
+          "end": 26,
+          "id": "705777407794352129",
+          "start": 13,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892212139856703895",
+    "in_reply_to_user_id": "1587653801305153538",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891930238289916160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoHuiHuiH @ServalCandle 伊朗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1891851736203092095",
+        "created_at": "2025-02-19T13:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T14:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892212139856703895"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "伊朗",
+              "probability": 0.8385,
+              "start": 27,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587653801305153538",
+              "start": 0,
+              "username": "XiaoHuiHuiH"
+            },
+            {
+              "end": 26,
+              "id": "705777407794352129",
+              "start": 13,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892212139856703895",
+        "in_reply_to_user_id": "1587653801305153538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891930238289916160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoHuiHuiH @ServalCandle 伊朗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587653801305153538",
+        "conversation_id": "1891851736203092095",
+        "created_at": "2025-02-18T19:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T20:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891930238289916160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891930238289916160",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 688,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891851736203092095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 在支持性别认同的情况下却不支持同性恋，第一次见到LGBT只支持T不支持LG的🫣🫣🫣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2805,
+          "like_count": 27111,
+          "listed_count": 9,
+          "media_count": 1257,
+          "tweet_count": 18878
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点“里哦😈\n/日常抽象涩涩推🫣/\nENFP(INFP)/偏女性非二元跨mtx(f)🏳️‍⚧️/hrt 2023.12.7🍥/泛性恋/🏳️‍🌈🩷💜/21岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n⚠️魔怔疯批/时而温柔/时常发癫/淫趴头子/滥交药攻/嗑药地雷💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🏳️‍⚧️喵喵艺术家~",
+        "pinned_tweet_id": "1822113111270457511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805817537021853699/IF42qnFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9427,
+          "following_count": 1055,
+          "like_count": 90142,
+          "listed_count": 18,
+          "media_count": 3213,
+          "tweet_count": 45986
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "電波系大笨貓 ◉▼◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "☃️La saison infinie de neige❄️",
+        "name": "🧸傻貓𝕮𝖆𝖓𝖉𝖑𝖊🌸🍊",
+        "pinned_tweet_id": "1775562492493566112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890453655914180609/kMz5nuu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30228,
+          "following_count": 348,
+          "like_count": 223106,
+          "listed_count": 99,
+          "media_count": 7547,
+          "tweet_count": 50371
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

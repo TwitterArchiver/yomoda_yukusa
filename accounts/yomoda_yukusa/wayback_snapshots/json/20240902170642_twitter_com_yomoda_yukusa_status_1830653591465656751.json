@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1830494603197202681",
+    "created_at": "2024-09-02T17:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T18:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830653591465656751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1788343326585806848",
+          "start": 0,
+          "username": "ZUIEZHICHEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830653591465656751",
+    "in_reply_to_user_id": "1788343326585806848",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830494603197202681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZUIEZHICHEN 孩子撇著眼睛看提詞器"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1830494603197202681",
+        "created_at": "2024-09-02T17:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T18:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830653591465656751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1788343326585806848",
+              "start": 0,
+              "username": "ZUIEZHICHEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830653591465656751",
+        "in_reply_to_user_id": "1788343326585806848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830494603197202681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZUIEZHICHEN 孩子撇著眼睛看提詞器"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1830494255116075008"
+          ]
+        },
+        "author_id": "1788343326585806848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "1830494603197202681",
+        "created_at": "2024-09-02T06:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T07:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830494603197202681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ze3nbuobmu",
+              "end": 118,
+              "expanded_url": "https://twitter.com/ZUIEZHICHEN/status/1830494603197202681/video/1",
+              "media_key": "13_1830494255116075008",
+              "start": 95,
+              "url": "https://t.co/Ze3nBuOBMu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830494603197202681",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 80013,
+          "like_count": 434,
+          "quote_count": 8,
+          "reply_count": 40,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "这爷俩一问一答，不是赤裸裸的在打中共的脸吗？\n恶意提问：中共那时候在哪里？中共在抗日战争中歼敌多少人？为什么只看见中共摘桃子，看不见中共抗日呢？为什么中共抗日只能在电视剧、电影里面看见呢？ https://t.co/Ze3nBuOBMu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2687,
+          "following_count": 2573,
+          "like_count": 26148,
+          "listed_count": 7,
+          "tweet_count": 18105
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T23:01:08.000Z",
+        "description": "他们痛恨权贵，痛恨他们特权与奢华生 活，却不是痛恨特权本身！ 他们不满的真正根由，却是为什么特权没有掌握在自己手里。！",
+        "id": "1788343326585806848",
+        "location": "纽约",
+        "name": "罪恶之城",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788705874250174464/MQB1YsbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20170,
+          "following_count": 1399,
+          "like_count": 5595,
+          "listed_count": 53,
+          "tweet_count": 1808
+        },
+        "username": "ZUIEZHICHEN",
+        "verified": true
+      }
+    ]
+  }
+}

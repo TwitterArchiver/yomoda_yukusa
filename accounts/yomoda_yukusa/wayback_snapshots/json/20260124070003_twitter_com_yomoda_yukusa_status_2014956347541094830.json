@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2014745998900523208",
+    "created_at": "2026-01-24T07:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T08:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014956347541094830"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014956347541094830",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014956272194621879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大教堂撑起这信仰的时代\n世界进入了一个新的纪元\n人类企图攀及星星的高度\n镂刻下自己的事迹\n在彩色玻璃和石块上面\n\n一砖一石，日复一日\n一世纪接一世纪，爱从未消逝\n人类眼看亲手造的塔越升越高\n\n诗人和吟游歌手唱着爱曲情歌\n许诺要带给所有人类\n一个更好的明天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2014745998900523208",
+        "created_at": "2026-01-24T07:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014956347541094830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014956347541094830",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014956272194621879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大教堂撑起这信仰的时代\n世界进入了一个新的纪元\n人类企图攀及星星的高度\n镂刻下自己的事迹\n在彩色玻璃和石块上面\n\n一砖一石，日复一日\n一世纪接一世纪，爱从未消逝\n人类眼看亲手造的塔越升越高\n\n诗人和吟游歌手唱着爱曲情歌\n许诺要带给所有人类\n一个更好的明天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2014745998900523208",
+        "created_at": "2026-01-24T06:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T07:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014956272194621879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014956272194621879",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014745998900523208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "登陆月球 协和逐日 亚轨道载人飞行 超音速客机 维珍轨道 暴风雪号 An225梦想运输机 翻盖手机 A380 毛玻璃 亚克力水晶质感 拟物化 自由软件运动 冷战结束 AERO美学 CCD相机 世纪末 新千年 儿童剧 巴啦啦小魔仙 快乐星球 大屁股电脑 flash游戏 互联网 地球村 全球化 霓虹灯 爱与和平 蒸汽波 被承诺的未来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 2358,
+          "like_count": 32914,
+          "listed_count": 9,
+          "media_count": 1539,
+          "tweet_count": 21378
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2012507090666082304"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "2013550809997619276",
+    "created_at": "2026-01-20T09:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T10:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013550809997619276"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 101,
+          "start": 94,
+          "tag": "NOeSIS"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1595869091352363008",
+          "start": 3,
+          "username": "kuutom9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013550809997619276",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012507091823366318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuutom9: 今年の夏コミでNOeSISの二次創作を出したいのですが、皆さんはどれがいいですか？\n（ノエ知らん人も来るなら答えておけやで）\n\nどれになってもきちんとやりきるよ\n#NOeSIS"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2026-01-24T12:47:35.000Z",
+        "id": "2012507090666082304",
+        "options": [
+          {
+            "label": "ノベルゲーム（短編ならいける、制作経験もあるよ）",
+            "position": 1,
+            "votes": 6
+          },
+          {
+            "label": "漫画同人誌（15ページくらい、やっぱ王道はこれ）",
+            "position": 2,
+            "votes": 5
+          },
+          {
+            "label": "18な方の漫画同人誌（許されるならこれもありよ）",
+            "position": 3,
+            "votes": 12
+          },
+          {
+            "label": "グッズ販売（写真取るフレームみたいなの作りたいね）",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2012507090666082304"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "2013550809997619276",
+        "created_at": "2026-01-20T09:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T10:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013550809997619276"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 94,
+              "tag": "NOeSIS"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1595869091352363008",
+              "start": 3,
+              "username": "kuutom9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013550809997619276",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012507091823366318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuutom9: 今年の夏コミでNOeSISの二次創作を出したいのですが、皆さんはどれがいいですか？\n（ノエ知らん人も来るなら答えておけやで）\n\nどれになってもきちんとやりきるよ\n#NOeSIS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2012507090666082304"
+          ]
+        },
+        "author_id": "1595869091352363008",
+        "conversation_id": "2012507091823366318",
+        "created_at": "2026-01-17T12:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T13:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012507091823366318"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 81,
+              "tag": "NOeSIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012507091823366318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 449,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "今年の夏コミでNOeSISの二次創作を出したいのですが、皆さんはどれがいいですか？\n（ノエ知らん人も来るなら答えておけやで）\n\nどれになってもきちんとやりきるよ\n#NOeSIS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 2355,
+          "like_count": 32874,
+          "listed_count": 9,
+          "media_count": 1524,
+          "tweet_count": 21297
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T19:57:11.000Z",
+        "description": "こんにチワワ、野生のあらいぐまさんだー！\nイラストとコスプレとノベルゲーつぶやく\nあと時々激うまギャグ言ってる\n\n裏垢→https://t.co/HSek9P5SyI\n\nnote\nhttps://t.co/ZLFae48eEb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/aoara129473",
+                "end": 83,
+                "expanded_url": "https://x.com/aoara129473",
+                "start": 60,
+                "url": "https://t.co/HSek9P5SyI"
+              },
+              {
+                "display_url": "note.com/araiguma3da",
+                "end": 113,
+                "expanded_url": "https://note.com/araiguma3da",
+                "start": 90,
+                "url": "https://t.co/ZLFae48eEb"
+              }
+            ]
+          }
+        },
+        "id": "1595869091352363008",
+        "location": "東京と埼玉",
+        "name": "あらいぐまサンダー",
+        "pinned_tweet_id": "2012507091823366318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954293708385587200/vSkkSISp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 252,
+          "like_count": 8131,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 252
+        },
+        "username": "kuutom9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1826487091959922913",
+    "created_at": "2024-08-22T05:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T06:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826488439019393179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1435356025507368965",
+          "start": 0,
+          "username": "yp729cdi63NJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826488439019393179",
+    "in_reply_to_user_id": "1435356025507368965",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826487091959922913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yp729cdi63NJ 最讨厌的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1826487091959922913",
+        "created_at": "2024-08-22T05:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T06:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826488439019393179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1435356025507368965",
+              "start": 0,
+              "username": "yp729cdi63NJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826488439019393179",
+        "in_reply_to_user_id": "1435356025507368965",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826487091959922913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yp729cdi63NJ 最讨厌的……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1435356025507368965",
+        "conversation_id": "1826487091959922913",
+        "created_at": "2024-08-22T05:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T06:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826487091959922913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826487091959922913",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "i'm starting to dream again, it's my favourite part of the day"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2680,
+          "following_count": 2529,
+          "like_count": 25917,
+          "listed_count": 7,
+          "tweet_count": 18010
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-07T21:38:25.000Z",
+        "description": "the world is yours",
+        "id": "1435356025507368965",
+        "location": "hey hey, nb/any",
+        "name": "柏思雨",
+        "pinned_tweet_id": "1768012642042741080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746994782109593600/u5ehRtug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 305,
+          "like_count": 26129,
+          "listed_count": 0,
+          "tweet_count": 3412
+        },
+        "username": "yp729cdi63NJ",
+        "verified": false
+      }
+    ]
+  }
+}

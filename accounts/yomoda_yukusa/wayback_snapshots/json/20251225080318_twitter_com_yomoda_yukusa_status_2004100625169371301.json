@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2004100625169371301",
+    "created_at": "2025-12-25T08:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T09:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004100625169371301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004100625169371301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004100359082660049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 我爸妈要来找我了。\n：啊？那你小心点。\n不用小心啊。\n：啊？他们不是来要钱……爸妈会让人压力很大吧……啊……心情会被影响吧……啊……啊……或许是家庭聚餐……啊？你都成年了还有家庭聚餐……应该是一直都有吧……你和家里有正常的交流啊……就……啊……聚…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2004100625169371301",
+        "created_at": "2025-12-25T08:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T09:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004100625169371301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004100625169371301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004100359082660049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 我爸妈要来找我了。\n：啊？那你小心点。\n不用小心啊。\n：啊？他们不是来要钱……爸妈会让人压力很大吧……啊……心情会被影响吧……啊……啊……或许是家庭聚餐……啊？你都成年了还有家庭聚餐……应该是一直都有吧……你和家里有正常的交流啊……就……啊……聚…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2004100359082660049",
+        "created_at": "2025-12-25T08:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T09:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004100359082660049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004100359082660049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我爸妈要来找我了。\n：啊？那你小心点。\n不用小心啊。\n：啊？他们不是来要钱……爸妈会让人压力很大吧……啊……心情会被影响吧……啊……啊……或许是家庭聚餐……啊？你都成年了还有家庭聚餐……应该是一直都有吧……你和家里有正常的交流啊……就……啊……聚餐……啊……对不起……祝你开心……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 2323,
+          "like_count": 31672,
+          "listed_count": 10,
+          "media_count": 1487,
+          "tweet_count": 20887
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22141,
+          "following_count": 196,
+          "like_count": 692,
+          "listed_count": 72,
+          "media_count": 97,
+          "tweet_count": 21851
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

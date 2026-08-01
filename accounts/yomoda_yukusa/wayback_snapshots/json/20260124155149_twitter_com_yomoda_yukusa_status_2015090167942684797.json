@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2015090167942684797",
+    "created_at": "2026-01-24T15:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T16:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015090167942684797"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015090167942684797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请把我的歌 带回你的家\n请把你的微笑留下\n请把我的歌 带回你的家\n请把你的微笑留下\n\n明天明天这歌声 飞遍海角天涯\n\n飞 遍 海 角 天 涯\n\n明天明天这微笑 将是遍野春花\n\n将 是 遍 野 春 花"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2015090167942684797",
+        "created_at": "2026-01-24T15:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015090167942684797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015090167942684797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请把我的歌 带回你的家\n请把你的微笑留下\n请把我的歌 带回你的家\n请把你的微笑留下\n\n明天明天这歌声 飞遍海角天涯\n\n飞 遍 海 角 天 涯\n\n明天明天这微笑 将是遍野春花\n\n将 是 遍 野 春 花"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 2359,
+          "like_count": 32913,
+          "listed_count": 9,
+          "media_count": 1539,
+          "tweet_count": 21383
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

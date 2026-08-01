@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2043914098103201999",
+    "created_at": "2026-04-14T04:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043914098103201999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1749719755119071232",
+          "start": 3,
+          "username": "lan_shang32900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043914098103201999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043635955555615220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lan_shang32900: 想起自己竭尽全力做的每一个决定最后换来这样贱的人生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2043914098103201999",
+        "created_at": "2026-04-14T04:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043914098103201999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1749719755119071232",
+              "start": 3,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043914098103201999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043635955555615220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lan_shang32900: 想起自己竭尽全力做的每一个决定最后换来这样贱的人生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2043635955555615220",
+        "created_at": "2026-04-13T10:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043635955555615220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043635955555615220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起自己竭尽全力做的每一个决定最后换来这样贱的人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2820,
+          "following_count": 2380,
+          "like_count": 33612,
+          "listed_count": 9,
+          "media_count": 1621,
+          "tweet_count": 22054
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪男的必须128\n猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041067272266248192/qcH_nf_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 796,
+          "like_count": 44171,
+          "listed_count": 3,
+          "media_count": 780,
+          "tweet_count": 11104
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

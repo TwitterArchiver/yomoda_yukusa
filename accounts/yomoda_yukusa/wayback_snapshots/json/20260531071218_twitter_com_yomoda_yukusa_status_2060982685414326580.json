@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2060913360426738141",
+    "created_at": "2026-05-31T07:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060982685414326580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024210421373444096",
+          "start": 0,
+          "username": "blingbling712"
+        },
+        {
+          "end": 27,
+          "id": "1990582437282525187",
+          "start": 15,
+          "username": "YeChuan1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060982685414326580",
+    "in_reply_to_user_id": "2024210421373444096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060913360426738141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blingbling712 @YeChuan1123 确实黏嗓子（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2060913360426738141",
+        "created_at": "2026-05-31T07:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060982685414326580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            },
+            {
+              "end": 27,
+              "id": "1990582437282525187",
+              "start": 15,
+              "username": "YeChuan1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060982685414326580",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060913360426738141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 @YeChuan1123 确实黏嗓子（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024210421373444096",
+        "conversation_id": "2060913360426738141",
+        "created_at": "2026-05-31T02:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060913360426738141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1990582437282525187",
+              "start": 3,
+              "username": "YeChuan1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060913360426738141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 622,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呛死了@YeChuan1123 一直黏在嗓子里qwq\n但解锁新食物，食谱+1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2841,
+          "following_count": 2383,
+          "like_count": 34118,
+          "listed_count": 9,
+          "media_count": 1640,
+          "tweet_count": 22321
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "uoft大二在读｜MtF🍥🏳️‍⚧️｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜负面情绪｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn |最爱的💖@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 410,
+          "like_count": 12781,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 1650
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-18T00:46:58.000Z",
+        "description": "20↑/UoT Biostudying 🇨🇦 🎀Love mizuki & Sylveon🎀\n超级碎碎念…同类互fo🏳️‍⚧️ MTF 中文/Eng /日本語(勉強中 \n*💖超喜欢好小猫@Rainchngshainn\n*💝超可爱！最爱的小对象@blingbling712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 93,
+                "username": "Rainchngshainn"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "username": "blingbling712"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuki.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mizuki.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/ebZ9R1hZ2I"
+              }
+            ]
+          }
+        },
+        "id": "1990582437282525187",
+        "location": "25時、ナイトコードで。",
+        "name": "YeChuan",
+        "pinned_tweet_id": "2051931929134420070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051271509629378560/N17TBa3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 343,
+          "like_count": 1719,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 775
+        },
+        "url": "https://t.co/ebZ9R1hZ2I",
+        "username": "YeChuan1123",
+        "verified": true
+      }
+    ]
+  }
+}

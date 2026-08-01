@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073022158998249473",
+        "3_2073022158746583040"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2073022162655690968",
+    "created_at": "2026-07-03T12:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073022162655690968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lbui0uYw7O",
+          "end": 41,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/2073022162655690968/photo/1",
+          "media_key": "3_2073022158998249473",
+          "start": 18,
+          "url": "https://t.co/Lbui0uYw7O"
+        },
+        {
+          "display_url": "pic.x.com/Lbui0uYw7O",
+          "end": 41,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/2073022162655690968/photo/1",
+          "media_key": "3_2073022158746583040",
+          "start": 18,
+          "url": "https://t.co/Lbui0uYw7O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073022162655690968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在想现在吃苦累算不算吃忆苦思甜饭 https://t.co/Lbui0uYw7O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_2073022158998249473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTaq5aaoAEI66x.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2244,
+        "media_key": "3_2073022158746583040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTaq4eagAA_GNU.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073022158998249473",
+            "3_2073022158746583040"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073022162655690968",
+        "created_at": "2026-07-03T12:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073022162655690968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lbui0uYw7O",
+              "end": 41,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2073022162655690968/photo/1",
+              "media_key": "3_2073022158998249473",
+              "start": 18,
+              "url": "https://t.co/Lbui0uYw7O"
+            },
+            {
+              "display_url": "pic.x.com/Lbui0uYw7O",
+              "end": 41,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2073022162655690968/photo/1",
+              "media_key": "3_2073022158746583040",
+              "start": 18,
+              "url": "https://t.co/Lbui0uYw7O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073022162655690968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想现在吃苦累算不算吃忆苦思甜饭 https://t.co/Lbui0uYw7O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 2364,
+          "like_count": 34106,
+          "listed_count": 9,
+          "media_count": 1644,
+          "tweet_count": 22356
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

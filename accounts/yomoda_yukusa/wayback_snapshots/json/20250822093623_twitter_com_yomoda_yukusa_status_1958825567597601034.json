@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1958824601829437632",
+    "created_at": "2025-08-22T09:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T10:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958825567597601034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1430526633211957251",
+          "start": 0,
+          "username": "didodidodddodo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958825567597601034",
+    "in_reply_to_user_id": "1430526633211957251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958824601829437632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didodidodddodo 安卓电脑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1958824601829437632",
+        "created_at": "2025-08-22T09:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T10:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958825567597601034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1430526633211957251",
+              "start": 0,
+              "username": "didodidodddodo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958825567597601034",
+        "in_reply_to_user_id": "1430526633211957251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958824601829437632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didodidodddodo 安卓电脑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430526633211957251",
+        "conversation_id": "1958824601829437632",
+        "created_at": "2025-08-22T09:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T10:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958824601829437632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958824601829437632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "安卓思维安卓长相安卓户口安卓房子安卓化妆品安卓手机安卓工资安卓电器安卓父母安卓朋友安卓口音安卓智商安卓工作安卓领导安卓同事安卓学历"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 2171,
+          "like_count": 29329,
+          "listed_count": 8,
+          "media_count": 1350,
+          "tweet_count": 19760
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-25T13:45:12.000Z",
+        "description": "你的沉默有多真诚?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v50to.me",
+                "end": 23,
+                "expanded_url": "http://v50to.me",
+                "start": 0,
+                "url": "https://t.co/Ny1AujSBCI"
+              }
+            ]
+          }
+        },
+        "id": "1430526633211957251",
+        "location": "₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "name": "非接触式对话",
+        "pinned_tweet_id": "1692020142010663006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827021254886621184/ar_L-eR3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 737,
+          "like_count": 47567,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 5247
+        },
+        "url": "https://t.co/Ny1AujSBCI",
+        "username": "didodidodddodo",
+        "verified": false
+      }
+    ]
+  }
+}

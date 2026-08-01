@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2006415403476726039",
+    "created_at": "2025-12-31T17:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T18:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006416110019829966"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006416110019829966",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006415403476726039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好難過、好難過啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006415390361137159",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9g4KsZaMAcjJ9z.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006415390361137158",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9g4KsZaMAYd336.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006415390369529856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9g4KsbaQAAjpE5.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2006415403476726039",
+        "created_at": "2025-12-31T17:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T18:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006416110019829966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006416110019829966",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006415403476726039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好難過、好難過啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006415390361137159",
+            "3_2006415390361137158",
+            "3_2006415390369529856"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "2006415403476726039",
+        "created_at": "2025-12-31T17:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T18:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006415403476726039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BoaRnfMOPr",
+              "end": 85,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2006415403476726039/photo/1",
+              "media_key": "3_2006415390361137159",
+              "start": 62,
+              "url": "https://t.co/BoaRnfMOPr"
+            },
+            {
+              "display_url": "pic.x.com/BoaRnfMOPr",
+              "end": 85,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2006415403476726039/photo/1",
+              "media_key": "3_2006415390361137158",
+              "start": 62,
+              "url": "https://t.co/BoaRnfMOPr"
+            },
+            {
+              "display_url": "pic.x.com/BoaRnfMOPr",
+              "end": 85,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2006415403476726039/photo/1",
+              "media_key": "3_2006415390369529856",
+              "start": 62,
+              "url": "https://t.co/BoaRnfMOPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006415403476726039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路上有人在抱著哭，店裡有人在吵架，令我感官過載的煙花，吵鬧絢麗啊！\n\n​諸君、為何如此痛苦啊？\n祝我們幸福、一定要幸福啊！ https://t.co/BoaRnfMOPr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 2341,
+          "like_count": 31982,
+          "listed_count": 9,
+          "media_count": 1503,
+          "tweet_count": 21079
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

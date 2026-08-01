@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2025256917556494648",
+    "created_at": "2026-02-21T18:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T19:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025283602255413383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "992551168944439296",
+          "start": 0,
+          "username": "pale_machine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025283602255413383",
+    "in_reply_to_user_id": "992551168944439296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025256917556494648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pale_machine 孔子在世"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2025256917556494648",
+        "created_at": "2026-02-21T18:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T19:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025283602255413383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "992551168944439296",
+              "start": 0,
+              "username": "pale_machine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025283602255413383",
+        "in_reply_to_user_id": "992551168944439296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025256917556494648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pale_machine 孔子在世"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "992551168944439296",
+        "conversation_id": "2025256917556494648",
+        "created_at": "2026-02-21T17:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025256917556494648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025256917556494648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真感觉郑庄公射周天子以后就是世界末日了，世界开始变得魔幻而浮躁，欣欣向荣的周礼时代就这么远去了，也许世界末日毁灭的不是物质，而是精神。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2829,
+          "following_count": 2378,
+          "like_count": 33171,
+          "listed_count": 9,
+          "media_count": 1556,
+          "tweet_count": 21588
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-04T23:46:54.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "box.n3ko.cc/_/palemachichi",
+                "end": 23,
+                "expanded_url": "http://box.n3ko.cc/_/palemachichi",
+                "start": 0,
+                "url": "https://t.co/KhELlChHi2"
+              }
+            ]
+          }
+        },
+        "id": "992551168944439296",
+        "location": "苍绿之经",
+        "name": "⏻",
+        "pinned_tweet_id": "1980886254154911905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003279650320269313/4ggu3EUX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 871,
+          "like_count": 11587,
+          "listed_count": 5,
+          "media_count": 155,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/KhELlChHi2",
+        "username": "pale_machine",
+        "verified": false
+      }
+    ]
+  }
+}

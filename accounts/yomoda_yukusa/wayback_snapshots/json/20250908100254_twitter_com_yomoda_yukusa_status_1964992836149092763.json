@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1964992836149092763",
+    "created_at": "2025-09-08T10:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T11:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964992836149092763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yomoda_yukusa/…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/yomoda_yukusa/status/1964982872525463573",
+          "start": 71,
+          "url": "https://t.co/PGdoml9RuE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964992836149092763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964982872525463573",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有个东西，祂的真名人类不能念出来。为了称呼祂，需要一个用来代表祂的代号（代词），这个代号就叫“可述录”，表示这个代词是可以被人类说出来的（） https://t.co/PGdoml9RuE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1964992836149092763",
+        "created_at": "2025-09-08T10:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T11:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964992836149092763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yomoda_yukusa/…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/yomoda_yukusa/status/1964982872525463573",
+              "start": 71,
+              "url": "https://t.co/PGdoml9RuE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964992836149092763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964982872525463573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有个东西，祂的真名人类不能念出来。为了称呼祂，需要一个用来代表祂的代号（代词），这个代号就叫“可述录”，表示这个代词是可以被人类说出来的（） https://t.co/PGdoml9RuE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1964982872525463573",
+        "created_at": "2025-09-08T09:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T10:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964982872525463573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964982872525463573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能把克苏鲁翻译成“可述录”（思索）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2215,
+          "like_count": 29622,
+          "listed_count": 9,
+          "media_count": 1359,
+          "tweet_count": 19910
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

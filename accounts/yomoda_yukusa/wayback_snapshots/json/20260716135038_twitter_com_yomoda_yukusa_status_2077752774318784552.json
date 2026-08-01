@@ -1,0 +1,575 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077738429845327872",
+        "3_2077738429882994688",
+        "3_2077738429882982400",
+        "3_2077738429820088320"
+      ],
+      "media_source_tweet_id": [
+        "2077738446278521182",
+        "2077738446278521182",
+        "2077738446278521182",
+        "2077738446278521182"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077752774318784552",
+    "created_at": "2026-07-16T13:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077752774318784552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1733217384050384896",
+          "start": 3,
+          "username": "KK_Paqu"
+        },
+        {
+          "end": 27,
+          "id": "1986452594206838785",
+          "start": 13,
+          "username": "Idontselldrug"
+        },
+        {
+          "end": 44,
+          "id": "1951181920022437889",
+          "start": 28,
+          "username": "blackdoginmyhed"
+        },
+        {
+          "end": 59,
+          "id": "1547247978565423105",
+          "start": 45,
+          "username": "yomoda_yukusa"
+        },
+        {
+          "end": 72,
+          "id": "2069247012382646272",
+          "start": 60,
+          "username": "mo2overdose"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KPERAoHipf",
+          "end": 103,
+          "expanded_url": "https://x.com/KK_Paqu/status/2077738446278521182/photo/1",
+          "media_key": "3_2077738429845327872",
+          "start": 80,
+          "url": "https://t.co/KPERAoHipf"
+        },
+        {
+          "display_url": "pic.x.com/KPERAoHipf",
+          "end": 103,
+          "expanded_url": "https://x.com/KK_Paqu/status/2077738446278521182/photo/1",
+          "media_key": "3_2077738429882994688",
+          "start": 80,
+          "url": "https://t.co/KPERAoHipf"
+        },
+        {
+          "display_url": "pic.x.com/KPERAoHipf",
+          "end": 103,
+          "expanded_url": "https://x.com/KK_Paqu/status/2077738446278521182/photo/1",
+          "media_key": "3_2077738429882982400",
+          "start": 80,
+          "url": "https://t.co/KPERAoHipf"
+        },
+        {
+          "display_url": "pic.x.com/KPERAoHipf",
+          "end": 103,
+          "expanded_url": "https://x.com/KK_Paqu/status/2077738446278521182/photo/1",
+          "media_key": "3_2077738429820088320",
+          "start": 80,
+          "url": "https://t.co/KPERAoHipf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077752774318784552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077738446278521182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KK_Paqu: @Idontselldrug @blackdoginmyhed @yomoda_yukusa @mo2overdose \n和大家一起 https://t.co/KPERAoHipf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2077738429845327872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWcF_cb0AANZEp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077738429882994688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWcF_lakAAqrDC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2077738429882982400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWcF_laYAAaR3K.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077738429820088320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWcF_WasAAPUC3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077738429845327872",
+            "3_2077738429882994688",
+            "3_2077738429882982400",
+            "3_2077738429820088320"
+          ],
+          "media_source_tweet_id": [
+            "2077738446278521182",
+            "2077738446278521182",
+            "2077738446278521182",
+            "2077738446278521182"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077752774318784552",
+        "created_at": "2026-07-16T13:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077752774318784552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1733217384050384896",
+              "start": 3,
+              "username": "KK_Paqu"
+            },
+            {
+              "end": 27,
+              "id": "1986452594206838785",
+              "start": 13,
+              "username": "Idontselldrug"
+            },
+            {
+              "end": 44,
+              "id": "1951181920022437889",
+              "start": 28,
+              "username": "blackdoginmyhed"
+            },
+            {
+              "end": 59,
+              "id": "1547247978565423105",
+              "start": 45,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 72,
+              "id": "2069247012382646272",
+              "start": 60,
+              "username": "mo2overdose"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KPERAoHipf",
+              "end": 103,
+              "expanded_url": "https://x.com/KK_Paqu/status/2077738446278521182/photo/1",
+              "media_key": "3_2077738429845327872",
+              "start": 80,
+              "url": "https://t.co/KPERAoHipf"
+            },
+            {
+              "display_url": "pic.x.com/KPERAoHipf",
+              "end": 103,
+              "expanded_url": "https://x.com/KK_Paqu/status/2077738446278521182/photo/1",
+              "media_key": "3_2077738429882994688",
+              "start": 80,
+              "url": "https://t.co/KPERAoHipf"
+            },
+            {
+              "display_url": "pic.x.com/KPERAoHipf",
+              "end": 103,
+              "expanded_url": "https://x.com/KK_Paqu/status/2077738446278521182/photo/1",
+              "media_key": "3_2077738429882982400",
+              "start": 80,
+              "url": "https://t.co/KPERAoHipf"
+            },
+            {
+              "display_url": "pic.x.com/KPERAoHipf",
+              "end": 103,
+              "expanded_url": "https://x.com/KK_Paqu/status/2077738446278521182/photo/1",
+              "media_key": "3_2077738429820088320",
+              "start": 80,
+              "url": "https://t.co/KPERAoHipf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077752774318784552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077738446278521182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KK_Paqu: @Idontselldrug @blackdoginmyhed @yomoda_yukusa @mo2overdose \n和大家一起 https://t.co/KPERAoHipf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077738429845327872",
+            "3_2077738429882994688",
+            "3_2077738429882982400",
+            "3_2077738429820088320"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077738446278521182",
+        "created_at": "2026-07-16T12:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077738446278521182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            },
+            {
+              "end": 31,
+              "id": "1951181920022437889",
+              "start": 15,
+              "username": "blackdoginmyhed"
+            },
+            {
+              "end": 46,
+              "id": "1547247978565423105",
+              "start": 32,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 59,
+              "id": "2069247012382646272",
+              "start": 47,
+              "username": "mo2overdose"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KPERAoHipf",
+              "end": 90,
+              "expanded_url": "https://x.com/KK_Paqu/status/2077738446278521182/photo/1",
+              "media_key": "3_2077738429845327872",
+              "start": 67,
+              "url": "https://t.co/KPERAoHipf"
+            },
+            {
+              "display_url": "pic.x.com/KPERAoHipf",
+              "end": 90,
+              "expanded_url": "https://x.com/KK_Paqu/status/2077738446278521182/photo/1",
+              "media_key": "3_2077738429882994688",
+              "start": 67,
+              "url": "https://t.co/KPERAoHipf"
+            },
+            {
+              "display_url": "pic.x.com/KPERAoHipf",
+              "end": 90,
+              "expanded_url": "https://x.com/KK_Paqu/status/2077738446278521182/photo/1",
+              "media_key": "3_2077738429882982400",
+              "start": 67,
+              "url": "https://t.co/KPERAoHipf"
+            },
+            {
+              "display_url": "pic.x.com/KPERAoHipf",
+              "end": 90,
+              "expanded_url": "https://x.com/KK_Paqu/status/2077738446278521182/photo/1",
+              "media_key": "3_2077738429820088320",
+              "start": 67,
+              "url": "https://t.co/KPERAoHipf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077738446278521182",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug @blackdoginmyhed @yomoda_yukusa @mo2overdose \n和大家一起 https://t.co/KPERAoHipf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2823,
+          "following_count": 2358,
+          "like_count": 34053,
+          "listed_count": 9,
+          "media_count": 1646,
+          "tweet_count": 22365
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 220,
+          "like_count": 1070,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 857
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 304,
+          "like_count": 2634,
+          "listed_count": 1,
+          "media_count": 520,
+          "tweet_count": 3147
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T07:23:46.000Z",
+        "description": "某个神经病的亡魂/超级烟鬼肺癌预备役/🟨⬜️🟪⬛️/代词随意/可以叫我nagi/日常碎碎念推以及神必小测评\n电子烟及纸烟相关可以咨询我（ 推文能看到很多记录！",
+        "id": "1951181920022437889",
+        "location": "瑞瓦肖,褴褛飞旋",
+        "name": "懸想/AAA需要尼古丁找我（",
+        "pinned_tweet_id": "2063241165449957425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037140504161218560/uHI5kO5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 656,
+          "like_count": 4650,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1335
+        },
+        "url": "",
+        "username": "blackdoginmyhed",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T02:41:54.000Z",
+        "description": "前世：momo13388788781\n很高兴你找到我了！😧\n\n这里是来自母星为火星外星人本体的林momo👽很高兴见到你！【因为精神问题太严重导致无法与普通人类拥有认同感，遂认定自己是火星人的mo】\n\n我是水仙自推🥺💖 目前精神残疾正在尝试画画谋生😭",
+        "id": "2069247012382646272",
+        "location": "wonderland",
+        "name": "🥩人肉叉烧包🍽️【mo3.0】",
+        "pinned_tweet_id": "2069254110931788265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076351597093990400/cZeuoDTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 24,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "mo2overdose",
+        "verified": false
+      }
+    ]
+  }
+}

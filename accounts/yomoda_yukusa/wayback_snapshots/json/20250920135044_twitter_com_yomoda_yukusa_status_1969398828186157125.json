@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1969046134325657879",
+    "created_at": "2025-09-20T13:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T14:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969398828186157125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1479730386431545346",
+          "start": 0,
+          "username": "YuKi520OwO"
+        },
+        {
+          "end": 22,
+          "id": "1963118330707050496",
+          "start": 12,
+          "username": "mtnyan123"
+        },
+        {
+          "end": 31,
+          "id": "1512976991976402949",
+          "start": 23,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969398828186157125",
+    "in_reply_to_user_id": "1479730386431545346",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969253822233969023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuKi520OwO @mtnyan123 @bghtnya"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1969046134325657879",
+        "created_at": "2025-09-20T13:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T14:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969398828186157125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 22,
+              "id": "1963118330707050496",
+              "start": 12,
+              "username": "mtnyan123"
+            },
+            {
+              "end": 31,
+              "id": "1512976991976402949",
+              "start": 23,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969398828186157125",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969253822233969023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO @mtnyan123 @bghtnya"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1969046134325657879",
+        "created_at": "2025-09-20T04:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T05:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969253822233969023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1963118330707050496",
+              "start": 0,
+              "username": "mtnyan123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969253822233969023",
+        "in_reply_to_user_id": "1963118330707050496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969046134325657879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtnyan123 拉面好烫喵（一堆表情符号）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2789,
+          "following_count": 2276,
+          "like_count": 29771,
+          "listed_count": 10,
+          "media_count": 1365,
+          "tweet_count": 19982
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "。",
+        "id": "1479730386431545346",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "樱井🥺千雪🏳️‍⚧️🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8690,
+          "following_count": 1094,
+          "like_count": 15463,
+          "listed_count": 15,
+          "media_count": 271,
+          "tweet_count": 1983
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T05:54:31.000Z",
+        "description": "MtX🍥 / 无证含糖｜泛性恋 / 社恐  / 缺爱b / 我是猫 / 主页背景图是本猫",
+        "id": "1963118330707050496",
+        "location": "亚硝酸钠共和国",
+        "name": "乌冬面🍥🐱（大号被盗",
+        "pinned_tweet_id": "1968452745377063222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968449968529920000/tt2tmkg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 109,
+          "like_count": 277,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 57
+        },
+        "username": "mtnyan123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7550,
+          "following_count": 2081,
+          "like_count": 159547,
+          "listed_count": 18,
+          "media_count": 3161,
+          "tweet_count": 40266
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

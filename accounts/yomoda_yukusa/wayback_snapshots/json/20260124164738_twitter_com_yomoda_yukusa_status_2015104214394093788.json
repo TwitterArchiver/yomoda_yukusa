@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2015104214394093788",
+    "created_at": "2026-01-24T16:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T17:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015104214394093788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1867035438051131393",
+          "start": 3,
+          "username": "Iwilldieyoutoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015104214394093788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990645176679936025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iwilldieyoutoo: 自杀季到了，互关们一个接一个地死掉，讣告一个接一个地发，总一天会轮到我吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2015104214394093788",
+        "created_at": "2026-01-24T16:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T17:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015104214394093788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1867035438051131393",
+              "start": 3,
+              "username": "Iwilldieyoutoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015104214394093788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990645176679936025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Iwilldieyoutoo: 自杀季到了，互关们一个接一个地死掉，讣告一个接一个地发，总一天会轮到我吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867035438051131393",
+        "conversation_id": "1990645176679936025",
+        "created_at": "2025-11-18T04:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T05:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990645176679936025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990645176679936025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 211,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自杀季到了，互关们一个接一个地死掉，讣告一个接一个地发，总一天会轮到我吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 2359,
+          "like_count": 32914,
+          "listed_count": 9,
+          "media_count": 1539,
+          "tweet_count": 21385
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:35:24.000Z",
+        "description": "顺女泛性恋 // ✝精品神药滥用✝ // adhd // 会回fo但是会比较慢大概一到三天 // 🚪52解锁qq好友位 // 只收口令红包喵 // 周末不怎么上X可能错过口令请见谅 // 四叶草是幸运十叶草是螺旋桨带我升天 // 生日9.28求一个生日那天给我爆金币的好心人😢",
+        "id": "1867035438051131393",
+        "name": "十字草草",
+        "pinned_tweet_id": "2000901943707972040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010682131769663488/N8kFV-tv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 145,
+          "like_count": 3153,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 510
+        },
+        "username": "Iwilldieyoutoo",
+        "verified": false
+      }
+    ]
+  }
+}

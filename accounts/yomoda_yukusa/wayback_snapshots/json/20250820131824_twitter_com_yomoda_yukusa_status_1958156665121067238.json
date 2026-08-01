@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1957489019664887967",
+    "created_at": "2025-08-20T13:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T14:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958156665121067238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1487258598774231051",
+          "start": 0,
+          "username": "CencenTiredZzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958156665121067238",
+    "in_reply_to_user_id": "1487258598774231051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957489019664887967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CencenTiredZzz 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1957489019664887967",
+        "created_at": "2025-08-20T13:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T14:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958156665121067238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1487258598774231051",
+              "start": 0,
+              "username": "CencenTiredZzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958156665121067238",
+        "in_reply_to_user_id": "1487258598774231051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957489019664887967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CencenTiredZzz 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487258598774231051",
+        "conversation_id": "1957489019664887967",
+        "created_at": "2025-08-18T17:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T18:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957489019664887967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957489019664887967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 300,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忽然想到要是我死了有人给我发讣告触发风光大葬机制的话他们都会看到什么：\n好想吃冰粉（以及各种对冰粉发电）\n以及音游成绩图\n可以说非常有意义了（？）\n算了反正也没人看，和我眼熟的总共就那几个，能触发什么机制\n以及看到的和我贴贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 2166,
+          "like_count": 29296,
+          "listed_count": 8,
+          "media_count": 1349,
+          "tweet_count": 19746
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T02:57:48.000Z",
+        "description": "这里是岑岑！\n音游玩家 移动端主玩arc ptt13.02 12段通过 街机端主要打mai 目前刚刚w5|疑似翻车（并非疑似）|为什么我发音游没人看",
+        "id": "1487258598774231051",
+        "location": "如月车站",
+        "name": "岑岑zzz",
+        "pinned_tweet_id": "1955182575225541053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953804108307345416/ORUyOZGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 121,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 421
+        },
+        "username": "CencenTiredZzz",
+        "verified": false
+      }
+    ]
+  }
+}

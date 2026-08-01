@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2071273485813322109",
+    "created_at": "2026-06-29T08:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071517423413653645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071517423413653645",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071273485813322109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 分我点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3276,
+        "media_key": "3_2071273472286949376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6kP7xagAAjcHN.jpg",
+        "width": 2457
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2071273485813322109",
+        "created_at": "2026-06-29T08:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071517423413653645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071517423413653645",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071273485813322109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 分我点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071273472286949376"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "conversation_id": "2071273485813322109",
+        "created_at": "2026-06-28T16:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071273485813322109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oNhSzT2Lfh",
+              "end": 23,
+              "expanded_url": "https://x.com/yu_huacs/status/2071273485813322109/photo/1",
+              "media_key": "3_2071273472286949376",
+              "start": 0,
+              "url": "https://t.co/oNhSzT2Lfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071273485813322109",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 638,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oNhSzT2Lfh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2834,
+          "following_count": 2360,
+          "like_count": 34093,
+          "listed_count": 9,
+          "media_count": 1642,
+          "tweet_count": 22350
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "双相/准备复学中 路上随机刷新的公路车手\n热衷于公路车/宅家 一个公路车技师 二次元/cosplay/摄影/割手/od\n萌物@yekatinez 我の🈹🈹@silentbleeding1  里账 @yuhuacs5570",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "yekatinez"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "silentbleeding1"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "yuhuacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdoNl"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "89.64km",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2029682364067238377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070906717412470784/YDT3T7qp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 1469,
+          "like_count": 121159,
+          "listed_count": 8,
+          "media_count": 2130,
+          "tweet_count": 20161
+        },
+        "url": "https://t.co/fGARwmdoNl",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

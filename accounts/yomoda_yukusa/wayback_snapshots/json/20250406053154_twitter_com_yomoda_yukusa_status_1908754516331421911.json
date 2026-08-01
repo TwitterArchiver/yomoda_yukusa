@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1908751602715894219",
+    "created_at": "2025-04-06T05:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T06:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908754516331421911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647217584117280771",
+          "start": 0,
+          "username": "zanbuzhidao555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908754516331421911",
+    "in_reply_to_user_id": "1647217584117280771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908751602715894219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zanbuzhidao555 佣金能不能多给点"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1908751602715894219].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1908751602715894219",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1908751602715894219"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1908751602715894219",
+        "created_at": "2025-04-06T05:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T06:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908754516331421911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647217584117280771",
+              "start": 0,
+              "username": "zanbuzhidao555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908754516331421911",
+        "in_reply_to_user_id": "1647217584117280771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908751602715894219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zanbuzhidao555 佣金能不能多给点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2745,
+          "following_count": 2790,
+          "like_count": 27361,
+          "listed_count": 7,
+          "media_count": 1271,
+          "tweet_count": 19003
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T12:38:21.000Z",
+        "description": "下辈子当npd在生活中成为奴隶主",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zanbuzhidao555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zanbuzhidao555",
+                "start": 0,
+                "url": "https://t.co/aGLmp4ENz3"
+              }
+            ]
+          }
+        },
+        "id": "1647217584117280771",
+        "location": "？nowhere",
+        "name": "山᳐海懒得平᳐੭",
+        "pinned_tweet_id": "1908548451664543988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876957126725357568/-cdcW8Y7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 1253,
+          "like_count": 150033,
+          "listed_count": 1,
+          "media_count": 1296,
+          "tweet_count": 29582
+        },
+        "url": "https://t.co/aGLmp4ENz3",
+        "username": "zanbuzhidao555",
+        "verified": false
+      }
+    ]
+  }
+}

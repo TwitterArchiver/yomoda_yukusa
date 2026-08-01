@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1877722608868761631",
+    "created_at": "2025-01-10T14:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T15:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877725824754839595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1176077981099446272",
+          "start": 0,
+          "username": "sikkmywife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877725824754839595",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877725493656498395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sikkmywife 我每天睡十小时往上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1877722608868761631",
+        "created_at": "2025-01-10T14:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T15:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877725824754839595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "sikkmywife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877725824754839595",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877725493656498395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sikkmywife 我每天睡十小时往上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176077981099446272",
+        "conversation_id": "1877722608868761631",
+        "created_at": "2025-01-10T14:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T15:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877725493656498395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877725493656498395",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877724680146067477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 我之前熬了一整天就会这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2761,
+          "following_count": 2739,
+          "like_count": 26873,
+          "listed_count": 6,
+          "media_count": 1243,
+          "tweet_count": 18714
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "",
+        "id": "1176077981099446272",
+        "location": "Hinode-machi, Tokyo",
+        "name": "白鳥与白鳥在1789",
+        "pinned_tweet_id": "1874491312956936640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877698718008508416/_-euZqSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 463,
+          "like_count": 8115,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 665
+        },
+        "username": "sikkmywife",
+        "verified": false
+      }
+    ]
+  }
+}

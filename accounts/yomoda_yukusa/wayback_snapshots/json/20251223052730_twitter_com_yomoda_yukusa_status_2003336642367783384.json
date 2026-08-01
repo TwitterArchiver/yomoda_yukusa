@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2002764906324750435",
+    "created_at": "2025-12-23T05:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T06:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003336642367783384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1960187829687885824",
+          "start": 0,
+          "username": "taikongjile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003336642367783384",
+    "in_reply_to_user_id": "1960187829687885824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003333559407509604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile 没用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_2003333555263537154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G81FQSAagAItwxN.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2002764906324750435",
+        "created_at": "2025-12-23T05:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T06:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003336642367783384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1960187829687885824",
+              "start": 0,
+              "username": "taikongjile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003336642367783384",
+        "in_reply_to_user_id": "1960187829687885824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003333559407509604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile 没用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003333555263537154"
+          ]
+        },
+        "author_id": "1960187829687885824",
+        "conversation_id": "2002764906324750435",
+        "created_at": "2025-12-23T05:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T06:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003333559407509604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FaPJ7inxpL",
+              "end": 48,
+              "expanded_url": "https://x.com/taikongjile/status/2003333559407509604/photo/1",
+              "media_key": "3_2003333555263537154",
+              "start": 25,
+              "url": "https://t.co/FaPJ7inxpL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003333559407509604",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002764906324750435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 你需要幸福，需要它 https://t.co/FaPJ7inxpL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2775,
+          "following_count": 2322,
+          "like_count": 31619,
+          "listed_count": 10,
+          "media_count": 1483,
+          "tweet_count": 20857
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQt63U\n交流群:https://t.co/FvFWw9Jk8E\nDC交流群：https://t.co/JtSA2uwb28\n社区:https://t.co/JwQ9mOTHUy\n官方直推交流群:https://t.co/MpXjzzSiT5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQt63U"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9Jk8E"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/JtSA2uwb28"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 113,
+                "expanded_url": "https://pr80.bid/",
+                "start": 90,
+                "url": "https://t.co/JwQ9mOTHUy"
+              },
+              {
+                "display_url": "wwbwm.lanzouq.com/imtjv3e",
+                "end": 145,
+                "expanded_url": "https://wwbwm.lanzouq.com/imtjv3e",
+                "start": 122,
+                "url": "https://t.co/MpXjzzSiT5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhdkn"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "太空极乐百科🍥",
+        "pinned_tweet_id": "2003333773283459125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002586355323502592/8QOsOMbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4871,
+          "following_count": 1558,
+          "like_count": 996,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 1731
+        },
+        "url": "https://t.co/DM4fmdhdkn",
+        "username": "taikongjile",
+        "verified": false
+      }
+    ]
+  }
+}

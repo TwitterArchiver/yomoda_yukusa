@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1981966972775776407",
+    "created_at": "2025-10-25T14:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T15:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982098109900702175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902735424839413760",
+          "start": 0,
+          "username": "litgraley"
+        },
+        {
+          "end": 23,
+          "id": "1634940148147441667",
+          "start": 11,
+          "username": "emiya436900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982098109900702175",
+    "in_reply_to_user_id": "1902735424839413760",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982034012047880635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litgraley @emiya436900 （？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1981966972775776407",
+        "created_at": "2025-10-25T14:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T15:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982098109900702175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902735424839413760",
+              "start": 0,
+              "username": "litgraley"
+            },
+            {
+              "end": 23,
+              "id": "1634940148147441667",
+              "start": 11,
+              "username": "emiya436900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982098109900702175",
+        "in_reply_to_user_id": "1902735424839413760",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982034012047880635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litgraley @emiya436900 （？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902735424839413760",
+        "conversation_id": "1981966972775776407",
+        "created_at": "2025-10-25T10:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T11:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982034012047880635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634940148147441667",
+              "start": 0,
+              "username": "emiya436900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982034012047880635",
+        "in_reply_to_user_id": "1634940148147441667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981966972775776407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emiya436900 350324（即答）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2795,
+          "following_count": 2325,
+          "like_count": 30616,
+          "listed_count": 10,
+          "media_count": 1400,
+          "tweet_count": 20313
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "11年的/叫我小灰就好/听说添加描述更容易被发现（好神金啊哈哈哈哈哈）/爱用一些奇怪的表达了/嗷~~~/飞友，常驻pek……/intj/喜欢抹茶/172km（打错了信吗）/想和别人聊天",
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "1978116985998213537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 167,
+          "like_count": 1730,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 367
+        },
+        "username": "litgraley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:31:31.000Z",
+        "description": "#世界治愈计划 #自杀干预 #树洞 一个匿名提问箱https://t.co/qN5UYD3cR4\n小小的荧光，只能散发出微小的光芒",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "世界治愈计划"
+              },
+              {
+                "end": 13,
+                "start": 8,
+                "tag": "自杀干预"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "树洞"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/emiya4369",
+                "end": 48,
+                "expanded_url": "https://ngl.link/emiya4369",
+                "start": 25,
+                "url": "https://t.co/qN5UYD3cR4"
+              }
+            ]
+          }
+        },
+        "id": "1634940148147441667",
+        "name": "荧光",
+        "pinned_tweet_id": "1957925658887352625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898513488735272960/v6of14g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2318,
+          "following_count": 406,
+          "like_count": 1842,
+          "listed_count": 5,
+          "media_count": 419,
+          "tweet_count": 2670
+        },
+        "username": "emiya436900",
+        "verified": false
+      }
+    ]
+  }
+}

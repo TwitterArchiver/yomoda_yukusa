@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2010864947149132189",
+    "created_at": "2026-01-13T14:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T15:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011079005718609992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1468567542264664067",
+          "start": 0,
+          "username": "Angelica_zj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011079005718609992",
+    "in_reply_to_user_id": "1468567542264664067",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010864947149132189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angelica_zj 抱抱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2010864947149132189",
+        "created_at": "2026-01-13T14:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T15:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011079005718609992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1468567542264664067",
+              "start": 0,
+              "username": "Angelica_zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011079005718609992",
+        "in_reply_to_user_id": "1468567542264664067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010864947149132189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angelica_zj 抱抱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468567542264664067",
+        "conversation_id": "2010864947149132189",
+        "created_at": "2026-01-13T00:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T01:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010864947149132189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nilshiro/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/nilshiro/status/2010284580755177798",
+              "start": 25,
+              "url": "https://t.co/Sv1g9ZfcRs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010864947149132189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 791,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010284580755177798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恨自己认识了太多人，就这样眼看着大家一个个的离开 https://t.co/Sv1g9ZfcRs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 2351,
+          "like_count": 32727,
+          "listed_count": 9,
+          "media_count": 1513,
+          "tweet_count": 21219
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T13:06:19.000Z",
+        "description": "烂画画的 / 请叫我小九，我爱你们 / shtwt发布均为库存，积极疗愈中 / 盗图死妈 / 祝各位生活顺利",
+        "id": "1468567542264664067",
+        "location": "暗黑螺旋女巫城堡🏰🪄💀",
+        "name": "火星电子女巫",
+        "pinned_tweet_id": "1657563635739430912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634950497428971521/J5dGey3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25286,
+          "following_count": 1025,
+          "like_count": 14459,
+          "listed_count": 40,
+          "media_count": 1498,
+          "tweet_count": 16452
+        },
+        "username": "Angelica_zj",
+        "verified": false
+      }
+    ]
+  }
+}

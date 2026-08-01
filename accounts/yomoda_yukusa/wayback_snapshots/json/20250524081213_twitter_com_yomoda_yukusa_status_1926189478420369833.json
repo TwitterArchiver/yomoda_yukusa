@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1926182658318430569",
+    "created_at": "2025-05-24T08:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T09:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926189478420369833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1507823509833236480",
+          "start": 0,
+          "username": "4catlicka"
+        }
+      ],
+      "urls": [
+        {
+          "description": "成为总统，建立强盛国家！",
+          "display_url": "play.google.com/store/apps/det…",
+          "end": 34,
+          "expanded_url": "https://play.google.com/store/apps/details?id=com.oxiwyle.modernage2&hl=zh&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E7%8E%B0%E4%BB%A3%E4%B8%96%E7%95%8C2%E6%A8%A1%E6%8B%9F%E6%80%BB%E7%BB%9F&pcampaignid=APPU_1_Tn8xaK6rBsi-vr0P5PXQyAI",
+          "start": 11,
+          "status": 200,
+          "title": "现代世界2模拟总统 - Google Play 上的应用",
+          "unwound_url": "https://play.google.com/store/apps/details?id=com.oxiwyle.modernage2&hl=zh&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E7%8E%B0%E4%BB%A3%E4%B8%96%E7%95%8C2%E6%A8%A1%E6%8B%9F%E6%80%BB%E7%BB%9F&pcampaignid=APPU_1_Tn8xaK6rBsi-vr0P5PXQyAI",
+          "url": "https://t.co/AGwX2GmtUY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926189478420369833",
+    "in_reply_to_user_id": "1507823509833236480",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926183492993290285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4catlicka https://t.co/AGwX2GmtUY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1926182658318430569",
+        "created_at": "2025-05-24T08:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T09:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926189478420369833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1507823509833236480",
+              "start": 0,
+              "username": "4catlicka"
+            }
+          ],
+          "urls": [
+            {
+              "description": "成为总统，建立强盛国家！",
+              "display_url": "play.google.com/store/apps/det…",
+              "end": 34,
+              "expanded_url": "https://play.google.com/store/apps/details?id=com.oxiwyle.modernage2&hl=zh&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E7%8E%B0%E4%BB%A3%E4%B8%96%E7%95%8C2%E6%A8%A1%E6%8B%9F%E6%80%BB%E7%BB%9F&pcampaignid=APPU_1_Tn8xaK6rBsi-vr0P5PXQyAI",
+              "start": 11,
+              "status": 200,
+              "title": "现代世界2模拟总统 - Google Play 上的应用",
+              "unwound_url": "https://play.google.com/store/apps/details?id=com.oxiwyle.modernage2&hl=zh&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3D%E7%8E%B0%E4%BB%A3%E4%B8%96%E7%95%8C2%E6%A8%A1%E6%8B%9F%E6%80%BB%E7%BB%9F&pcampaignid=APPU_1_Tn8xaK6rBsi-vr0P5PXQyAI",
+              "url": "https://t.co/AGwX2GmtUY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926189478420369833",
+        "in_reply_to_user_id": "1507823509833236480",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926183492993290285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4catlicka https://t.co/AGwX2GmtUY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507823509833236480",
+        "conversation_id": "1926182658318430569",
+        "created_at": "2025-05-24T07:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T08:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926183492993290285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926183492993290285",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926182658318430569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa how do i play this"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2801,
+          "following_count": 2107,
+          "like_count": 28366,
+          "listed_count": 9,
+          "media_count": 1299,
+          "tweet_count": 19311
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T20:55:47.000Z",
+        "description": "1/3 grand duke 2/3 pepsi max mango 100% pure love  ₊˚⊹♡ @frailfeathers",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "frailfeathers"
+              }
+            ]
+          }
+        },
+        "id": "1507823509833236480",
+        "location": "YURI!!",
+        "name": "clair E",
+        "pinned_tweet_id": "1914700390487965970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841758205371633665/M2ZQPsDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 481,
+          "like_count": 153604,
+          "listed_count": 4,
+          "media_count": 1477,
+          "tweet_count": 20449
+        },
+        "username": "4catlicka",
+        "verified": false
+      }
+    ]
+  }
+}

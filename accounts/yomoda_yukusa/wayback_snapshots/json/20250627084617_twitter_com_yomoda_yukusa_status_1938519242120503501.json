@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1938516388647416227",
+    "created_at": "2025-06-27T08:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T09:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938519242120503501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894375325934784517",
+          "start": 0,
+          "username": "sword_1003"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/yomoda_yukusa/…",
+          "end": 35,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1931306015020232768?t=TVmr7hOf8kIgO21m0yabeA&s=19",
+          "start": 12,
+          "url": "https://t.co/5LADZgnyVY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938519242120503501",
+    "in_reply_to_user_id": "1894375325934784517",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931306015020232768",
+        "type": "quoted"
+      },
+      {
+        "id": "1938517757504749684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sword_1003 https://t.co/5LADZgnyVY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1938516388647416227",
+        "created_at": "2025-06-27T08:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T09:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938519242120503501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "sword_1003"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yomoda_yukusa/…",
+              "end": 35,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1931306015020232768?t=TVmr7hOf8kIgO21m0yabeA&s=19",
+              "start": 12,
+              "url": "https://t.co/5LADZgnyVY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938519242120503501",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931306015020232768",
+            "type": "quoted"
+          },
+          {
+            "id": "1938517757504749684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sword_1003 https://t.co/5LADZgnyVY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1931306015020232768",
+        "created_at": "2025-06-07T11:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T12:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931306015020232768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931306015020232768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 474,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想杀掉一个在七年前认识的人、两个在四年前认识的人，和一个在两年前认识的人。\n不是恨 只是 我没办法容忍她们存在于我的记忆和过往中……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894375325934784517",
+        "conversation_id": "1938516388647416227",
+        "created_at": "2025-06-27T08:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T09:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938517757504749684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938517757504749684",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938516388647416227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 所以“殉情”的人才会这么多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2148,
+          "like_count": 28974,
+          "listed_count": 7,
+          "media_count": 1336,
+          "tweet_count": 19602
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "紅劍 | BPD | ADHD | 迷之語言 | 推文跨度較大 | 繁體字愛好者 | 喜歡收藏古早手機和SIM卡 | 東方Project愛好者 | 追求自我實現",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sword_1003",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sword_1003",
+                "start": 0,
+                "url": "https://t.co/XsfLeAzBaa"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "name": "HongSword🗡️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930851550249066496/NMlvzWDc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 106,
+          "like_count": 5084,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 1948
+        },
+        "url": "https://t.co/XsfLeAzBaa",
+        "username": "sword_1003",
+        "verified": false
+      }
+    ]
+  }
+}

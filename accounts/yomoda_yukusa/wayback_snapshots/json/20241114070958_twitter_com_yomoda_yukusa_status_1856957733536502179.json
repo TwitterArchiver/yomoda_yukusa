@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1856679774346952926",
+    "created_at": "2024-11-14T07:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T08:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856957733536502179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "897749985361444866",
+          "start": 0,
+          "username": "woaishuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856957733536502179",
+    "in_reply_to_user_id": "897749985361444866",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856679774346952926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaishuji 喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1856679774346952926",
+        "created_at": "2024-11-14T07:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T08:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856957733536502179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "897749985361444866",
+              "start": 0,
+              "username": "woaishuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856957733536502179",
+        "in_reply_to_user_id": "897749985361444866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856679774346952926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaishuji 喵。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1856679773046816768"
+          ]
+        },
+        "author_id": "897749985361444866",
+        "conversation_id": "1856679774346952926",
+        "created_at": "2024-11-13T12:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T13:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856679774346952926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856679774346952926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 553,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在考虑一个相对要命的问题\n要不要彻底停了🍬\n优势:可以不用在🍬上消费/可以随意发泄⭐🐟/有可能对自己的精神状态有好处（?）\n劣势:让本就混乱的性别认知再混乱些/会不甘心自己连个不男不女的都做的这么失败/可能会由此带来的雄性激素反扑导致皮肤恶化/其他（?）\n［问题现状：我已经断断续续两年吃］"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2755,
+          "following_count": 2711,
+          "like_count": 26650,
+          "listed_count": 6,
+          "tweet_count": 18544
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-16T09:20:50.000Z",
+        "description": "",
+        "id": "897749985361444866",
+        "name": "文学少女安德烈",
+        "pinned_tweet_id": "1856679774346952926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739475919306362880/AKQqeTED_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 1653,
+          "like_count": 344459,
+          "listed_count": 8,
+          "tweet_count": 13261
+        },
+        "username": "woaishuji",
+        "verified": false
+      }
+    ]
+  }
+}

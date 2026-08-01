@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1985345746787541337",
+    "created_at": "2025-11-03T13:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T14:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985345746787541337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yomoda_yukusa/…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/yomoda_yukusa/status/1985312364225565069",
+          "start": 26,
+          "url": "https://t.co/93Wt1nIj4Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985345746787541337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985312364225565069",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "還有12%電，好焦慮。\n希望明天能找到能修的地方。 https://t.co/93Wt1nIj4Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1985345746787541337",
+        "created_at": "2025-11-03T13:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985345746787541337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yomoda_yukusa/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/yomoda_yukusa/status/1985312364225565069",
+              "start": 26,
+              "url": "https://t.co/93Wt1nIj4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985345746787541337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985312364225565069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "還有12%電，好焦慮。\n希望明天能找到能修的地方。 https://t.co/93Wt1nIj4Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1985312364225565069",
+        "created_at": "2025-11-03T11:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T12:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985312364225565069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985312364225565069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，我手机尾插充电口坏了，店里说现在预约要过三四天才能修（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984486210988089345/XvAXq227_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2331,
+          "like_count": 30832,
+          "listed_count": 10,
+          "media_count": 1414,
+          "tweet_count": 20416
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

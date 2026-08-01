@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1982572733415506355",
+    "created_at": "2025-10-26T22:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T23:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982579949606440989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1777176214652035072",
+          "start": 0,
+          "username": "7u7uqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982579949606440989",
+    "in_reply_to_user_id": "1777176214652035072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982572733415506355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7u7uqu QQ爱~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1982572733415506355",
+        "created_at": "2025-10-26T22:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T23:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982579949606440989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1777176214652035072",
+              "start": 0,
+              "username": "7u7uqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982579949606440989",
+        "in_reply_to_user_id": "1777176214652035072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982572733415506355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7u7uqu QQ爱~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777176214652035072",
+        "conversation_id": "1982572733415506355",
+        "created_at": "2025-10-26T22:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T23:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982572733415506355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982572733415506355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽尼玛的谁跟我推特恋一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2325,
+          "like_count": 30657,
+          "listed_count": 10,
+          "media_count": 1401,
+          "tweet_count": 20333
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T03:26:57.000Z",
+        "description": "この世界が終わるのが今ならいい。",
+        "id": "1777176214652035072",
+        "name": "吗啡天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822887119930699776/dLc82awk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 7,
+          "like_count": 84,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 196
+        },
+        "username": "7u7uqu",
+        "verified": false
+      }
+    ]
+  }
+}

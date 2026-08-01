@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1974028019921793161",
+    "created_at": "2025-10-03T08:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T09:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974028019921793161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1690931822719606784",
+          "start": 3,
+          "username": "honxine8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974028019921793161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974019860758728947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @honxine8964: 自願死去的人既不瘋狂也不愚蠢。他的死亡都是他最本己的事情，旁人無權評判，在所有自願死亡者那裏都是如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1974028019921793161",
+        "created_at": "2025-10-03T08:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T09:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974028019921793161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1690931822719606784",
+              "start": 3,
+              "username": "honxine8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974028019921793161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974019860758728947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @honxine8964: 自願死去的人既不瘋狂也不愚蠢。他的死亡都是他最本己的事情，旁人無權評判，在所有自願死亡者那裏都是如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690931822719606784",
+        "conversation_id": "1974019860758728947",
+        "created_at": "2025-10-03T07:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T08:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974019860758728947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974019860758728947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自願死去的人既不瘋狂也不愚蠢。他的死亡都是他最本己的事情，旁人無權評判，在所有自願死亡者那裏都是如此"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 2284,
+          "like_count": 29918,
+          "listed_count": 10,
+          "media_count": 1374,
+          "tweet_count": 20051
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T03:42:59.000Z",
+        "description": "樢㰴枂\n涑暮渘葵\n喵派\n小殤\noder\n自殺預備中",
+        "id": "1690931822719606784",
+        "location": "Kitadaito-son, Okinawa",
+        "name": "汐馜栯(欠債相似中)",
+        "pinned_tweet_id": "1972207973188751633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917157239468793856/s-NHcCmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3082,
+          "following_count": 2768,
+          "like_count": 267938,
+          "listed_count": 15,
+          "media_count": 1777,
+          "tweet_count": 65067
+        },
+        "username": "honxine8964",
+        "verified": false
+      }
+    ]
+  }
+}

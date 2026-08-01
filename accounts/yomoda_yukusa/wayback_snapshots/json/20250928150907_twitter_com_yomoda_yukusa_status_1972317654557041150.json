@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1972304994440454233",
+    "created_at": "2025-09-28T15:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T16:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972317654557041150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1502654786453204994",
+          "start": 0,
+          "username": "uranus_chaos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972317654557041150",
+    "in_reply_to_user_id": "1502654786453204994",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972316905009783278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uranus_chaos 啊……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972316895773859840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G18TxFUaIAAcrg2.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1972304994440454233",
+        "created_at": "2025-09-28T15:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T16:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972317654557041150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1502654786453204994",
+              "start": 0,
+              "username": "uranus_chaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972317654557041150",
+        "in_reply_to_user_id": "1502654786453204994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972316905009783278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uranus_chaos 啊……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972316895773859840"
+          ]
+        },
+        "author_id": "1502654786453204994",
+        "conversation_id": "1972304994440454233",
+        "created_at": "2025-09-28T15:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T16:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972316905009783278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/47x85jaumW",
+              "end": 44,
+              "expanded_url": "https://x.com/uranus_chaos/status/1972316905009783278/photo/1",
+              "media_key": "3_1972316895773859840",
+              "start": 21,
+              "url": "https://t.co/47x85jaumW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972316905009783278",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972312299223564568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 大概就是： https://t.co/47x85jaumW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 2278,
+          "like_count": 29866,
+          "listed_count": 10,
+          "media_count": 1371,
+          "tweet_count": 20024
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T14:36:45.000Z",
+        "description": "拯救，陪伴，热爱，绝不抛弃。 ‖ 双星系统/主恒星/Venus：@shiyulin_‖药学毕业/医学生/护理学毕业/心理学二专‖INTP野生水母‖里推：@不告诉你！ ‖客服瑶光猫：@yaoguangmao（在线时间am11:30-pm10:30❗）点击进入无限循环：@uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "shiyulin_"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "yaoguangmao"
+              },
+              {
+                "end": 146,
+                "start": 133,
+                "username": "uranus_chaos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mtf_great",
+                "end": 23,
+                "expanded_url": "https://t.me/mtf_great",
+                "start": 0,
+                "url": "https://t.co/ResOORYaTk"
+              }
+            ]
+          }
+        },
+        "id": "1502654786453204994",
+        "location": "是一个无条件接受倾诉的树洞，休息时间是a.m 01：00。",
+        "name": "8時、officeで摩卡あじ🪼诺诺🍥🏴🏳️‍🌈【学术推】【南河三】",
+        "pinned_tweet_id": "1958099694309048384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958164515515957248/htMD0p97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 307,
+          "like_count": 33513,
+          "listed_count": 1,
+          "media_count": 1117,
+          "tweet_count": 8489
+        },
+        "url": "https://t.co/ResOORYaTk",
+        "username": "uranus_chaos",
+        "verified": true
+      }
+    ]
+  }
+}

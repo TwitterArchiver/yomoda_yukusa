@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1926354728767705116",
+    "created_at": "2025-05-24T19:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T20:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926364561185161364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452123941686976519",
+          "start": 0,
+          "username": "C21Koy_7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926364561185161364",
+    "in_reply_to_user_id": "1452123941686976519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926354728767705116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C21Koy_7c 可爱小严！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1926354652485861376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrvJWaTXQAA8rj1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926354652519399424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrvJWabXAAASu7g.jpg",
+        "width": 1108
+      },
+      {
+        "duration_ms": 9833,
+        "height": 960,
+        "media_key": "13_1926354652800389120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1926354652800389120/img/niI5Sk2DhgeYU1Kv.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926354652800389120/vid/avc1/320x568/77n2VS3mtg0rAnEM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926354652800389120/vid/avc1/480x852/XKrYKrgV6bCUVW1I.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926354652800389120/vid/avc1/540x960/3XnSa7z1TrMZWo5n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1926354652800389120/pl/b_uPWEO8-3K0sAwu.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1926354728767705116",
+        "created_at": "2025-05-24T19:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T20:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926364561185161364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452123941686976519",
+              "start": 0,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926364561185161364",
+        "in_reply_to_user_id": "1452123941686976519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926354728767705116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C21Koy_7c 可爱小严！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926354652485861376",
+            "3_1926354652519399424",
+            "13_1926354652800389120"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "1926354728767705116",
+        "created_at": "2025-05-24T19:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T20:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926354728767705116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d0WKA6Vt6A",
+              "end": 27,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1926354728767705116/video/1",
+              "media_key": "3_1926354652485861376",
+              "start": 4,
+              "url": "https://t.co/d0WKA6Vt6A"
+            },
+            {
+              "display_url": "pic.x.com/d0WKA6Vt6A",
+              "end": 27,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1926354728767705116/video/1",
+              "media_key": "3_1926354652519399424",
+              "start": 4,
+              "url": "https://t.co/d0WKA6Vt6A"
+            },
+            {
+              "display_url": "pic.x.com/d0WKA6Vt6A",
+              "end": 27,
+              "expanded_url": "https://x.com/C21Koy_7c/status/1926354728767705116/video/1",
+              "media_key": "13_1926354652800389120",
+              "start": 4,
+              "url": "https://t.co/d0WKA6Vt6A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926354728767705116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新发型 https://t.co/d0WKA6Vt6A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 2113,
+          "like_count": 28397,
+          "listed_count": 9,
+          "media_count": 1300,
+          "tweet_count": 19319
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我yan｜肉鸦都可以 不会外语翻译器OK",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 3015,
+          "like_count": 23163,
+          "listed_count": 3,
+          "media_count": 1409,
+          "tweet_count": 22167
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

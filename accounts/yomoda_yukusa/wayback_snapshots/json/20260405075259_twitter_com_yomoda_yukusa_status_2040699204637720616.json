@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2040270945315598387",
+    "created_at": "2026-04-05T07:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T08:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040699204637720616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1893167873209856000",
+          "start": 0,
+          "username": "mxyzcdb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040699204637720616",
+    "in_reply_to_user_id": "1893167873209856000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040270945315598387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@mxyzcdb 呃，为什么我可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2040270945315598387",
+        "created_at": "2026-04-05T07:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040699204637720616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1893167873209856000",
+              "start": 0,
+              "username": "mxyzcdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040699204637720616",
+        "in_reply_to_user_id": "1893167873209856000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040270945315598387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@mxyzcdb 呃，为什么我可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893167873209856000",
+        "conversation_id": "2040270945315598387",
+        "created_at": "2026-04-04T03:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040270945315598387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040270945315598387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 28836,
+          "like_count": 581,
+          "quote_count": 0,
+          "reply_count": 360,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "测试推文，这条推文只有我的密接和次密接才能回复"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2831,
+          "following_count": 2381,
+          "like_count": 33452,
+          "listed_count": 9,
+          "media_count": 1604,
+          "tweet_count": 21903
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "高一物化生在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜看成分回fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 89,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1893167873209856000",
+        "name": "翅翅膀喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 285,
+          "like_count": 1564,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1040
+        },
+        "username": "mxyzcdb",
+        "verified": true
+      }
+    ]
+  }
+}

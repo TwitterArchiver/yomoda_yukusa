@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1959232498891886694",
+    "created_at": "2025-08-23T15:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T16:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959274730307133729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789184782825615360",
+          "start": 0,
+          "username": "nonsweetsuger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959274730307133729",
+    "in_reply_to_user_id": "1789184782825615360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959260041795768660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nonsweetsuger 不道别不行吗，或者只说“我走啦~”我就是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1959232498891886694",
+        "created_at": "2025-08-23T15:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T16:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959274730307133729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789184782825615360",
+              "start": 0,
+              "username": "nonsweetsuger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959274730307133729",
+        "in_reply_to_user_id": "1789184782825615360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959260041795768660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonsweetsuger 不道别不行吗，或者只说“我走啦~”我就是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789184782825615360",
+        "conversation_id": "1959232498891886694",
+        "created_at": "2025-08-23T14:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T15:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959260041795768660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959260041795768660",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959232498891886694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 如果说永别了，感觉明天就要被裁了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2778,
+          "following_count": 2179,
+          "like_count": 29374,
+          "listed_count": 8,
+          "media_count": 1352,
+          "tweet_count": 19777
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T06:44:59.000Z",
+        "description": "非二元生理男/叫姐姐加好感（喂）/随时跑路准建筑师/设计 艺术 性（是dom）/泛性恋/开放式关系，有男友兼小狗/ cptsd疗愈中/比较喜欢照顾人/不要对我使诈我不是新手/会做一些自己喜欢的设计/擦边看心情（?/寻找朋友中",
+        "id": "1789184782825615360",
+        "name": "不甜的某糖 nonsweetsuger 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1820497848582201477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790064536709730304/6xzaU-q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 615,
+          "like_count": 20907,
+          "listed_count": 0,
+          "media_count": 429,
+          "tweet_count": 9212
+        },
+        "username": "nonsweetsuger",
+        "verified": false
+      }
+    ]
+  }
+}

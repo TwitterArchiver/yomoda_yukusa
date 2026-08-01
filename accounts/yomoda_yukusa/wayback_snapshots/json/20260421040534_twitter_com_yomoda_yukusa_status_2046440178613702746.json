@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2046235774538969439",
+    "created_at": "2026-04-21T04:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T05:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046440178613702746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1807430850637963264",
+          "start": 0,
+          "username": "hugeFSG"
+        },
+        {
+          "end": 19,
+          "id": "1452123941686976519",
+          "start": 9,
+          "username": "C21Koy_7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046440178613702746",
+    "in_reply_to_user_id": "1807430850637963264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046247435887079759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hugeFSG @C21Koy_7c 尽量别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2046235774538969439",
+        "created_at": "2026-04-21T04:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046440178613702746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1807430850637963264",
+              "start": 0,
+              "username": "hugeFSG"
+            },
+            {
+              "end": 19,
+              "id": "1452123941686976519",
+              "start": 9,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046440178613702746",
+        "in_reply_to_user_id": "1807430850637963264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046247435887079759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hugeFSG @C21Koy_7c 尽量别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807430850637963264",
+        "conversation_id": "2046235774538969439",
+        "created_at": "2026-04-20T15:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046247435887079759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 25,
+              "id": "1452123941686976519",
+              "start": 15,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046247435887079759",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046236516494774695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa @C21Koy_7c 我可以死掉吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2831,
+          "following_count": 2384,
+          "like_count": 33743,
+          "listed_count": 9,
+          "media_count": 1624,
+          "tweet_count": 22121
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T15:08:10.000Z",
+        "description": "人在南京、广州，快要无聊死了/工科药娘🍥/老登/讨厌数学/最爱的猪猪@LalshCat/建议重要的私信发到gsfeguh@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "LalshCat"
+              }
+            ]
+          }
+        },
+        "id": "1807430850637963264",
+        "name": "罗莎",
+        "pinned_tweet_id": "2039020755653177368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986781957259239424/6VlvJSmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 164,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 761
+        },
+        "username": "hugeFSG",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 3488,
+          "like_count": 31074,
+          "listed_count": 5,
+          "media_count": 2217,
+          "tweet_count": 29091
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": true
+      }
+    ]
+  }
+}

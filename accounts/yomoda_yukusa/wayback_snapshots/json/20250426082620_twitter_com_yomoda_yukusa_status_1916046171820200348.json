@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1916034011492946367",
+    "created_at": "2025-04-26T08:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T09:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916046171820200348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1414573836024958979",
+          "start": 0,
+          "username": "__konpaku_youmu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916046171820200348",
+    "in_reply_to_user_id": "1414573836024958979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916037008872583338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__konpaku_youmu 哪个政权"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_1916036998030348288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpchf4Qa0AAUfpR.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1916034011492946367",
+        "created_at": "2025-04-26T08:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T09:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916046171820200348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1414573836024958979",
+              "start": 0,
+              "username": "__konpaku_youmu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916046171820200348",
+        "in_reply_to_user_id": "1414573836024958979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916037008872583338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__konpaku_youmu 哪个政权"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916036998030348288"
+          ]
+        },
+        "author_id": "1414573836024958979",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1916034011492946367",
+        "created_at": "2025-04-26T07:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T08:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916037008872583338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nllcs5iyPD",
+              "end": 41,
+              "expanded_url": "https://x.com/__konpaku_youmu/status/1916037008872583338/photo/1",
+              "media_key": "3_1916036998030348288",
+              "start": 18,
+              "url": "https://t.co/Nllcs5iyPD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916037008872583338",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916035963916374050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 这家 https://t.co/Nllcs5iyPD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2772,
+          "following_count": 2841,
+          "like_count": 27525,
+          "listed_count": 7,
+          "media_count": 1278,
+          "tweet_count": 19091
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-12T13:14:34.000Z",
+        "description": "“总之，让人讲话，天不会塌下来，自己也不会垮台。不让人讲话呢？那就难免有一天要垮台。”          \n我没意见",
+        "id": "1414573836024958979",
+        "location": "冥界 白玉楼",
+        "name": "妖妖梦",
+        "pinned_tweet_id": "1828205385364447263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872407818235691008/Olg0tDGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 2501,
+          "like_count": 87527,
+          "listed_count": 8,
+          "media_count": 15162,
+          "tweet_count": 32503
+        },
+        "username": "__konpaku_youmu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894006672881754114"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1893685831572824204",
+    "created_at": "2025-02-24T12:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T13:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894006675977154645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490707122291867648",
+          "start": 0,
+          "username": "ACENANAMI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gH55uDfiiE",
+          "end": 34,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1894006675977154645/photo/1",
+          "media_key": "3_1894006672881754114",
+          "start": 11,
+          "url": "https://t.co/gH55uDfiiE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894006675977154645",
+    "in_reply_to_user_id": "1490707122291867648",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893685831572824204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@ACENANAMI https://t.co/gH55uDfiiE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 921,
+        "media_key": "3_1894006672881754114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkjdCLtWIAIsNK2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 453,
+        "media_key": "3_1893685715353161728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gke5H_vbUAAvDEE.jpg",
+        "width": 1139
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894006672881754114"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1893685831572824204",
+        "created_at": "2025-02-24T12:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T13:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894006675977154645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490707122291867648",
+              "start": 0,
+              "username": "ACENANAMI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gH55uDfiiE",
+              "end": 34,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1894006675977154645/photo/1",
+              "media_key": "3_1894006672881754114",
+              "start": 11,
+              "url": "https://t.co/gH55uDfiiE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894006675977154645",
+        "in_reply_to_user_id": "1490707122291867648",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893685831572824204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@ACENANAMI https://t.co/gH55uDfiiE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893685715353161728"
+          ]
+        },
+        "author_id": "1490707122291867648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1893685831572824204",
+        "created_at": "2025-02-23T15:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T16:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893685831572824204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LiGxsEWw7U",
+              "end": 44,
+              "expanded_url": "https://x.com/ACENANAMI/status/1893685831572824204/photo/1",
+              "media_key": "3_1893685715353161728",
+              "start": 21,
+              "url": "https://t.co/LiGxsEWw7U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893685831572824204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "介於小號被推某些噁心東西了，所以再發一遍 https://t.co/LiGxsEWw7U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 2805,
+          "like_count": 27164,
+          "listed_count": 8,
+          "media_count": 1261,
+          "tweet_count": 18900
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T15:20:56.000Z",
+        "description": "@514k0ishi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "514k0ishi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "box.n3ko.cc/_/yomier",
+                "end": 23,
+                "expanded_url": "https://box.n3ko.cc/_/yomier",
+                "start": 0,
+                "url": "https://t.co/RW0zH8FyHn"
+              }
+            ]
+          }
+        },
+        "id": "1490707122291867648",
+        "location": "ぐるぐるぐるぐるぐるぐるぐるぐる",
+        "name": "無我夢中阿鼻叫喚支離滅裂葉米爾",
+        "pinned_tweet_id": "1889334210542109046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893820081051955200/i51hDcOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 607,
+          "like_count": 93216,
+          "listed_count": 4,
+          "media_count": 3643,
+          "tweet_count": 12402
+        },
+        "url": "https://t.co/RW0zH8FyHn",
+        "username": "ACENANAMI",
+        "verified": false
+      }
+    ]
+  }
+}

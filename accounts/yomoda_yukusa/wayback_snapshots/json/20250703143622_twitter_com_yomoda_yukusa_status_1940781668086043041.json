@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1940781668086043041",
+    "created_at": "2025-07-03T14:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T15:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940781668086043041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1205290629078507521",
+          "start": 3,
+          "username": "Poo191213Poo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940781668086043041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940703636310708404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Poo191213Poo: 原来通过同性伴侣登记是香港最黑暗的一天，我以为是太子站、国安法、47人案、学生会解散、头条新闻和铿锵集停播、尊子漫画停刊、苹果新闻停刊、民主团体解散是香港最黑暗的那些天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1940781668086043041",
+        "created_at": "2025-07-03T14:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T15:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940781668086043041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1205290629078507521",
+              "start": 3,
+              "username": "Poo191213Poo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940781668086043041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940703636310708404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Poo191213Poo: 原来通过同性伴侣登记是香港最黑暗的一天，我以为是太子站、国安法、47人案、学生会解散、头条新闻和铿锵集停播、尊子漫画停刊、苹果新闻停刊、民主团体解散是香港最黑暗的那些天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1205290629078507521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1940703636310708404",
+        "created_at": "2025-07-03T09:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T10:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940703636310708404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/razvenhk/statu…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/razvenhk/status/1940692730071732391",
+              "start": 85,
+              "url": "https://t.co/BYb3dQGU95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940703636310708404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2158,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940692730071732391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来通过同性伴侣登记是香港最黑暗的一天，我以为是太子站、国安法、47人案、学生会解散、头条新闻和铿锵集停播、尊子漫画停刊、苹果新闻停刊、民主团体解散是香港最黑暗的那些天 https://t.co/BYb3dQGU95"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2806,
+          "following_count": 2157,
+          "like_count": 29161,
+          "listed_count": 7,
+          "media_count": 1340,
+          "tweet_count": 19640
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-13T00:57:54.000Z",
+        "description": "亲密革命劳动党党员\nKdo si počká, ten se dočká.",
+        "id": "1205290629078507521",
+        "location": "England, United Kingdom",
+        "name": "TonyPoop191213🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859067872456437761/dUtMNacY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 577,
+          "like_count": 21151,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 5341
+        },
+        "username": "Poo191213Poo",
+        "verified": false
+      }
+    ]
+  }
+}

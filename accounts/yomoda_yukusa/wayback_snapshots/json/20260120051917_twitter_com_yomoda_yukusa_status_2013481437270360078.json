@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2012373878232756682",
+    "created_at": "2026-01-20T05:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T06:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013481437270360078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1706651861275824128",
+          "start": 0,
+          "username": "baiyanghjkoo"
+        },
+        {
+          "end": 29,
+          "id": "1992300667395092480",
+          "start": 14,
+          "username": "Albert_C_Anker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013481437270360078",
+    "in_reply_to_user_id": "1706651861275824128",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013439574308200515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiyanghjkoo @Albert_C_Anker 2003.4.14"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2012373878232756682",
+        "created_at": "2026-01-20T05:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T06:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013481437270360078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1706651861275824128",
+              "start": 0,
+              "username": "baiyanghjkoo"
+            },
+            {
+              "end": 29,
+              "id": "1992300667395092480",
+              "start": 14,
+              "username": "Albert_C_Anker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013481437270360078",
+        "in_reply_to_user_id": "1706651861275824128",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013439574308200515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiyanghjkoo @Albert_C_Anker 2003.4.14"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706651861275824128",
+        "conversation_id": "2012373878232756682",
+        "created_at": "2026-01-20T02:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T03:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013439574308200515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 30,
+              "id": "1992300667395092480",
+              "start": 15,
+              "username": "Albert_C_Anker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013439574308200515",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012380131365707791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa @Albert_C_Anker 搞不好咱俩是一天生日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 2353,
+          "like_count": 32868,
+          "listed_count": 9,
+          "media_count": 1524,
+          "tweet_count": 21293
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T12:48:19.000Z",
+        "description": "可以喝凉啤了",
+        "id": "1706651861275824128",
+        "name": "冷山泉水酿造东北大酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707417736861954048/mA3S7ubs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 739,
+          "like_count": 14029,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 4314
+        },
+        "username": "baiyanghjkoo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T18:34:34.000Z",
+        "description": "怪话制造机|伪人日记本|情绪稳定的死人|默认友好基本无雷|INFJ sp/so5w6|分裂情感障碍&阿斯伯格人士|社交电量低|看我不爽建议去死|第二人格@theLostCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "theLostCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/BV1z4411Y7tX",
+                "end": 23,
+                "expanded_url": "https://b23.tv/BV1z4411Y7tX",
+                "start": 0,
+                "url": "https://t.co/xiOAWgwQyL"
+              }
+            ]
+          }
+        },
+        "id": "1992300667395092480",
+        "location": "Tromsø, Norway",
+        "name": "死人微活之阿尔伯特",
+        "pinned_tweet_id": "2008818911119311014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776473121787904/mYr6Flus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 99,
+          "like_count": 756,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/xiOAWgwQyL",
+        "username": "Albert_C_Anker",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2043933180655481345",
+    "created_at": "2026-04-14T10:31:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:31:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044000494801301904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044000494801301904",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043965380037881897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrilL019 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2043933180655481345",
+        "created_at": "2026-04-14T10:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044000494801301904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044000494801301904",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043965380037881897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrilL019 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647229461769891842",
+        "conversation_id": "2043933180655481345",
+        "created_at": "2026-04-14T08:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043965380037881897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043965380037881897",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043933180655481345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2818,
+          "following_count": 2380,
+          "like_count": 33619,
+          "listed_count": 9,
+          "media_count": 1621,
+          "tweet_count": 22061
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "安得此身脫拘攣 舟載諸友長周旋｜神明护佑！｜\nStudent 鉴政禁止 发推不定 日常音游碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "懷谷齋",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2032440558011203726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 915,
+          "like_count": 13066,
+          "listed_count": 1,
+          "media_count": 639,
+          "tweet_count": 4574
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      }
+    ]
+  }
+}

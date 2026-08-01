@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007034695872389120"
+      ],
+      "media_source_tweet_id": [
+        "2007034767091634656"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "2007368096433221672",
+    "created_at": "2026-01-03T08:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T09:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007368096433221672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2766725377",
+          "start": 3,
+          "username": "748cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gGGWlKJOu5",
+          "end": 46,
+          "expanded_url": "https://x.com/748cm/status/2007034767091634656/photo/1",
+          "media_key": "3_2007034695872389120",
+          "start": 23,
+          "url": "https://t.co/gGGWlKJOu5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007368096433221672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007034767091634656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @748cm: 最期くらい自分で選ぶさ https://t.co/gGGWlKJOu5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2007034695872389120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9prbBNboAACKWE.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007034695872389120"
+          ],
+          "media_source_tweet_id": [
+            "2007034767091634656"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "2007368096433221672",
+        "created_at": "2026-01-03T08:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T09:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007368096433221672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2766725377",
+              "start": 3,
+              "username": "748cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGGWlKJOu5",
+              "end": 46,
+              "expanded_url": "https://x.com/748cm/status/2007034767091634656/photo/1",
+              "media_key": "3_2007034695872389120",
+              "start": 23,
+              "url": "https://t.co/gGGWlKJOu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007368096433221672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007034767091634656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @748cm: 最期くらい自分で選ぶさ https://t.co/gGGWlKJOu5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007034695872389120"
+          ]
+        },
+        "author_id": "2766725377",
+        "conversation_id": "2007034767091634656",
+        "created_at": "2026-01-02T10:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T11:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007034767091634656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGGWlKJOu5",
+              "end": 35,
+              "expanded_url": "https://x.com/748cm/status/2007034767091634656/photo/1",
+              "media_key": "3_2007034695872389120",
+              "start": 12,
+              "url": "https://t.co/gGGWlKJOu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007034767091634656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1105,
+          "impression_count": 178977,
+          "like_count": 15648,
+          "quote_count": 30,
+          "reply_count": 12,
+          "retweet_count": 1100
+        },
+        "reply_settings": "everyone",
+        "text": "最期くらい自分で選ぶさ https://t.co/gGGWlKJOu5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2789,
+          "following_count": 2332,
+          "like_count": 32142,
+          "listed_count": 9,
+          "media_count": 1503,
+          "tweet_count": 21115
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-25T15:18:15.000Z",
+        "description": "hate me🧸🔪 / https://t.co/Iutnivp4cM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/Malice?fbclid=…",
+                "end": 35,
+                "expanded_url": "https://lit.link/Malice?fbclid=PAZXh0bgNhZW0CMT",
+                "start": 12,
+                "url": "https://t.co/Iutnivp4cM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/MBOWQFP5QE0F?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/iAcwP4ly8R"
+              }
+            ]
+          }
+        },
+        "id": "2766725377",
+        "location": "Created by \"AI\" 100%",
+        "name": "惡意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925714997813932033/Uf7ZceDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110607,
+          "following_count": 202,
+          "like_count": 15366,
+          "listed_count": 586,
+          "media_count": 3861,
+          "tweet_count": 12527
+        },
+        "url": "https://t.co/iAcwP4ly8R",
+        "username": "748cm",
+        "verified": true
+      }
+    ]
+  }
+}

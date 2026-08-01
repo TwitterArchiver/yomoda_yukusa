@@ -1,0 +1,147 @@
+{
+  "data": {
+    "author_id": "1547247978565423105",
+    "conversation_id": "1844593253666197970",
+    "created_at": "2024-10-12T03:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-12T04:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844938140576055515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442239657316519940",
+          "start": 0,
+          "username": "lin_kannachan"
+        }
+      ]
+    },
+    "id": "1844938140576055515",
+    "in_reply_to_user_id": "1442239657316519940",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 36,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844800084640473469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lin_kannachan 什么药x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1547247978565423105",
+        "conversation_id": "1844593253666197970",
+        "created_at": "2024-10-12T03:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-12T04:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844938140576055515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442239657316519940",
+              "start": 0,
+              "username": "lin_kannachan"
+            }
+          ]
+        },
+        "id": "1844938140576055515",
+        "in_reply_to_user_id": "1442239657316519940",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844800084640473469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lin_kannachan 什么药x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2739,
+          "following_count": 2710,
+          "like_count": 26696,
+          "listed_count": 6,
+          "media_count": 1234,
+          "tweet_count": 18619
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T21:28:40.000Z",
+        "description": "一条康娜｜三脚猫德古｜非二元｜170，70kg大猫猫(｢･ω･)｢｜日常分享｜经济类杂鱼｜有厨房的厨娘｜这辈子不可能当左人的（笑）｜2001.10.01｜",
+        "id": "1442239657316519940",
+        "name": "林康娜",
+        "pinned_tweet_id": "1621491817941467138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722975096002977792/tSk6G1Kk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 312,
+          "like_count": 2611,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 904
+        },
+        "username": "lin_kannachan",
+        "verified": false
+      }
+    ]
+  }
+}

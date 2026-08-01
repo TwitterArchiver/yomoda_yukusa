@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1895363175069163934",
+    "created_at": "2025-06-20T20:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T21:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936162613215609196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452123941686976519",
+          "start": 0,
+          "username": "C21Koy_7c"
+        },
+        {
+          "end": 23,
+          "id": "1893688350076542976",
+          "start": 11,
+          "username": "drug_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936162613215609196",
+    "in_reply_to_user_id": "1452123941686976519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936162477898903673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C21Koy_7c @drug_artist （盯）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1895363175069163934",
+        "created_at": "2025-06-20T20:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T21:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936162613215609196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452123941686976519",
+              "start": 0,
+              "username": "C21Koy_7c"
+            },
+            {
+              "end": 23,
+              "id": "1893688350076542976",
+              "start": 11,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936162613215609196",
+        "in_reply_to_user_id": "1452123941686976519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936162477898903673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C21Koy_7c @drug_artist （盯）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1895363175069163934",
+        "created_at": "2025-06-20T20:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T21:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936162477898903673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1893688350076542976",
+              "start": 0,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936162477898903673",
+        "in_reply_to_user_id": "1893688350076542976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895363175069163934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist 好棒啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 2148,
+          "like_count": 28789,
+          "listed_count": 7,
+          "media_count": 1332,
+          "tweet_count": 19544
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1929299764497019155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918279695461933056/VhXhwxKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 3022,
+          "like_count": 23544,
+          "listed_count": 3,
+          "media_count": 1452,
+          "tweet_count": 22495
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "化学极乐百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/hLxQwrcSWN"
+              }
+            ]
+          }
+        },
+        "id": "1893688350076542976",
+        "name": "沐雨",
+        "pinned_tweet_id": "1901290151500005462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 135,
+          "like_count": 206,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/hLxQwrcSWN",
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

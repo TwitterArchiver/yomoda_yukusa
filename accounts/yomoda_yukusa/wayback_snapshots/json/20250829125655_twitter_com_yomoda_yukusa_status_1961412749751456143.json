@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1961412749751456143",
+    "created_at": "2025-08-29T12:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T13:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961412749751456143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "940761632140967936",
+          "start": 3,
+          "username": "IDOLAS4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961412749751456143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949238644105162977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IDOLAS4: 請看到這篇推文的朋友注意， 我被一個會盜用他人個資瘋子盯上， 這些行為他已經行之有年。\n\n他原本在推特上創了一個擁有我八成網路資訊跟個資的帳號，但已經被炸號；\n\n 現在則是將我原本的網路頭像加上我現實照片剪接合成為一個帳號， \n到處騷擾女性帳號以及跟我…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_1949237226069725184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw0U7frakAAdihQ.jpg",
+        "width": 718
+      },
+      {
+        "height": 785,
+        "media_key": "3_1949237243576737792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw0U8g5aYAABUqx.png",
+        "width": 714
+      },
+      {
+        "height": 559,
+        "media_key": "3_1949237258969890816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw0U9aPbQAAzuZX.png",
+        "width": 719
+      },
+      {
+        "height": 1184,
+        "media_key": "3_1949237267035484161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw0U94SacAEcNaq.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1961412749751456143",
+        "created_at": "2025-08-29T12:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T13:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961412749751456143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "940761632140967936",
+              "start": 3,
+              "username": "IDOLAS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961412749751456143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949238644105162977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IDOLAS4: 請看到這篇推文的朋友注意， 我被一個會盜用他人個資瘋子盯上， 這些行為他已經行之有年。\n\n他原本在推特上創了一個擁有我八成網路資訊跟個資的帳號，但已經被炸號；\n\n 現在則是將我原本的網路頭像加上我現實照片剪接合成為一個帳號， \n到處騷擾女性帳號以及跟我…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949237226069725184",
+            "3_1949237243576737792",
+            "3_1949237258969890816",
+            "3_1949237267035484161"
+          ]
+        },
+        "author_id": "940761632140967936",
+        "conversation_id": "1949238644105162977",
+        "created_at": "2025-07-26T22:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T23:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949238644105162977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KggL9NI7Dw",
+              "end": 156,
+              "expanded_url": "https://x.com/IDOLAS4/status/1949238644105162977/photo/1",
+              "media_key": "3_1949237226069725184",
+              "start": 133,
+              "url": "https://t.co/KggL9NI7Dw"
+            },
+            {
+              "display_url": "pic.x.com/KggL9NI7Dw",
+              "end": 156,
+              "expanded_url": "https://x.com/IDOLAS4/status/1949238644105162977/photo/1",
+              "media_key": "3_1949237243576737792",
+              "start": 133,
+              "url": "https://t.co/KggL9NI7Dw"
+            },
+            {
+              "display_url": "pic.x.com/KggL9NI7Dw",
+              "end": 156,
+              "expanded_url": "https://x.com/IDOLAS4/status/1949238644105162977/photo/1",
+              "media_key": "3_1949237258969890816",
+              "start": 133,
+              "url": "https://t.co/KggL9NI7Dw"
+            },
+            {
+              "display_url": "pic.x.com/KggL9NI7Dw",
+              "end": 156,
+              "expanded_url": "https://x.com/IDOLAS4/status/1949238644105162977/photo/1",
+              "media_key": "3_1949237267035484161",
+              "start": 133,
+              "url": "https://t.co/KggL9NI7Dw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949238644105162977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 305,
+                "id": "3305544792",
+                "start": 294,
+                "username": "dabowagaga"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/lijiaxun7963",
+                "end": 213,
+                "expanded_url": "https://x.com/lijiaxun7963",
+                "start": 190,
+                "url": "https://t.co/DL0W9M5JfC"
+              },
+              {
+                "display_url": "x.com/idolas7963",
+                "end": 237,
+                "expanded_url": "https://x.com/idolas7963",
+                "start": 214,
+                "url": "https://t.co/LXqnNx7SdQ"
+              }
+            ]
+          },
+          "text": "請看到這篇推文的朋友注意， 我被一個會盜用他人個資瘋子盯上， 這些行為他已經行之有年。\n\n他原本在推特上創了一個擁有我八成網路資訊跟個資的帳號，但已經被炸號；\n\n 現在則是將我原本的網路頭像加上我現實照片剪接合成為一個帳號， \n到處騷擾女性帳號以及跟我的本人帳號，\n\n如果看到這個名字請明白，這不是我的想法，\n是他假藉我名字的抹黑。\n 以下已經炸掉的帳號跟盜我個資人新建的帳號。\nhttps://t.co/DL0W9M5JfC https://t.co/LXqnNx7SdQ\n\n起因是我曾經跟他使用的眾多帳號起過衝突，經過我十多天的觀察、查證，才了解到這些帳號都是他一個人的帳號。\n感謝 @dabowagaga 的提醒與告知。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 23102,
+          "like_count": 174,
+          "quote_count": 26,
+          "reply_count": 12,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "請看到這篇推文的朋友注意， 我被一個會盜用他人個資瘋子盯上， 這些行為他已經行之有年。\n\n他原本在推特上創了一個擁有我八成網路資訊跟個資的帳號，但已經被炸號；\n\n 現在則是將我原本的網路頭像加上我現實照片剪接合成為一個帳號， \n到處騷擾女性帳號以及跟我的本人帳號， https://t.co/KggL9NI7Dw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2786,
+          "following_count": 2205,
+          "like_count": 29524,
+          "listed_count": 9,
+          "media_count": 1357,
+          "tweet_count": 19855
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-13T01:53:46.000Z",
+        "description": "【行動不是思想，而是一種承擔責任的意願】by Dietrich Bonhoeffer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/bruce7963",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/bruce7963",
+                "start": 0,
+                "url": "https://t.co/WoECGHmWKM"
+              }
+            ]
+          }
+        },
+        "id": "940761632140967936",
+        "name": "伊多 IDOLAS",
+        "pinned_tweet_id": "1949238644105162977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734909242153549824/o33tXlKE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 441,
+          "like_count": 14479,
+          "listed_count": 1,
+          "media_count": 890,
+          "tweet_count": 9259
+        },
+        "url": "https://t.co/WoECGHmWKM",
+        "username": "IDOLAS4",
+        "verified": true
+      }
+    ]
+  }
+}

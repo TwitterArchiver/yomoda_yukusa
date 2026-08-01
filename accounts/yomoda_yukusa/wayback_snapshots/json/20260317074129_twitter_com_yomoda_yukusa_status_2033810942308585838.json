@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2033545139248042209",
+    "created_at": "2026-03-17T07:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T08:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033810942308585838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2032112283103739907",
+          "start": 0,
+          "username": "Cubic929"
+        },
+        {
+          "end": 25,
+          "id": "2029494203315900416",
+          "start": 10,
+          "username": "SweetBunnyctue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033810942308585838",
+    "in_reply_to_user_id": "2032112283103739907",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033782022448287801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cubic929 @SweetBunnyctue 胶囊酒店"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2033545139248042209",
+        "created_at": "2026-03-17T07:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T08:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033810942308585838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2032112283103739907",
+              "start": 0,
+              "username": "Cubic929"
+            },
+            {
+              "end": 25,
+              "id": "2029494203315900416",
+              "start": 10,
+              "username": "SweetBunnyctue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033810942308585838",
+        "in_reply_to_user_id": "2032112283103739907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033782022448287801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cubic929 @SweetBunnyctue 胶囊酒店"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032112283103739907",
+        "conversation_id": "2033545139248042209",
+        "created_at": "2026-03-17T05:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T06:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033782022448287801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 30,
+              "id": "2029494203315900416",
+              "start": 15,
+              "username": "SweetBunnyctue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033782022448287801",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033545139248042209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa @SweetBunnyctue 这什么超豪华软卧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2826,
+          "following_count": 2379,
+          "like_count": 33325,
+          "listed_count": 9,
+          "media_count": 1580,
+          "tweet_count": 21775
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T15:12:03.000Z",
+        "description": "@Square527某平方的弹射座椅/\n23届北语国政/enby→mtf(?)/爱人@dissolvingspace",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Square527"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "dissolvingspace"
+              }
+            ]
+          }
+        },
+        "id": "2032112283103739907",
+        "location": "天津市",
+        "name": "某立方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032113165404946442/xL1s6IiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 36,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 25
+        },
+        "username": "Cubic929",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T09:48:31.000Z",
+        "description": "✨ 努力努力的小coser，一隻個人勢小偶像✨\n🇭🇰常駐香港📍 港鐵大好📍廣州偶爾閃現📍\n🩷 🩷請先關注才能私信哦～攝影請踴躍私信騷擾！！👉🏻產出產出！！🩷🩷\n⚓️ 歡迎上艦🚪解锁福利🩷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kumabearlover",
+                "end": 23,
+                "expanded_url": "https://t.me/kumabearlover",
+                "start": 0,
+                "url": "https://t.co/KFRS7HJDRy"
+              }
+            ]
+          }
+        },
+        "id": "2029494203315900416",
+        "location": "粉丝频道✈️►►",
+        "name": "草莓兔叽🍓🐇",
+        "pinned_tweet_id": "2033390836323700803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029501873447981056/Cjj-M9xN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 63,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/KFRS7HJDRy",
+        "username": "SweetBunnyctue",
+        "verified": true
+      }
+    ]
+  }
+}

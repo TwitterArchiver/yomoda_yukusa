@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1885119580630294851",
+    "created_at": "2025-01-31T11:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T12:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885292217537101931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "310115145",
+          "start": 0,
+          "username": "JLeskara"
+        },
+        {
+          "end": 21,
+          "id": "294528028",
+          "start": 10,
+          "username": "dhelsadell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885292217537101931",
+    "in_reply_to_user_id": "310115145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885120788057252281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JLeskara @dhelsadell 这是在中国短视频平台大量流行的一种用于吸引粉丝的行为"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1885119580630294851",
+        "created_at": "2025-01-31T11:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T12:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885292217537101931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "310115145",
+              "start": 0,
+              "username": "JLeskara"
+            },
+            {
+              "end": 21,
+              "id": "294528028",
+              "start": 10,
+              "username": "dhelsadell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885292217537101931",
+        "in_reply_to_user_id": "310115145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885120788057252281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JLeskara @dhelsadell 这是在中国短视频平台大量流行的一种用于吸引粉丝的行为"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "310115145",
+        "conversation_id": "1885119580630294851",
+        "created_at": "2025-01-31T00:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T01:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885120788057252281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "294528028",
+              "start": 0,
+              "username": "dhelsadell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885120788057252281",
+        "in_reply_to_user_id": "294528028",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 605,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885120643219460267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dhelsadell Itu termasuk bakat ya?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2766,
+          "following_count": 2765,
+          "like_count": 26858,
+          "listed_count": 7,
+          "media_count": 1247,
+          "tweet_count": 18779
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-03T06:43:08.000Z",
+        "description": "Tindakan adalah kunci dasar untuk semua kesuksesan",
+        "id": "310115145",
+        "location": "Indonesia, Banten",
+        "name": "Jefran Leskara",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864808953957486600/qwFLSzdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3837,
+          "following_count": 381,
+          "like_count": 1375,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1560
+        },
+        "username": "JLeskara",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-07T09:31:50.000Z",
+        "description": "life and everything for related 🧚🏻 || DM for any inquiries or collab 📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/adhelinap",
+                "end": 23,
+                "expanded_url": "http://instagram.com/adhelinap",
+                "start": 0,
+                "url": "https://t.co/hK6fOBNQec"
+              }
+            ]
+          }
+        },
+        "id": "294528028",
+        "location": "Bandung, Indonesia",
+        "name": "adhelinap",
+        "pinned_tweet_id": "1810198722971861135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822653350808260608/dxUgmwzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45607,
+          "following_count": 1003,
+          "like_count": 165789,
+          "listed_count": 25,
+          "media_count": 2707,
+          "tweet_count": 243763
+        },
+        "url": "https://t.co/hK6fOBNQec",
+        "username": "dhelsadell",
+        "verified": true
+      }
+    ]
+  }
+}

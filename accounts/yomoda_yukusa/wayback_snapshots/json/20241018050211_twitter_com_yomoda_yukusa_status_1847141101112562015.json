@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1847140480200441889",
+    "created_at": "2024-10-18T05:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-18T06:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847141101112562015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1578886311141777408",
+          "start": 0,
+          "username": "niyonkyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847141101112562015",
+    "in_reply_to_user_id": "1578886311141777408",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847140480200441889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niyonkyu 見ろ，人がゴミのようだ！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1847140480200441889",
+        "created_at": "2024-10-18T05:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T06:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847141101112562015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1578886311141777408",
+              "start": 0,
+              "username": "niyonkyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847141101112562015",
+        "in_reply_to_user_id": "1578886311141777408",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847140480200441889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niyonkyu 見ろ，人がゴミのようだ！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578886311141777408",
+        "conversation_id": "1847140480200441889",
+        "created_at": "2024-10-18T04:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T05:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847140480200441889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1847140480200441889",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看啊，人类就像垃圾一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2760,
+          "following_count": 2688,
+          "like_count": 26544,
+          "listed_count": 7,
+          "tweet_count": 18473
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T23:13:34.000Z",
+        "description": "顺男 🚪12t右 /会在铁轨上看见单脚阿伯吗 /報 互fo请私信，因为收不到通知",
+        "id": "1578886311141777408",
+        "location": "きさらぎ駅",
+        "name": "鲭鱼🐟",
+        "pinned_tweet_id": "1764940966949957681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774361627334410240/Hft50uFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 1196,
+          "like_count": 81136,
+          "listed_count": 2,
+          "tweet_count": 15591
+        },
+        "username": "niyonkyu",
+        "verified": false
+      }
+    ]
+  }
+}

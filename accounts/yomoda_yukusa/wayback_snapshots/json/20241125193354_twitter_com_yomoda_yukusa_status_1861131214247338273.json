@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861131144089214977"
+      ],
+      "media_source_tweet_id": [
+        "1861131146337402941"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1861131214247338273",
+    "created_at": "2024-11-25T19:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T20:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861131214247338273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1547247978565423105",
+          "start": 3,
+          "username": "yomoda_yukusa"
+        },
+        {
+          "end": 34,
+          "id": "1647217584117280771",
+          "start": 19,
+          "username": "zanbuzhidao555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hWvZSq7ii9",
+          "end": 58,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1861131146337402941/photo/1",
+          "media_key": "3_1861131144089214977",
+          "start": 35,
+          "url": "https://t.co/hWvZSq7ii9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861131214247338273",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861131146337402941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yomoda_yukusa: @zanbuzhidao555 https://t.co/hWvZSq7ii9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1861131144089214977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdQQ6jPaoAENnz0.jpg",
+        "width": 322
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861131144089214977"
+          ],
+          "media_source_tweet_id": [
+            "1861131146337402941"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1861131214247338273",
+        "created_at": "2024-11-25T19:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T20:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861131214247338273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1547247978565423105",
+              "start": 3,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 34,
+              "id": "1647217584117280771",
+              "start": 19,
+              "username": "zanbuzhidao555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWvZSq7ii9",
+              "end": 58,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1861131146337402941/photo/1",
+              "media_key": "3_1861131144089214977",
+              "start": 35,
+              "url": "https://t.co/hWvZSq7ii9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861131214247338273",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861131146337402941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yomoda_yukusa: @zanbuzhidao555 https://t.co/hWvZSq7ii9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861131144089214977"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1860954278665298308",
+        "created_at": "2024-11-25T19:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T20:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861131146337402941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647217584117280771",
+              "start": 0,
+              "username": "zanbuzhidao555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWvZSq7ii9",
+              "end": 39,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1861131146337402941/photo/1",
+              "media_key": "3_1861131144089214977",
+              "start": 16,
+              "url": "https://t.co/hWvZSq7ii9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861131146337402941",
+        "in_reply_to_user_id": "1647217584117280771",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860954278665298308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zanbuzhidao555 https://t.co/hWvZSq7ii9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2764,
+          "following_count": 2725,
+          "like_count": 26710,
+          "listed_count": 6,
+          "tweet_count": 18606
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T12:38:21.000Z",
+        "description": "捅死你",
+        "id": "1647217584117280771",
+        "location": "地球",
+        "name": "山᳐海懒得平᳐੭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722587840729731072/SePIdXaA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 1104,
+          "like_count": 112687,
+          "listed_count": 1,
+          "tweet_count": 16403
+        },
+        "username": "zanbuzhidao555",
+        "verified": false
+      }
+    ]
+  }
+}

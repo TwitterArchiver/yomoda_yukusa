@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1986312151150305710",
+    "created_at": "2025-11-06T05:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T06:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986312151150305710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1692136120027320320",
+          "start": 3,
+          "username": "AlbertIsCypress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986312151150305710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985292642608201777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AlbertIsCypress: 逗阿斯伯格你们很开心是不是？！💢😡👊\n回答我!💢😡👊\nLook at in my eyes!💢😡👊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1986312151150305710",
+        "created_at": "2025-11-06T05:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T06:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986312151150305710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1692136120027320320",
+              "start": 3,
+              "username": "AlbertIsCypress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986312151150305710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985292642608201777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AlbertIsCypress: 逗阿斯伯格你们很开心是不是？！💢😡👊\n回答我!💢😡👊\nLook at in my eyes!💢😡👊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692136120027320320",
+        "conversation_id": "1985292642608201777",
+        "created_at": "2025-11-03T10:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985292642608201777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985292642608201777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 696,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "逗阿斯伯格你们很开心是不是？！💢😡👊\n回答我!💢😡👊\nLook at in my eyes!💢😡👊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984486210988089345/XvAXq227_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2332,
+          "like_count": 30881,
+          "listed_count": 10,
+          "media_count": 1417,
+          "tweet_count": 20439
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "不是人类不说人话&精神(不是情绪)状态是量子叠加态|成分复杂关注请谨慎|INFJ sp/so5w6|分裂情感性精神病&阿斯伯格|无性恋&泛浪漫|误block致歉|看我不爽建议您去死捏|第二人格@theLostCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "theLostCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OyZXUu3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OyZXUu3",
+                "start": 0,
+                "url": "https://t.co/oROirNnap0"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANE】",
+        "pinned_tweet_id": "1965435278488903800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965431647366774786/86s4Wmng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 1241,
+          "like_count": 37099,
+          "listed_count": 8,
+          "media_count": 1682,
+          "tweet_count": 11163
+        },
+        "url": "https://t.co/oROirNnap0",
+        "username": "AlbertIsCypress",
+        "verified": true
+      }
+    ]
+  }
+}

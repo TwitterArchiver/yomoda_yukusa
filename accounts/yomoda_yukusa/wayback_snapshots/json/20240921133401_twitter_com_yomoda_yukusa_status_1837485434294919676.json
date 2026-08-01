@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1837483374942077274",
+    "created_at": "2024-09-21T13:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T14:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837485434294919676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1313677891163414533",
+          "start": 0,
+          "username": "cookiessin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837485434294919676",
+    "in_reply_to_user_id": "1313677891163414533",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837483374942077274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cookiessin1 西柚汁(有端联想)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1837483374942077274].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1837483374942077274",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1837483374942077274"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1837483374942077274",
+        "created_at": "2024-09-21T13:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T14:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837485434294919676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1313677891163414533",
+              "start": 0,
+              "username": "cookiessin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837485434294919676",
+        "in_reply_to_user_id": "1313677891163414533",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837483374942077274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cookiessin1 西柚汁(有端联想)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 2603,
+          "like_count": 26346,
+          "listed_count": 7,
+          "tweet_count": 18242
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T03:09:56.000Z",
+        "description": "本猫是纯血卡奴，核狗，星际屯鼠，apex卡白金，🐝，游戏考古爱好者，术力口厨，去学家，csp忠犬，半条萌豚，拔杯狂热，二次元吠舍，ACDC，ft基佬，不善交流，耐心条有限，目前高强度学习画画烤鸭中，人家是純良萌萌猫的反义词。🇬🇧留预备(。-∀-)恋爱中….",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vitality.gg/en/",
+                "end": 23,
+                "expanded_url": "https://vitality.gg/en/",
+                "start": 0,
+                "url": "https://t.co/XQjCT49c3j"
+              }
+            ]
+          }
+        },
+        "id": "1313677891163414533",
+        "location": "221B Baker Street",
+        "name": "R号机不是二号机_(。-∀-)",
+        "pinned_tweet_id": "1836099194286989788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752973714499760128/hizieo3a_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 238,
+          "like_count": 3094,
+          "listed_count": 1,
+          "tweet_count": 2265
+        },
+        "url": "https://t.co/XQjCT49c3j",
+        "username": "cookiessin1",
+        "verified": false
+      }
+    ]
+  }
+}

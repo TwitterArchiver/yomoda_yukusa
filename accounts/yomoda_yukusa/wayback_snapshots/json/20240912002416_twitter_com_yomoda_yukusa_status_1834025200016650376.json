@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "id": "1147215121103503360",
+          "name": "UNESCO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1147215121103503360",
+          "name": "UNESCO"
+        }
+      }
+    ],
+    "conversation_id": "1834025200016650376",
+    "created_at": "2024-09-12T00:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T01:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834025200016650376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/UNESCO_chinese…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/UNESCO_chinese/status/1834019342159171761",
+          "start": 5,
+          "url": "https://t.co/YBy5uWkzVv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834025200016650376",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834019342159171761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ニャー。 https://t.co/YBy5uWkzVv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          }
+        ],
+        "conversation_id": "1834025200016650376",
+        "created_at": "2024-09-12T00:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T01:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834025200016650376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UNESCO_chinese…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/UNESCO_chinese/status/1834019342159171761",
+              "start": 5,
+              "url": "https://t.co/YBy5uWkzVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834025200016650376",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834019342159171761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ニャー。 https://t.co/YBy5uWkzVv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833885631430184961"
+          ]
+        },
+        "author_id": "303806284",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          }
+        ],
+        "conversation_id": "1834019342159171761",
+        "created_at": "2024-09-12T00:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T01:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834019342159171761"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 155,
+              "start": 150,
+              "tag": "优质教育"
+            }
+          ],
+          "urls": [
+            {
+              "description": "book",
+              "display_url": "bit.ly/47lI2z8",
+              "end": 148,
+              "expanded_url": "https://bit.ly/47lI2z8",
+              "images": [
+                {
+                  "height": 512,
+                  "url": "https://pbs.twimg.com/news_img/1834019394810261505/jDUC0bhS?format=png&name=orig",
+                  "width": 362
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1834019394810261505/jDUC0bhS?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "教育部门针对饮酒、吸烟和吸毒问题的应对措施",
+              "unwound_url": "https://unesdoc.unesco.org/ark:/48223/pf0000247509_chi/PDF/247509chi.pdf.multi",
+              "url": "https://t.co/tf6YU5CgF2"
+            },
+            {
+              "display_url": "pic.x.com/m0wrmlo9iz",
+              "end": 179,
+              "expanded_url": "https://twitter.com/UNESCO_chinese/status/1834019342159171761/photo/1",
+              "media_key": "3_1833885631430184961",
+              "start": 156,
+              "url": "https://t.co/m0WRMlO9iZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834019342159171761",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "吸烟、饮酒、吸毒等行为多发端于青春期，新型精神活性物质的不断出现使相关预防工作更为艰难。儿童和青少年处于人生发展关键阶段，教育是重要的平台，可以帮助他们评估和抵抗此类风险和压力。\n\nUNESCO出版物《教育部门针对饮酒、吸烟和吸毒问题的应对措施》➡️https://t.co/tf6YU5CgF2\n\n#优质教育 https://t.co/m0WRMlO9iZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2719,
+          "following_count": 2592,
+          "like_count": 26261,
+          "listed_count": 7,
+          "tweet_count": 18178
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T13:10:38.000Z",
+        "description": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。\n#教育 #科学 #文化 #传播 #信息",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "教育"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "科学"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "文化"
+              },
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "传播"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "信息"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unesco.org/zh",
+                "end": 23,
+                "expanded_url": "https://www.unesco.org/zh",
+                "start": 0,
+                "url": "https://t.co/udyfiQ0jJu"
+              }
+            ]
+          }
+        },
+        "id": "303806284",
+        "location": "联合国教科文组织总部 法国•巴黎",
+        "name": "联合国教科文组织",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193847119481835527/6sD9IUQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34669,
+          "following_count": 41,
+          "like_count": 482,
+          "listed_count": 124,
+          "tweet_count": 9485
+        },
+        "url": "https://t.co/udyfiQ0jJu",
+        "username": "UNESCO_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

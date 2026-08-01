@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1960994640137494732",
+    "created_at": "2025-08-28T09:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T10:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960994809847455789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673364955171782657",
+          "start": 0,
+          "username": "kxk1388574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960994809847455789",
+    "in_reply_to_user_id": "1673364955171782657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960994640137494732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kxk1388574 可怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1960994640137494732",
+        "created_at": "2025-08-28T09:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T10:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960994809847455789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673364955171782657",
+              "start": 0,
+              "username": "kxk1388574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960994809847455789",
+        "in_reply_to_user_id": "1673364955171782657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960994640137494732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kxk1388574 可怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673364955171782657",
+        "conversation_id": "1960994640137494732",
+        "created_at": "2025-08-28T09:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T10:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960994640137494732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960994640137494732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近确实性冷淡了，以前可以一直自慰到晕过去的，现在弄两次就没感觉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2786,
+          "following_count": 2206,
+          "like_count": 29482,
+          "listed_count": 9,
+          "media_count": 1357,
+          "tweet_count": 19829
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*秀色可餐🍊@tangeorange\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 68,
+                "start": 56,
+                "username": "tangeorange"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "🍋（性冷淡中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7956,
+          "following_count": 5200,
+          "like_count": 39302,
+          "listed_count": 13,
+          "media_count": 593,
+          "tweet_count": 5396
+        },
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

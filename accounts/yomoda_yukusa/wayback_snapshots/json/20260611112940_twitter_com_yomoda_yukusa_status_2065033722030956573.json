@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2065003336118710499",
+    "created_at": "2026-06-11T11:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065033722030956573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641354573351890945",
+          "start": 0,
+          "username": "Vanderoctans"
+        },
+        {
+          "end": 29,
+          "id": "1287402082509545474",
+          "start": 14,
+          "username": "ufls_defense_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065033722030956573",
+    "in_reply_to_user_id": "1641354573351890945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065029329772568741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vanderoctans @ufls_defense_x 好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065029329772568741].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065029329772568741",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065029329772568741"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2065003336118710499",
+        "created_at": "2026-06-11T11:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065033722030956573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641354573351890945",
+              "start": 0,
+              "username": "Vanderoctans"
+            },
+            {
+              "end": 29,
+              "id": "1287402082509545474",
+              "start": 14,
+              "username": "ufls_defense_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065033722030956573",
+        "in_reply_to_user_id": "1641354573351890945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065029329772568741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vanderoctans @ufls_defense_x 好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2838,
+          "following_count": 2370,
+          "like_count": 34121,
+          "listed_count": 9,
+          "media_count": 1640,
+          "tweet_count": 22331
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-30T08:20:15.000Z",
+        "description": "人要对得起大自然",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "✵.org",
+                "end": 23,
+                "expanded_url": "http://xn--edi.org",
+                "start": 0,
+                "url": "https://t.co/5SjhomR2w4"
+              }
+            ]
+          }
+        },
+        "id": "1641354573351890945",
+        "location": "卡钦斯基的小木屋",
+        "name": "网友川顺直⦲🇦🇶🚭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037732613780353024/nirf5tWN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 396,
+          "like_count": 74642,
+          "listed_count": 3,
+          "media_count": 472,
+          "tweet_count": 3738
+        },
+        "url": "https://t.co/5SjhomR2w4",
+        "username": "Vanderoctans",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T14:59:23.000Z",
+        "description": "United Federation of Liberalist States Joint Headquarters Mission On Twitter\n//X-domain Task Force 89//\nRetweet ≠ Endorsement \n#GayMarriage #FuckTrump #米中日全部支那豚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 139,
+                "start": 127,
+                "tag": "GayMarriage"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "tag": "FuckTrump"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "tag": "米中日全部支那豚"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deviantart.com/survivorstudio",
+                "end": 23,
+                "expanded_url": "https://www.deviantart.com/survivorstudio",
+                "start": 0,
+                "url": "https://t.co/NqAnseBeCn"
+              }
+            ]
+          }
+        },
+        "id": "1287402082509545474",
+        "location": "Waseda 1-61, Shin-Tokyo",
+        "name": "Equality Shield",
+        "pinned_tweet_id": "2056767245356019937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056774550915047426/be_pZE7U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 215,
+          "like_count": 8943,
+          "listed_count": 4,
+          "media_count": 1266,
+          "tweet_count": 15640
+        },
+        "url": "https://t.co/NqAnseBeCn",
+        "username": "ufls_defense_x",
+        "verified": false
+      }
+    ]
+  }
+}

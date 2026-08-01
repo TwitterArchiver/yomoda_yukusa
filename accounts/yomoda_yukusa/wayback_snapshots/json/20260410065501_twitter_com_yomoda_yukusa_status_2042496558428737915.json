@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042437640050667520"
+      ],
+      "media_source_tweet_id": [
+        "2042437647789093301"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "2042496558428737915",
+    "created_at": "2026-04-10T06:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042496558428737915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "126581934",
+          "start": 3,
+          "username": "dearemon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gQ7kDAXpQZ",
+          "end": 54,
+          "expanded_url": "https://x.com/dearemon/status/2042437647789093301/photo/1",
+          "media_key": "3_2042437640050667520",
+          "start": 31,
+          "url": "https://t.co/gQ7kDAXpQZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042496558428737915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042437647789093301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dearemon: 看完全身麻了一下我好难受天啊。￼ https://t.co/gQ7kDAXpQZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 629,
+        "media_key": "3_2042437640050667520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgyNlsbcAAJrkT.jpg",
+        "width": 1061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042437640050667520"
+          ],
+          "media_source_tweet_id": [
+            "2042437647789093301"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "2042496558428737915",
+        "created_at": "2026-04-10T06:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042496558428737915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "126581934",
+              "start": 3,
+              "username": "dearemon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gQ7kDAXpQZ",
+              "end": 54,
+              "expanded_url": "https://x.com/dearemon/status/2042437647789093301/photo/1",
+              "media_key": "3_2042437640050667520",
+              "start": 31,
+              "url": "https://t.co/gQ7kDAXpQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042496558428737915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042437647789093301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dearemon: 看完全身麻了一下我好难受天啊。￼ https://t.co/gQ7kDAXpQZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042437640050667520"
+          ]
+        },
+        "author_id": "126581934",
+        "conversation_id": "2042437647789093301",
+        "created_at": "2026-04-10T03:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042437647789093301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gQ7kDAXpQZ",
+              "end": 40,
+              "expanded_url": "https://x.com/dearemon/status/2042437647789093301/photo/1",
+              "media_key": "3_2042437640050667520",
+              "start": 17,
+              "url": "https://t.co/gQ7kDAXpQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042437647789093301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 127934,
+          "like_count": 498,
+          "quote_count": 5,
+          "reply_count": 60,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "看完全身麻了一下我好难受天啊。￼ https://t.co/gQ7kDAXpQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2813,
+          "following_count": 2382,
+          "like_count": 33525,
+          "listed_count": 9,
+          "media_count": 1612,
+          "tweet_count": 21967
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49673,
+          "following_count": 637,
+          "like_count": 5653,
+          "listed_count": 194,
+          "media_count": 26929,
+          "tweet_count": 379586
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

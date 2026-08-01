@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1992539864294940731",
+    "created_at": "2025-11-23T10:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T11:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992539864294940731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/amber_toffee/status/1992335098713104675",
+          "start": 8,
+          "url": "https://t.co/PiHnkSV3Qr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992539864294940731",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992335098713104675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "really? https://t.co/PiHnkSV3Qr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1992539864294940731",
+        "created_at": "2025-11-23T10:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T11:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992539864294940731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1992335098713104675",
+              "start": 8,
+              "url": "https://t.co/PiHnkSV3Qr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992539864294940731",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992335098713104675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "really? https://t.co/PiHnkSV3Qr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1992335098713104675",
+        "created_at": "2025-11-22T20:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992335098713104675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dogyeah3376/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/dogyeah3376/status/1992134691466649741",
+              "start": 28,
+              "url": "https://t.co/FOHQEzaaOa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992335098713104675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2701,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992134691466649741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "od的意义是让你把自己拖到也许能治好心理问题的未来某天 https://t.co/FOHQEzaaOa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 2327,
+          "like_count": 31345,
+          "listed_count": 9,
+          "media_count": 1440,
+          "tweet_count": 20610
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❦@noaayoyaoaya / ☭ / ᴍᴛꜰ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "ʜɪᴄ ʀʜᴏᴅᴜꜱ, ʜɪᴄ ꜱᴀʟᴛᴀ",
+        "name": "amber ଳ⋆.ೃ࿔*･",
+        "pinned_tweet_id": "1989417649600954728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19386,
+          "following_count": 2426,
+          "like_count": 34706,
+          "listed_count": 60,
+          "media_count": 852,
+          "tweet_count": 18111
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

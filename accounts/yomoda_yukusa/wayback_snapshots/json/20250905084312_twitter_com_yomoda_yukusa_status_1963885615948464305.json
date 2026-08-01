@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963724510449811456"
+      ],
+      "media_source_tweet_id": [
+        "1963724513260032510"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1963885615948464305",
+    "created_at": "2025-09-05T08:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T09:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963885615948464305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "857328227228024832",
+          "start": 3,
+          "username": "EvangelionShots"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dOyzqWRorR",
+          "end": 49,
+          "expanded_url": "https://x.com/EvangelionShots/status/1963724513260032510/photo/1",
+          "media_key": "3_1963724510449811456",
+          "start": 26,
+          "url": "https://t.co/dOyzqWRorR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963885615948464305",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963724513260032510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EvangelionShots: Rei? https://t.co/dOyzqWRorR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 895,
+        "media_key": "3_1963724510449811456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0CNCboWwAAtJBY.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963724510449811456"
+          ],
+          "media_source_tweet_id": [
+            "1963724513260032510"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1963885615948464305",
+        "created_at": "2025-09-05T08:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T09:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963885615948464305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "857328227228024832",
+              "start": 3,
+              "username": "EvangelionShots"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOyzqWRorR",
+              "end": 49,
+              "expanded_url": "https://x.com/EvangelionShots/status/1963724513260032510/photo/1",
+              "media_key": "3_1963724510449811456",
+              "start": 26,
+              "url": "https://t.co/dOyzqWRorR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963885615948464305",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963724513260032510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EvangelionShots: Rei? https://t.co/dOyzqWRorR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963724510449811456"
+          ]
+        },
+        "author_id": "857328227228024832",
+        "conversation_id": "1963724513260032510",
+        "created_at": "2025-09-04T22:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T23:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963724513260032510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOyzqWRorR",
+              "end": 28,
+              "expanded_url": "https://x.com/EvangelionShots/status/1963724513260032510/photo/1",
+              "media_key": "3_1963724510449811456",
+              "start": 5,
+              "url": "https://t.co/dOyzqWRorR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963724513260032510",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 6114,
+          "like_count": 500,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "Rei? https://t.co/dOyzqWRorR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2787,
+          "following_count": 2212,
+          "like_count": 29646,
+          "listed_count": 9,
+          "media_count": 1359,
+          "tweet_count": 19909
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-26T20:19:12.000Z",
+        "description": "Posting Evangelion until Third Impact",
+        "id": "857328227228024832",
+        "location": "NERV",
+        "name": "Evangelion Perfect Shots",
+        "pinned_tweet_id": "1963543316143767623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899215195156717568/-Q1iHpd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25897,
+          "following_count": 269,
+          "like_count": 906,
+          "listed_count": 55,
+          "media_count": 700,
+          "tweet_count": 709
+        },
+        "username": "EvangelionShots",
+        "verified": true
+      }
+    ]
+  }
+}

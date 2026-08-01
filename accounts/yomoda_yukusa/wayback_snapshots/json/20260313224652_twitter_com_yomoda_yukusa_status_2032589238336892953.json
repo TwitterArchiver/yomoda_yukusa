@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2032589238336892953",
+    "created_at": "2026-03-13T22:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T23:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032589238336892953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/C21Koy_7c/stat…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/C21Koy_7c/status/2032582206363939095",
+          "start": 47,
+          "url": "https://t.co/0NJHemGb5N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032589238336892953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032582206363939095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小严是个很好很善良又很可怜的小女孩。\n如果还有余力的话，如果大家要是可以帮帮她，感激不尽…… https://t.co/0NJHemGb5N"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2032589238336892953",
+        "created_at": "2026-03-13T22:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T23:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032589238336892953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/C21Koy_7c/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/C21Koy_7c/status/2032582206363939095",
+              "start": 47,
+              "url": "https://t.co/0NJHemGb5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032589238336892953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032582206363939095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小严是个很好很善良又很可怜的小女孩。\n如果还有余力的话，如果大家要是可以帮帮她，感激不尽…… https://t.co/0NJHemGb5N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "2032582206363939095",
+        "created_at": "2026-03-13T22:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T23:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032582206363939095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/c21koy_7c/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/c21koy_7c/status/2031694591540556147",
+              "start": 34,
+              "url": "https://t.co/IGY7c6mvaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032582206363939095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031694591540556147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请帮帮我我爸爸不给零花钱了我精神病太严重对不起不能帮也祝你天天开心 https://t.co/IGY7c6mvaG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2809,
+          "following_count": 2370,
+          "like_count": 33257,
+          "listed_count": 9,
+          "media_count": 1574,
+          "tweet_count": 21712
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 3335,
+          "like_count": 28788,
+          "listed_count": 5,
+          "media_count": 2005,
+          "tweet_count": 27203
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

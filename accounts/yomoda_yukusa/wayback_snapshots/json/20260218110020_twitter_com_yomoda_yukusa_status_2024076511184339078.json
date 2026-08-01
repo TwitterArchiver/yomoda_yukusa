@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2024022099682345423",
+    "created_at": "2026-02-18T11:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T12:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024076511184339078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1570319690869899266",
+          "start": 0,
+          "username": "Yuko0Ruuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024076511184339078",
+    "in_reply_to_user_id": "1570319690869899266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024027102022877522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuko0Ruuu 啊，是的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2024022099682345423",
+        "created_at": "2026-02-18T11:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024076511184339078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570319690869899266",
+              "start": 0,
+              "username": "Yuko0Ruuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024076511184339078",
+        "in_reply_to_user_id": "1570319690869899266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024027102022877522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuko0Ruuu 啊，是的……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570319690869899266",
+        "conversation_id": "2024022099682345423",
+        "created_at": "2026-02-18T07:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024027102022877522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024027102022877522",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024022099682345423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 憂芷好多天沒更新bingo了哇..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2828,
+          "following_count": 2376,
+          "like_count": 33168,
+          "listed_count": 9,
+          "media_count": 1554,
+          "tweet_count": 21561
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T07:52:55.000Z",
+        "description": "搞！搞起来",
+        "id": "1570319690869899266",
+        "location": "40.000, -105.000",
+        "name": "🍉✰Yuko✰🍉",
+        "pinned_tweet_id": "2013808448425586859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622708737495687169/fa99ZwzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 123,
+          "like_count": 8085,
+          "listed_count": 1,
+          "media_count": 393,
+          "tweet_count": 5179
+        },
+        "username": "Yuko0Ruuu",
+        "verified": false
+      }
+    ]
+  }
+}

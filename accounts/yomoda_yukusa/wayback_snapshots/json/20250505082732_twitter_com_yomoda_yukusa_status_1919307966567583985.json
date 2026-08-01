@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1919082883542564880",
+    "created_at": "2025-05-05T08:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T09:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919307966567583985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3319885484",
+          "start": 0,
+          "username": "LaWbda"
+        },
+        {
+          "end": 20,
+          "id": "1640335577986760704",
+          "start": 8,
+          "username": "solmoon2303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919307966567583985",
+    "in_reply_to_user_id": "3319885484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919110696085688616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaWbda @solmoon2303 妈咪给点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1919082883542564880",
+        "created_at": "2025-05-05T08:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T09:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919307966567583985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3319885484",
+              "start": 0,
+              "username": "LaWbda"
+            },
+            {
+              "end": 20,
+              "id": "1640335577986760704",
+              "start": 8,
+              "username": "solmoon2303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919307966567583985",
+        "in_reply_to_user_id": "3319885484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919110696085688616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaWbda @solmoon2303 妈咪给点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3319885484",
+        "conversation_id": "1919082883542564880",
+        "created_at": "2025-05-04T19:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T20:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919110696085688616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1640335577986760704",
+              "start": 0,
+              "username": "solmoon2303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919110696085688616",
+        "in_reply_to_user_id": "1640335577986760704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919110602644996232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@solmoon2303 我就是金主(˘ω˘)っ💰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 2068,
+          "like_count": 27920,
+          "listed_count": 7,
+          "media_count": 1284,
+          "tweet_count": 19169
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-19T10:16:12.000Z",
+        "description": "半生因果，缘起我执| Programmer | Nekomancer. Wish all my friends live long and prosper. 最好的大猫: @Iceblue_Sakura, 天然呆妹妹:@qiyishi512（转生版）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "Iceblue_Sakura"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "qiyishi512"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Sewens",
+                "end": 23,
+                "expanded_url": "https://github.com/Sewens",
+                "start": 0,
+                "url": "https://t.co/6yqgj7jetJ"
+              }
+            ]
+          }
+        },
+        "id": "3319885484",
+        "name": "半生",
+        "pinned_tweet_id": "1809946193080017312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770260761631227904/HldxKxkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3046,
+          "following_count": 3172,
+          "like_count": 38242,
+          "listed_count": 9,
+          "media_count": 1175,
+          "tweet_count": 20490
+        },
+        "url": "https://t.co/6yqgj7jetJ",
+        "username": "LaWbda",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T12:51:55.000Z",
+        "description": "晴月的爱人🥺@openAQiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "openAQiu"
+              }
+            ]
+          }
+        },
+        "id": "1640335577986760704",
+        "name": "晴月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644771161325162496/G1YiQUFv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 910,
+          "like_count": 49179,
+          "listed_count": 5,
+          "media_count": 71,
+          "tweet_count": 6811
+        },
+        "username": "solmoon2303",
+        "verified": false
+      }
+    ]
+  }
+}

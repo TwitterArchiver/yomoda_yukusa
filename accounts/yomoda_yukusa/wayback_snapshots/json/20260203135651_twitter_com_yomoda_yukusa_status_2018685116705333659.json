@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018672158499913728"
+      ],
+      "media_source_tweet_id": [
+        "2018672421101039643"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "2018685116705333659",
+    "created_at": "2026-02-03T13:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T14:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018685116705333659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "324391547",
+          "start": 3,
+          "username": "avogado6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7WI2Sio5kJ",
+          "end": 40,
+          "expanded_url": "https://x.com/avogado6/status/2018672421101039643/photo/1",
+          "media_key": "3_2018672158499913728",
+          "start": 17,
+          "url": "https://t.co/7WI2Sio5kJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018685116705333659",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 499
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018672421101039643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @avogado6: 支配 https://t.co/7WI2Sio5kJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3300,
+        "media_key": "3_2018672158499913728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPDof1bwAAYUms.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018672158499913728"
+          ],
+          "media_source_tweet_id": [
+            "2018672421101039643"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "2018685116705333659",
+        "created_at": "2026-02-03T13:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T14:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018685116705333659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "324391547",
+              "start": 3,
+              "username": "avogado6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7WI2Sio5kJ",
+              "end": 40,
+              "expanded_url": "https://x.com/avogado6/status/2018672421101039643/photo/1",
+              "media_key": "3_2018672158499913728",
+              "start": 17,
+              "url": "https://t.co/7WI2Sio5kJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018685116705333659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 499
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018672421101039643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @avogado6: 支配 https://t.co/7WI2Sio5kJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018672158499913728"
+          ]
+        },
+        "author_id": "324391547",
+        "conversation_id": "2018672421101039643",
+        "created_at": "2026-02-03T13:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T14:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018672421101039643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7WI2Sio5kJ",
+              "end": 26,
+              "expanded_url": "https://x.com/avogado6/status/2018672421101039643/photo/1",
+              "media_key": "3_2018672158499913728",
+              "start": 3,
+              "url": "https://t.co/7WI2Sio5kJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018672421101039643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 48218,
+          "like_count": 6790,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 499
+        },
+        "reply_settings": "everyone",
+        "text": "支配 https://t.co/7WI2Sio5kJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812,
+          "following_count": 2366,
+          "like_count": 33066,
+          "listed_count": 9,
+          "media_count": 1546,
+          "tweet_count": 21451
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-26T14:46:50.000Z",
+        "description": "化学が好きな一般人です。映像作品とか創ってます。https://t.co/lMOTGT5AX4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/28725264",
+                "end": 47,
+                "expanded_url": "http://nicovideo.jp/mylist/28725264",
+                "start": 24,
+                "url": "https://t.co/lMOTGT5AX4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "avogado6.com",
+                "end": 23,
+                "expanded_url": "https://www.avogado6.com/",
+                "start": 0,
+                "url": "https://t.co/C6ykDstxlb"
+              }
+            ]
+          }
+        },
+        "id": "324391547",
+        "name": "アボガド6",
+        "pinned_tweet_id": "1976586332177613174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/982977860804554753/2TGsjSo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2445278,
+          "following_count": 22,
+          "like_count": 35,
+          "listed_count": 8993,
+          "media_count": 3603,
+          "tweet_count": 4313
+        },
+        "url": "https://t.co/C6ykDstxlb",
+        "username": "avogado6",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926265211750670336",
+        "3_1926265246269763584",
+        "3_1926265287638179840"
+      ],
+      "media_source_tweet_id": [
+        "1926265331753840737",
+        "1926265331753840737",
+        "1926265331753840737"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1926368355851678146",
+    "created_at": "2025-05-24T20:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T21:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926368355851678146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2907026474",
+          "start": 3,
+          "username": "Abs0lutHydra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hHYzIzeRy8",
+          "end": 64,
+          "expanded_url": "https://x.com/Abs0lutHydra/status/1926265331753840737/photo/1",
+          "media_key": "3_1926265211750670336",
+          "start": 41,
+          "url": "https://t.co/hHYzIzeRy8"
+        },
+        {
+          "display_url": "pic.x.com/hHYzIzeRy8",
+          "end": 64,
+          "expanded_url": "https://x.com/Abs0lutHydra/status/1926265331753840737/photo/1",
+          "media_key": "3_1926265246269763584",
+          "start": 41,
+          "url": "https://t.co/hHYzIzeRy8"
+        },
+        {
+          "display_url": "pic.x.com/hHYzIzeRy8",
+          "end": 64,
+          "expanded_url": "https://x.com/Abs0lutHydra/status/1926265331753840737/photo/1",
+          "media_key": "3_1926265287638179840",
+          "start": 41,
+          "url": "https://t.co/hHYzIzeRy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926368355851678146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926265331753840737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Abs0lutHydra: 你还真就给一个啊\n严肃认真的工作人员.jpg https://t.co/hHYzIzeRy8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 194,
+        "media_key": "3_1926265211750670336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grt4ARmXYAAinvr.jpg",
+        "width": 1363
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1926265246269763584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grt4CSMW8AAk1eK.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1926265287638179840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grt4EsTW4AAcOyq.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926265211750670336",
+            "3_1926265246269763584",
+            "3_1926265287638179840"
+          ],
+          "media_source_tweet_id": [
+            "1926265331753840737",
+            "1926265331753840737",
+            "1926265331753840737"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1926368355851678146",
+        "created_at": "2025-05-24T20:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T21:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926368355851678146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2907026474",
+              "start": 3,
+              "username": "Abs0lutHydra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHYzIzeRy8",
+              "end": 64,
+              "expanded_url": "https://x.com/Abs0lutHydra/status/1926265331753840737/photo/1",
+              "media_key": "3_1926265211750670336",
+              "start": 41,
+              "url": "https://t.co/hHYzIzeRy8"
+            },
+            {
+              "display_url": "pic.x.com/hHYzIzeRy8",
+              "end": 64,
+              "expanded_url": "https://x.com/Abs0lutHydra/status/1926265331753840737/photo/1",
+              "media_key": "3_1926265246269763584",
+              "start": 41,
+              "url": "https://t.co/hHYzIzeRy8"
+            },
+            {
+              "display_url": "pic.x.com/hHYzIzeRy8",
+              "end": 64,
+              "expanded_url": "https://x.com/Abs0lutHydra/status/1926265331753840737/photo/1",
+              "media_key": "3_1926265287638179840",
+              "start": 41,
+              "url": "https://t.co/hHYzIzeRy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926368355851678146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926265331753840737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Abs0lutHydra: 你还真就给一个啊\n严肃认真的工作人员.jpg https://t.co/hHYzIzeRy8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926265211750670336",
+            "3_1926265246269763584",
+            "3_1926265287638179840"
+          ]
+        },
+        "author_id": "2907026474",
+        "conversation_id": "1926265331753840737",
+        "created_at": "2025-05-24T13:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T14:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926265331753840737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHYzIzeRy8",
+              "end": 46,
+              "expanded_url": "https://x.com/Abs0lutHydra/status/1926265331753840737/photo/1",
+              "media_key": "3_1926265211750670336",
+              "start": 23,
+              "url": "https://t.co/hHYzIzeRy8"
+            },
+            {
+              "display_url": "pic.x.com/hHYzIzeRy8",
+              "end": 46,
+              "expanded_url": "https://x.com/Abs0lutHydra/status/1926265331753840737/photo/1",
+              "media_key": "3_1926265246269763584",
+              "start": 23,
+              "url": "https://t.co/hHYzIzeRy8"
+            },
+            {
+              "display_url": "pic.x.com/hHYzIzeRy8",
+              "end": 46,
+              "expanded_url": "https://x.com/Abs0lutHydra/status/1926265331753840737/photo/1",
+              "media_key": "3_1926265287638179840",
+              "start": 23,
+              "url": "https://t.co/hHYzIzeRy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926265331753840737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你还真就给一个啊\n严肃认真的工作人员.jpg https://t.co/hHYzIzeRy8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 2113,
+          "like_count": 28401,
+          "listed_count": 9,
+          "media_count": 1300,
+          "tweet_count": 19320
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-22T10:47:41.000Z",
+        "description": "MtF, feel free to call me with any pronouns. Electronics engineer, interested in DSP/AI and Amateur Radio. \n 亲妹妹@cv41___midway\n 進め、メンヘラ！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 112,
+                "username": "cv41___midway"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pfmrlib.github.io",
+                "end": 23,
+                "expanded_url": "http://pfmrlib.github.io",
+                "start": 0,
+                "url": "https://t.co/7r7dlsRqQe"
+              }
+            ]
+          }
+        },
+        "id": "2907026474",
+        "name": "Hiryuu Concordea",
+        "pinned_tweet_id": "1828300445972124037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883407152666263552/QWpBbBxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 565,
+          "like_count": 5262,
+          "listed_count": 0,
+          "media_count": 684,
+          "tweet_count": 3248
+        },
+        "url": "https://t.co/7r7dlsRqQe",
+        "username": "Abs0lutHydra",
+        "verified": false
+      }
+    ]
+  }
+}

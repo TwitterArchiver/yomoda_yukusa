@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1842530921792331821",
+    "created_at": "2024-10-05T15:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T16:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842581303558066246"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1842581303558066246",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842579918401724534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "21日凌晨。眠墨吞下膠囊後服用喹硫平以期入眠，我則嘗試將自己吊死。\n兩小時後，眠墨無法入眠，我無法將自己吊死，於是我扶著眠墨打車前往附近醫院洗胃，我簽了字。\n洗胃結束後眠墨拒絕了進一步救治，我們回到酒店，在觀察幾小時後入眠。\n上午，房間被一群民警突入，我們被帶去了派出所等待家長接人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1842530921792331821",
+        "created_at": "2024-10-05T15:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T16:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842581303558066246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842581303558066246",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842579918401724534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "21日凌晨。眠墨吞下膠囊後服用喹硫平以期入眠，我則嘗試將自己吊死。\n兩小時後，眠墨無法入眠，我無法將自己吊死，於是我扶著眠墨打車前往附近醫院洗胃，我簽了字。\n洗胃結束後眠墨拒絕了進一步救治，我們回到酒店，在觀察幾小時後入眠。\n上午，房間被一群民警突入，我們被帶去了派出所等待家長接人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1842530921792331821",
+        "created_at": "2024-10-05T14:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T15:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842579918401724534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842579918401724534",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842578642855137447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此時是20日夜。\n眠墨將要吊死，已經完全失去反應和反射，我在計時半小時以確認眠墨完全死亡後宣佈其死訊並將自己吊死。但此時我聽到眠墨似乎在說什麼，無法辨識其內容。於是我將其撈起，受到了眠墨的責備。此後眠墨幾次嘗試均無法再次成功調整至將自己可被吊死的狀態。於是她吞下了我此前準備的膠囊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 2620,
+          "like_count": 26446,
+          "listed_count": 7,
+          "tweet_count": 18324
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

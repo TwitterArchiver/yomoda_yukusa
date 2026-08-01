@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991908068553269248"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1991908072084914662",
+    "created_at": "2025-11-21T16:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T17:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991908072084914662"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 10,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lbosxdWvWc",
+          "end": 38,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1991908072084914662/photo/1",
+          "media_key": "3_1991908068553269248",
+          "start": 15,
+          "url": "https://t.co/lbosxdWvWc"
+        },
+        {
+          "display_url": "x.com/yomoda_yukusa/…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/yomoda_yukusa/status/1991823149399421158",
+          "start": 39,
+          "url": "https://t.co/agM62u7LbM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991908072084914662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991823149399421158",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉又折中的换了一下\n#新头像 https://t.co/lbosxdWvWc https://t.co/agM62u7LbM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1991908068553269248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6St1bNaIAA-H-z.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991908068553269248"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1991908072084914662",
+        "created_at": "2025-11-21T16:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T17:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991908072084914662"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbosxdWvWc",
+              "end": 38,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1991908072084914662/photo/1",
+              "media_key": "3_1991908068553269248",
+              "start": 15,
+              "url": "https://t.co/lbosxdWvWc"
+            },
+            {
+              "display_url": "x.com/yomoda_yukusa/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/yomoda_yukusa/status/1991823149399421158",
+              "start": 39,
+              "url": "https://t.co/agM62u7LbM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991908072084914662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991823149399421158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉又折中的换了一下\n#新头像 https://t.co/lbosxdWvWc https://t.co/agM62u7LbM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1991823149399421158",
+        "created_at": "2025-11-21T10:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T11:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991823149399421158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yomoda_yukusa/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/yomoda_yukusa/status/1697241861730209924",
+              "start": 37,
+              "url": "https://t.co/g1tcwAMfyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991823149399421158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1697241861730209924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我饿 我饿 谁来让我吃 我饿！二十二年 我饿！\n我要换回这个头像 我饿！ https://t.co/g1tcwAMfyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2793,
+          "following_count": 2328,
+          "like_count": 31281,
+          "listed_count": 9,
+          "media_count": 1439,
+          "tweet_count": 20593
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

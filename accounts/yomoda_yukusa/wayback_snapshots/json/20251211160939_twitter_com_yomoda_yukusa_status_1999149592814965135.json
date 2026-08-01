@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1981606607126688001",
+    "created_at": "2025-12-11T16:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T17:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999149592814965135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764820595387305984",
+          "start": 0,
+          "username": "miaoning000"
+        },
+        {
+          "end": 29,
+          "id": "1377860792599519237",
+          "start": 13,
+          "username": "alexder51947745"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999149592814965135",
+    "in_reply_to_user_id": "1764820595387305984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981742175340683269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaoning000 @alexder51947745 你妈逼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1981606607126688001",
+        "created_at": "2025-12-11T16:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999149592814965135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764820595387305984",
+              "start": 0,
+              "username": "miaoning000"
+            },
+            {
+              "end": 29,
+              "id": "1377860792599519237",
+              "start": 13,
+              "username": "alexder51947745"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999149592814965135",
+        "in_reply_to_user_id": "1764820595387305984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981742175340683269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaoning000 @alexder51947745 你妈逼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764820595387305984",
+        "conversation_id": "1981606607126688001",
+        "created_at": "2025-10-24T15:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T16:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981742175340683269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1377860792599519237",
+              "start": 0,
+              "username": "alexder51947745"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981742175340683269",
+        "in_reply_to_user_id": "1377860792599519237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 276,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981621125219246412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexder51947745 我希望我死的时候可以有很多人来看我的讣告"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 2322,
+          "like_count": 31480,
+          "listed_count": 9,
+          "media_count": 1459,
+          "tweet_count": 20727
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 看见会回fo│高二网络寄生虫/🚪30￥/MTX/ overdose💊/双相/爱人@wanchunshi/凉席印suki/我真的很友善，不信你和我说句话就知道了♡\n愿神明保佑世人✙\n频道链接 https://t.co/bCWAnc9ypA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "wanchunshi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/miaonning000",
+                "end": 134,
+                "expanded_url": "https://t.me/miaonning000",
+                "start": 111,
+                "url": "https://t.co/bCWAnc9ypA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+fd4ppG7YOqRhM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+fd4ppG7YOqRhMzM1",
+                "start": 0,
+                "url": "https://t.co/vqtnzUqg6h"
+              }
+            ]
+          }
+        },
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁💊🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3914,
+          "following_count": 3693,
+          "like_count": 15521,
+          "listed_count": 12,
+          "media_count": 518,
+          "tweet_count": 7661
+        },
+        "url": "https://t.co/vqtnzUqg6h",
+        "username": "miaoning000",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-02T05:49:54.000Z",
+        "description": "自由意志主义者 友跨 支持平权 想要成为一个可爱的人 mtx",
+        "id": "1377860792599519237",
+        "name": "糖渍胡萝卜🏳️‍⚧️🇺🇦",
+        "pinned_tweet_id": "1742408171870953829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725356277973520384/Qu66uhAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 3128,
+          "like_count": 193185,
+          "listed_count": 4,
+          "media_count": 62,
+          "tweet_count": 10072
+        },
+        "username": "alexder51947745",
+        "verified": false
+      }
+    ]
+  }
+}

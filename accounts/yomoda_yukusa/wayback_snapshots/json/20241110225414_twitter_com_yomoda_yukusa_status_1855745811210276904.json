@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1855742847691173988",
+    "created_at": "2024-11-10T22:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T23:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855745811210276904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1249609709968998400",
+          "start": 0,
+          "username": "cheeywip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855745811210276904",
+    "in_reply_to_user_id": "1249609709968998400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855744791084155001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheeywip 喵。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1855744791084155001].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1855744791084155001",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1855744791084155001"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1855742847691173988",
+        "created_at": "2024-11-10T22:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T23:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855745811210276904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1249609709968998400",
+              "start": 0,
+              "username": "cheeywip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855745811210276904",
+        "in_reply_to_user_id": "1249609709968998400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855744791084155001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheeywip 喵。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2758,
+          "following_count": 2704,
+          "like_count": 26603,
+          "listed_count": 6,
+          "tweet_count": 18537
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T08:05:53.000Z",
+        "description": "無處安放的碎碎念碎碎念",
+        "id": "1249609709968998400",
+        "name": "霧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777704906054643712/2amX8ccS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 680,
+          "like_count": 96284,
+          "listed_count": 0,
+          "tweet_count": 1968
+        },
+        "username": "cheeywip",
+        "verified": false
+      }
+    ]
+  }
+}

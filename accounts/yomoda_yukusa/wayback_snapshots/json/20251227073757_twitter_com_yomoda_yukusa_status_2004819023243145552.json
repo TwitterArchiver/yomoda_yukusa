@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2004814855572971981",
+    "created_at": "2025-12-27T07:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T08:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004819023243145552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682432496171114496",
+          "start": 0,
+          "username": "bitchbaby8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004819023243145552",
+    "in_reply_to_user_id": "1682432496171114496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004814855572971981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bitchbaby8964 何意味（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2004814855572971981",
+        "created_at": "2025-12-27T07:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T08:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004819023243145552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682432496171114496",
+              "start": 0,
+              "username": "bitchbaby8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004819023243145552",
+        "in_reply_to_user_id": "1682432496171114496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004814855572971981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitchbaby8964 何意味（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682432496171114496",
+        "conversation_id": "2004814855572971981",
+        "created_at": "2025-12-27T07:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T08:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004814855572971981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004814855572971981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草我真服了，难得有空见面一次结果我要来月经了。。。😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 2336,
+          "like_count": 31844,
+          "listed_count": 10,
+          "media_count": 1492,
+          "tweet_count": 20986
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:49:59.000Z",
+        "description": "Whiskey sore in your breath.｜备考淡推中",
+        "id": "1682432496171114496",
+        "name": "零糖美式",
+        "pinned_tweet_id": "1985242209038557429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001126225826500608/fMN6l407_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 556,
+          "like_count": 33960,
+          "listed_count": 10,
+          "media_count": 1224,
+          "tweet_count": 12851
+        },
+        "username": "bitchbaby8964",
+        "verified": false
+      }
+    ]
+  }
+}

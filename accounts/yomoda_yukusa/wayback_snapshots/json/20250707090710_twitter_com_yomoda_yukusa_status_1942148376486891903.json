@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1942142559226376249",
+    "created_at": "2025-07-07T09:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T10:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942148376486891903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1919053439960748032",
+          "start": 0,
+          "username": "asdonepride"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942148376486891903",
+    "in_reply_to_user_id": "1919053439960748032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942145145467761008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asdonepride 不是啦，是螺蛳粉的味道帕夏受不了啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1942142559226376249",
+        "created_at": "2025-07-07T09:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T10:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942148376486891903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919053439960748032",
+              "start": 0,
+              "username": "asdonepride"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942148376486891903",
+        "in_reply_to_user_id": "1919053439960748032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942145145467761008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asdonepride 不是啦，是螺蛳粉的味道帕夏受不了啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919053439960748032",
+        "conversation_id": "1942142559226376249",
+        "created_at": "2025-07-07T08:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T09:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942145145467761008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942145145467761008",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942142559226376249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 唉，慢慢聊聊吧，也可能是你们抑郁发作最近比较严重，祝你们好好的..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2795,
+          "following_count": 2151,
+          "like_count": 29191,
+          "listed_count": 7,
+          "media_count": 1341,
+          "tweet_count": 19645
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:36:18.000Z",
+        "description": "橙凝凌",
+        "id": "1919053439960748032",
+        "name": "橙凝凌",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 62,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 277
+        },
+        "username": "asdonepride",
+        "verified": false
+      }
+    ]
+  }
+}

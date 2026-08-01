@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1959221803429355693",
+    "created_at": "2025-08-23T11:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T12:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959221809812738054"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959221809812738054",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959221805765546096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拼命的发推文“好痛苦。我要死了。谁来救救我。”\n救助者们听到小药娘的喊声，以为小药娘又在说谎，大家都不理睬小药娘，没有人去帮小药娘，结果小药娘终于吃下了最甜美的那颗糖果，召唤了死神。\n死神来了，拥抱了小药娘，他们从此不再痛苦和绝望的生活在一起。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1959221803429355693",
+        "created_at": "2025-08-23T11:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T12:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959221809812738054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959221809812738054",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959221805765546096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拼命的发推文“好痛苦。我要死了。谁来救救我。”\n救助者们听到小药娘的喊声，以为小药娘又在说谎，大家都不理睬小药娘，没有人去帮小药娘，结果小药娘终于吃下了最甜美的那颗糖果，召唤了死神。\n死神来了，拥抱了小药娘，他们从此不再痛苦和绝望的生活在一起。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1959221803429355693",
+        "created_at": "2025-08-23T11:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T12:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959221805765546096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959221805765546096",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959221803429355693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家看到了推文，生气地走了。\n第二天，小药娘故伎重演，善良的大家又尝试展开救援。\n小药娘笑得直不起腰：“哈哈！你们又上当了！哈哈！”\n大伙儿对小药娘一而再再而三地说谎十分生气，从此再也不相信小药娘的话了。\n过了几天，强烈的抑郁与应激又出现了，一下子击破了不存在的心之壁。小药娘十分痛苦，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2779,
+          "following_count": 2178,
+          "like_count": 29357,
+          "listed_count": 8,
+          "media_count": 1351,
+          "tweet_count": 19771
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

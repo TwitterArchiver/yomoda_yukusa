@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2043567351090864516",
+    "created_at": "2026-04-13T08:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043609038357971372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1640150075950374914",
+          "start": 0,
+          "username": "AraBh_channels"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043609038357971372",
+    "in_reply_to_user_id": "1640150075950374914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043576501803565142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AraBh_channels 我尽可能活着了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2043567351090864516",
+        "created_at": "2026-04-13T08:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043609038357971372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1640150075950374914",
+              "start": 0,
+              "username": "AraBh_channels"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043609038357971372",
+        "in_reply_to_user_id": "1640150075950374914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043576501803565142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraBh_channels 我尽可能活着了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640150075950374914",
+        "conversation_id": "2043567351090864516",
+        "created_at": "2026-04-13T06:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043576501803565142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043576501803565142",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043567351090864516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 不要這樣，我的老朋友。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2818,
+          "following_count": 2379,
+          "like_count": 33592,
+          "listed_count": 9,
+          "media_count": 1616,
+          "tweet_count": 22033
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T00:33:58.000Z",
+        "description": "“佛子既如是，堅持菩提心， 恆勤勿懈怠，莫違諸學處”。——寂天菩薩《入行論》。",
+        "id": "1640150075950374914",
+        "location": "普愿沉溺诸众生 速往无量光佛刹",
+        "name": "☸️Ara深空",
+        "pinned_tweet_id": "1918315541317705753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923123420927000576/GqKaD-b0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 605,
+          "like_count": 35460,
+          "listed_count": 4,
+          "media_count": 1760,
+          "tweet_count": 4221
+        },
+        "username": "AraBh_channels",
+        "verified": false
+      }
+    ]
+  }
+}

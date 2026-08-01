@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1855738057456308480",
+    "created_at": "2024-11-10T22:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T23:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855738057456308480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2840236608",
+          "start": 3,
+          "username": "StarNekoNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855738057456308480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855629815480717732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarNekoNeko: 3000 fo 纪念抄 id！\n回复 1 抄用户名\n回复 2 抄昵称\n----------------------------------\n关注转本帖参与 3000 fo 抽奖！\n一等奖：日雌一盒 x 1 或者教编程到入门\n二等奖：日雌3只…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1855738057456308480",
+        "created_at": "2024-11-10T22:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T23:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855738057456308480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 3,
+              "username": "StarNekoNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855738057456308480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855629815480717732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarNekoNeko: 3000 fo 纪念抄 id！\n回复 1 抄用户名\n回复 2 抄昵称\n----------------------------------\n关注转本帖参与 3000 fo 抽奖！\n一等奖：日雌一盒 x 1 或者教编程到入门\n二等奖：日雌3只…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "1855629815480717732",
+        "created_at": "2024-11-10T15:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T16:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855629815480717732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855629815480717732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4735,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "3000 fo 纪念抄 id！\n回复 1 抄用户名\n回复 2 抄昵称\n----------------------------------\n关注转本帖参与 3000 fo 抽奖！\n一等奖：日雌一盒 x 1 或者教编程到入门\n二等奖：日雌3只 x 3 或者等价物\n内幕奖：两个月内来找我面姬机票报销 x 1\n----------------------------------\n以上截止2024年11月14日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 2703,
+          "like_count": 26592,
+          "listed_count": 6,
+          "tweet_count": 18535
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "星晚，恋人厘米 @ganlongyu_ | Backend, Algorithm, Cybersecurity, Gameplay | Technical Leader | CS at @CUBoulder | ◂Ⓘ▸ 🎸, 🏹, 🏎️ | FtX | INFJ | ADHD BPD BD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "ganlongyu_"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "CUBoulder"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com/profile",
+                "end": 23,
+                "expanded_url": "https://starneko.com/profile",
+                "start": 0,
+                "url": "https://t.co/LWBIQ7yH89"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島有時候在龍門",
+        "name": "Star Neko 浅羽星晚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848266973916123136/VzxVMzVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 1202,
+          "like_count": 16739,
+          "listed_count": 7,
+          "tweet_count": 5278
+        },
+        "url": "https://t.co/LWBIQ7yH89",
+        "username": "StarNekoNeko",
+        "verified": false
+      }
+    ]
+  }
+}

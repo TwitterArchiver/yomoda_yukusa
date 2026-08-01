@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1979090072625414316",
+    "created_at": "2025-10-17T07:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T08:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979090187641614438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1537009225716576257",
+          "start": 0,
+          "username": "JINPINGslutflop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979090187641614438",
+    "in_reply_to_user_id": "1537009225716576257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979090072625414316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JINPINGslutflop 写"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1979090072625414316",
+        "created_at": "2025-10-17T07:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T08:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979090187641614438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1537009225716576257",
+              "start": 0,
+              "username": "JINPINGslutflop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979090187641614438",
+        "in_reply_to_user_id": "1537009225716576257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979090072625414316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JINPINGslutflop 写"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537009225716576257",
+        "conversation_id": "1979090072625414316",
+        "created_at": "2025-10-17T07:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T08:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979090072625414316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979090072625414316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶我想写恐怖小说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2779,
+          "following_count": 2297,
+          "like_count": 30418,
+          "listed_count": 10,
+          "media_count": 1393,
+          "tweet_count": 20201
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T09:49:00.000Z",
+        "description": "比我萌的人有很多 但是比我更无理取闹更恶毒更折磨人的还有几个？https://t.co/i3mrRb6Cjh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoxiaoxiaomi…",
+                "end": 54,
+                "expanded_url": "https://ngl.link/xiaoxiaoxiaomie64489",
+                "start": 31,
+                "url": "https://t.co/i3mrRb6Cjh"
+              }
+            ]
+          }
+        },
+        "id": "1537009225716576257",
+        "name": "口口羊羊羊",
+        "pinned_tweet_id": "1972912437260349932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979085262710886401/w9h1YGXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 2116,
+          "like_count": 79329,
+          "listed_count": 3,
+          "media_count": 1207,
+          "tweet_count": 8647
+        },
+        "username": "JINPINGslutflop",
+        "verified": false
+      }
+    ]
+  }
+}

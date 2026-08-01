@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1975927860851564642",
+    "created_at": "2025-10-08T15:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T16:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975949190527393852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1250585245604143105",
+          "start": 0,
+          "username": "Misaki38872687"
+        },
+        {
+          "end": 26,
+          "id": "1634088603407065088",
+          "start": 16,
+          "username": "cincinspo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975949190527393852",
+    "in_reply_to_user_id": "1250585245604143105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975948603660386396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misaki38872687 @cincinspo 坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1975927860851564642",
+        "created_at": "2025-10-08T15:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T16:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975949190527393852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1250585245604143105",
+              "start": 0,
+              "username": "Misaki38872687"
+            },
+            {
+              "end": 26,
+              "id": "1634088603407065088",
+              "start": 16,
+              "username": "cincinspo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975949190527393852",
+        "in_reply_to_user_id": "1250585245604143105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975948603660386396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaki38872687 @cincinspo 坏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250585245604143105",
+        "conversation_id": "1975927860851564642",
+        "created_at": "2025-10-08T15:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T16:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975948603660386396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 25,
+              "id": "1634088603407065088",
+              "start": 15,
+              "username": "cincinspo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975948603660386396",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975944176392090041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa @cincinspo 绿色臭鸟：什么？我的伪装被识破了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 2287,
+          "like_count": 30174,
+          "listed_count": 10,
+          "media_count": 1380,
+          "tweet_count": 20119
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-16T00:42:19.000Z",
+        "description": "三重伟大的兔男魔法师🐰😎来到人类的国度的目的是将所有人变成兔男🐰😈\n🍓士多啤梨保护自己🍓",
+        "id": "1250585245604143105",
+        "location": "距离你0.1km",
+        "name": "🐰Misaki Trismegistus🐰",
+        "pinned_tweet_id": "1889484360086368424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1250585410775822338/q58G4hId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 906,
+          "like_count": 81390,
+          "listed_count": 1,
+          "media_count": 2437,
+          "tweet_count": 12739
+        },
+        "username": "Misaki38872687",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T07:07:49.000Z",
+        "description": "#wifepilled 🦄💖 175cm/60.5kg - 19yo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "wifepilled"
+              }
+            ]
+          }
+        },
+        "id": "1634088603407065088",
+        "location": "🇫🇮 // bmi 19.8",
+        "name": "cin",
+        "pinned_tweet_id": "1974538524033700297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935057414207700993/HAsDMlOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 522,
+          "like_count": 18933,
+          "listed_count": 5,
+          "media_count": 1005,
+          "tweet_count": 6937
+        },
+        "username": "cincinspo",
+        "verified": false
+      }
+    ]
+  }
+}

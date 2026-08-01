@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2000464744235561300",
+    "created_at": "2025-12-15T09:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T10:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000495577206067419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "778125542604275712",
+          "start": 0,
+          "username": "aburyageknknw"
+        },
+        {
+          "end": 26,
+          "id": "1813135564075638788",
+          "start": 15,
+          "username": "kakyoin_gr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000495577206067419",
+    "in_reply_to_user_id": "778125542604275712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000468504835949026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aburyageknknw @kakyoin_gr 你可以试试「チーワン」と「シーワン」"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2000468491410026496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MXfnbbMAAePVf.jpg",
+        "width": 794
+      },
+      {
+        "height": 781,
+        "media_key": "3_2000468491393290240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MXfnXb0AAmu4D.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2000464744235561300",
+        "created_at": "2025-12-15T09:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T10:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000495577206067419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "778125542604275712",
+              "start": 0,
+              "username": "aburyageknknw"
+            },
+            {
+              "end": 26,
+              "id": "1813135564075638788",
+              "start": 15,
+              "username": "kakyoin_gr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000495577206067419",
+        "in_reply_to_user_id": "778125542604275712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000468504835949026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aburyageknknw @kakyoin_gr 你可以试试「チーワン」と「シーワン」"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000468491410026496",
+            "3_2000468491393290240"
+          ]
+        },
+        "author_id": "778125542604275712",
+        "conversation_id": "2000464744235561300",
+        "created_at": "2025-12-15T07:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000468504835949026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813135564075638788",
+              "start": 0,
+              "username": "kakyoin_gr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ejhf3hBNFV",
+              "end": 127,
+              "expanded_url": "https://x.com/aburyageknknw/status/2000468504835949026/photo/1",
+              "media_key": "3_2000468491410026496",
+              "start": 104,
+              "url": "https://t.co/Ejhf3hBNFV"
+            },
+            {
+              "display_url": "pic.x.com/Ejhf3hBNFV",
+              "end": 127,
+              "expanded_url": "https://x.com/aburyageknknw/status/2000468504835949026/photo/1",
+              "media_key": "3_2000468491393290240",
+              "start": 104,
+              "url": "https://t.co/Ejhf3hBNFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000468504835949026",
+        "in_reply_to_user_id": "1813135564075638788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 560,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000464744235561300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakyoin_gr 書き表すと全然違うのに声に出すと同じ｢シーワン｣なのでして…！？…後者をかきょﾁｬﾝ様が使う機会が無いよう清く正しく袖長いきょーめいとを心がけねば…。\n( ;´꒳`;)ｶｷｮﾁｬｰ… https://t.co/Ejhf3hBNFV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2779,
+          "following_count": 2320,
+          "like_count": 31545,
+          "listed_count": 9,
+          "media_count": 1473,
+          "tweet_count": 20782
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-20T06:56:01.000Z",
+        "description": "羽ヰ春組、最近はかきょﾁｬﾝ様(佳鏡院)と琶舞様も気になる半端に多趣味な狐の観測者です！アイコン羽累巫女ちゃんはトーエ先生、お情様＆アブソルはOGA先生の神作です！",
+        "id": "778125542604275712",
+        "location": "鹿児島でしてー",
+        "name": "あぶりゃげ狐",
+        "pinned_tweet_id": "1763940054316257695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878803200389849088/3qFFH8zl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 1612,
+          "like_count": 88836,
+          "listed_count": 20,
+          "media_count": 12349,
+          "tweet_count": 94407
+        },
+        "username": "aburyageknknw",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T08:57:19.000Z",
+        "description": "佳鏡院(かきょういん)です。歌を届けます。 心世紀 from 少女革命計画 @girls_rev_pj ✧全体タグ : #佳鏡院 / FA : #佳鏡院美術部 ✧ https://t.co/9yIkdiHXqa\n二次創作は活動で使用させていただく場合があります。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 60,
+                "tag": "佳鏡院"
+              },
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "佳鏡院美術部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "girls_rev_pj"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@kakyoin_grp",
+                "end": 105,
+                "expanded_url": "https://www.youtube.com/@kakyoin_grp",
+                "start": 82,
+                "url": "https://t.co/9yIkdiHXqa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "girlsrevolutionproject.jp",
+                "end": 23,
+                "expanded_url": "https://girlsrevolutionproject.jp/",
+                "start": 0,
+                "url": "https://t.co/62DwxbRvmC"
+              }
+            ]
+          }
+        },
+        "id": "1813135564075638788",
+        "location": "KAMITSUBAKI STUDIO",
+        "name": "佳鏡院 -KAKYOIN-",
+        "pinned_tweet_id": "1988532228754669924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821399249223114753/3kItstYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11804,
+          "following_count": 82,
+          "like_count": 14287,
+          "listed_count": 178,
+          "media_count": 179,
+          "tweet_count": 1681
+        },
+        "url": "https://t.co/62DwxbRvmC",
+        "username": "kakyoin_gr",
+        "verified": true
+      }
+    ]
+  }
+}

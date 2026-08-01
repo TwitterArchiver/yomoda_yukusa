@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1971896730779353464",
+    "created_at": "2025-09-27T11:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T12:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971896730779353464"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1971896730779353464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "帕夏打完针，我问她针头的盖在哪呢？她不知道针头的盖在哪里。帕夏修完眉，我问她修眉刀的盖在哪呢？她不知道修眉刀的盖在哪里。帕夏打开刀拆快递，拆完快递，我会在桌子上或者床上发现没有收起来的装备解剖刀片的折叠小刀。好恐怖。帕夏好恐怖。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1971896730779353464",
+        "created_at": "2025-09-27T11:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971896730779353464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971896730779353464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帕夏打完针，我问她针头的盖在哪呢？她不知道针头的盖在哪里。帕夏修完眉，我问她修眉刀的盖在哪呢？她不知道修眉刀的盖在哪里。帕夏打开刀拆快递，拆完快递，我会在桌子上或者床上发现没有收起来的装备解剖刀片的折叠小刀。好恐怖。帕夏好恐怖。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 2276,
+          "like_count": 29827,
+          "listed_count": 10,
+          "media_count": 1371,
+          "tweet_count": 20017
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

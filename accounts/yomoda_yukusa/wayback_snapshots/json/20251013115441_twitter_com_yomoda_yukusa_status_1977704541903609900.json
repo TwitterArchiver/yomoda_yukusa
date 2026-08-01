@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1977703693987287476",
+    "created_at": "2025-10-13T11:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T12:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977704541903609900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962156064734138368",
+          "start": 0,
+          "username": "HydrogenNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977704541903609900",
+    "in_reply_to_user_id": "1962156064734138368",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977703693987287476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HydrogenNeko emm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1977703693987287476",
+        "created_at": "2025-10-13T11:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T12:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977704541903609900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962156064734138368",
+              "start": 0,
+              "username": "HydrogenNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977704541903609900",
+        "in_reply_to_user_id": "1962156064734138368",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977703693987287476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HydrogenNeko emm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962156064734138368",
+        "conversation_id": "1977703693987287476",
+        "created_at": "2025-10-13T11:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T12:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977703693987287476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977703693987287476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "woc，家裏人突然要趕我出去\n説是我不務正業變人妖\n還導致我爹和我被鄰居當面詢問奶子是怎麽回事\n紫砂吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 2294,
+          "like_count": 30354,
+          "listed_count": 10,
+          "media_count": 1390,
+          "tweet_count": 20175
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "Yekase Suiso | An ordinary person who dares to take a stand | Life turns people into cats | Love, resistance, non-violence, non-cooperation | 15y.o CEO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/CGs2sVd9Ta",
+                "end": 23,
+                "expanded_url": "http://discord.gg/CGs2sVd9Ta",
+                "start": 0,
+                "url": "https://t.co/3vRyPqnP1u"
+              }
+            ]
+          }
+        },
+        "id": "1962156064734138368",
+        "location": "The LFE",
+        "name": "Yekase Suiso🔮藥圈大賢者",
+        "pinned_tweet_id": "1977276508189475083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974788908069400576/RF-82BmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 433,
+          "like_count": 1568,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 414
+        },
+        "url": "https://t.co/3vRyPqnP1u",
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

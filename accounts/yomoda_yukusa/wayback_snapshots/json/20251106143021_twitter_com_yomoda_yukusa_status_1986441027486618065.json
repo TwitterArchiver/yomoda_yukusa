@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986441024890413057"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1986441027486618065",
+    "created_at": "2025-11-06T14:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T15:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986441027486618065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SIWo0btFeJ",
+          "end": 66,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1986441027486618065/photo/1",
+          "media_key": "3_1986441024890413057",
+          "start": 43,
+          "url": "https://t.co/SIWo0btFeJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986441027486618065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚安人们 和 我的孩子们。\n大家是没有罪的。不是赎清了，不需要赎罪，大家是没有罪的。 https://t.co/SIWo0btFeJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 587,
+        "media_key": "3_1986441024890413057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5FBlmfbIAEurn5.jpg",
+        "width": 583
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986441024890413057"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1986441027486618065",
+        "created_at": "2025-11-06T14:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986441027486618065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SIWo0btFeJ",
+              "end": 66,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1986441027486618065/photo/1",
+              "media_key": "3_1986441024890413057",
+              "start": 43,
+              "url": "https://t.co/SIWo0btFeJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986441027486618065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安人们 和 我的孩子们。\n大家是没有罪的。不是赎清了，不需要赎罪，大家是没有罪的。 https://t.co/SIWo0btFeJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984486210988089345/XvAXq227_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 2330,
+          "like_count": 30916,
+          "listed_count": 10,
+          "media_count": 1418,
+          "tweet_count": 20458
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

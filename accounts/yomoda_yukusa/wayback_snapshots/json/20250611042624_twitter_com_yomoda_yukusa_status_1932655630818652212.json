@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1932655630818652212",
+    "created_at": "2025-06-11T04:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T05:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932655630818652212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1423584686387908610",
+          "start": 3,
+          "username": "Ryu_Entro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932655630818652212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929858888318521739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ryu_Entro: 这题我太会了。\n你能想象到，三个月内连续去世两个亲友是什么感受吗？还都在你不到三十人的私密亲友群里？\n他们一个和我年纪相仿，是损友哥们；一个比我小一届，把我视作老师前辈。\n一个意外，一个自杀。\n那一段时间，整个群公告就三条，一条群规，两条上下连一起…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_1929858881729216512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsg8bZgaQAAsxez.jpg",
+        "width": 1110
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1932655630818652212",
+        "created_at": "2025-06-11T04:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T05:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932655630818652212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1423584686387908610",
+              "start": 3,
+              "username": "Ryu_Entro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932655630818652212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929858888318521739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ryu_Entro: 这题我太会了。\n你能想象到，三个月内连续去世两个亲友是什么感受吗？还都在你不到三十人的私密亲友群里？\n他们一个和我年纪相仿，是损友哥们；一个比我小一届，把我视作老师前辈。\n一个意外，一个自杀。\n那一段时间，整个群公告就三条，一条群规，两条上下连一起…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929858881729216512"
+          ]
+        },
+        "author_id": "1423584686387908610",
+        "conversation_id": "1929858888318521739",
+        "created_at": "2025-06-03T11:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T12:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929858888318521739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/40QSBINIib",
+              "end": 159,
+              "expanded_url": "https://x.com/Ryu_Entro/status/1929858888318521739/photo/1",
+              "media_key": "3_1929858881729216512",
+              "start": 136,
+              "url": "https://t.co/40QSBINIib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929858888318521739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 635,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这题我太会了。\n你能想象到，三个月内连续去世两个亲友是什么感受吗？还都在你不到三十人的私密亲友群里？\n他们一个和我年纪相仿，是损友哥们；一个比我小一届，把我视作老师前辈。\n一个意外，一个自杀。\n那一段时间，整个群公告就三条，一条群规，两条上下连一起的讣告。\n（评论区续） https://t.co/40QSBINIib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2808,
+          "following_count": 2147,
+          "like_count": 28756,
+          "listed_count": 7,
+          "media_count": 1319,
+          "tweet_count": 19459
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T10:00:24.000Z",
+        "description": "流熵｜Entro*恩特洛｜小黑龙｜Furry｜He/Him｜Gay｜Single｜20y-187cm-100kg｜ENFP-T｜混乱善良｜中文🇨🇳🇹🇼&English🇬🇧｜写手✒️｜阅读📖｜古诗词📜｜生活记录📷｜三次元🏙️｜成长中🌱   ‖  “此处唯有前路。” ||  欢迎私信📭",
+        "id": "1423584686387908610",
+        "location": "熵蚀漠地",
+        "name": "流熵",
+        "pinned_tweet_id": "1931024796252520949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923390588969525249/nvwcOc2o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5356,
+          "following_count": 1443,
+          "like_count": 6612,
+          "listed_count": 4,
+          "media_count": 1210,
+          "tweet_count": 4559
+        },
+        "username": "Ryu_Entro",
+        "verified": false
+      }
+    ]
+  }
+}

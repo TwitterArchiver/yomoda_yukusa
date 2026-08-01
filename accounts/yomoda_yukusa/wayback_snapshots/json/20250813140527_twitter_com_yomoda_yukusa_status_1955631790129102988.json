@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1955631790129102988",
+    "created_at": "2025-08-13T14:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T15:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955631790129102988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1389190165566877699",
+          "start": 3,
+          "username": "amcje1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955631790129102988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955617837927776581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amcje1: 非管制原研低价精神药物现货国内直邮\n原研药无须处方价格低于网购平台价\n西安杨森 帕利哌酮缓释片\n辉瑞 盐酸齐拉西酮胶囊\n非原研 北京四环 奥卡西平片\n非原研 江苏豪森 阿戈美拉丁片\n非原研 广东东阳光  枸橼酸西地那非片\n赛诺菲 丙戊酸钠缓释片\n非原研…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1955631790129102988",
+        "created_at": "2025-08-13T14:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955631790129102988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389190165566877699",
+              "start": 3,
+              "username": "amcje1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955631790129102988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955617837927776581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amcje1: 非管制原研低价精神药物现货国内直邮\n原研药无须处方价格低于网购平台价\n西安杨森 帕利哌酮缓释片\n辉瑞 盐酸齐拉西酮胶囊\n非原研 北京四环 奥卡西平片\n非原研 江苏豪森 阿戈美拉丁片\n非原研 广东东阳光  枸橼酸西地那非片\n赛诺菲 丙戊酸钠缓释片\n非原研…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389190165566877699",
+        "conversation_id": "1955617837927776581",
+        "created_at": "2025-08-13T13:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T14:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955617837927776581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955617837927776581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 69,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "非管制原研低价精神药物现货国内直邮\n原研药无须处方价格低于网购平台价\n西安杨森 帕利哌酮缓释片\n辉瑞 盐酸齐拉西酮胶囊\n非原研 北京四环 奥卡西平片\n非原研 江苏豪森 阿戈美拉丁片\n非原研 广东东阳光  枸橼酸西地那非片\n赛诺菲 丙戊酸钠缓释片\n非原研 北京京丰 盐酸二甲双胍肠溶片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 2166,
+          "like_count": 29278,
+          "listed_count": 8,
+          "media_count": 1345,
+          "tweet_count": 19721
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-03T12:09:08.000Z",
+        "description": "https://t.co/QMTG8CGKZQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hatateaya",
+                "end": 23,
+                "expanded_url": "http://t.me/hatateaya",
+                "start": 0,
+                "url": "https://t.co/QMTG8CGKZQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ganlanc.at",
+                "end": 23,
+                "expanded_url": "https://ganlanc.at",
+                "start": 0,
+                "url": "https://t.co/W9HXhS90nU"
+              }
+            ]
+          }
+        },
+        "id": "1389190165566877699",
+        "name": "橄榄菜 北桥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872947652662575106/McUAMGzN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 216,
+          "like_count": 17955,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 905
+        },
+        "url": "https://t.co/W9HXhS90nU",
+        "username": "amcje1",
+        "verified": false
+      }
+    ]
+  }
+}

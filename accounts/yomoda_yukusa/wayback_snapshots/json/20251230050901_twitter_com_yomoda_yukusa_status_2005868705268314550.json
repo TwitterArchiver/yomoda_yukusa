@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2005866522485326071",
+    "created_at": "2025-12-30T05:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T06:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005868705268314550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1583422861099692032",
+          "start": 0,
+          "username": "kanade_taka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005868705268314550",
+    "in_reply_to_user_id": "1583422861099692032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005867072270610881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanade_taka 抱抱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2005867072270610881].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2005867072270610881",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2005867072270610881"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2005866522485326071",
+        "created_at": "2025-12-30T05:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T06:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005868705268314550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1583422861099692032",
+              "start": 0,
+              "username": "kanade_taka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005868705268314550",
+        "in_reply_to_user_id": "1583422861099692032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005867072270610881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanade_taka 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2340,
+          "like_count": 31940,
+          "listed_count": 10,
+          "media_count": 1500,
+          "tweet_count": 21052
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T11:40:16.000Z",
+        "description": "amab non-binary sub 想做chubby milf 大概是asd/adhd\n原@kanadegao\nmillionlive5@proton.me\n推：高垣枫 速水奏 鹭泽文香",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "kanadegao"
+              }
+            ]
+          }
+        },
+        "id": "1583422861099692032",
+        "name": "kanademk2@kanade_taka@nya.one",
+        "pinned_tweet_id": "1745852767464554593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635546948102127617/2JAyk-UV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 7502,
+          "like_count": 750732,
+          "listed_count": 31,
+          "media_count": 547,
+          "tweet_count": 29528
+        },
+        "username": "kanade_taka",
+        "verified": false
+      }
+    ]
+  }
+}

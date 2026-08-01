@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2056726669927608729",
+    "created_at": "2026-05-19T15:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056764813045588401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764195010986274816",
+          "start": 0,
+          "username": "CCA8798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056764813045588401",
+    "in_reply_to_user_id": "1764195010986274816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056726777800868272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798 真好啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2056726669927608729",
+        "created_at": "2026-05-19T15:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056764813045588401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764195010986274816",
+              "start": 0,
+              "username": "CCA8798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056764813045588401",
+        "in_reply_to_user_id": "1764195010986274816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056726777800868272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798 真好啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764195010986274816",
+        "conversation_id": "2056726669927608729",
+        "created_at": "2026-05-19T13:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056726777800868272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056726777800868272",
+        "in_reply_to_user_id": "1764195010986274816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 872,
+                "expanded_url": "http://mtf.wiki",
+                "start": 849,
+                "url": "https://t.co/jKOjUTqNPK"
+              },
+              {
+                "display_url": "mtf.wiki",
+                "end": 1028,
+                "expanded_url": "http://mtf.wiki",
+                "start": 1005,
+                "url": "https://t.co/jKOjUTqNPK"
+              }
+            ]
+          },
+          "text": "我爸：[图片：风景照]\n我爸：这是我拍的\n我：挺好\n我爸：[图片：肌肉男上半身照]\n我爸：这是我两年的身体目标\n我爸：现在完成的20%\n我：这是打了类固醇和群勃龙的\n我：正常练青筋不能这么爆\n我爸：哦，我自己锻炼，达到80%就算成功了\n我：你加油\n我爸：自然饮食\n我爸：[图片：书籍照片]\n我：[引用：深湾老林 10:50 性别认知这个属于个人选择] 那你给我买药钱不[表情包]\n我爸：这是我系统化摄影的学习目标第一阶段\n我：Lr我不用看都学完了(\n我爸：我现在钱只能转给你妈，我怕你这个对身体健康不好，健康是我的底线，所以不会给钱支持你做这个，你能理解吗？\n我：我都是了解完了才去做事情的\n\n我：我都是了解完了才去做事情的\n我：你也不是不了解我[表情包]\n我：那考试复习我也一项没复习到都焦虑的要死\n我：我为了用药安全还叫我妈带我查内分泌去呢\n我：看医生也是我主动要求去看的\n我爸：我不懂判断，所以只能靠你妈帮助和你交流，毕竟她陪在你身边了解清楚一些，我又不能见你。\n我爸：我发现摄影能帮我解决一些心理问题\n我爸：好像可以让心灵更平静一些\n我：这是\n我：我没有那条件\n我：要不然我拍深空摄影去了\n我爸：你不是有相机和镜头吗？\n我：那深空摄影不是说拍就拍的\n我：这些都还不够呢\n我爸：你不是自己做一个很牛的镜头吗？\n我爸：修复不了吗？\n我：早被我妈不小心摔坏了到现在没赔我\n我：没有心力修复了\n我：好不容易做出来的东西说没就没\n我爸：要不需要什么配件你发个清单给我，我给你买了寄回去？\n我：不用\n我：你买不明白\n我：光学参数说了你听不懂\n我：[引用：深湾老林 11:10 我不懂判断，所以只能靠你妈帮助和你交流，毕竟她陪在你身边了解清楚一些，...] 你能给我付买药钱就不错了\n我：我的治疗也都是有论文依据的\n我：你要感兴趣我可以回去发几篇论文原文给你看\n我：中译版本也有\n我爸：可以，让我有些判断能力，我只要判断不了健康的问题，我都不能做这样的事，你应该能理解的。\n我爸：毕竟是吃进去的东西\n我：https://t.co/jKOjUTqNPK你可以去看一下\n我爸：MtF (Male-to-Female)，跨性别女性，是指出生时指派性别是男性的女性。女性倾向跨性别者(Transfeminine) 则包括了更广泛的女性倾向非常规性别者。1\n我爸：你是属于这个吗？\n我：对\n我爸：明白\n我爸：好像金星也是\n我：https://t.co/jKOjUTqNPK你直接访问就行 访问不进去你就挂梯子\n我：[引用：深湾老林 11:21 好像金星也是] 嘿你居然知道\n我：那很好了\n我爸：她是属于很有思想的人\n我：解决了这些方面的问题经历过心境障碍的人思想深度比普通人多很正常\n我：心境障碍的人看到的世界不一样\n我：共情能力也强很多\n我爸：我挺佩服他的勇气的，不过估计你要以后面对的家庭其它人和社会评价的压力可能会跟他一样巨大，但是未必有他一样的运气和才能去支撑自己的路走得长远，你要做好心理准备，包括身体、健康、心理、经济、能力等。我同样也会跟着一起承担巨大的家庭和社会压力，你自己方面的你要做好准备，我能支持可能并不多。\n我：你能给我用药方面的经济支持就很不错了\n我：至于社会压力啥的我能自己调节过来\n我爸：毕竟你现在还未成年，心智上还不太成熟，所以我也很难根据你的意愿去做足够的支持，人生路上有些选择可以等18岁成年以后再做决定，这样可以避免产生那么大的压力，也避免自己18岁成年以后可能会产生后悔。金星也是成年后再做的选择。\n我：那我住院完医生给我开GnRH药你也得付呀\n我爸：治疗方面根据医生意见开出的药性质不一样的，我去搞业务了，空了再聊\n(2/2)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 210,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056726669927608729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爸：[图片：风景照]\n我爸：这是我拍的\n我：挺好\n我爸：[图片：肌肉男上半身照]\n我爸：这是我两年的身体目标\n我爸：现在完成的20%\n我：这是打了类固醇和群勃龙的\n我：正常练青筋不能这么爆\n我爸：哦，我自己锻炼，达到80%就算成功了\n我：你加油\n我爸：自然饮食\n我爸：[图片：书籍照片]"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 2398,
+          "like_count": 34080,
+          "listed_count": 9,
+          "media_count": 1638,
+          "tweet_count": 22304
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党(家长党！) 出柜26.05.05 | 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 | 玻璃心 心境障碍 ED GD (OD🧐)双相中焦 | 交通 科学 医学 杂圈迷 | 战争雷霆 | Cpp Coder\n可寄拍/扩列\n二代目(逃生舱): @CCA8798suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "CCA8798suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(何意味版)🍥",
+        "pinned_tweet_id": "2052265032193581443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051736077615136768/q8UF6A0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 1236,
+          "like_count": 15819,
+          "listed_count": 4,
+          "media_count": 182,
+          "tweet_count": 2263
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": true
+      }
+    ]
+  }
+}

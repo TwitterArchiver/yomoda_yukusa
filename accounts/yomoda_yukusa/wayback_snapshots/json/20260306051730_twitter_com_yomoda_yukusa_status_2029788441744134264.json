@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2029788437520470510",
+    "created_at": "2026-03-06T05:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T06:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029788441744134264"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029788441744134264",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029788439554707656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "6，4天后情人节晚上我想给她打个情人节电话（依旧不知道她跟人确立关系了），她拒绝接听，被她指责说我过度缠着她。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2029788437520470510",
+        "created_at": "2026-03-06T05:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029788441744134264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029788441744134264",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029788439554707656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6，4天后情人节晚上我想给她打个情人节电话（依旧不知道她跟人确立关系了），她拒绝接听，被她指责说我过度缠着她。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2029788437520470510",
+        "created_at": "2026-03-06T05:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029788439554707656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029788439554707656",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029788437520470510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "4，有了新欢（且我还不知道）以后托朋友过来加我，托朋友说出她不想失去我的话。\n5，我在上海，她在长三角跑来跑去，今天在南京明天在杭州后天又回南京大后天又去杭州。我问她不能在上海停一次看看我？她于是回来带了一晚上，第二天就走了回老家去。依然是没告知我新关系。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2830,
+          "following_count": 2384,
+          "like_count": 33195,
+          "listed_count": 9,
+          "media_count": 1569,
+          "tweet_count": 21677
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

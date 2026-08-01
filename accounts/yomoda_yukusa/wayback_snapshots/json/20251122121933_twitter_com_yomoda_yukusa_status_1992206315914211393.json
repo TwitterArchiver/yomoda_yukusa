@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1697241861730209924",
+    "created_at": "2025-11-22T12:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T13:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992206315914211393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1446093583119839242",
+          "start": 0,
+          "username": "KiwiKazamaCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992206315914211393",
+    "in_reply_to_user_id": "1446093583119839242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1697262843329229030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiwiKazamaCat 现在这个呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1697241861730209924",
+        "created_at": "2025-11-22T12:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T13:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992206315914211393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446093583119839242",
+              "start": 0,
+              "username": "KiwiKazamaCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992206315914211393",
+        "in_reply_to_user_id": "1446093583119839242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1697262843329229030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiwiKazamaCat 现在这个呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446093583119839242",
+        "conversation_id": "1697241861730209924",
+        "created_at": "2023-08-31T14:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2023-08-31T15:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1697262843329229030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1697262843329229030",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1697241861730209924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yuchih 吓人啊大姐，mark一下，等咱自闭了咱也换这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 2326,
+          "like_count": 31311,
+          "listed_count": 9,
+          "media_count": 1440,
+          "tweet_count": 20602
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T12:42:43.000Z",
+        "description": "生病的她和永不停歇的雨",
+        "id": "1446093583119839242",
+        "name": "🐈KazamaRio🐈",
+        "pinned_tweet_id": "1683068886252666880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907314677274849280/u9zHFpcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 556,
+          "like_count": 10894,
+          "listed_count": 9,
+          "media_count": 1503,
+          "tweet_count": 18254
+        },
+        "username": "KiwiKazamaCat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1895896355220103523",
+    "created_at": "2025-05-14T13:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T14:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922642610474094904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1894375325934784517",
+          "start": 0,
+          "username": "sword_12300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922642610474094904",
+    "in_reply_to_user_id": "1894375325934784517",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922623062555463709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sword_12300 謝謝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1895896355220103523",
+        "created_at": "2025-05-14T13:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T14:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922642610474094904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "sword_12300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922642610474094904",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922623062555463709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sword_12300 謝謝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894375325934784517",
+        "conversation_id": "1895896355220103523",
+        "created_at": "2025-05-14T12:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T13:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922623062555463709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922623062555463709",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895896355220103523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 感觉这张图片的拍摄者有些艺术细胞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2786,
+          "following_count": 2076,
+          "like_count": 28000,
+          "listed_count": 7,
+          "media_count": 1284,
+          "tweet_count": 19193
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "是时候了",
+        "id": "1894375325934784517",
+        "name": "sword",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922466506245332992/UloVulx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 86,
+          "like_count": 1996,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 212
+        },
+        "username": "sword_12300",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1842530921792331821",
+    "created_at": "2024-10-06T11:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T12:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842883568189542819"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1842883568189542819",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842533873651261730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "11月25日更正为12月8日，12月8日更正为12月16日"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1842530921792331821",
+        "created_at": "2024-10-06T11:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T12:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842883568189542819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842883568189542819",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842533873651261730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "11月25日更正为12月8日，12月8日更正为12月16日"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1842530921792331821",
+        "created_at": "2024-10-05T11:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T12:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842533873651261730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842533873651261730",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842532689158832497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "11月25日，又去見了貓白，貓白在晚上來到了火車站接我。度過了兩個人的一個週末。我忘了她的學姐當時是否也在。\n12月8日，向授課老師說明了情況，提前十分鐘離開了學校趕上了車，又去找貓白——這次還有貓白的前任、一個喜歡貓白的人、和一個喜歡我的人。次日早雪中貓白接到了我。我們一起吃了自助火鍋。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2727,
+          "following_count": 2627,
+          "like_count": 26463,
+          "listed_count": 7,
+          "tweet_count": 18357
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

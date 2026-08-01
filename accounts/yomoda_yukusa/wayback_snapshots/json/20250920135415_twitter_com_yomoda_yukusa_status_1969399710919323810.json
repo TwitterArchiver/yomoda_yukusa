@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1969399710919323810",
+    "created_at": "2025-09-20T13:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T14:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969399710919323810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1437034228768595977",
+          "start": 3,
+          "username": "Kumamushi2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969399710919323810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967800895711891905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kumamushi2021: 拜托了，再让我因为音乐与画面而落泪吧……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1969399710919323810",
+        "created_at": "2025-09-20T13:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T14:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969399710919323810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1437034228768595977",
+              "start": 3,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969399710919323810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967800895711891905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kumamushi2021: 拜托了，再让我因为音乐与画面而落泪吧……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1967800895711891905",
+        "created_at": "2025-09-16T04:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T05:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967800895711891905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967800895711891905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "拜托了，再让我因为音乐与画面而落泪吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2789,
+          "following_count": 2276,
+          "like_count": 29787,
+          "listed_count": 10,
+          "media_count": 1365,
+          "tweet_count": 19984
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "游荡于人世的幽灵。\n18↑/CN/可以叫我水熊蟲或水熊/plz call me kumamushi/クマムシです/use translator/废话很多/匿名提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 69,
+          "like_count": 2021,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

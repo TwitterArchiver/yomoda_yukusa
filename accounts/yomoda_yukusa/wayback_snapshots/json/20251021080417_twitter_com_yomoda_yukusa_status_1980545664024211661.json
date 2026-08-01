@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1980286173420613742",
+    "created_at": "2025-10-21T08:04:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T09:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980545664024211661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1728211722295529472",
+          "start": 0,
+          "username": "6CATLICKA"
+        },
+        {
+          "end": 21,
+          "id": "1634088603407065088",
+          "start": 11,
+          "username": "cincinspo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980545664024211661",
+    "in_reply_to_user_id": "1728211722295529472",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980545168593023416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6CATLICKA @cincinspo whats meaning LMAO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1980286173420613742",
+        "created_at": "2025-10-21T08:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T09:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980545664024211661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1728211722295529472",
+              "start": 0,
+              "username": "6CATLICKA"
+            },
+            {
+              "end": 21,
+              "id": "1634088603407065088",
+              "start": 11,
+              "username": "cincinspo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980545664024211661",
+        "in_reply_to_user_id": "1728211722295529472",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980545168593023416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6CATLICKA @cincinspo whats meaning LMAO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728211722295529472",
+        "conversation_id": "1980286173420613742",
+        "created_at": "2025-10-21T08:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T09:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980545168593023416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 25,
+              "id": "1634088603407065088",
+              "start": 15,
+              "username": "cincinspo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980545168593023416",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980544117861138553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa @cincinspo LMAO i love you"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 2314,
+          "like_count": 30538,
+          "listed_count": 10,
+          "media_count": 1396,
+          "tweet_count": 20253
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T00:39:28.000Z",
+        "description": "wifelover, mediaconsumer goyslop connoisseur, yuriful prince #free4catlicka ~💗",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 61,
+                "tag": "free4catlicka"
+              }
+            ]
+          }
+        },
+        "id": "1728211722295529472",
+        "location": "pfp by sophi ૮ • ﻌ - ა",
+        "name": "dr clair e",
+        "pinned_tweet_id": "1958129163895992535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958121654229286912/JTCJOwqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 260,
+          "like_count": 12495,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1339
+        },
+        "username": "6CATLICKA",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T07:07:49.000Z",
+        "description": "a delightful unicorn soaring through the wonderful depths of twitter, with a heart full of love for my wife 🦄💖 175cm/fatfatfat - 19yo",
+        "id": "1634088603407065088",
+        "location": "🇫🇮 // bmi 19.9",
+        "name": "cin",
+        "pinned_tweet_id": "1977395927397646378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935057414207700993/HAsDMlOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 539,
+          "like_count": 20507,
+          "listed_count": 7,
+          "media_count": 1056,
+          "tweet_count": 7303
+        },
+        "username": "cincinspo",
+        "verified": false
+      }
+    ]
+  }
+}

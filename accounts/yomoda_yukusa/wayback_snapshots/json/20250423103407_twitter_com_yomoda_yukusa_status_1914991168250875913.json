@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1914988822498255312",
+    "created_at": "2025-04-23T10:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T11:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914991168250875913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1470943033365438470",
+          "start": 0,
+          "username": "_Camano_Diana_"
+        },
+        {
+          "end": 31,
+          "id": "1511185667274907652",
+          "start": 16,
+          "username": "RevolutionTide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914991168250875913",
+    "in_reply_to_user_id": "1470943033365438470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914990916542365844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Camano_Diana_ @RevolutionTide 啊啊 真是对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1914988822498255312",
+        "created_at": "2025-04-23T10:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T11:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914991168250875913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "_Camano_Diana_"
+            },
+            {
+              "end": 31,
+              "id": "1511185667274907652",
+              "start": 16,
+              "username": "RevolutionTide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914991168250875913",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914990916542365844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Camano_Diana_ @RevolutionTide 啊啊 真是对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470943033365438470",
+        "conversation_id": "1914988822498255312",
+        "created_at": "2025-04-23T10:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T11:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914990916542365844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1511185667274907652",
+              "start": 0,
+              "username": "RevolutionTide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914990916542365844",
+        "in_reply_to_user_id": "1511185667274907652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914988822498255312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RevolutionTide 为什么要在经济独立之前切割父母？我不懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2762,
+          "following_count": 2829,
+          "like_count": 27519,
+          "listed_count": 7,
+          "media_count": 1278,
+          "tweet_count": 19079
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "酷儿🏳️‍⚧️ 禅学家 反孔精英 嘉心糖专政 生态主义❄️",
+        "id": "1470943033365438470",
+        "location": "Pacific Temperate Rainforest",
+        "name": "然子",
+        "pinned_tweet_id": "1663076707853541376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901482275491180544/Z1RmW6Kb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 887,
+          "like_count": 23932,
+          "listed_count": 11,
+          "media_count": 1222,
+          "tweet_count": 16210
+        },
+        "username": "_Camano_Diana_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T03:35:22.000Z",
+        "description": "这里是罗陀斯，就在这里跳跃吧！ 这里有玫瑰花，就在这里跳舞吧！ /自治主义马克思主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/index.…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/index.html",
+                "start": 0,
+                "url": "https://t.co/rdnePFlzkn"
+              }
+            ]
+          }
+        },
+        "id": "1511185667274907652",
+        "location": "爱丽丝电台",
+        "name": "La Vague Révolutionnaire",
+        "pinned_tweet_id": "1847619356575817866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913521736882012160/HKhhpn40_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5339,
+          "following_count": 3177,
+          "like_count": 92805,
+          "listed_count": 28,
+          "media_count": 394,
+          "tweet_count": 4847
+        },
+        "url": "https://t.co/rdnePFlzkn",
+        "username": "RevolutionTide",
+        "verified": false
+      }
+    ]
+  }
+}

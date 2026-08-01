@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1901707987699519488",
+        "3_1901707988022480896"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1901707991151460385",
+    "created_at": "2025-03-17T18:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T19:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901707991151460385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iN1ujADMRR",
+          "end": 110,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1901707991151460385/photo/1",
+          "media_key": "3_1901707987699519488",
+          "start": 87,
+          "url": "https://t.co/iN1ujADMRR"
+        },
+        {
+          "display_url": "pic.x.com/iN1ujADMRR",
+          "end": 110,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1901707991151460385/photo/1",
+          "media_key": "3_1901707988022480896",
+          "start": 87,
+          "url": "https://t.co/iN1ujADMRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901707991151460385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "身体忽然开始瘙痒，瘙痒区域在一两个小时内扩散到整个上半身躯干以及其他零星部位。\n帕夏和我睡一起，帕夏没有任何反应，应该不是虫子。\n但我似乎也没有碰什么我平时没接触过的东西。 https://t.co/iN1ujADMRR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1901707991151460385].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1901707991151460385",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1901707991151460385"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1901707987699519488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmQ5VtFaUAAEXCA.jpg",
+        "width": 921
+      },
+      {
+        "height": 921,
+        "media_key": "3_1901707988022480896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmQ5VuSaUAATzFD.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2759,
+          "following_count": 2790,
+          "like_count": 27207,
+          "listed_count": 8,
+          "media_count": 1265,
+          "tweet_count": 18938
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

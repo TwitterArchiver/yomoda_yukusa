@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1975927860851564642",
+    "created_at": "2025-10-08T15:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T16:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975947808432882088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634088603407065088",
+          "start": 0,
+          "username": "cincinspo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975947808432882088",
+    "in_reply_to_user_id": "1634088603407065088",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975945148808012184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cincinspo I cant understand there emoji"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1975927860851564642",
+        "created_at": "2025-10-08T15:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T16:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975947808432882088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634088603407065088",
+              "start": 0,
+              "username": "cincinspo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975947808432882088",
+        "in_reply_to_user_id": "1634088603407065088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975945148808012184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cincinspo I cant understand there emoji"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634088603407065088",
+        "conversation_id": "1975927860851564642",
+        "created_at": "2025-10-08T15:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T16:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975945148808012184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975945148808012184",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975944176392090041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 😆 🥒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 2287,
+          "like_count": 30161,
+          "listed_count": 10,
+          "media_count": 1379,
+          "tweet_count": 20117
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T07:07:49.000Z",
+        "description": "#wifepilled 🦄💖 175cm/60.5kg - 19yo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "wifepilled"
+              }
+            ]
+          }
+        },
+        "id": "1634088603407065088",
+        "location": "🇫🇮 // bmi 19.8",
+        "name": "cin",
+        "pinned_tweet_id": "1974538524033700297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935057414207700993/HAsDMlOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 522,
+          "like_count": 18928,
+          "listed_count": 5,
+          "media_count": 1005,
+          "tweet_count": 6935
+        },
+        "username": "cincinspo",
+        "verified": false
+      }
+    ]
+  }
+}

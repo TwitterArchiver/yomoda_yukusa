@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2046235774538969439",
+    "created_at": "2026-04-21T04:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T05:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046440372436619490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1297607755000188929",
+          "start": 0,
+          "username": "Rician0911827"
+        },
+        {
+          "end": 25,
+          "id": "1452123941686976519",
+          "start": 15,
+          "username": "C21Koy_7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046440372436619490",
+    "in_reply_to_user_id": "1297607755000188929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046372170616754343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rician0911827 @C21Koy_7c 接下来。但愿。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2046235774538969439",
+        "created_at": "2026-04-21T04:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046440372436619490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1297607755000188929",
+              "start": 0,
+              "username": "Rician0911827"
+            },
+            {
+              "end": 25,
+              "id": "1452123941686976519",
+              "start": 15,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046440372436619490",
+        "in_reply_to_user_id": "1297607755000188929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046372170616754343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rician0911827 @C21Koy_7c 接下来。但愿。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1297607755000188929",
+        "conversation_id": "2046235774538969439",
+        "created_at": "2026-04-20T23:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T00:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046372170616754343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 25,
+              "id": "1452123941686976519",
+              "start": 15,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046372170616754343",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046236516494774695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa @C21Koy_7c 都不会死的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2831,
+          "following_count": 2384,
+          "like_count": 33744,
+          "listed_count": 9,
+          "media_count": 1624,
+          "tweet_count": 22122
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-23T18:53:00.000Z",
+        "description": "空吧哇，这里是宣雨！18⬆️泛性恋/MTX/infp/9w1，散厨和约厨,worst curse @Radio_Portales ，",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "Radio_Portales"
+              }
+            ]
+          }
+        },
+        "id": "1297607755000188929",
+        "location": "Auckland, New Zealand",
+        "name": "宣雨Rician☃︎",
+        "pinned_tweet_id": "1798654187628339609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848993619623264256/tMTDcXkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 59,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 3147
+        },
+        "username": "Rician0911827",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 3488,
+          "like_count": 31074,
+          "listed_count": 5,
+          "media_count": 2217,
+          "tweet_count": 29091
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966474634943234048"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1966474637816046073",
+    "created_at": "2025-09-12T12:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T13:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966474637816046073"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "笛吹遥",
+          "probability": 0.5314,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sW1j16pbNq",
+          "end": 29,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1966474637816046073/photo/1",
+          "media_key": "3_1966474634943234048",
+          "start": 6,
+          "url": "https://t.co/sW1j16pbNq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966474637816046073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笛吹遥冥诞 https://t.co/sW1j16pbNq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966474634943234048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0pSQvubgAAzAeg.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966474634943234048"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1966474637816046073",
+        "created_at": "2025-09-12T12:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T13:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966474637816046073"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "笛吹遥",
+              "probability": 0.5314,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sW1j16pbNq",
+              "end": 29,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1966474637816046073/photo/1",
+              "media_key": "3_1966474634943234048",
+              "start": 6,
+              "url": "https://t.co/sW1j16pbNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966474637816046073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笛吹遥冥诞 https://t.co/sW1j16pbNq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 2219,
+          "like_count": 29610,
+          "listed_count": 9,
+          "media_count": 1360,
+          "tweet_count": 19927
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

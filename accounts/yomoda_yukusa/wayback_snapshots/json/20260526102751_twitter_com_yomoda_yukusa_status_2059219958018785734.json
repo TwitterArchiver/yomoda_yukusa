@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2059219958018785734",
+    "created_at": "2026-05-26T10:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059219958018785734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059219958018785734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 979
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049304082612191518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 到底谁发明的“哭不能解决问题”这句话 太极拔剑了太刻薄了太冷漠了太高高在上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2059219958018785734",
+        "created_at": "2026-05-26T10:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059219958018785734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059219958018785734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 979
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049304082612191518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 到底谁发明的“哭不能解决问题”这句话 太极拔剑了太刻薄了太冷漠了太高高在上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2049304082612191518",
+        "created_at": "2026-04-29T01:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049304082612191518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049304082612191518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 278,
+          "impression_count": 559399,
+          "like_count": 10831,
+          "quote_count": 126,
+          "reply_count": 497,
+          "retweet_count": 979
+        },
+        "reply_settings": "everyone",
+        "text": "到底谁发明的“哭不能解决问题”这句话 太极拔剑了太刻薄了太冷漠了太高高在上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2846,
+          "following_count": 2384,
+          "like_count": 34118,
+          "listed_count": 9,
+          "media_count": 1640,
+          "tweet_count": 22319
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8315,
+          "following_count": 69,
+          "like_count": 7634,
+          "listed_count": 8,
+          "media_count": 164,
+          "tweet_count": 1809
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

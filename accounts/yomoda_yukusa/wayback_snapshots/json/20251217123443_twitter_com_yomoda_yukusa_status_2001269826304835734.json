@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2001003108026180019",
+    "created_at": "2025-12-17T12:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T13:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001269826304835734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860742128688857088",
+          "start": 0,
+          "username": "zhouxuanjiu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001269826304835734",
+    "in_reply_to_user_id": "1860742128688857088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001256701585186828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhouxuanjiu2 今天又在扯皮了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2001003108026180019",
+        "created_at": "2025-12-17T12:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T13:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001269826304835734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860742128688857088",
+              "start": 0,
+              "username": "zhouxuanjiu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001269826304835734",
+        "in_reply_to_user_id": "1860742128688857088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001256701585186828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhouxuanjiu2 今天又在扯皮了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860742128688857088",
+        "conversation_id": "2001003108026180019",
+        "created_at": "2025-12-17T11:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T12:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001256701585186828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001256701585186828",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001003108026180019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 抱抱你，也许算是好结果吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 2324,
+          "like_count": 31590,
+          "listed_count": 10,
+          "media_count": 1477,
+          "tweet_count": 20821
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T17:48:02.000Z",
+        "description": "我与我，周旋久｜爱人@vegefishjiyu｜可以和我交朋友，顧某譞如是说。｜头像系原创角色，请勿随意取用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "vegefishjiyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/GUMOUXUAN",
+                "end": 23,
+                "expanded_url": "https://www.github.com/GUMOUXUAN",
+                "start": 0,
+                "url": "https://t.co/QgNGK9gmua"
+              }
+            ]
+          }
+        },
+        "id": "1860742128688857088",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "粥璇玖",
+        "pinned_tweet_id": "1995068235654574128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999003076833980422/y5fpTSx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 130,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/QgNGK9gmua",
+        "username": "zhouxuanjiu2",
+        "verified": false
+      }
+    ]
+  }
+}

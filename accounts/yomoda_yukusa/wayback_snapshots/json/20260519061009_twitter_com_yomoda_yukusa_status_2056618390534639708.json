@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2056618390534639708",
+    "created_at": "2026-05-19T06:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T07:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056618390534639708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1903099585129816064",
+          "start": 3,
+          "username": "tokerumaisurii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056618390534639708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056599059750617358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokerumaisurii: 无痛消失的技术核心归根结底不是我无痛，我痛忍一忍也就过去了，忍不了也得过去，但我不希望任何爱我关心我在意我的人因为我的逝去而感到痛苦，最好的办法就是让这一切全部的联系从来都没有存在过吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2056618390534639708",
+        "created_at": "2026-05-19T06:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056618390534639708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1903099585129816064",
+              "start": 3,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056618390534639708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056599059750617358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokerumaisurii: 无痛消失的技术核心归根结底不是我无痛，我痛忍一忍也就过去了，忍不了也得过去，但我不希望任何爱我关心我在意我的人因为我的逝去而感到痛苦，最好的办法就是让这一切全部的联系从来都没有存在过吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2056598623777947998",
+        "created_at": "2026-05-19T04:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056599059750617358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056599059750617358",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056598623777947998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无痛消失的技术核心归根结底不是我无痛，我痛忍一忍也就过去了，忍不了也得过去，但我不希望任何爱我关心我在意我的人因为我的逝去而感到痛苦，最好的办法就是让这一切全部的联系从来都没有存在过吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2853,
+          "following_count": 2394,
+          "like_count": 34034,
+          "listed_count": 9,
+          "media_count": 1638,
+          "tweet_count": 22297
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "虚空猫猫鱼 ¦ 我等心友🪼 @VentusUta :: 🎇 @Opiumash :: 🐱 @_rawSalmon ¦ maimai 14874 弱虫モンブラン AP+ FDX アマカミサマ AP+ ¦ https://t.co/2EQB4n0UDr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 39,
+                "start": 30,
+                "username": "Opiumash"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_rawSalmon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/c13h16n2.hcl",
+                "end": 124,
+                "expanded_url": "https://ngl.link/c13h16n2.hcl",
+                "start": 101,
+                "url": "https://t.co/2EQB4n0UDr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "networkutopia.com",
+                "end": 23,
+                "expanded_url": "http://www.networkutopia.com",
+                "start": 0,
+                "url": "https://t.co/JLTijPqysB"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "Ripley's Aquarium of Canada",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "2043760871839617199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037110980358868993/9NOxcDIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3894,
+          "following_count": 318,
+          "like_count": 108532,
+          "listed_count": 11,
+          "media_count": 1288,
+          "tweet_count": 19833
+        },
+        "url": "https://t.co/JLTijPqysB",
+        "username": "tokerumaisurii",
+        "verified": true
+      }
+    ]
+  }
+}

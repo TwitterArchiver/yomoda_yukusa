@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1903473851759022263",
+    "created_at": "2025-03-22T15:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T16:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903473851759022263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1710391034302337024",
+          "start": 3,
+          "username": "AypashaYomoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903473851759022263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903472764121653705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AypashaYomoda: 太强了，某大手子大手一挥本帕夏成了清蒸的“命名者”了。因为本帕夏用的维吾尔人的名字，维吾尔人总体上是穆斯林，清蒸是对穆斯林的清真这一概念的揶揄吗？大手子的想象力可真是丰富呢。大手子说胡话不眨眼的勇气可真是令人赞叹呢。大手子骗人参与赌博的商业…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1903473851759022263",
+        "created_at": "2025-03-22T15:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T16:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903473851759022263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1710391034302337024",
+              "start": 3,
+              "username": "AypashaYomoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903473851759022263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903472764121653705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AypashaYomoda: 太强了，某大手子大手一挥本帕夏成了清蒸的“命名者”了。因为本帕夏用的维吾尔人的名字，维吾尔人总体上是穆斯林，清蒸是对穆斯林的清真这一概念的揶揄吗？大手子的想象力可真是丰富呢。大手子说胡话不眨眼的勇气可真是令人赞叹呢。大手子骗人参与赌博的商业…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710391034302337024",
+        "conversation_id": "1903472764121653705",
+        "created_at": "2025-03-22T15:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T16:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903472764121653705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903472764121653705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "太强了，某大手子大手一挥本帕夏成了清蒸的“命名者”了。因为本帕夏用的维吾尔人的名字，维吾尔人总体上是穆斯林，清蒸是对穆斯林的清真这一概念的揶揄吗？大手子的想象力可真是丰富呢。大手子说胡话不眨眼的勇气可真是令人赞叹呢。大手子骗人参与赌博的商业头脑可真是伟大呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2759,
+          "following_count": 2788,
+          "like_count": 27227,
+          "listed_count": 7,
+          "media_count": 1265,
+          "tweet_count": 18943
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T20:26:30.000Z",
+        "description": "珠江酷儿联谊 Chinese Queer Canton\n佛狸祠主、the Vixenkami、人的Aypasha\n降生并成长为现在的样子、永远期待着与大家的重逢。只知道侍奉的佛狸祠主，究竟能给大家什么程度的新的祝福呢？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_1aam6lCGB80M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_1aam6lCGB80M2I1",
+                "start": 0,
+                "url": "https://t.co/DHnFSbuVlw"
+              }
+            ]
+          }
+        },
+        "id": "1710391034302337024",
+        "location": "？？？",
+        "name": "Aypasha bint Dan 阿依帕夏 “帕夏肯定早死了”",
+        "pinned_tweet_id": "1887788136849449151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821927369189306368/CixxvOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 451,
+          "like_count": 303,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 2534
+        },
+        "url": "https://t.co/DHnFSbuVlw",
+        "username": "AypashaYomoda",
+        "verified": false
+      }
+    ]
+  }
+}

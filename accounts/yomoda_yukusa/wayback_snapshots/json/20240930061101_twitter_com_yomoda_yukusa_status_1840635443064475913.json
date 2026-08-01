@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1840597131079631022",
+    "created_at": "2024-09-30T06:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T07:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840635443064475913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1429405137198452736",
+          "start": 0,
+          "username": "IshiharaMayi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840635443064475913",
+    "in_reply_to_user_id": "1429405137198452736",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840597131079631022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IshiharaMayi 你会损失约0.5%的质量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1840597131079631022",
+        "created_at": "2024-09-30T06:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T07:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840635443064475913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429405137198452736",
+              "start": 0,
+              "username": "IshiharaMayi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840635443064475913",
+        "in_reply_to_user_id": "1429405137198452736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840597131079631022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IshiharaMayi 你会损失约0.5%的质量"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840597122766540800"
+          ]
+        },
+        "author_id": "1429405137198452736",
+        "conversation_id": "1840597131079631022",
+        "created_at": "2024-09-30T03:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T04:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840597131079631022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qr6vjnukj",
+              "end": 27,
+              "expanded_url": "https://twitter.com/IshiharaMayi/status/1840597131079631022/photo/1",
+              "media_key": "3_1840597122766540800",
+              "start": 4,
+              "url": "https://t.co/5Qr6vjnuKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840597131079631022",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 860,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "学会了 https://t.co/5Qr6vjnuKj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2722,
+          "following_count": 2611,
+          "like_count": 26381,
+          "listed_count": 7,
+          "tweet_count": 18274
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "To explore everything with cold rationality... | holder of #bnb #btc #usdt Friendly to the LGBTQ community🏳️‍⚧️| meme B0T nya |幾內亞比紹綠卡持有者",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "bnb"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "btc"
+              },
+              {
+                "end": 74,
+                "start": 69,
+                "tag": "usdt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "systemspace.top",
+                "end": 23,
+                "expanded_url": "https://systemspace.top",
+                "start": 0,
+                "url": "https://t.co/i5pVuxnmFs"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "N/A",
+        "name": "石原 真依",
+        "pinned_tweet_id": "1840324328984133979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800166615193104384/ogmmHTVF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7413,
+          "following_count": 160,
+          "like_count": 123269,
+          "listed_count": 34,
+          "tweet_count": 22032
+        },
+        "url": "https://t.co/i5pVuxnmFs",
+        "username": "IshiharaMayi",
+        "verified": true
+      }
+    ]
+  }
+}

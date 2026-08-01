@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1980536141507096687",
+    "created_at": "2025-10-22T02:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T03:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980819189549133973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1389190165566877699",
+          "start": 0,
+          "username": "amcje1"
+        },
+        {
+          "end": 18,
+          "id": "994208371040337921",
+          "start": 8,
+          "username": "litztsong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980819189549133973",
+    "in_reply_to_user_id": "1389190165566877699",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980686623802052624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amcje1 @litztsong 菜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1980536141507096687",
+        "created_at": "2025-10-22T02:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T03:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980819189549133973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1389190165566877699",
+              "start": 0,
+              "username": "amcje1"
+            },
+            {
+              "end": 18,
+              "id": "994208371040337921",
+              "start": 8,
+              "username": "litztsong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980819189549133973",
+        "in_reply_to_user_id": "1389190165566877699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980686623802052624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amcje1 @litztsong 菜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389190165566877699",
+        "conversation_id": "1980536141507096687",
+        "created_at": "2025-10-21T17:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T18:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980686623802052624"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "由之",
+              "probability": 0.7075,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 25,
+              "id": "994208371040337921",
+              "start": 15,
+              "username": "litztsong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980686623802052624",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980540477004017903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa @litztsong 由之"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 2317,
+          "like_count": 30569,
+          "listed_count": 10,
+          "media_count": 1397,
+          "tweet_count": 20267
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-03T12:09:08.000Z",
+        "description": "nickname, 雨山菜\n\nhttps://t.co/Veiy8K84H9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ganlancat",
+                "end": 38,
+                "expanded_url": "https://t.me/ganlancat",
+                "start": 15,
+                "url": "https://t.co/Veiy8K84H9"
+              }
+            ]
+          }
+        },
+        "id": "1389190165566877699",
+        "name": "橄榄菜 雨山",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978018076835930112/X49ePiQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 225,
+          "like_count": 18151,
+          "listed_count": 4,
+          "media_count": 18,
+          "tweet_count": 924
+        },
+        "username": "amcje1",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-09T13:32:01.000Z",
+        "description": "MtF(post surgery)/psychopath(schizo)/paliperidone&quetiapine user/ASD/local in Shanghai/anti-imperialism/约饭者招募中/对象 @misncandy 个人群 https://t.co/16lZFMyT6P",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "misncandy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ylr-xPc8qAo4Y…",
+                "end": 153,
+                "expanded_url": "https://t.me/+ylr-xPc8qAo4YTA1",
+                "start": 130,
+                "url": "https://t.co/16lZFMyT6P"
+              }
+            ]
+          }
+        },
+        "id": "994208371040337921",
+        "location": "Shanghai, china",
+        "name": "litz tsong（利兹）🏳️‍🌈🏳‍⚧",
+        "pinned_tweet_id": "1967508127861112954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465633050566402056/PVc-1Z7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2924,
+          "following_count": 1946,
+          "like_count": 3526,
+          "listed_count": 16,
+          "media_count": 1500,
+          "tweet_count": 13227
+        },
+        "username": "litztsong",
+        "verified": false
+      }
+    ]
+  }
+}

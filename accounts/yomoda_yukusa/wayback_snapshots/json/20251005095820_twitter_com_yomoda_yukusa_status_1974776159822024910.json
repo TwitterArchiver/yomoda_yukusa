@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1974770324593168716",
+    "created_at": "2025-10-05T09:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T10:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974776159822024910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1437034228768595977",
+          "start": 0,
+          "username": "Kumamushi2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974776159822024910",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974775517036634406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kumamushi2021 （）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1974770324593168716",
+        "created_at": "2025-10-05T09:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T10:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974776159822024910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974776159822024910",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974775517036634406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 （）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "1974770324593168716",
+        "created_at": "2025-10-05T09:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T10:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974775517036634406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974775517036634406",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974775282025505256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa （）\n↑这种单独出现的括号是我个人常用的，但我不知道怎么解释（悲）\n当做一种只可意会的情感符号就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2778,
+          "following_count": 2288,
+          "like_count": 29979,
+          "listed_count": 10,
+          "media_count": 1377,
+          "tweet_count": 20076
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw6a3W"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "hell",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 65,
+          "like_count": 2094,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1100
+        },
+        "url": "https://t.co/TcLkEw6a3W",
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

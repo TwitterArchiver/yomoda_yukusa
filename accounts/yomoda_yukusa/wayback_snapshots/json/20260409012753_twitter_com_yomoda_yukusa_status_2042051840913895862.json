@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drink Experience",
+          "id": "1006278636842782720",
+          "name": "Drink Experience"
+        }
+      }
+    ],
+    "conversation_id": "2042051840913895862",
+    "created_at": "2026-04-09T01:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042051840913895862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1708530331299762176",
+          "start": 3,
+          "username": "mitsuhiro0086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042051840913895862",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 491
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041472967683776699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mitsuhiro0086: やっぱり\n自殺する人は死ぬ前にお酒飲む傾向があるんだな\nお酒と薬と\n縄があれば\n確かに死ねる確率は上がるのかもしれない\n心は死んでるのに\n最後は狂わないといけないのかと思うと\nとても辛いな\n死にたい時に死ねるようになって欲しい\n死にたいと思…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          }
+        ],
+        "conversation_id": "2042051840913895862",
+        "created_at": "2026-04-09T01:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042051840913895862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1708530331299762176",
+              "start": 3,
+              "username": "mitsuhiro0086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042051840913895862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 491
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041472967683776699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mitsuhiro0086: やっぱり\n自殺する人は死ぬ前にお酒飲む傾向があるんだな\nお酒と薬と\n縄があれば\n確かに死ねる確率は上がるのかもしれない\n心は死んでるのに\n最後は狂わないといけないのかと思うと\nとても辛いな\n死にたい時に死ねるようになって欲しい\n死にたいと思…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708530331299762176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          }
+        ],
+        "conversation_id": "2041472967683776699",
+        "created_at": "2026-04-07T11:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041472967683776699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041472967683776699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 390,
+          "impression_count": 120188,
+          "like_count": 5982,
+          "quote_count": 70,
+          "reply_count": 18,
+          "retweet_count": 491
+        },
+        "reply_settings": "everyone",
+        "text": "やっぱり\n自殺する人は死ぬ前にお酒飲む傾向があるんだな\nお酒と薬と\n縄があれば\n確かに死ねる確率は上がるのかもしれない\n心は死んでるのに\n最後は狂わないといけないのかと思うと\nとても辛いな\n死にたい時に死ねるようになって欲しい\n死にたいと思った時が死時なんだからさ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2814,
+          "following_count": 2376,
+          "like_count": 33490,
+          "listed_count": 9,
+          "media_count": 1610,
+          "tweet_count": 21943
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T17:12:43.000Z",
+        "description": "どこにも吐き出せない気持ちをここで書き綴っています ネガティブ投稿しかしてませんので閲覧注意です サブ垢→@mitsuhiro1994\nうつ病/不安障害/睡眠障害",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "mitsuhiro1994"
+              }
+            ]
+          }
+        },
+        "id": "1708530331299762176",
+        "location": "どこにもない居場所",
+        "name": "社会不適合者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723054700906651648/S1M03M35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6078,
+          "following_count": 2805,
+          "like_count": 22538,
+          "listed_count": 21,
+          "media_count": 9,
+          "tweet_count": 1642
+        },
+        "url": "",
+        "username": "mitsuhiro0086",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T17:12:43.000Z",
+        "description": "どこにも吐き出せない気持ちをここで書き綴っています ネガティブ投稿しかしてませんので閲覧注意です サブ垢→@mitsuhiro1994\nうつ病/不安障害/睡眠障害",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "mitsuhiro1994"
+              }
+            ]
+          }
+        },
+        "id": "1708530331299762176",
+        "location": "どこにもない居場所",
+        "name": "社会不適合者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723054700906651648/S1M03M35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6078,
+          "following_count": 2805,
+          "like_count": 22538,
+          "listed_count": 21,
+          "media_count": 9,
+          "tweet_count": 1642
+        },
+        "username": "mitsuhiro0086",
+        "verified": false
+      }
+    ]
+  }
+}

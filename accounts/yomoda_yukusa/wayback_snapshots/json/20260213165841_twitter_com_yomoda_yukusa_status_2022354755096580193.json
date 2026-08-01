@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022173822418345984"
+      ],
+      "media_source_tweet_id": [
+        "2022173826533253359"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2022354755096580193",
+    "created_at": "2026-02-13T16:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022354755096580193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557723173231394816",
+          "start": 3,
+          "username": "ikeasharkZzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o9qqWgdW0G",
+          "end": 127,
+          "expanded_url": "https://x.com/ikeasharkZzz/status/2022173826533253359/photo/1",
+          "media_key": "3_2022173822418345984",
+          "start": 104,
+          "url": "https://t.co/o9qqWgdW0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022354755096580193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 338
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022173826533253359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ikeasharkZzz: 提前祝大伙们马年快乐呀 发点压岁钱🧧\n抽一个588 三个188 六个88 口令红包\n春节当天开\n眼熟的私信我也发点小红包🫶\n关注点赞评论转推参加\n祝大家天天开心平安顺遂🧨 https://t.co/o9qqWgdW0G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_2022173822418345984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBA0YKdW4AAnICS.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022173822418345984"
+          ],
+          "media_source_tweet_id": [
+            "2022173826533253359"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2022354755096580193",
+        "created_at": "2026-02-13T16:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022354755096580193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557723173231394816",
+              "start": 3,
+              "username": "ikeasharkZzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9qqWgdW0G",
+              "end": 127,
+              "expanded_url": "https://x.com/ikeasharkZzz/status/2022173826533253359/photo/1",
+              "media_key": "3_2022173822418345984",
+              "start": 104,
+              "url": "https://t.co/o9qqWgdW0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022354755096580193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 338
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022173826533253359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ikeasharkZzz: 提前祝大伙们马年快乐呀 发点压岁钱🧧\n抽一个588 三个188 六个88 口令红包\n春节当天开\n眼熟的私信我也发点小红包🫶\n关注点赞评论转推参加\n祝大家天天开心平安顺遂🧨 https://t.co/o9qqWgdW0G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022173822418345984"
+          ]
+        },
+        "author_id": "1557723173231394816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2022173826533253359",
+        "created_at": "2026-02-13T04:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022173826533253359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9qqWgdW0G",
+              "end": 109,
+              "expanded_url": "https://x.com/ikeasharkZzz/status/2022173826533253359/photo/1",
+              "media_key": "3_2022173822418345984",
+              "start": 86,
+              "url": "https://t.co/o9qqWgdW0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022173826533253359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 58838,
+          "like_count": 573,
+          "quote_count": 11,
+          "reply_count": 455,
+          "retweet_count": 338
+        },
+        "reply_settings": "everyone",
+        "text": "提前祝大伙们马年快乐呀 发点压岁钱🧧\n抽一个588 三个188 六个88 口令红包\n春节当天开\n眼熟的私信我也发点小红包🫶\n关注点赞评论转推参加\n祝大家天天开心平安顺遂🧨 https://t.co/o9qqWgdW0G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2826,
+          "following_count": 2372,
+          "like_count": 33131,
+          "listed_count": 9,
+          "media_count": 1554,
+          "tweet_count": 21534
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T13:38:55.000Z",
+        "description": "和你梦幻的一夜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikea.com/us/en/p/blahaj…",
+                "end": 23,
+                "expanded_url": "https://www.ikea.com/us/en/p/blahaj-soft-toy-shark-90373590/",
+                "start": 0,
+                "url": "https://t.co/mgW6e0TDJd"
+              }
+            ]
+          }
+        },
+        "id": "1557723173231394816",
+        "location": "Chicago, IL",
+        "name": "赞美诗",
+        "pinned_tweet_id": "2022173826533253359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007368696281608194/aWsWpuOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 55,
+          "like_count": 2592,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/mgW6e0TDJd",
+        "username": "ikeasharkZzz",
+        "verified": false
+      }
+    ]
+  }
+}

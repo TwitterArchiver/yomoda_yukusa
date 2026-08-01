@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1918386237850960063",
+    "created_at": "2025-05-02T19:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T20:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918387303137067317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1801382796436639745",
+          "start": 0,
+          "username": "_Snow0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918387303137067317",
+    "in_reply_to_user_id": "1801382796436639745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918386237850960063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Snow0717 有人能救救我吗？谁都好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1918386237850960063",
+        "created_at": "2025-05-02T19:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T20:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918387303137067317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1801382796436639745",
+              "start": 0,
+              "username": "_Snow0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918387303137067317",
+        "in_reply_to_user_id": "1801382796436639745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918386237850960063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Snow0717 有人能救救我吗？谁都好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801382796436639745",
+        "conversation_id": "1918386237850960063",
+        "created_at": "2025-05-02T19:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T20:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918386237850960063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918386237850960063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人能救救我吗？谁都好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2779,
+          "following_count": 2058,
+          "like_count": 27786,
+          "listed_count": 7,
+          "media_count": 1284,
+          "tweet_count": 19142
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学\n║INFP / 猫猫\n║MtF / 家长党 / 无证含糖 2025.02.11\n║重度抑郁 / 双相二型 / ADHD / BPD / 疑似ASD\n║家里蹲 / 音游人 / 渴望温暖\n║最爱的人@Kinaiyurun0128 / 里推@_SnowUra0717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 126,
+                "username": "Kinaiyurun0128"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "_SnowUra0717"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "洛雪🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896118220400271360/kFN6DTx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 1475,
+          "like_count": 4643,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 1645
+        },
+        "username": "_Snow0717",
+        "verified": true
+      }
+    ]
+  }
+}

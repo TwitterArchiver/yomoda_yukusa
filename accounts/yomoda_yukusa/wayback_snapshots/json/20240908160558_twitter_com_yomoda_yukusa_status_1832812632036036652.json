@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1828891009599807488",
+        "7_1828891071453245441",
+        "3_1828891072921247744",
+        "3_1828891074338897920"
+      ],
+      "media_source_tweet_id": [
+        "1828891118219698369",
+        "1828891118219698369",
+        "1828891118219698369",
+        "1828891118219698369"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1832812632036036652",
+    "created_at": "2024-09-08T16:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T17:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832812632036036652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1405008933253619718",
+          "start": 3,
+          "username": "guxingran"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/szzubuf34r",
+          "end": 83,
+          "expanded_url": "https://twitter.com/guxingran/status/1828891118219698369/video/1",
+          "media_key": "3_1828891009599807488",
+          "start": 60,
+          "url": "https://t.co/SzzuBUf34r"
+        },
+        {
+          "display_url": "pic.x.com/szzubuf34r",
+          "end": 83,
+          "expanded_url": "https://twitter.com/guxingran/status/1828891118219698369/video/1",
+          "media_key": "7_1828891071453245441",
+          "start": 60,
+          "url": "https://t.co/SzzuBUf34r"
+        },
+        {
+          "display_url": "pic.x.com/szzubuf34r",
+          "end": 83,
+          "expanded_url": "https://twitter.com/guxingran/status/1828891118219698369/video/1",
+          "media_key": "3_1828891072921247744",
+          "start": 60,
+          "url": "https://t.co/SzzuBUf34r"
+        },
+        {
+          "display_url": "pic.x.com/szzubuf34r",
+          "end": 83,
+          "expanded_url": "https://twitter.com/guxingran/status/1828891118219698369/video/1",
+          "media_key": "3_1828891074338897920",
+          "start": 60,
+          "url": "https://t.co/SzzuBUf34r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832812632036036652",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828891118219698369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guxingran: 一点二十xyn北斗被送往山东心种子教育咨询中心（扭转治疗），请各位哥哥姐姐们帮忙转载一下 https://t.co/SzzuBUf34r"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1832812632036036652].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1832812632036036652",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832812632036036652"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1828891009599807488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWGGrvAaIAAfA1W.jpg",
+        "width": 864
+      },
+      {
+        "duration_ms": 46198,
+        "height": 1280,
+        "media_key": "7_1828891071453245441",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1828891071453245441/pu/img/fFSuK0ILXKNGJ0fU.jpg",
+        "public_metrics": {
+          "view_count": 1201
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828891071453245441/pu/vid/avc1/320x568/rxgSL1wzavYnW3zQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828891071453245441/pu/vid/avc1/480x852/XYPCDfDYUydjSYdN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1828891071453245441/pu/vid/avc1/720x1280/2maL90fCe6K-EERM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1828891071453245441/pu/pl/09Bi2qa2V8I97pNq.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 961,
+        "media_key": "3_1828891072921247744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWGGva5aoAAh1vJ.jpg",
+        "width": 1282
+      },
+      {
+        "height": 961,
+        "media_key": "3_1828891074338897920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWGGvgLaQAAvR6h.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828891009599807488",
+            "7_1828891071453245441",
+            "3_1828891072921247744",
+            "3_1828891074338897920"
+          ]
+        },
+        "author_id": "1405008933253619718",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1828891118219698369",
+        "created_at": "2024-08-28T20:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T21:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828891118219698369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/szzubuf34r",
+              "end": 68,
+              "expanded_url": "https://twitter.com/guxingran/status/1828891118219698369/video/1",
+              "media_key": "3_1828891009599807488",
+              "start": 45,
+              "url": "https://t.co/SzzuBUf34r"
+            },
+            {
+              "display_url": "pic.x.com/szzubuf34r",
+              "end": 68,
+              "expanded_url": "https://twitter.com/guxingran/status/1828891118219698369/video/1",
+              "media_key": "7_1828891071453245441",
+              "start": 45,
+              "url": "https://t.co/SzzuBUf34r"
+            },
+            {
+              "display_url": "pic.x.com/szzubuf34r",
+              "end": 68,
+              "expanded_url": "https://twitter.com/guxingran/status/1828891118219698369/video/1",
+              "media_key": "3_1828891072921247744",
+              "start": 45,
+              "url": "https://t.co/SzzuBUf34r"
+            },
+            {
+              "display_url": "pic.x.com/szzubuf34r",
+              "end": 68,
+              "expanded_url": "https://twitter.com/guxingran/status/1828891118219698369/video/1",
+              "media_key": "3_1828891074338897920",
+              "start": 45,
+              "url": "https://t.co/SzzuBUf34r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828891118219698369",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5043,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "一点二十xyn北斗被送往山东心种子教育咨询中心（扭转治疗），请各位哥哥姐姐们帮忙转载一下 https://t.co/SzzuBUf34r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 2582,
+          "like_count": 26224,
+          "listed_count": 7,
+          "tweet_count": 18151
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-16T03:46:58.000Z",
+        "description": "",
+        "id": "1405008933253619718",
+        "location": "地球",
+        "name": "🍥·辛桃·🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713784205212372992/2fOSJedK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 450,
+          "like_count": 162,
+          "listed_count": 0,
+          "tweet_count": 387
+        },
+        "username": "guxingran",
+        "verified": false
+      }
+    ]
+  }
+}

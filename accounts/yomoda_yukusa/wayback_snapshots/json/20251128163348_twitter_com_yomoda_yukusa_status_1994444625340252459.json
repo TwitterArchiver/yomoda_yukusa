@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1994442358163738993",
+    "created_at": "2025-11-28T16:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T17:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994444625340252459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        },
+        {
+          "end": 21,
+          "id": "1756909109788753920",
+          "start": 8,
+          "username": "BaoZheFanQie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994444625340252459",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994444293407170652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop @BaoZheFanQie 冷鸟（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1994442358163738993",
+        "created_at": "2025-11-28T16:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T17:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994444625340252459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            },
+            {
+              "end": 21,
+              "id": "1756909109788753920",
+              "start": 8,
+              "username": "BaoZheFanQie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994444625340252459",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994444293407170652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop @BaoZheFanQie 冷鸟（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613079089879076864",
+        "conversation_id": "1994442358163738993",
+        "created_at": "2025-11-28T16:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T17:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994444293407170652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 28,
+              "id": "1756909109788753920",
+              "start": 15,
+              "username": "BaoZheFanQie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994444293407170652",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994444117581996242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa @BaoZheFanQie 是云鸠！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2786,
+          "following_count": 2327,
+          "like_count": 31394,
+          "listed_count": 9,
+          "media_count": 1442,
+          "tweet_count": 20634
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91543,
+          "following_count": 666,
+          "like_count": 32265,
+          "listed_count": 270,
+          "media_count": 13685,
+          "tweet_count": 19682
+        },
+        "username": "Cldeop",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄生活推🍅\n，以记录生活为主，本号不键政丨\n发表经济学炒股看法/键政请关注这个号   \n\n@BaoZhe_FanQie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 49,
+                "username": "BaoZhe_FanQie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+urAuBM8Y6J8zM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+urAuBM8Y6J8zMzVl",
+                "start": 0,
+                "url": "https://t.co/R2tlnuAtzg"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "name": "包着🍅籽的🍅",
+        "pinned_tweet_id": "1994433287570534543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985834505693999104/YrM20Ruv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 2884,
+          "like_count": 1524,
+          "listed_count": 7,
+          "media_count": 623,
+          "tweet_count": 7768
+        },
+        "url": "https://t.co/R2tlnuAtzg",
+        "username": "BaoZheFanQie",
+        "verified": false
+      }
+    ]
+  }
+}

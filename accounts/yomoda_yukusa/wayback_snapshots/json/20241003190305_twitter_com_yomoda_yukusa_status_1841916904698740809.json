@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1841916904698740809",
+    "created_at": "2024-10-03T19:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T20:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841916904698740809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1710391034302337024",
+          "start": 3,
+          "username": "AypashaYomoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841916904698740809",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841915241594290193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AypashaYomoda: 来自珠江酷儿联谊的严重警告\n一些人士向跨性别社群引入了一个严重危险人物，纵容此君造成了严重破坏，当一些社群成员和行动者质疑此人的一些行为和策略之时，她们只得到了很少的一些回复，诸如“我相信Emma有比我们都要更好的判断力”和“我们应该相信E…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1841916904698740809",
+        "created_at": "2024-10-03T19:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T20:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841916904698740809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1710391034302337024",
+              "start": 3,
+              "username": "AypashaYomoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841916904698740809",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841915241594290193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AypashaYomoda: 来自珠江酷儿联谊的严重警告\n一些人士向跨性别社群引入了一个严重危险人物，纵容此君造成了严重破坏，当一些社群成员和行动者质疑此人的一些行为和策略之时，她们只得到了很少的一些回复，诸如“我相信Emma有比我们都要更好的判断力”和“我们应该相信E…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841914652298772484",
+            "3_1841914651799650306"
+          ]
+        },
+        "author_id": "1710391034302337024",
+        "conversation_id": "1841915241594290193",
+        "created_at": "2024-10-03T18:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T19:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841915241594290193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhEvcFnHKF",
+              "end": 149,
+              "expanded_url": "https://x.com/AypashaYomoda/status/1841915241594290193/photo/1",
+              "media_key": "3_1841914652298772484",
+              "start": 126,
+              "url": "https://t.co/lhEvcFnHKF"
+            },
+            {
+              "display_url": "pic.x.com/lhEvcFnHKF",
+              "end": 149,
+              "expanded_url": "https://x.com/AypashaYomoda/status/1841915241594290193/photo/1",
+              "media_key": "3_1841914651799650306",
+              "start": 126,
+              "url": "https://t.co/lhEvcFnHKF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841915241594290193",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来自珠江酷儿联谊的严重警告\n一些人士向跨性别社群引入了一个严重危险人物，纵容此君造成了严重破坏，当一些社群成员和行动者质疑此人的一些行为和策略之时，她们只得到了很少的一些回复，诸如“我相信Emma有比我们都要更好的判断力”和“我们应该相信Emma”。 https://t.co/lhEvcFnHKF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2720,
+          "following_count": 2612,
+          "like_count": 26415,
+          "listed_count": 7,
+          "tweet_count": 18302
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T20:26:30.000Z",
+        "description": "珠江酷儿联谊 Chinese Queer Canton\n佛狸祠主、the Vixenkami、人的Aypasha\n降生并成长为现在的样子、永远期待着与大家的重逢。只知道侍奉的佛狸祠主，究竟能给大家什么程度的新的祝福呢？\nmon ami fidèle valeria",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_1aam6lCGB80M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_1aam6lCGB80M2I1",
+                "start": 0,
+                "url": "https://t.co/DHnFSbuVlw"
+              }
+            ]
+          }
+        },
+        "id": "1710391034302337024",
+        "location": "引人向往的国度：晶状体",
+        "name": "Aypasha bint Dan 火狐仙藍派紗 阿依帕夏 “帕夏肯定早死了”",
+        "pinned_tweet_id": "1825685658050159033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821927369189306368/CixxvOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 390,
+          "like_count": 265,
+          "listed_count": 1,
+          "tweet_count": 3235
+        },
+        "url": "https://t.co/DHnFSbuVlw",
+        "username": "AypashaYomoda",
+        "verified": false
+      }
+    ]
+  }
+}

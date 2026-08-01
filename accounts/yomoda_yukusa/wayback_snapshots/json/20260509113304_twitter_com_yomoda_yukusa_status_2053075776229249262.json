@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052340492600483841"
+      ],
+      "media_source_tweet_id": [
+        "2052340501580595605"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "2053075776229249262",
+    "created_at": "2026-05-09T11:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T12:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053075776229249262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1662417702353526787",
+          "start": 3,
+          "username": "nzqlo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5PgXqRTOBY",
+          "end": 43,
+          "expanded_url": "https://x.com/nzqlo/status/2052340501580595605/photo/1",
+          "media_key": "3_2052340492600483841",
+          "start": 20,
+          "url": "https://t.co/5PgXqRTOBY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053075776229249262",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 764
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052340501580595605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nzqlo: お薬飲んで寝よう https://t.co/5PgXqRTOBY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052340492600483841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtgzeOaIAEkfUb.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052340492600483841"
+          ],
+          "media_source_tweet_id": [
+            "2052340501580595605"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "2053075776229249262",
+        "created_at": "2026-05-09T11:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053075776229249262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1662417702353526787",
+              "start": 3,
+              "username": "nzqlo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PgXqRTOBY",
+              "end": 43,
+              "expanded_url": "https://x.com/nzqlo/status/2052340501580595605/photo/1",
+              "media_key": "3_2052340492600483841",
+              "start": 20,
+              "url": "https://t.co/5PgXqRTOBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053075776229249262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 764
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052340501580595605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nzqlo: お薬飲んで寝よう https://t.co/5PgXqRTOBY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052340492600483841"
+          ]
+        },
+        "author_id": "1662417702353526787",
+        "conversation_id": "2052340501580595605",
+        "created_at": "2026-05-07T10:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052340501580595605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PgXqRTOBY",
+              "end": 32,
+              "expanded_url": "https://x.com/nzqlo/status/2052340501580595605/photo/1",
+              "media_key": "3_2052340492600483841",
+              "start": 9,
+              "url": "https://t.co/5PgXqRTOBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052340501580595605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 391,
+          "impression_count": 83932,
+          "like_count": 7928,
+          "quote_count": 34,
+          "reply_count": 25,
+          "retweet_count": 764
+        },
+        "reply_settings": "everyone",
+        "text": "お薬飲んで寝よう https://t.co/5PgXqRTOBY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 2392,
+          "like_count": 33975,
+          "listed_count": 9,
+          "media_count": 1635,
+          "tweet_count": 22242
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T11:17:37.000Z",
+        "description": "❤︎ @2nwxq🗝@mmnyankill_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 3,
+                "username": "2nwxq"
+              },
+              {
+                "end": 22,
+                "start": 10,
+                "username": "mmnyankill_"
+              }
+            ]
+          }
+        },
+        "id": "1662417702353526787",
+        "name": "m",
+        "pinned_tweet_id": "2051557605290676381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037772529990000640/hOvldnPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3621,
+          "following_count": 32,
+          "like_count": 2952,
+          "listed_count": 8,
+          "media_count": 55,
+          "tweet_count": 491
+        },
+        "username": "nzqlo",
+        "verified": false
+      }
+    ]
+  }
+}

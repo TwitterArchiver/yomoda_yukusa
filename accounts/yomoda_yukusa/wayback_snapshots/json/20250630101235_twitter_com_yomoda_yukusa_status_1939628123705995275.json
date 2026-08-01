@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1939628123705995275",
+    "created_at": "2025-06-30T10:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T11:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939628123705995275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600485621503778816",
+          "start": 3,
+          "username": "Lua_Miao"
+        },
+        {
+          "end": 34,
+          "id": "1863821756932472832",
+          "start": 21,
+          "username": "shuo_zi27516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939628123705995275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939622163067408509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lua_Miao: 目前已知宫笙（@shuo_zi27516）已被家长送至戒网瘾学校，刚刚被接走，十分紧急，请有能力帮助的人特别是目前在高阳县的有能力帮助的人联系我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1939628123705995275",
+        "created_at": "2025-06-30T10:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T11:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939628123705995275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600485621503778816",
+              "start": 3,
+              "username": "Lua_Miao"
+            },
+            {
+              "end": 34,
+              "id": "1863821756932472832",
+              "start": 21,
+              "username": "shuo_zi27516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939628123705995275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939622163067408509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lua_Miao: 目前已知宫笙（@shuo_zi27516）已被家长送至戒网瘾学校，刚刚被接走，十分紧急，请有能力帮助的人特别是目前在高阳县的有能力帮助的人联系我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600485621503778816",
+        "conversation_id": "1939622163067408509",
+        "created_at": "2025-06-30T09:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T10:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939622163067408509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1863821756932472832",
+              "start": 7,
+              "username": "shuo_zi27516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939622163067408509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "目前已知宫笙（@shuo_zi27516）已被家长送至戒网瘾学校，刚刚被接走，十分紧急，请有能力帮助的人特别是目前在高阳县的有能力帮助的人联系我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2806,
+          "following_count": 2161,
+          "like_count": 29087,
+          "listed_count": 0,
+          "media_count": 1340,
+          "tweet_count": 19629
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T13:42:15.000Z",
+        "description": "07持证mtf｜没人关注的超级小透明｜HRT2024.12｜(半?)家长党｜想变成猫猫…｜不分大小的另一个号：@Ekkirami",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Ekkirami"
+              }
+            ]
+          }
+        },
+        "id": "1600485621503778816",
+        "location": "山东潍坊",
+        "name": "Ekkirami",
+        "pinned_tweet_id": "1939622163067408509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912942591517372416/dRpf4hTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 202,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 172
+        },
+        "username": "Lua_Miao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T05:45:42.000Z",
+        "description": "晚安.........\n谢谢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wcenpkgoAzFkM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wcenpkgoAzFkMDQ1",
+                "start": 0,
+                "url": "https://t.co/Av9bAZd3dg"
+              }
+            ]
+          }
+        },
+        "id": "1863821756932472832",
+        "location": "cat",
+        "name": "宫笙 🏳‍⚧️🍥",
+        "pinned_tweet_id": "1939228889043316916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909494365900488705/svO7GLQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 468,
+          "like_count": 95,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/Av9bAZd3dg",
+        "username": "shuo_zi27516",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1915921955305492848",
+    "created_at": "2025-04-26T08:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T09:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916045655421714640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "232474074",
+          "start": 0,
+          "username": "kojik426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916045655421714640",
+    "in_reply_to_user_id": "232474074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915921955305492848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kojik426 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1377,
+        "media_key": "3_1915921949907451904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpa43MmbgAAB0JG.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1915921955305492848",
+        "created_at": "2025-04-26T08:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T09:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916045655421714640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "232474074",
+              "start": 0,
+              "username": "kojik426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916045655421714640",
+        "in_reply_to_user_id": "232474074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915921955305492848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kojik426 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915921949907451904"
+          ]
+        },
+        "author_id": "232474074",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1915921955305492848",
+        "created_at": "2025-04-26T00:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T01:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915921955305492848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7Fyh8MW3b",
+              "end": 99,
+              "expanded_url": "https://x.com/kojik426/status/1915921955305492848/photo/1",
+              "media_key": "3_1915921949907451904",
+              "start": 76,
+              "url": "https://t.co/g7Fyh8MW3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915921955305492848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1290,
+          "like_count": 108,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "親に感謝。日々仲良くしてる人たちに感謝。この1年もまた健康で過ごせた自分の身体にも感謝。\nこれからの1年もまた、健康で楽しく心豊かに過ごせますように🫶 https://t.co/g7Fyh8MW3b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2772,
+          "following_count": 2839,
+          "like_count": 27519,
+          "listed_count": 7,
+          "media_count": 1278,
+          "tweet_count": 19090
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-31T07:02:35.000Z",
+        "description": "数年前に上海駐在してた人。中国語はできなかったなあ。 ラーメン🍜 スイーツ🍓 お酒🍺 C-POP🎵。#歌ってみたいCPOP、#歌ってほしいCPOP。また中国に遊びに行きたいと思いつつ日本で働く営業マンです。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 50,
+                "tag": "歌ってみたいCPOP"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "tag": "歌ってほしいCPOP"
+              }
+            ]
+          }
+        },
+        "id": "232474074",
+        "location": "東京",
+        "name": "ぐっち@縄跳びウサギ🇨🇳→🇯🇵🐰",
+        "pinned_tweet_id": "1812121569847832962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509914432717361161/XM8a1RFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 813,
+          "like_count": 127119,
+          "listed_count": 11,
+          "media_count": 4579,
+          "tweet_count": 61600
+        },
+        "username": "kojik426",
+        "verified": false
+      }
+    ]
+  }
+}

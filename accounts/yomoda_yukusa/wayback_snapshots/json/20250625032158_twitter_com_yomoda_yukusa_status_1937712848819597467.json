@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1937603718066892843",
+    "created_at": "2025-06-25T03:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T04:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937712848819597467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1826940055438655488",
+          "start": 0,
+          "username": "Sudo2c897ssVer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937712848819597467",
+    "in_reply_to_user_id": "1826940055438655488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937603718066892843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sudo2c897ssVer 喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1937603718066892843",
+        "created_at": "2025-06-25T03:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T04:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937712848819597467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1826940055438655488",
+              "start": 0,
+              "username": "Sudo2c897ssVer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937712848819597467",
+        "in_reply_to_user_id": "1826940055438655488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937603718066892843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sudo2c897ssVer 喵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826940055438655488",
+        "conversation_id": "1937603718066892843",
+        "created_at": "2025-06-24T20:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T21:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937603718066892843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937603718066892843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以及其实暂时没那么想死了…或者说不应该马上死掉\n还没有变成譞子想要的样子，还没有见到你们\n只是\n真的有可能吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 2143,
+          "like_count": 28908,
+          "listed_count": 7,
+          "media_count": 1334,
+          "tweet_count": 19576
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T11:10:40.000Z",
+        "description": "逗留一下吧，你是那麼美麗",
+        "id": "1826940055438655488",
+        "location": "浦島隧道",
+        "name": "被被被偷好飯顧某譞譞譞🍀",
+        "pinned_tweet_id": "1927374783861117349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933181486536237056/KRjX9UZJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 616,
+          "like_count": 15401,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1854
+        },
+        "username": "Sudo2c897ssVer",
+        "verified": false
+      }
+    ]
+  }
+}

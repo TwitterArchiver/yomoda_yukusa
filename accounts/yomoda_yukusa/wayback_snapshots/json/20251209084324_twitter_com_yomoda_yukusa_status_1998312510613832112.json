@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1998312510613832112",
+    "created_at": "2025-12-09T08:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T09:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998312510613832112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1723352247982239744",
+          "start": 3,
+          "username": "ban_le3330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998312510613832112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998310050444845224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ban_le3330: 最近这段时间很多平台对ftm和ftx们的攻击开始变得越来越猖獗了，我呼吁各位mtf和mtx们遇到被欺负的ftm和ftx们也要多伸出援手帮助他们，其他的弱势群体们也是，大家都很不容易，正是如此所以我们才应该多互帮互助"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1998312510613832112",
+        "created_at": "2025-12-09T08:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T09:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998312510613832112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1723352247982239744",
+              "start": 3,
+              "username": "ban_le3330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998312510613832112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998310050444845224",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ban_le3330: 最近这段时间很多平台对ftm和ftx们的攻击开始变得越来越猖獗了，我呼吁各位mtf和mtx们遇到被欺负的ftm和ftx们也要多伸出援手帮助他们，其他的弱势群体们也是，大家都很不容易，正是如此所以我们才应该多互帮互助"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723352247982239744",
+        "conversation_id": "1998310050444845224",
+        "created_at": "2025-12-09T08:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T09:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998310050444845224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998310050444845224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近这段时间很多平台对ftm和ftx们的攻击开始变得越来越猖獗了，我呼吁各位mtf和mtx们遇到被欺负的ftm和ftx们也要多伸出援手帮助他们，其他的弱势群体们也是，大家都很不容易，正是如此所以我们才应该多互帮互助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 2328,
+          "like_count": 31594,
+          "listed_count": 9,
+          "media_count": 1455,
+          "tweet_count": 20712
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T14:49:46.000Z",
+        "description": "窝是一只小兔子丨这是窝可爱宝宝的新号：@brokenicegreen2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "brokenicegreen2"
+              }
+            ]
+          }
+        },
+        "id": "1723352247982239744",
+        "location": "蛋糕之星",
+        "name": "彩音",
+        "pinned_tweet_id": "1889710512117584007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991176431754428417/l-kwHgoB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 298,
+          "like_count": 3683,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 1569
+        },
+        "username": "ban_le3330",
+        "verified": false
+      }
+    ]
+  }
+}

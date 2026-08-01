@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1840728751644008736",
+    "created_at": "2024-09-30T12:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T13:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840730421409329646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1754665643046281216",
+          "start": 0,
+          "username": "qiyigaoxia2635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840730421409329646",
+    "in_reply_to_user_id": "1754665643046281216",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840729761100046626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiyigaoxia2635 只是一个限定词，我没有说明或暗示过我的立场。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1840728751644008736",
+        "created_at": "2024-09-30T12:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T13:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840730421409329646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1754665643046281216",
+              "start": 0,
+              "username": "qiyigaoxia2635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840730421409329646",
+        "in_reply_to_user_id": "1754665643046281216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840729761100046626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiyigaoxia2635 只是一个限定词，我没有说明或暗示过我的立场。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754665643046281216",
+        "conversation_id": "1840728751644008736",
+        "created_at": "2024-09-30T12:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T13:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840729761100046626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840729761100046626",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840729271402434839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 你是底層很驕傲？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2722,
+          "following_count": 2611,
+          "like_count": 26388,
+          "listed_count": 7,
+          "tweet_count": 18278
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T00:37:53.000Z",
+        "description": "國語 Mandarin/粵語 Cantonese/英語English         Jewish猶太教徒🕎\nHongKonger香港人🇭🇰\nZionist錫安主義者\nHakka客家\nliberalism自由主義\nElitist精英主義者",
+        "id": "1754665643046281216",
+        "location": "Hong Kong/Vancouver",
+        "name": "Friedrich🇮🇱",
+        "pinned_tweet_id": "1840065174625235223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783093724916170753/QQA5WgdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 2810,
+          "like_count": 5113,
+          "listed_count": 5,
+          "tweet_count": 1639
+        },
+        "username": "qiyigaoxia2635",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977931282849071104"
+      ],
+      "media_source_tweet_id": [
+        "1977931289996202219"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1978124329708638590",
+    "created_at": "2025-10-14T15:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T16:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978124329708638590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "178794303",
+          "start": 3,
+          "username": "internation0501"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KPH4xF5IF2",
+          "end": 47,
+          "expanded_url": "https://x.com/internation0501/status/1977931289996202219/photo/1",
+          "media_key": "3_1977931282849071104",
+          "start": 24,
+          "url": "https://t.co/KPH4xF5IF2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978124329708638590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977931289996202219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @internation0501: 确实 https://t.co/KPH4xF5IF2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 430,
+        "media_key": "3_1977931282849071104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3MGBbBaAAAb4nf.jpg",
+        "width": 430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977931282849071104"
+          ],
+          "media_source_tweet_id": [
+            "1977931289996202219"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1978124329708638590",
+        "created_at": "2025-10-14T15:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978124329708638590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "178794303",
+              "start": 3,
+              "username": "internation0501"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KPH4xF5IF2",
+              "end": 47,
+              "expanded_url": "https://x.com/internation0501/status/1977931289996202219/photo/1",
+              "media_key": "3_1977931282849071104",
+              "start": 24,
+              "url": "https://t.co/KPH4xF5IF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978124329708638590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977931289996202219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @internation0501: 确实 https://t.co/KPH4xF5IF2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977931282849071104"
+          ]
+        },
+        "author_id": "178794303",
+        "conversation_id": "1977931289996202219",
+        "created_at": "2025-10-14T02:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T03:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977931289996202219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KPH4xF5IF2",
+              "end": 26,
+              "expanded_url": "https://x.com/internation0501/status/1977931289996202219/photo/1",
+              "media_key": "3_1977931282849071104",
+              "start": 3,
+              "url": "https://t.co/KPH4xF5IF2"
+            },
+            {
+              "display_url": "x.com/templar3271/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/templar3271/status/1977696882685075553",
+              "start": 27,
+              "url": "https://t.co/ziDhBAdnHs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977931289996202219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 68434,
+          "like_count": 353,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977696882685075553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实 https://t.co/KPH4xF5IF2 https://t.co/ziDhBAdnHs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 2297,
+          "like_count": 30398,
+          "listed_count": 10,
+          "media_count": 1393,
+          "tweet_count": 20189
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-15T18:25:03.000Z",
+        "description": "普通的存在主义者，自认为。资本主义终将灭亡，这一趋势是自《九十五条论纲》始。彻底的解放即是叙事灭亡的开始，这一点毫无质疑。存在先于本质，先有鸡再有鸡蛋；先有资本主义精神，才有资本主义，后有《资本论》。在讨论自由等自然法时，先想想天赋人权的天在哪？人真正的不自由，就是永远都无法摆脱自由。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/zhongwen/trad/…",
+                "end": 23,
+                "expanded_url": "https://www.bbc.com/zhongwen/trad/world/2015/04/150411_ukraine_ban_communism",
+                "start": 0,
+                "url": "https://t.co/BGeLzlbfif"
+              }
+            ]
+          }
+        },
+        "id": "178794303",
+        "location": "敖德萨",
+        "name": "華盛頓革委",
+        "pinned_tweet_id": "1650332348355846144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600447410068942849/7JlFQQNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 425,
+          "like_count": 14712,
+          "listed_count": 11,
+          "media_count": 3169,
+          "tweet_count": 18176
+        },
+        "url": "https://t.co/BGeLzlbfif",
+        "username": "internation0501",
+        "verified": false
+      }
+    ]
+  }
+}

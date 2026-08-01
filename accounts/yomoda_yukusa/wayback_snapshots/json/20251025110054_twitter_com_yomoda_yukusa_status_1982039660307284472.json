@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1982009985799422268",
+    "created_at": "2025-10-25T11:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T12:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982039660307284472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1605386170136793088",
+          "start": 0,
+          "username": "neetfag"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982039660307284472",
+    "in_reply_to_user_id": "1605386170136793088",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982009985799422268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neetfag falling fading"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_1982009971177885696",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G4GDkVFXEAALY8T.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G4GDkVFXEAALY8T.mp4"
+          }
+        ],
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1982009985799422268",
+        "created_at": "2025-10-25T11:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T12:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982039660307284472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1605386170136793088",
+              "start": 0,
+              "username": "neetfag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982039660307284472",
+        "in_reply_to_user_id": "1605386170136793088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982009985799422268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neetfag falling fading"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1982009971177885696"
+          ]
+        },
+        "author_id": "1605386170136793088",
+        "conversation_id": "1982009985799422268",
+        "created_at": "2025-10-25T09:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T10:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982009985799422268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIlqFgVUsF",
+              "end": 61,
+              "expanded_url": "https://x.com/neetfag/status/1982009985799422268/photo/1",
+              "media_key": "16_1982009971177885696",
+              "start": 38,
+              "url": "https://t.co/vIlqFgVUsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982009985799422268",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 189,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Baby are you down down down down down https://t.co/vIlqFgVUsF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 2324,
+          "like_count": 30590,
+          "listed_count": 10,
+          "media_count": 1400,
+          "tweet_count": 20302
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T02:14:37.000Z",
+        "description": "Gold star incel. Art: @koioroio",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "koioroio"
+              }
+            ]
+          }
+        },
+        "id": "1605386170136793088",
+        "location": "online",
+        "name": "Kīrī.🍔",
+        "pinned_tweet_id": "1967847790081609908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891649689939791872/Ytv4UGTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1839,
+          "following_count": 896,
+          "like_count": 22832,
+          "listed_count": 5,
+          "media_count": 2145,
+          "tweet_count": 5565
+        },
+        "username": "neetfag",
+        "verified": false
+      }
+    ]
+  }
+}

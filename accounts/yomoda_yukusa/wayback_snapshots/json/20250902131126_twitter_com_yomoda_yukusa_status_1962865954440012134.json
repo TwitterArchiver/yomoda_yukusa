@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1962800810460582341",
+    "created_at": "2025-09-02T13:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T14:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962865954440012134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1612680283332952064",
+          "start": 0,
+          "username": "xcs03563104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962865954440012134",
+    "in_reply_to_user_id": "1612680283332952064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962853789301694667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcs03563104 吱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1962800810460582341",
+        "created_at": "2025-09-02T13:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962865954440012134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1612680283332952064",
+              "start": 0,
+              "username": "xcs03563104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962865954440012134",
+        "in_reply_to_user_id": "1612680283332952064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962853789301694667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcs03563104 吱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612680283332952064",
+        "conversation_id": "1962800810460582341",
+        "created_at": "2025-09-02T12:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T13:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962853789301694667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Hamsterie/stat…",
+              "end": 38,
+              "expanded_url": "https://x.com/Hamsterie/status/1962847980509438210?t=7P9IMFln0PXjZscrLH5BIw&s=19",
+              "start": 15,
+              "url": "https://t.co/FoYij9VEcO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962853789301694667",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962847980509438210",
+            "type": "quoted"
+          },
+          {
+            "id": "1962800810460582341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa https://t.co/FoYij9VEcO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2209,
+          "like_count": 29581,
+          "listed_count": 9,
+          "media_count": 1357,
+          "tweet_count": 19883
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T05:18:54.000Z",
+        "description": "中/ENG|個人口嗨用 低浮上|说话不过脑臭傻逼 友好一切",
+        "id": "1612680283332952064",
+        "location": "my art禁止轉載，保存，使用/嚴禁ai學習/不授權任何",
+        "name": "😭",
+        "pinned_tweet_id": "1915390556399882661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849329944582615040/Iwp9dN3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 383,
+          "like_count": 32483,
+          "listed_count": 3,
+          "media_count": 877,
+          "tweet_count": 7350
+        },
+        "username": "xcs03563104",
+        "verified": false
+      }
+    ]
+  }
+}

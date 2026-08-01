@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1917946518105165889",
+    "created_at": "2025-05-03T01:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T02:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918470943862866059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918470943862866059",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917946518105165889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 好羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917946511733960705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp3qMNIaMAEwwHi.jpg",
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1917946518105165889",
+        "created_at": "2025-05-03T01:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T02:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918470943862866059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918470943862866059",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917946518105165889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 好羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917946511733960705"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "1917946518105165889",
+        "created_at": "2025-05-01T14:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T15:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917946518105165889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pA5aIrPom8",
+              "end": 91,
+              "expanded_url": "https://x.com/AcboxLiu/status/1917946518105165889/photo/1",
+              "media_key": "3_1917946511733960705",
+              "start": 68,
+              "url": "https://t.co/pA5aIrPom8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917946518105165889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 78487,
+          "like_count": 508,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我qq空间一直没屏蔽我表妹，或者我以为我已经删了，然后今天有个人建议我试试短裙，我一直翻聊天记录，想起了什么。。。\n柜子:崩!啊我爆了 https://t.co/pA5aIrPom8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 2058,
+          "like_count": 27802,
+          "listed_count": 7,
+          "media_count": 1284,
+          "tweet_count": 19145
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "💻开源开发&全职创业/全栈&LLM/Building EchoAI/🎨UI&UX学习中/Founder of @bijon_ai/🐱Github: sheepbox8646/🍥🏳️‍⚧️🇭🇰/📮me@acbox.lol/🧭@sciuxkit @bugduckteam/小号@xiaoxiangziqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "bijon_ai"
+              },
+              {
+                "end": 120,
+                "start": 111,
+                "username": "sciuxkit"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "bugduckteam"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "xiaoxiangziqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "acbox.lol",
+                "end": 23,
+                "expanded_url": "https://acbox.lol",
+                "start": 0,
+                "url": "https://t.co/kJvOSjAt1j"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳-廣州-香港",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1911631620274086230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914958257879441409/Yh9QRIIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4432,
+          "following_count": 2842,
+          "like_count": 2167,
+          "listed_count": 17,
+          "media_count": 649,
+          "tweet_count": 3503
+        },
+        "url": "https://t.co/kJvOSjAt1j",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

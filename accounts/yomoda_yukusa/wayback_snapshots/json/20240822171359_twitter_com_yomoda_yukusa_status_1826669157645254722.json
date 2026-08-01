@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1826657836027576530",
+    "created_at": "2024-08-22T17:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T18:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826669157645254722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1788070512075120640",
+          "start": 0,
+          "username": "1977lain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826669157645254722",
+    "in_reply_to_user_id": "1788070512075120640",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826657836027576530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1977lain 到時候提醒我一下()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1826657836027576530",
+        "created_at": "2024-08-22T17:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T18:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826669157645254722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1788070512075120640",
+              "start": 0,
+              "username": "1977lain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826669157645254722",
+        "in_reply_to_user_id": "1788070512075120640",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826657836027576530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1977lain 到時候提醒我一下()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788070512075120640",
+        "conversation_id": "1826657836027576530",
+        "created_at": "2024-08-22T16:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T17:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826657836027576530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826657836027576530",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等人家千fo发个福利喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2680,
+          "following_count": 2545,
+          "like_count": 25956,
+          "listed_count": 8,
+          "tweet_count": 18033
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T04:56:56.000Z",
+        "description": "我素言叶 天上地下唯我独尊 上推只为我唯一的电子奸臣 骂我先骂@Anakin78831279",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "Anakin78831279"
+              }
+            ]
+          }
+        },
+        "id": "1788070512075120640",
+        "location": "🚪88",
+        "name": "请你记住我",
+        "pinned_tweet_id": "1826276094007525402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806308095519535104/Myq7byB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 25,
+          "like_count": 53,
+          "listed_count": 0,
+          "tweet_count": 38
+        },
+        "username": "1977lain",
+        "verified": false
+      }
+    ]
+  }
+}

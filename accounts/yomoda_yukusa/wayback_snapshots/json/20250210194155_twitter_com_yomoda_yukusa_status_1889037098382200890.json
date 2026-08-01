@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1889037098382200890",
+    "created_at": "2025-02-10T19:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T20:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889037098382200890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1507823509833236480",
+          "start": 3,
+          "username": "4catlicka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889037098382200890",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889033108462154177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4catlicka: dumbest shit ever, people nowadays are so afraid of making any permanent decisions except when it comes to suicide"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1889037098382200890",
+        "created_at": "2025-02-10T19:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T20:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889037098382200890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1507823509833236480",
+              "start": 3,
+              "username": "4catlicka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889037098382200890",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889033108462154177",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4catlicka: dumbest shit ever, people nowadays are so afraid of making any permanent decisions except when it comes to suicide"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507823509833236480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1889033108462154177",
+        "created_at": "2025-02-10T19:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T20:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889033108462154177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dexerto/status…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/dexerto/status/1888959821124120920",
+              "start": 115,
+              "url": "https://t.co/fKgxDMazEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889033108462154177",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888959821124120920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "dumbest shit ever, people nowadays are so afraid of making any permanent decisions except when it comes to suicide https://t.co/fKgxDMazEL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 2798,
+          "like_count": 27035,
+          "listed_count": 9,
+          "media_count": 1254,
+          "tweet_count": 18814
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T20:55:47.000Z",
+        "description": "KIND and.,, non offensive! 4catlicka ₊˚⊹♡ @frailfeathers",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "frailfeathers"
+              }
+            ]
+          }
+        },
+        "id": "1507823509833236480",
+        "location": "YURI!!",
+        "name": "clair E",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841758205371633665/M2ZQPsDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 404,
+          "like_count": 130031,
+          "listed_count": 6,
+          "media_count": 1337,
+          "tweet_count": 17560
+        },
+        "username": "4catlicka",
+        "verified": false
+      }
+    ]
+  }
+}

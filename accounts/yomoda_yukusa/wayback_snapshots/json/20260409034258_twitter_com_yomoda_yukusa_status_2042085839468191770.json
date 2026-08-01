@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2042085839468191770",
+    "created_at": "2026-04-09T03:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T04:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042085839468191770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1086447155345158144",
+          "start": 3,
+          "username": "akioikaros"
+        },
+        {
+          "end": 30,
+          "id": "1708530331299762176",
+          "start": 16,
+          "username": "mitsuhiro0086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042085839468191770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041729578767675798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akioikaros: @mitsuhiro0086 眠るように死ねるなら誰でも死にたいと思うでしょうね\n世の中には幸せと言う光の裏で\n幸せための犠牲になる不幸と言う影が存在するのですから\n私も死を選ぶなら眠りの中で死にたいです\n死ぬ時は穏やかな気分で死にたいと思います…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2042085839468191770",
+        "created_at": "2026-04-09T03:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042085839468191770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1086447155345158144",
+              "start": 3,
+              "username": "akioikaros"
+            },
+            {
+              "end": 30,
+              "id": "1708530331299762176",
+              "start": 16,
+              "username": "mitsuhiro0086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042085839468191770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041729578767675798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akioikaros: @mitsuhiro0086 眠るように死ねるなら誰でも死にたいと思うでしょうね\n世の中には幸せと言う光の裏で\n幸せための犠牲になる不幸と言う影が存在するのですから\n私も死を選ぶなら眠りの中で死にたいです\n死ぬ時は穏やかな気分で死にたいと思います…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1086447155345158144",
+        "conversation_id": "2041472967683776699",
+        "created_at": "2026-04-08T04:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041729578767675798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1708530331299762176",
+              "start": 0,
+              "username": "mitsuhiro0086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041729578767675798",
+        "in_reply_to_user_id": "1708530331299762176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1549,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041472967683776699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitsuhiro0086 眠るように死ねるなら誰でも死にたいと思うでしょうね\n世の中には幸せと言う光の裏で\n幸せための犠牲になる不幸と言う影が存在するのですから\n私も死を選ぶなら眠りの中で死にたいです\n死ぬ時は穏やかな気分で死にたいと思いますから"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2814,
+          "following_count": 2378,
+          "like_count": 33498,
+          "listed_count": 9,
+          "media_count": 1610,
+          "tweet_count": 21946
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-19T02:16:01.000Z",
+        "description": "己の義と日本を愛し罪人が嫌いな善良な派遣社員の男28歳、 洋画(dcとかmarvel)とアニメが好き（特にそらおとと型月作品とガンダム）趣味は映画鑑賞にゲームとフィギュア集めと平和な日常の景色を眺める事 ○女性も男性も好きな良識有る変態",
+        "id": "1086447155345158144",
+        "location": "千葉県　八千代市",
+        "name": "ikaros",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015960715467882496/hkDNafRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 150,
+          "like_count": 17101,
+          "listed_count": 1,
+          "media_count": 1034,
+          "tweet_count": 3016
+        },
+        "username": "akioikaros",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T17:12:43.000Z",
+        "description": "どこにも吐き出せない気持ちをここで書き綴っています ネガティブ投稿しかしてませんので閲覧注意です サブ垢→@mitsuhiro1994\nうつ病/不安障害/睡眠障害",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "mitsuhiro1994"
+              }
+            ]
+          }
+        },
+        "id": "1708530331299762176",
+        "location": "どこにもない居場所",
+        "name": "社会不適合者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723054700906651648/S1M03M35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6078,
+          "following_count": 2805,
+          "like_count": 22538,
+          "listed_count": 21,
+          "media_count": 9,
+          "tweet_count": 1642
+        },
+        "username": "mitsuhiro0086",
+        "verified": false
+      }
+    ]
+  }
+}

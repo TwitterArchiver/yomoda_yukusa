@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1938421673138806885",
+    "created_at": "2025-06-27T03:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T04:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938435170681639313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692136120027320320",
+          "start": 0,
+          "username": "Cypress_7593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938435170681639313",
+    "in_reply_to_user_id": "1692136120027320320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938421673138806885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cypress_7593 超声波？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938421658207064065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuaoOlpbEAEIK9Z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1938421673138806885",
+        "created_at": "2025-06-27T03:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T04:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938435170681639313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "Cypress_7593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938435170681639313",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938421673138806885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cypress_7593 超声波？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938421658207064065"
+          ]
+        },
+        "author_id": "1692136120027320320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1938421673138806885",
+        "created_at": "2025-06-27T02:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T03:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938421673138806885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Palyn0Vj09",
+              "end": 82,
+              "expanded_url": "https://x.com/Cypress_7593/status/1938421673138806885/photo/1",
+              "media_key": "3_1938421658207064065",
+              "start": 59,
+              "url": "https://t.co/Palyn0Vj09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938421673138806885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路过药店称了一下体重，看来家里的秤确实是准的，买回来开始称一直小于110斤还以为是称坏了毕竟我之前体重都是120左右 https://t.co/Palyn0Vj09"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2793,
+          "following_count": 2149,
+          "like_count": 28971,
+          "listed_count": 7,
+          "media_count": 1336,
+          "tweet_count": 19598
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "你好我是柏树|号被炸了无数个了|精神状态是量子叠加态|成分复杂关注请谨慎|分裂情感性障碍&阿斯伯格|INFJ-T 5w6-tritype593-sp/so|无性别无性恋泛浪漫|查成分回fo|屏蔽必回敬|误block致歉|看我不爽建议您去死捏|第二人格\n@theDarkCypress|逃生舱@Cypress_1118",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 126,
+                "username": "theDarkCypress"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "Cypress_1118"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树",
+        "pinned_tweet_id": "1928275531356852498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893603395346280448/j2VGmsv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 810,
+          "like_count": 15581,
+          "listed_count": 2,
+          "media_count": 594,
+          "tweet_count": 4183
+        },
+        "username": "Cypress_7593",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1821186954723258371"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1821166869229007281",
+    "created_at": "2024-08-07T14:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T15:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821186977187905870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1575694392706228224",
+          "start": 0,
+          "username": "Bubutothestars"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/c0quNaaFU6",
+          "end": 45,
+          "expanded_url": "https://twitter.com/yomoda_yukusa/status/1821186977187905870/photo/1",
+          "media_key": "3_1821186954723258371",
+          "start": 22,
+          "url": "https://t.co/c0quNaaFU6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821186977187905870",
+    "in_reply_to_user_id": "1575694392706228224",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821166869229007281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bubutothestars 被锐评了。 https://t.co/c0quNaaFU6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1821186954723258371",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUYn4uHa8AMPekX.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821186954723258371"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1821166869229007281",
+        "created_at": "2024-08-07T14:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T15:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821186977187905870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1575694392706228224",
+              "start": 0,
+              "username": "Bubutothestars"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/c0quNaaFU6",
+              "end": 45,
+              "expanded_url": "https://twitter.com/yomoda_yukusa/status/1821186977187905870/photo/1",
+              "media_key": "3_1821186954723258371",
+              "start": 22,
+              "url": "https://t.co/c0quNaaFU6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821186977187905870",
+        "in_reply_to_user_id": "1575694392706228224",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821166869229007281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bubutothestars 被锐评了。 https://t.co/c0quNaaFU6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821166865735151620"
+          ]
+        },
+        "author_id": "1575694392706228224",
+        "conversation_id": "1821166869229007281",
+        "created_at": "2024-08-07T12:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T13:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821166869229007281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "twitter.wordware.ai",
+              "end": 41,
+              "expanded_url": "https://twitter.wordware.ai",
+              "start": 18,
+              "url": "https://t.co/7sOWVwy2pF"
+            },
+            {
+              "display_url": "pic.twitter.com/6DRxRgtAw1",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Bubutothestars/status/1821166869229007281/photo/1",
+              "media_key": "3_1821166865735151620",
+              "start": 42,
+              "url": "https://t.co/6DRxRgtAw1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821166869229007281",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以为AI它会攻击性锐评我的...\nhttps://t.co/7sOWVwy2pF https://t.co/6DRxRgtAw1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 2518,
+          "like_count": 25876,
+          "listed_count": 7,
+          "tweet_count": 17970
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T03:50:02.000Z",
+        "description": "草东街居民/trans lesbian❤️🧡💜姐T/即时消息不适应/描述集合论应该是探索几何的新道路",
+        "id": "1575694392706228224",
+        "location": "Prague, Czech Republic",
+        "name": "布布🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819746179560968192/QJcv9lDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 62,
+          "like_count": 1355,
+          "listed_count": 0,
+          "tweet_count": 524
+        },
+        "username": "Bubutothestars",
+        "verified": false
+      }
+    ]
+  }
+}

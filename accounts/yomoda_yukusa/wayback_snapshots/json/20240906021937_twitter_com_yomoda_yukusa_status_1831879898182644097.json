@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1831857222487617668",
+    "created_at": "2024-09-06T02:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T03:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831879898182644097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1782607608089866240",
+          "start": 0,
+          "username": "lymryi63741"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831879898182644097",
+    "in_reply_to_user_id": "1782607608089866240",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831859896243122340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lymryi63741 帕夏和另几个人早就睡了。只有我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1831857222487617668",
+        "created_at": "2024-09-06T02:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T03:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831879898182644097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1782607608089866240",
+              "start": 0,
+              "username": "lymryi63741"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831879898182644097",
+        "in_reply_to_user_id": "1782607608089866240",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831859896243122340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lymryi63741 帕夏和另几个人早就睡了。只有我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782607608089866240",
+        "conversation_id": "1831857222487617668",
+        "created_at": "2024-09-06T01:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T02:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831859896243122340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831859896243122340",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831857222487617668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 你们两个赶紧去睡觉！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2690,
+          "following_count": 2577,
+          "like_count": 26191,
+          "listed_count": 7,
+          "tweet_count": 18132
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T03:09:16.000Z",
+        "description": "200207/友跨顺女/常驻常州、无锡，偶尔出现在广州/太湖学院在读\n爱人 @hanlianyi331\n爱的人 @AypashaYomoda",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "hanlianyi331"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "AypashaYomoda"
+              }
+            ]
+          }
+        },
+        "id": "1782607608089866240",
+        "location": "中国，江苏",
+        "name": "春兰❀嘉梅",
+        "pinned_tweet_id": "1822533594700468488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800762804917653504/JmTRIEeN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 69,
+          "like_count": 355,
+          "listed_count": 0,
+          "tweet_count": 938
+        },
+        "username": "lymryi63741",
+        "verified": false
+      }
+    ]
+  }
+}

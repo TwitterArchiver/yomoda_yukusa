@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2017611508637962625",
+    "created_at": "2026-01-31T16:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T17:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017632827580551501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017632827580551501",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017611508637962625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2017611508637962625",
+        "created_at": "2026-01-31T16:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T17:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017632827580551501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017632827580551501",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017611508637962625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "2017611508637962625",
+        "created_at": "2026-01-31T14:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017611508637962625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017611508637962625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 791,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "预算1500~2000左右养什么猫好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2819,
+          "following_count": 2366,
+          "like_count": 32975,
+          "listed_count": 9,
+          "media_count": 1541,
+          "tweet_count": 21430
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/推特当朋友圈发/She&Her/搞开发的/🐱大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvcLr"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "name": "📦Acbox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629929281810432/W3tlGjqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10743,
+          "following_count": 2998,
+          "like_count": 3042,
+          "listed_count": 41,
+          "media_count": 1218,
+          "tweet_count": 6281
+        },
+        "url": "https://t.co/mRP5RDvcLr",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

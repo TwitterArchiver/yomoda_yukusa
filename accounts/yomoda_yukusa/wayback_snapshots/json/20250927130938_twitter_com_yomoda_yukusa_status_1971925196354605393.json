@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1971925196354605393",
+    "created_at": "2025-09-27T13:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T14:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971925196354605393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1652985793290604545",
+          "start": 3,
+          "username": "TuTri77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971925196354605393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971896550449459566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TuTri77: 多希望我的一生只是妈妈打胎前的一场梦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1971925196354605393",
+        "created_at": "2025-09-27T13:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T14:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971925196354605393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1652985793290604545",
+              "start": 3,
+              "username": "TuTri77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971925196354605393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971896550449459566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TuTri77: 多希望我的一生只是妈妈打胎前的一场梦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652985793290604545",
+        "conversation_id": "1971896550449459566",
+        "created_at": "2025-09-27T11:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971896550449459566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971896550449459566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 122,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "多希望我的一生只是妈妈打胎前的一场梦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 2276,
+          "like_count": 29828,
+          "listed_count": 10,
+          "media_count": 1371,
+          "tweet_count": 20019
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "盗图死全家/不要忘记我 ｜自用蜂鸟VPN： https://t.co/S4ISvO0qF3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 45,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=MF28Fdlt",
+                "start": 22,
+                "url": "https://t.co/S4ISvO0qF3"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "location": "🚪88",
+        "name": "nini",
+        "pinned_tweet_id": "1810144213742567728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942230293148250112/vgnMIxrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8093,
+          "following_count": 249,
+          "like_count": 2907,
+          "listed_count": 11,
+          "media_count": 386,
+          "tweet_count": 1507
+        },
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

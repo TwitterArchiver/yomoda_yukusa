@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055941525947990016"
+      ],
+      "media_source_tweet_id": [
+        "2055941536626659335"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "2056253885036306755",
+    "created_at": "2026-05-18T06:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056253885036306755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804811384880033792",
+          "start": 3,
+          "username": "Chuyang8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l9Hx2csk7A",
+          "end": 56,
+          "expanded_url": "https://x.com/Chuyang8964/status/2055941536626659335/photo/1",
+          "media_key": "3_2055941525947990016",
+          "start": 33,
+          "url": "https://t.co/l9Hx2csk7A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056253885036306755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055941536626659335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chuyang8964: 国际不再*****日，节日快乐 https://t.co/l9Hx2csk7A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055941525947990016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgr7M0awAAt-Yn.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055941525947990016"
+          ],
+          "media_source_tweet_id": [
+            "2055941536626659335"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "2056253885036306755",
+        "created_at": "2026-05-18T06:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056253885036306755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804811384880033792",
+              "start": 3,
+              "username": "Chuyang8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l9Hx2csk7A",
+              "end": 56,
+              "expanded_url": "https://x.com/Chuyang8964/status/2055941536626659335/photo/1",
+              "media_key": "3_2055941525947990016",
+              "start": 33,
+              "url": "https://t.co/l9Hx2csk7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056253885036306755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055941536626659335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chuyang8964: 国际不再*****日，节日快乐 https://t.co/l9Hx2csk7A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055941525947990016"
+          ]
+        },
+        "author_id": "1804811384880033792",
+        "conversation_id": "2055941536626659335",
+        "created_at": "2026-05-17T09:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055941536626659335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l9Hx2csk7A",
+              "end": 39,
+              "expanded_url": "https://x.com/Chuyang8964/status/2055941536626659335/photo/1",
+              "media_key": "3_2055941525947990016",
+              "start": 16,
+              "url": "https://t.co/l9Hx2csk7A"
+            },
+            {
+              "display_url": "x.com/GlassFoxowo/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/GlassFoxowo/status/2055809190514524532",
+              "start": 40,
+              "url": "https://t.co/M4dK42EoAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055941536626659335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 30431,
+          "like_count": 430,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055809190514524532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国际不再*****日，节日快乐 https://t.co/l9Hx2csk7A https://t.co/M4dK42EoAw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2852,
+          "following_count": 2390,
+          "like_count": 33989,
+          "listed_count": 9,
+          "media_count": 1637,
+          "tweet_count": 22279
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T09:39:17.000Z",
+        "description": "目标：140斤",
+        "id": "1804811384880033792",
+        "location": "中国",
+        "name": "谭小天",
+        "pinned_tweet_id": "2055154034940710991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052637238639595520/7IpvK-mY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4356,
+          "following_count": 687,
+          "like_count": 5548,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 784
+        },
+        "username": "Chuyang8964",
+        "verified": false
+      }
+    ]
+  }
+}

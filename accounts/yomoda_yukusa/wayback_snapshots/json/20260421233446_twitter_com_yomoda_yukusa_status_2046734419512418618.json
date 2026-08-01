@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2046505608103551362",
+    "created_at": "2026-04-21T23:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T00:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046734419512418618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1807430850637963264",
+          "start": 0,
+          "username": "hugeFSG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046734419512418618",
+    "in_reply_to_user_id": "1807430850637963264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046625205620220278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hugeFSG 嗯对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2046505608103551362",
+        "created_at": "2026-04-21T23:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T00:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046734419512418618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1807430850637963264",
+              "start": 0,
+              "username": "hugeFSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046734419512418618",
+        "in_reply_to_user_id": "1807430850637963264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046625205620220278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hugeFSG 嗯对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807430850637963264",
+        "conversation_id": "2046505608103551362",
+        "created_at": "2026-04-21T16:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046625205620220278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046625205620220278",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046505608103551362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 原来你也爱上Gemini了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2829,
+          "following_count": 2382,
+          "like_count": 33763,
+          "listed_count": 9,
+          "media_count": 1628,
+          "tweet_count": 22131
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T15:08:10.000Z",
+        "description": "人在南京、广州，快要无聊死了/工科药娘🍥/老登/讨厌数学/最爱的猪猪@LalshCat/建议重要的私信发到gsfeguh@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "LalshCat"
+              }
+            ]
+          }
+        },
+        "id": "1807430850637963264",
+        "name": "罗莎",
+        "pinned_tweet_id": "2039020755653177368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986781957259239424/6VlvJSmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 163,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 766
+        },
+        "username": "hugeFSG",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1986310806125023520",
+    "created_at": "2025-11-06T05:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T06:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986311651877134754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1437034228768595977",
+          "start": 0,
+          "username": "Kumamushi2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986311651877134754",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986310806125023520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kumamushi2021 （捏脸）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2807,
+        "media_key": "3_1986310798155915264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5DLJaGbIAAl-F-.jpg",
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1986310806125023520",
+        "created_at": "2025-11-06T05:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T06:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986311651877134754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986311651877134754",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986310806125023520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 （捏脸）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986310798155915264"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "1986310806125023520",
+        "created_at": "2025-11-06T05:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T06:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986310806125023520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QuS8ZCLYR7",
+              "end": 23,
+              "expanded_url": "https://x.com/Kumamushi2021/status/1986310806125023520/photo/1",
+              "media_key": "3_1986310798155915264",
+              "start": 0,
+              "url": "https://t.co/QuS8ZCLYR7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986310806125023520",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QuS8ZCLYR7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984486210988089345/XvAXq227_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2332,
+          "like_count": 30876,
+          "listed_count": 10,
+          "media_count": 1417,
+          "tweet_count": 20436
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/废话很多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumamushi2021",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumamushi2021",
+                "start": 0,
+                "url": "https://t.co/TcLkEw5Ceo"
+              }
+            ]
+          }
+        },
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922672678454054912/F9Y7V3EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 72,
+          "like_count": 2420,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1260
+        },
+        "url": "https://t.co/TcLkEw5Ceo",
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

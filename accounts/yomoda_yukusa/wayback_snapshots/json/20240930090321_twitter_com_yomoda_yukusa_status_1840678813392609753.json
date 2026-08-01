@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1840400679304589312"
+      ],
+      "media_source_tweet_id": [
+        "1840400682534240388"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1840678813392609753",
+    "created_at": "2024-09-30T09:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T10:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840678813392609753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759463667517784064",
+          "start": 3,
+          "username": "HYTYMJS_cn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y75jbu0ipf",
+          "end": 113,
+          "expanded_url": "https://twitter.com/HYTYMJS_cn/status/1840400682534240388/photo/1",
+          "media_key": "3_1840400679304589312",
+          "start": 90,
+          "url": "https://t.co/Y75jBu0iPF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840678813392609753",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840400682534240388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYTYMJS_cn: 担心了十几年的事情终于发生了……\n\n教 室 里 的 吊 扇 掉 下 来 了\n\n但是没有闪电旋风劈，除了给俩哥们干破脑袋（出了点血）以外什么都没发射 https://t.co/Y75jBu0iPF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 961,
+        "media_key": "3_1840400679304589312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYpqqr5WcAAEnVd.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840400679304589312"
+          ],
+          "media_source_tweet_id": [
+            "1840400682534240388"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1840678813392609753",
+        "created_at": "2024-09-30T09:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T10:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840678813392609753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759463667517784064",
+              "start": 3,
+              "username": "HYTYMJS_cn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y75jbu0ipf",
+              "end": 113,
+              "expanded_url": "https://twitter.com/HYTYMJS_cn/status/1840400682534240388/photo/1",
+              "media_key": "3_1840400679304589312",
+              "start": 90,
+              "url": "https://t.co/Y75jBu0iPF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840678813392609753",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840400682534240388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HYTYMJS_cn: 担心了十几年的事情终于发生了……\n\n教 室 里 的 吊 扇 掉 下 来 了\n\n但是没有闪电旋风劈，除了给俩哥们干破脑袋（出了点血）以外什么都没发射 https://t.co/Y75jBu0iPF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840400679304589312"
+          ]
+        },
+        "author_id": "1759463667517784064",
+        "conversation_id": "1840400682534240388",
+        "created_at": "2024-09-29T14:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T15:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840400682534240388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y75jbu0ipf",
+              "end": 97,
+              "expanded_url": "https://twitter.com/HYTYMJS_cn/status/1840400682534240388/photo/1",
+              "media_key": "3_1840400679304589312",
+              "start": 74,
+              "url": "https://t.co/Y75jBu0iPF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840400682534240388",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 48964,
+          "like_count": 950,
+          "quote_count": 9,
+          "reply_count": 76,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "担心了十几年的事情终于发生了……\n\n教 室 里 的 吊 扇 掉 下 来 了\n\n但是没有闪电旋风劈，除了给俩哥们干破脑袋（出了点血）以外什么都没发射 https://t.co/Y75jBu0iPF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2722,
+          "following_count": 2610,
+          "like_count": 26381,
+          "listed_count": 7,
+          "tweet_count": 18275
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T06:23:30.000Z",
+        "description": "二次元禁断症候群です💊ACGは世界を救うのです\n ᐕ)੭*⁾⁾   铁血重型机党/雄猫单推人〖♠️41〗",
+        "id": "1759463667517784064",
+        "location": "Wolf 359",
+        "name": "AFEMJS锚_cn",
+        "pinned_tweet_id": "1776658726671483072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821177965884882944/i_6BWwh6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 754,
+          "like_count": 15047,
+          "listed_count": 2,
+          "tweet_count": 4504
+        },
+        "username": "HYTYMJS_cn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2033524209058738670",
+    "created_at": "2026-03-16T13:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T14:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033534872854348035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1594744268282699777",
+          "start": 0,
+          "username": "ALTHUSSERin1960"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033534872854348035",
+    "in_reply_to_user_id": "1594744268282699777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033531120273518594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ALTHUSSERin1960 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2033524209058738670",
+        "created_at": "2026-03-16T13:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033534872854348035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1594744268282699777",
+              "start": 0,
+              "username": "ALTHUSSERin1960"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033534872854348035",
+        "in_reply_to_user_id": "1594744268282699777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033531120273518594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ALTHUSSERin1960 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594744268282699777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2033524209058738670",
+        "created_at": "2026-03-16T13:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033531120273518594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033531120273518594",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033524209058738670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 在推上见过一些人自杀，但唯独这位让我感到难过😢😢如果有来世，希望她有健康的身体！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 2379,
+          "like_count": 33308,
+          "listed_count": 9,
+          "media_count": 1579,
+          "tweet_count": 21761
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T17:27:42.000Z",
+        "description": "链接是Anna的档案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.annas-archive.org",
+                "end": 23,
+                "expanded_url": "https://zh.annas-archive.org/",
+                "start": 0,
+                "url": "https://t.co/YqvNKdfl8V"
+              }
+            ]
+          }
+        },
+        "id": "1594744268282699777",
+        "location": "China",
+        "name": "The ignorant🔮𝕏",
+        "pinned_tweet_id": "1799295032735977878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031313881277280263/_xsV5dAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 1362,
+          "like_count": 122915,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/YqvNKdfl8V",
+        "username": "ALTHUSSERin1960",
+        "verified": false
+      }
+    ]
+  }
+}

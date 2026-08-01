@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1872472941650468867",
+    "created_at": "2024-12-27T15:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T16:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872659663541690796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836782122037874688",
+          "start": 0,
+          "username": "mio1738468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872659663541690796",
+    "in_reply_to_user_id": "1836782122037874688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872472941650468867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio1738468 博"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1872472941650468867",
+        "created_at": "2024-12-27T15:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T16:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872659663541690796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836782122037874688",
+              "start": 0,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872659663541690796",
+        "in_reply_to_user_id": "1836782122037874688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872472941650468867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio1738468 博"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872472939360399360"
+          ]
+        },
+        "author_id": "1836782122037874688",
+        "conversation_id": "1872472941650468867",
+        "created_at": "2024-12-27T02:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T03:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872472941650468867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogElLDjfyY",
+              "end": 51,
+              "expanded_url": "https://x.com/mio1738468/status/1872472941650468867/photo/1",
+              "media_key": "3_1872472939360399360",
+              "start": 28,
+              "url": "https://t.co/ogElLDjfyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872472941650468867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2724,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你……话说这个字怎么读啊，我从小到大都读成白金。。 https://t.co/ogElLDjfyY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2754,
+          "following_count": 2733,
+          "like_count": 26818,
+          "listed_count": 6,
+          "media_count": 1240,
+          "tweet_count": 18693
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T14:59:26.000Z",
+        "description": "我是今予/双相/碎碎念-分享日常/🚪20好友位➕朋友圈掉落照片/50纯绿陪聊/粥批/紫菜小号@jy3152509243 /谢谢你和我一起玩，我会记得你😽/手作围巾长期有售：40r/过门-10r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "jy3152509243"
+              }
+            ]
+          }
+        },
+        "id": "1836782122037874688",
+        "location": "距离你3km",
+        "name": "今天也在被碳酸锂噎死",
+        "pinned_tweet_id": "1857845525556638103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848603443956748290/A5Wh6pB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 475,
+          "like_count": 7079,
+          "listed_count": 4,
+          "media_count": 816,
+          "tweet_count": 6928
+        },
+        "username": "mio1738468",
+        "verified": false
+      }
+    ]
+  }
+}

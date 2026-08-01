@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1854184558801174735",
+    "created_at": "2024-11-06T17:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T18:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854217701729993032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818107582117994496",
+          "start": 0,
+          "username": "CypressAlbert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854217701729993032",
+    "in_reply_to_user_id": "1818107582117994496",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854184558801174735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CypressAlbert 唔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1854184558801174735",
+        "created_at": "2024-11-06T17:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T18:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854217701729993032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818107582117994496",
+              "start": 0,
+              "username": "CypressAlbert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854217701729993032",
+        "in_reply_to_user_id": "1818107582117994496",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854184558801174735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CypressAlbert 唔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818107582117994496",
+        "conversation_id": "1854184558801174735",
+        "created_at": "2024-11-06T15:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T16:29:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854184260611321896",
+          "1854184558801174735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854184558801174735",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推油没有在广东深圳的\n未来我会去不同的地方面基几个推油，敬请期待\n有想和我面基的（尤其是北京附近北方地区）可以报名哟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2756,
+          "following_count": 2702,
+          "like_count": 26562,
+          "listed_count": 6,
+          "tweet_count": 18529
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T02:13:32.000Z",
+        "description": "精神状态是量子叠加态|成分复杂|分裂情感性障碍|将死之人|INFJ-5w6-tritype593-sp/so|FtX🏳‍⚧️无性别&无性恋，双性浪漫|可以称呼我为姐哥吗|大概率回fo|屏蔽必回敬|点赞不代表本人观点|欢迎理性讨论别来犯贱|看我不爽建议您去死捏|第二人格\n@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 135,
+                "username": "theDarkCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/p/DABgbQ6vuqF/…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/p/DABgbQ6vuqF/?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+                "start": 0,
+                "url": "https://t.co/2DAglc5VjK"
+              }
+            ]
+          }
+        },
+        "id": "1818107582117994496",
+        "location": "我才知道星期八的真名叫作Schizophrenia ",
+        "name": "住在星期八的柏树（又双叒叕重生版）",
+        "pinned_tweet_id": "1848292910501867732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834602959516409856/nwmpqBZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 435,
+          "like_count": 5247,
+          "listed_count": 1,
+          "tweet_count": 1159
+        },
+        "url": "https://t.co/2DAglc5VjK",
+        "username": "CypressAlbert",
+        "verified": true
+      }
+    ]
+  }
+}

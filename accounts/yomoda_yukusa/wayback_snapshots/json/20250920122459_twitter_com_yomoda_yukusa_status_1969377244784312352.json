@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1969377244784312352",
+    "created_at": "2025-09-20T12:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T13:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969377244784312352"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1969377244784312352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我决定以后要把PRK叫做北韩、把KOR叫做南朝鲜、把它们所在的半岛叫做倭支半岛。把USA叫做新英格兰、把UK叫做爱尔兰东、把IRL叫做英东北、把布列塔尼叫做小不列颠、把AUT叫做南德意志、把DEU叫做莱茵邦联（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1969377244784312352",
+        "created_at": "2025-09-20T12:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969377244784312352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969377244784312352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我决定以后要把PRK叫做北韩、把KOR叫做南朝鲜、把它们所在的半岛叫做倭支半岛。把USA叫做新英格兰、把UK叫做爱尔兰东、把IRL叫做英东北、把布列塔尼叫做小不列颠、把AUT叫做南德意志、把DEU叫做莱茵邦联（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 2275,
+          "like_count": 29765,
+          "listed_count": 10,
+          "media_count": 1365,
+          "tweet_count": 19979
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

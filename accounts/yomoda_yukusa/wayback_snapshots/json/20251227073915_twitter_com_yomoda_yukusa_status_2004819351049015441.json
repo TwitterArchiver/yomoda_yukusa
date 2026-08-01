@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2004449936872812965",
+    "created_at": "2025-12-27T07:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T08:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004819351049015441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        },
+        {
+          "end": 20,
+          "id": "1703762928",
+          "start": 10,
+          "username": "1965chich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004819351049015441",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004449936872812965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 @1965chich 看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2004449936872812965",
+        "created_at": "2025-12-27T07:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T08:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004819351049015441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            },
+            {
+              "end": 20,
+              "id": "1703762928",
+              "start": 10,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004819351049015441",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004449936872812965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 @1965chich 看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828008363273388032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2004449936872812965",
+        "created_at": "2025-12-26T07:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T07:25:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004438306554310695",
+          "2004449936872812965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1703762928",
+              "start": 11,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004449936872812965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6329,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "天塌了 我把 kfc @1965chich 内射了 我现在懵懵的……\n\n要看视频吗？准备删了.….….，评论后评论区领取"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 2336,
+          "like_count": 31849,
+          "listed_count": 10,
+          "media_count": 1492,
+          "tweet_count": 20987
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是男生！你知道乌托邦吗，是存在的🥰 🚪80不接推广，致歉，纯享推 @jiangshi1121  咪@1965chich ，干妹妹@tammy3763",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "1965chich"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "tammy3763"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1867585801808462077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997506009804484608/nMyIZz-D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28725,
+          "following_count": 1229,
+          "like_count": 19943,
+          "listed_count": 77,
+          "media_count": 1073,
+          "tweet_count": 13652
+        },
+        "username": "akui1121",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到互联网上的大王KFC的内心世界 带学生 有点社恐 喜欢看帅帅的女孩子/非跨/不会尊重人的关小黑屋/敌蜜@akui1121/宝宝@xjnpng51506/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "akui1121"
+              },
+              {
+                "end": 94,
+                "start": 82,
+                "username": "xjnpng51506"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=wrqf2yAk",
+                "start": 0,
+                "url": "https://t.co/9z3XsgbI49"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1945242862133686301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948921286530662400/Gmt9Tblq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9041,
+          "following_count": 1227,
+          "like_count": 22971,
+          "listed_count": 10,
+          "media_count": 374,
+          "tweet_count": 7787
+        },
+        "url": "https://t.co/9z3XsgbI49",
+        "username": "1965chich",
+        "verified": true
+      }
+    ]
+  }
+}

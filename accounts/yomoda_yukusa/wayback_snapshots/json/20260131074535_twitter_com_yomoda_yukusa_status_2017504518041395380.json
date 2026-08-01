@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2017503185968242874",
+    "created_at": "2026-01-31T07:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T08:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017504518041395380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "812701757952299009",
+          "start": 0,
+          "username": "_mashiro1031_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017504518041395380",
+    "in_reply_to_user_id": "812701757952299009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017503185968242874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_mashiro1031_ 我也想骑车x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2017503181031591936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_-cdDab0AAJH51.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2017503185968242874",
+        "created_at": "2026-01-31T07:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017504518041395380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "812701757952299009",
+              "start": 0,
+              "username": "_mashiro1031_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017504518041395380",
+        "in_reply_to_user_id": "812701757952299009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017503185968242874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_mashiro1031_ 我也想骑车x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017503181031591936"
+          ]
+        },
+        "author_id": "812701757952299009",
+        "conversation_id": "2017503185968242874",
+        "created_at": "2026-01-31T07:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017503185968242874"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "白馬コルチナ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCXwJVk8yl",
+              "end": 47,
+              "expanded_url": "https://x.com/_mashiro1031_/status/2017503185968242874/photo/1",
+              "media_key": "3_2017503181031591936",
+              "start": 24,
+              "url": "https://t.co/uCXwJVk8yl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017503185968242874",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#白馬コルチナ\nツリーランが素晴らしかったです https://t.co/uCXwJVk8yl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2817,
+          "following_count": 2363,
+          "like_count": 32959,
+          "listed_count": 9,
+          "media_count": 1541,
+          "tweet_count": 21420
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-24T16:49:33.000Z",
+        "description": "【黒髪ロングストレートを愛す者】｜素イフト乗り #zc13s｜#somunia｜#藍月なくる｜#東雪蓮｜#KMNZ ｜不定期動画投稿者｜MyHP⇒ https://t.co/amqurkSXzt｜黒髪ﾛﾝｸﾞｽﾄﾚｰﾄ彼女@mohimohi_vrc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "zc13s"
+              },
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "somunia"
+              },
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "藍月なくる"
+              },
+              {
+                "end": 51,
+                "start": 47,
+                "tag": "東雪蓮"
+              },
+              {
+                "end": 57,
+                "start": 52,
+                "tag": "KMNZ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 124,
+                "start": 111,
+                "username": "mohimohi_vrc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mashiroinfo.com",
+                "end": 97,
+                "expanded_url": "https://mashiroinfo.com",
+                "start": 74,
+                "url": "https://t.co/amqurkSXzt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mashiroinfo.com",
+                "end": 23,
+                "expanded_url": "https://mashiroinfo.com",
+                "start": 0,
+                "url": "https://t.co/amqurkSXzt"
+              }
+            ]
+          }
+        },
+        "id": "812701757952299009",
+        "location": "しずおか",
+        "name": "ましろ",
+        "pinned_tweet_id": "1771824277102473636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1124512200700252161/4ph8RZA0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 393,
+          "like_count": 21513,
+          "listed_count": 2,
+          "media_count": 2319,
+          "tweet_count": 13671
+        },
+        "url": "https://t.co/amqurkSXzt",
+        "username": "_mashiro1031_",
+        "verified": false
+      }
+    ]
+  }
+}

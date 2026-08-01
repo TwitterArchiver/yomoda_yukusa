@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1920167671120945198",
+    "created_at": "2025-05-21T05:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T06:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925064691258425668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925064691258425668",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925060336417386876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H 欸不是，蓝的。"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1925064691258425668].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1925064691258425668",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925064691258425668"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609619970811482112",
+        "conversation_id": "1920167671120945198",
+        "created_at": "2025-05-21T05:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T06:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925060336417386876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925060336417386876",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925059553114423413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 绿的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 2099,
+          "like_count": 28339,
+          "listed_count": 7,
+          "media_count": 1296,
+          "tweet_count": 19297
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n顺男 弗雷尔卓德人\n最爱的伴侣@LixdH5jzYx99195",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 25,
+                "username": "LixdH5jzYx99195"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1919113078924591571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924906814581440514/-k9xdG97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 2932,
+          "like_count": 50070,
+          "listed_count": 1,
+          "media_count": 715,
+          "tweet_count": 23123
+        },
+        "username": "3ch4O1H",
+        "verified": false
+      }
+    ]
+  }
+}

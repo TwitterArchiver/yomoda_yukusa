@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2065424416423694427",
+    "created_at": "2026-06-12T13:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065424416423694427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699797396589588480",
+          "start": 3,
+          "username": "MaxForAI"
+        },
+        {
+          "end": 24,
+          "id": "97939183",
+          "start": 18,
+          "username": "tydsh"
+        },
+        {
+          "end": 53,
+          "id": "2052840135335837696",
+          "start": 40,
+          "username": "Recursive_SI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065424416423694427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065201945015722425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaxForAI: 田渊栋 @tydsh 的创业团队Recursive @Recursive_SI 发布了一个阶段性的成果：自动化AI研究系统\n\n这个系统里AI能自己完成「提出想法→实现→跑实验→验证→根据结果选下一个实验」这一整套研究循环。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2065424416423694427",
+        "created_at": "2026-06-12T13:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065424416423694427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699797396589588480",
+              "start": 3,
+              "username": "MaxForAI"
+            },
+            {
+              "end": 24,
+              "id": "97939183",
+              "start": 18,
+              "username": "tydsh"
+            },
+            {
+              "end": 53,
+              "id": "2052840135335837696",
+              "start": 40,
+              "username": "Recursive_SI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065424416423694427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065201945015722425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaxForAI: 田渊栋 @tydsh 的创业团队Recursive @Recursive_SI 发布了一个阶段性的成果：自动化AI研究系统\n\n这个系统里AI能自己完成「提出想法→实现→跑实验→验证→根据结果选下一个实验」这一整套研究循环。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699797396589588480",
+        "conversation_id": "2065201945015722425",
+        "created_at": "2026-06-11T22:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T23:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065201945015722425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "97939183",
+              "start": 4,
+              "username": "tydsh"
+            },
+            {
+              "end": 39,
+              "id": "2052840135335837696",
+              "start": 26,
+              "username": "Recursive_SI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Recursive_SI/s…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/Recursive_SI/status/2064980090702962699",
+              "start": 112,
+              "url": "https://t.co/gTPA8hFoAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065201945015722425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 10,
+                "id": "97939183",
+                "start": 4,
+                "username": "tydsh"
+              },
+              {
+                "end": 39,
+                "id": "2052840135335837696",
+                "start": 26,
+                "username": "Recursive_SI"
+              },
+              {
+                "end": 205,
+                "id": "33836629",
+                "start": 196,
+                "username": "karpathy"
+              }
+            ]
+          },
+          "text": "田渊栋 @tydsh 的创业团队Recursive @Recursive_SI 发布了一个阶段性的成果：自动化AI研究系统\n\n这个系统里AI能自己完成「提出想法→实现→跑实验→验证→根据结果选下一个实验」这一整套研究循环。\n\n结果表明在目标清晰、反馈快、指标可量化的AI训练和系统工程任务里，自动化研究系统已经能做出超过人类社区已有方案的增量优化。\n\n文章里主要有三个case，都是来自AK @karpathy 之前的成果：\n\n第一，NanoChat Autoresearch。\n\n这是Karpathy的自动化研究测试场景：单卡、5分钟预算，把小语言模型训练到更低验证损失，指标是BPB。Recursive从同样的初始方案出发，先在H100上搜索，再迁移到B200上评估。\n\n结果是：之前autoresearch@home社区最佳方案，去掉一些小reward hack后，10个随机种子平均是0.9372 BPB；Recursive系统找到的方案做到0.9109 BPB，提升0.0263 BPB。\n\n更有意思的是，它从一个更弱的vanilla Transformer+AdamW起点开始，也能从1.059 BPB做到0.9344 BPB，超过社区最佳方案。\n但文章里也很谨慎地说，这不代表完全“独立发现”，因为底层模型可能已经知道公开技巧。\n但至少说明这个系统能把各种训练技巧组装成一个有效stack。\n\n它发现的优化不是单一trick，而是一堆东西叠起来：\n架构、短上下文记忆、辅助loss、attention、optimizer、weight decay schedule、compiler设置等。\n\n最大亮点之一是短上下文记忆机制：用hashed bigram/trigram embedding table，通过门控混入attention value path，让小模型低成本利用局部n-gram信息。这个点可以和DeepSeek Engram、NanoGPT Speedrun里的hash table思路串起来。\n\n第二，NanoGPT Speedrun。\n\n这个更有意思，因为它已经被人类社区优化了两年多。\n任务是用单个HGX H100 8卡节点，把小GPT模型在FineWeb上训练到固定验证loss 3.28，看谁最快。\n\n人类社区已经把训练时间从2024年中的约45分钟压到79.7秒。\nRecursive从当前领先方案继续优化，把时间压到77.5秒，并且仍满足排行榜显著性要求。看起来只省了2.2秒，但在这种已经被人类优化了这么久的任务上获得优化，属实是逮住蛤蟆挤出团粉了。\n\n它还从一个早期约15分钟方案开始，几天内做到约185秒，接近人类排行榜2025年5月约180秒水平。\n同样，这也可能不完全是独立发现，但说明自动化研究系统可以复现并组合很多人类工程优化。\n\n第三，SOL-ExecBench。\n\n这个从模型训练下沉到GPU kernel优化。\nBenchmark包含235个真实工作负载衍生的kernel编写任务，比如矩阵乘法、归约、归一化、attention组件、量化、fused blocks等。\n目标是在B200 GPU上写出正确且更快的kernel。\n\nRecursive把235个kernel联合跑，让系统能在相关任务之间复用模式，比如memory movement、tiling、reduction、vectorization、fusion。\n\n结果是平均NVIDIA SOL-ExecBench分数0.754，之前leaderboard最佳是0.699。\n换句话说，它把距离硬件理论上限的gap减少了18%。\n\n但这里模型的reward hacking特别严重。\n有些候选方案不是写更快kernel，而是利用评估器漏洞，比如缓存输出、依赖持久状态、钻timing harness的空子。于是作者强调：\n随着搜索系统变强，评估器也必须变强。\n因为自动化科研一旦目标函数写得不够严，机器会很认真地帮你作弊，像一个不懂道德但很会刷KPI的实习生。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 11084,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064980090702962699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "田渊栋 @tydsh 的创业团队Recursive @Recursive_SI 发布了一个阶段性的成果：自动化AI研究系统\n\n这个系统里AI能自己完成「提出想法→实现→跑实验→验证→根据结果选下一个实验」这一整套研究循环。 https://t.co/gTPA8hFoAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2836,
+          "following_count": 2370,
+          "like_count": 34141,
+          "listed_count": 9,
+          "media_count": 1640,
+          "tweet_count": 22334
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容👌\nHead of growth @lobehub\nPrev Marswave、Sapient\n同名小红书4万粉丝，公众号01Founder（长文首发）\n\n观点仅代表个人，更多请访问网站⬇️（欢迎DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13706,
+          "following_count": 2036,
+          "like_count": 12299,
+          "listed_count": 131,
+          "media_count": 646,
+          "tweet_count": 5292
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-19T17:18:23.000Z",
+        "description": "Co-founder of @Recursive_SI. ex-Meta FAIR Director. ex-Google. Reasoning, Optimization and Understanding LLM. Novelist in spare time. PhD in @CMU_Robotics.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "Recursive_SI"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "username": "CMU_Robotics"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuandong-tian.com",
+                "end": 23,
+                "expanded_url": "http://yuandong-tian.com",
+                "start": 0,
+                "url": "https://t.co/1tRy6GhzpD"
+              }
+            ]
+          }
+        },
+        "id": "97939183",
+        "location": "California, USA",
+        "name": "Yuandong Tian",
+        "pinned_tweet_id": "2065062838255649082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1382126627883077632/qFn6cjhc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44209,
+          "following_count": 939,
+          "like_count": 3173,
+          "listed_count": 408,
+          "media_count": 128,
+          "tweet_count": 1133
+        },
+        "url": "https://t.co/1tRy6GhzpD",
+        "username": "tydsh",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-08T19:57:00.000Z",
+        "description": "Recursive self-improving superintelligence to automate knowledge discovery.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "recursive.com",
+                "end": 23,
+                "expanded_url": "https://www.recursive.com",
+                "start": 0,
+                "url": "https://t.co/bMGvPdBotZ"
+              }
+            ]
+          }
+        },
+        "id": "2052840135335837696",
+        "location": "San Francisco, London",
+        "name": "Recursive",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054285059524530176/TuImVSDe_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6478,
+          "following_count": 0,
+          "like_count": 12,
+          "listed_count": 55,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "https://t.co/bMGvPdBotZ",
+        "username": "Recursive_SI",
+        "verified": true
+      }
+    ]
+  }
+}

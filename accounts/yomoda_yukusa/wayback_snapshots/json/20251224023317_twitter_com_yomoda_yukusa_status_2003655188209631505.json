@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2003655188209631505",
+    "created_at": "2025-12-24T02:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T03:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003655188209631505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1972521622952456192",
+          "start": 3,
+          "username": "tao07158"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003655188209631505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 174
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002044601297997967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tao07158: 缺爱的人会对普通甚至很垃圾的关系难舍难分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2003655188209631505",
+        "created_at": "2025-12-24T02:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T03:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003655188209631505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972521622952456192",
+              "start": 3,
+              "username": "tao07158"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003655188209631505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002044601297997967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tao07158: 缺爱的人会对普通甚至很垃圾的关系难舍难分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972521622952456192",
+        "conversation_id": "2002044601297997967",
+        "created_at": "2025-12-19T15:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T16:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002044601297997967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002044601297997967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 188244,
+          "like_count": 1855,
+          "quote_count": 21,
+          "reply_count": 72,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "缺爱的人会对普通甚至很垃圾的关系难舍难分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 2323,
+          "like_count": 31670,
+          "listed_count": 10,
+          "media_count": 1484,
+          "tweet_count": 20872
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T04:39:46.000Z",
+        "description": "窝在碎觉💤",
+        "id": "1972521622952456192",
+        "location": "🚪不过勿扰",
+        "name": "双鱼",
+        "pinned_tweet_id": "1976833644531794306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002753669893410816/bzccHqgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 56,
+          "like_count": 341,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 187
+        },
+        "username": "tao07158",
+        "verified": false
+      }
+    ]
+  }
+}

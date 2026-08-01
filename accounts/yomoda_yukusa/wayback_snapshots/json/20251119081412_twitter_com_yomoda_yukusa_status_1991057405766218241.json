@@ -1,0 +1,547 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990799718604288007"
+      ],
+      "media_source_tweet_id": [
+        "1990800263960203397"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Biology",
+          "id": "847896837532995585",
+          "name": "Biology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Biotech and biomedical",
+          "id": "847529984717537280",
+          "name": "Biotech and biomedical"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Biology",
+          "id": "847896837532995585",
+          "name": "Biology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Biotech and biomedical",
+          "id": "847529984717537280",
+          "name": "Biotech and biomedical"
+        }
+      }
+    ],
+    "conversation_id": "1991057405766218241",
+    "created_at": "2025-11-19T08:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T09:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991057405766218241"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "China",
+          "probability": 0.9745,
+          "start": 43,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1567847595162091522",
+          "start": 3,
+          "username": "Jiankui_He"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z3ySIQLiwa",
+          "end": 73,
+          "expanded_url": "https://x.com/Jiankui_He/status/1990800263960203397/photo/1",
+          "media_key": "3_1990799718604288007",
+          "start": 50,
+          "url": "https://t.co/z3ySIQLiwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991057405766218241",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 175
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990800263960203397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jiankui_He: I will lead the biotech of China. https://t.co/z3ySIQLiwa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1990799718604288007",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6C9y95bMAc2c61.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990799718604288007"
+          ],
+          "media_source_tweet_id": [
+            "1990800263960203397"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biotech and biomedical",
+              "id": "847529984717537280",
+              "name": "Biotech and biomedical"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biotech and biomedical",
+              "id": "847529984717537280",
+              "name": "Biotech and biomedical"
+            }
+          }
+        ],
+        "conversation_id": "1991057405766218241",
+        "created_at": "2025-11-19T08:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991057405766218241"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "China",
+              "probability": 0.9745,
+              "start": 43,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1567847595162091522",
+              "start": 3,
+              "username": "Jiankui_He"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z3ySIQLiwa",
+              "end": 73,
+              "expanded_url": "https://x.com/Jiankui_He/status/1990800263960203397/photo/1",
+              "media_key": "3_1990799718604288007",
+              "start": 50,
+              "url": "https://t.co/z3ySIQLiwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991057405766218241",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990800263960203397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jiankui_He: I will lead the biotech of China. https://t.co/z3ySIQLiwa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990799718604288007"
+          ]
+        },
+        "author_id": "1567847595162091522",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biotech and biomedical",
+              "id": "847529984717537280",
+              "name": "Biotech and biomedical"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biotech and biomedical",
+              "id": "847529984717537280",
+              "name": "Biotech and biomedical"
+            }
+          }
+        ],
+        "conversation_id": "1990800263960203397",
+        "created_at": "2025-11-18T15:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T16:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990800263960203397"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "China",
+              "probability": 0.9832,
+              "start": 27,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z3ySIQLiwa",
+              "end": 57,
+              "expanded_url": "https://x.com/Jiankui_He/status/1990800263960203397/photo/1",
+              "media_key": "3_1990799718604288007",
+              "start": 34,
+              "url": "https://t.co/z3ySIQLiwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990800263960203397",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 74761,
+          "like_count": 1886,
+          "quote_count": 65,
+          "reply_count": 109,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "I will lead the biotech of China. https://t.co/z3ySIQLiwa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984486210988089345/XvAXq227_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2326,
+          "like_count": 31238,
+          "listed_count": 9,
+          "media_count": 1433,
+          "tweet_count": 20576
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T12:09:56.000Z",
+        "description": "China's Frankenstein, 3 years in jail,  Affordable gene therapy.\nhttps://t.co/9KeMCjujX5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jhelab.org",
+                "end": 88,
+                "expanded_url": "https://jhelab.org/",
+                "start": 65,
+                "url": "https://t.co/9KeMCjujX5"
+              }
+            ]
+          }
+        },
+        "id": "1567847595162091522",
+        "location": "Beijing, China",
+        "name": "Jiankui He",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832081770487115776/UCUf8wdC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145613,
+          "following_count": 1,
+          "like_count": 122,
+          "listed_count": 328,
+          "media_count": 333,
+          "tweet_count": 563
+        },
+        "username": "Jiankui_He",
+        "verified": true
+      }
+    ]
+  }
+}

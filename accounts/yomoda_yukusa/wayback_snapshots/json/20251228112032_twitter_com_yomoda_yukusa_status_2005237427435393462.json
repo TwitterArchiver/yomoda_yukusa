@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2005237427435393462",
+    "created_at": "2025-12-28T11:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T12:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005237427435393462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005237427435393462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 230
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004469653742260311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: “开不起玩笑”“玩不起”的言外之意就是:\n你为什么不能老老实实被言语霸凌\n笑着变成我获取情绪价值的一部分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2005237427435393462",
+        "created_at": "2025-12-28T11:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T12:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005237427435393462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005237427435393462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 230
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004469653742260311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: “开不起玩笑”“玩不起”的言外之意就是:\n你为什么不能老老实实被言语霸凌\n笑着变成我获取情绪价值的一部分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2004469653742260311",
+        "created_at": "2025-12-26T08:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T09:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004469653742260311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004469653742260311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 141144,
+          "like_count": 2606,
+          "quote_count": 10,
+          "reply_count": 34,
+          "retweet_count": 230
+        },
+        "reply_settings": "everyone",
+        "text": "“开不起玩笑”“玩不起”的言外之意就是:\n你为什么不能老老实实被言语霸凌\n笑着变成我获取情绪价值的一部分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 2341,
+          "like_count": 31900,
+          "listed_count": 10,
+          "media_count": 1495,
+          "tweet_count": 21023
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2719,
+          "following_count": 6,
+          "like_count": 712,
+          "listed_count": 10,
+          "media_count": 49,
+          "tweet_count": 862
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

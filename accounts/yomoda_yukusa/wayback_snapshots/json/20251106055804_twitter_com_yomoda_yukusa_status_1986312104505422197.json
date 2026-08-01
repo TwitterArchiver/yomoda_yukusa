@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1986312104505422197",
+    "created_at": "2025-11-06T05:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T06:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986312104505422197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TuanZi_Pan/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/TuanZi_Pan/status/1977636196634464715",
+          "start": 8,
+          "url": "https://t.co/bD5RWQiTPw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986312104505422197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977636196634464715",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好像做肠镜（） https://t.co/bD5RWQiTPw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11215,
+        "height": 960,
+        "media_key": "7_1977636086135259136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1977636086135259136/pu/img/2Nsz3r5Z4eyC3QSY.jpg",
+        "public_metrics": {
+          "view_count": 191
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977636086135259136/pu/vid/avc1/320x426/ZshqiK8GSrucRYCF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977636086135259136/pu/vid/avc1/480x640/zi5mL6o22-uDi2uU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1977636086135259136/pu/vid/avc1/720x960/JzXi2kWm7CDDFfrl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1977636086135259136/pu/pl/bvcGMTvPhzvG_8E-.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1986312104505422197",
+        "created_at": "2025-11-06T05:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T06:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986312104505422197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TuanZi_Pan/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/TuanZi_Pan/status/1977636196634464715",
+              "start": 8,
+              "url": "https://t.co/bD5RWQiTPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986312104505422197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977636196634464715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像做肠镜（） https://t.co/bD5RWQiTPw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1977636086135259136"
+          ]
+        },
+        "author_id": "1664430508812427265",
+        "conversation_id": "1977636196634464715",
+        "created_at": "2025-10-13T07:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T08:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977636196634464715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oS4sV3yHmr",
+              "end": 60,
+              "expanded_url": "https://x.com/TuanZi_Pan/status/1977636196634464715/video/1",
+              "media_key": "7_1977636086135259136",
+              "start": 37,
+              "url": "https://t.co/oS4sV3yHmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977636196634464715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 552,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经过🍡不懈的努力，今天单人硬行终于打到第一个boss了😋\n（录像是昨晚的 https://t.co/oS4sV3yHmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984486210988089345/XvAXq227_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2332,
+          "like_count": 30878,
+          "listed_count": 10,
+          "media_count": 1417,
+          "tweet_count": 20438
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T00:36:34.000Z",
+        "description": "新人设：乱吃激素的异装癖同性恋长发男🤪\n🚫：OD自残紫砂/持续性混吃等死🤡/不混圈的小透明🙂‍↕️/💕：@Evilkiruirui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "Evilkiruirui"
+              }
+            ]
+          }
+        },
+        "id": "1664430508812427265",
+        "location": "1.1m",
+        "name": "水米田_团子🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925608727392264192/U8AtyB_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 386,
+          "like_count": 97719,
+          "listed_count": 5,
+          "media_count": 362,
+          "tweet_count": 8848
+        },
+        "username": "TuanZi_Pan",
+        "verified": false
+      }
+    ]
+  }
+}

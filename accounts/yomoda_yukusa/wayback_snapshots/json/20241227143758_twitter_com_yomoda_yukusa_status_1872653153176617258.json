@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1872641757613322671",
+    "created_at": "2024-12-27T14:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T15:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872653153176617258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1224274235561926659",
+          "start": 0,
+          "username": "AmamizuRei0"
+        },
+        {
+          "end": 25,
+          "id": "1520156802368753664",
+          "start": 13,
+          "username": "ksk41760545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872653153176617258",
+    "in_reply_to_user_id": "1224274235561926659",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872651897984942510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmamizuRei0 @ksk41760545 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1872641757613322671",
+        "created_at": "2024-12-27T14:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T15:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872653153176617258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1224274235561926659",
+              "start": 0,
+              "username": "AmamizuRei0"
+            },
+            {
+              "end": 25,
+              "id": "1520156802368753664",
+              "start": 13,
+              "username": "ksk41760545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872653153176617258",
+        "in_reply_to_user_id": "1224274235561926659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872651897984942510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmamizuRei0 @ksk41760545 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224274235561926659",
+        "conversation_id": "1872641757613322671",
+        "created_at": "2024-12-27T14:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T15:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872651897984942510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1520156802368753664",
+              "start": 0,
+              "username": "ksk41760545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872651897984942510",
+        "in_reply_to_user_id": "1520156802368753664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872641757613322671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ksk41760545 我是饿饿饭饭型，会吃掉一切能看到的吃的以及一部分推友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2751,
+          "following_count": 2729,
+          "like_count": 26809,
+          "listed_count": 6,
+          "media_count": 1239,
+          "tweet_count": 18687
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-03T10:11:59.000Z",
+        "description": "顶着橘子假装自己是橘猫的黑猫 | 实际上是一只经常会饿的野猪精 | 男的 | 超级brat",
+        "id": "1224274235561926659",
+        "location": "橘子树上",
+        "name": "橘子猫天水🍊",
+        "pinned_tweet_id": "1799291223657881758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720746628070744064/hDWjf5uj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3525,
+          "following_count": 1201,
+          "like_count": 127651,
+          "listed_count": 11,
+          "media_count": 1077,
+          "tweet_count": 17570
+        },
+        "username": "AmamizuRei0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T21:43:37.000Z",
+        "description": "🏳️‍⚧️MtX/是一只小黑猫/人类友好/吐槽役（捧哏）/擅长做白日梦/棒棒糖驱动/咖啡因免疫/拖延癌晚期/唯有睡眠为我带来长久的安宁，睡门💤/小黑猫的结局，就是在某个夜晚，将身形溶进黑暗里，再也找不见了捏。",
+        "id": "1520156802368753664",
+        "location": "阴暗的小窝",
+        "name": "肆肆肆肆丶",
+        "pinned_tweet_id": "1664605179973607426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872339582135812096/Wh3zBwcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 305,
+          "like_count": 14514,
+          "listed_count": 5,
+          "media_count": 3670,
+          "tweet_count": 11253
+        },
+        "username": "ksk41760545",
+        "verified": false
+      }
+    ]
+  }
+}

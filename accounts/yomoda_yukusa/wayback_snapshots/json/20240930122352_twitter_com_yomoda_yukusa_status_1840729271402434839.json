@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1840728751644008736",
+    "created_at": "2024-09-30T12:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T13:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840729271402434839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1754665643046281216",
+          "start": 0,
+          "username": "qiyigaoxia2635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840729271402434839",
+    "in_reply_to_user_id": "1754665643046281216",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840728751644008736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiyigaoxia2635 我有加“底层”二字。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1840728751644008736",
+        "created_at": "2024-09-30T12:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T13:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840729271402434839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1754665643046281216",
+              "start": 0,
+              "username": "qiyigaoxia2635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840729271402434839",
+        "in_reply_to_user_id": "1754665643046281216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840728751644008736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiyigaoxia2635 我有加“底层”二字。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754665643046281216",
+        "conversation_id": "1840728751644008736",
+        "created_at": "2024-09-30T12:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T13:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840728751644008736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yomoda_yukusa/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/yomoda_yukusa/status/1838818304053686765",
+              "start": 37,
+              "url": "https://t.co/mNoHpv1KeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840728751644008736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838818304053686765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沒有學歷，一身精神疾病，陰暗，嗑藥吸毒，你是男是女是購物袋影響你失業嗎😅 https://t.co/mNoHpv1KeA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2722,
+          "following_count": 2610,
+          "like_count": 26384,
+          "listed_count": 7,
+          "tweet_count": 18277
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T00:37:53.000Z",
+        "description": "國語 Mandarin/粵語 Cantonese/英語English         Jewish猶太教徒🕎\nHongKonger香港人🇭🇰\nZionist錫安主義者\nHakka客家\nliberalism自由主義\nElitist精英主義者",
+        "id": "1754665643046281216",
+        "location": "Hong Kong/Vancouver",
+        "name": "Friedrich🇮🇱",
+        "pinned_tweet_id": "1840065174625235223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783093724916170753/QQA5WgdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 2810,
+          "like_count": 5112,
+          "listed_count": 5,
+          "tweet_count": 1637
+        },
+        "username": "qiyigaoxia2635",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2018492894630285582",
+    "created_at": "2026-02-04T06:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T07:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018934667580514598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018934667580514598",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018492894630285582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 视窗系统版本好高。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2018492894630285582",
+        "created_at": "2026-02-04T06:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018934667580514598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018934667580514598",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018492894630285582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 视窗系统版本好高。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2018492894630285582",
+        "created_at": "2026-02-03T01:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T02:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018492894630285582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018492894630285582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 12679,
+          "like_count": 111,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "知情人员对此事件的一些重要事项做出了说明：😢\n\n死者过量服用了三种药物：普瑞巴林（来源可能与当事人有关），唑吡坦（死者母亲送给死者），win1161（死者自行购买，并非当事人赠予）\n\n死者有自杀史、精神病史；死者家人知道死者与当事人交往，知道当事人会到死者家中。死者家属没有报案，且拒绝尸检"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2814,
+          "following_count": 2367,
+          "like_count": 33089,
+          "listed_count": 9,
+          "media_count": 1546,
+          "tweet_count": 21457
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨😼👍⬇请关注FreeODwiki喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2609,
+          "following_count": 788,
+          "like_count": 18479,
+          "listed_count": 9,
+          "media_count": 257,
+          "tweet_count": 5217
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

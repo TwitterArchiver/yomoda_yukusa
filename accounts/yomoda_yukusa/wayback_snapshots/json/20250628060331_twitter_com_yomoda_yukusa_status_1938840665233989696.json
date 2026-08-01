@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938799878542630916",
+        "3_1938799878555279360"
+      ],
+      "media_source_tweet_id": [
+        "1938799888554451032",
+        "1938799888554451032"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1938840665233989696",
+    "created_at": "2025-06-28T06:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T07:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938840665233989696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1492713764244029440",
+          "start": 3,
+          "username": "XdoXa89"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CQG2QNzBox",
+          "end": 44,
+          "expanded_url": "https://x.com/XdoXa89/status/1938799888554451032/photo/1",
+          "media_key": "3_1938799878542630916",
+          "start": 21,
+          "url": "https://t.co/CQG2QNzBox"
+        },
+        {
+          "display_url": "pic.x.com/CQG2QNzBox",
+          "end": 44,
+          "expanded_url": "https://x.com/XdoXa89/status/1938799888554451032/photo/1",
+          "media_key": "3_1938799878555279360",
+          "start": 21,
+          "url": "https://t.co/CQG2QNzBox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938840665233989696",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938799888554451032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @XdoXa89:  ︎︎📷✨ https://t.co/CQG2QNzBox"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938799878542630916",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugAN6MaoAQZUk1.jpg",
+        "width": 1467
+      },
+      {
+        "height": 1796,
+        "media_key": "3_1938799878555279360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GugAN6PboAAiVuY.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938799878542630916",
+            "3_1938799878555279360"
+          ],
+          "media_source_tweet_id": [
+            "1938799888554451032",
+            "1938799888554451032"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1938840665233989696",
+        "created_at": "2025-06-28T06:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T07:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938840665233989696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1492713764244029440",
+              "start": 3,
+              "username": "XdoXa89"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQG2QNzBox",
+              "end": 44,
+              "expanded_url": "https://x.com/XdoXa89/status/1938799888554451032/photo/1",
+              "media_key": "3_1938799878542630916",
+              "start": 21,
+              "url": "https://t.co/CQG2QNzBox"
+            },
+            {
+              "display_url": "pic.x.com/CQG2QNzBox",
+              "end": 44,
+              "expanded_url": "https://x.com/XdoXa89/status/1938799888554451032/photo/1",
+              "media_key": "3_1938799878555279360",
+              "start": 21,
+              "url": "https://t.co/CQG2QNzBox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938840665233989696",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938799888554451032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @XdoXa89:  ︎︎📷✨ https://t.co/CQG2QNzBox"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938799878542630916",
+            "3_1938799878555279360"
+          ]
+        },
+        "author_id": "1492713764244029440",
+        "conversation_id": "1938799888554451032",
+        "created_at": "2025-06-28T03:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T04:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938799888554451032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQG2QNzBox",
+              "end": 31,
+              "expanded_url": "https://x.com/XdoXa89/status/1938799888554451032/photo/1",
+              "media_key": "3_1938799878542630916",
+              "start": 8,
+              "url": "https://t.co/CQG2QNzBox"
+            },
+            {
+              "display_url": "pic.x.com/CQG2QNzBox",
+              "end": 31,
+              "expanded_url": "https://x.com/XdoXa89/status/1938799888554451032/photo/1",
+              "media_key": "3_1938799878555279360",
+              "start": 8,
+              "url": "https://t.co/CQG2QNzBox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938799888554451032",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 8281,
+          "like_count": 808,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 70
+        },
+        "reply_settings": "following",
+        "text": " ︎︎📷✨ https://t.co/CQG2QNzBox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2150,
+          "like_count": 29036,
+          "listed_count": 7,
+          "media_count": 1338,
+          "tweet_count": 19613
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T04:15:03.000Z",
+        "description": "Do not repost.   依頼DM",
+        "id": "1492713764244029440",
+        "name": ".",
+        "pinned_tweet_id": "1917755350805274677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596431924389875712/90v9ufWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65337,
+          "following_count": 22,
+          "like_count": 148,
+          "listed_count": 347,
+          "media_count": 151,
+          "tweet_count": 540
+        },
+        "username": "XdoXa89",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2053828925005160754",
+    "created_at": "2026-05-12T12:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T13:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054184150605951381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009276654770925568",
+          "start": 0,
+          "username": "SamukawaHitomi"
+        },
+        {
+          "end": 25,
+          "id": "1271652280438308864",
+          "start": 16,
+          "username": "Jaciezyt"
+        },
+        {
+          "end": 37,
+          "id": "1989031117111062528",
+          "start": 26,
+          "username": "kaionjiaoi"
+        },
+        {
+          "end": 49,
+          "id": "1686472989129441281",
+          "start": 38,
+          "username": "_Furryfur_"
+        },
+        {
+          "end": 60,
+          "id": "1608637128132685825",
+          "start": 50,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054184150605951381",
+    "in_reply_to_user_id": "2009276654770925568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054145219000680461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SamukawaHitomi @Jaciezyt @kaionjiaoi @_Furryfur_ @nyaepheia 正确的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2053828925005160754",
+        "created_at": "2026-05-12T12:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054184150605951381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009276654770925568",
+              "start": 0,
+              "username": "SamukawaHitomi"
+            },
+            {
+              "end": 25,
+              "id": "1271652280438308864",
+              "start": 16,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 37,
+              "id": "1989031117111062528",
+              "start": 26,
+              "username": "kaionjiaoi"
+            },
+            {
+              "end": 49,
+              "id": "1686472989129441281",
+              "start": 38,
+              "username": "_Furryfur_"
+            },
+            {
+              "end": 60,
+              "id": "1608637128132685825",
+              "start": 50,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054184150605951381",
+        "in_reply_to_user_id": "2009276654770925568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054145219000680461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SamukawaHitomi @Jaciezyt @kaionjiaoi @_Furryfur_ @nyaepheia 正确的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009276654770925568",
+        "conversation_id": "2053828925005160754",
+        "created_at": "2026-05-12T10:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054145219000680461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 21,
+              "id": "1989031117111062528",
+              "start": 10,
+              "username": "kaionjiaoi"
+            },
+            {
+              "end": 33,
+              "id": "1686472989129441281",
+              "start": 22,
+              "username": "_Furryfur_"
+            },
+            {
+              "end": 44,
+              "id": "1608637128132685825",
+              "start": 34,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054145219000680461",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054053744678223934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt @kaionjiaoi @_Furryfur_ @nyaepheia 重点不在于帽子而是在于三好，不应该认为这里的三好指的是某个具体存在的群体，而是一种普遍存在的应该被修正的思想，作为个人的三好是个人选择，但是作为思想，则是投降、滑坡和对做不到三好的具有客观困境的人的背叛，三好的核心叙事是把定义权移交给了群体以外的顺直性别规训，所以才应该反对三好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 2387,
+          "like_count": 34036,
+          "listed_count": 9,
+          "media_count": 1637,
+          "tweet_count": 22274
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T14:52:19.000Z",
+        "description": "过期jk/les🌸/米油肥白教教主/CPUer/🦊FOX/疑似巨型+6随从\n呐～聆听这份祷词吧，我唯一的，永远的神明sama～♡",
+        "id": "2009276654770925568",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "寒川瞳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009278849977339904/D_FEv3rH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 22,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 28
+        },
+        "username": "SamukawaHitomi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 现役JK | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身 @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "Jacie 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4069,
+          "following_count": 914,
+          "like_count": 63130,
+          "listed_count": 12,
+          "media_count": 1335,
+          "tweet_count": 15444
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T18:02:46.000Z",
+        "description": "19YMtF/海洋生物/HRT.2024/生日10.2/持证含糖/ADHD/rle进行中/来和我逛街/来玩ow/常驻南京/欢迎和我贴贴!/也欢迎同类约我旅行！/挚爱@/屁屁虫生物学研究中",
+        "id": "1989031117111062528",
+        "location": "新祖尔法",
+        "name": "🪸Sea Aemone-葵🐠🏳️‍⚧🏴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030685753781669889/Y5X9PT1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 83,
+          "like_count": 548,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 148
+        },
+        "username": "kaionjiaoi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T20:25:04.000Z",
+        "description": "Just a regular VRChat player | 是猫猫 | 涩涩! | \nPrefer language: English / 中文 | 🇸🇬→🇨🇳 \n大猫猫: @sprLumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "sprLumi"
+              }
+            ]
+          }
+        },
+        "id": "1686472989129441281",
+        "location": "Singapura",
+        "name": "𝑭𝒖𝒓𝒓𝒚𝒇𝒖𝒓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045882903901667328/k6ngHX4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 502,
+          "like_count": 114901,
+          "listed_count": 5,
+          "media_count": 355,
+          "tweet_count": 3449
+        },
+        "username": "_Furryfur_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/\n二次元百合厨|🏳️‍🌈LGBTQ+全友好|SocDem\nTransfeminine Non-binary,Queer,MtF/X,transles?\nshe/they|小证含糖hrt since26.4.1|家长党|天残党😭\n备用账号@epheiamoe\nhttps://t.co/nBvMeK1OLJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 160,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 137,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/KB4SWo0bV7"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2045164420008144983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 802,
+          "like_count": 20707,
+          "listed_count": 3,
+          "media_count": 290,
+          "tweet_count": 3700
+        },
+        "url": "https://t.co/KB4SWo0bV7",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1767099750090993974",
+    "created_at": "2025-02-27T07:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T08:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895018787587662088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1450893562686541824",
+          "start": 0,
+          "username": "KK404error"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895018787587662088",
+    "in_reply_to_user_id": "1450893562686541824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1767116858078191776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK404error 啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1767099750090993974",
+        "created_at": "2025-02-27T07:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T08:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895018787587662088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1450893562686541824",
+              "start": 0,
+              "username": "KK404error"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895018787587662088",
+        "in_reply_to_user_id": "1450893562686541824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1767116858078191776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK404error 啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450893562686541824",
+        "conversation_id": "1767099750090993974",
+        "created_at": "2024-03-11T09:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-11T10:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1767116858078191776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1767116858078191776",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 498,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1767099750090993974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yuuchi 我背着她们公证她们的遗嘱收钱，我们都有光明的未来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2779,
+          "following_count": 2804,
+          "like_count": 27173,
+          "listed_count": 8,
+          "media_count": 1261,
+          "tweet_count": 18911
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T18:36:02.000Z",
+        "description": "叫咱KK就是了/好想出门玩啊啊啊啊啊啊啊啊\n\nJe veux la gloire à mes genoux",
+        "id": "1450893562686541824",
+        "location": "十一万四千五百一十四米",
+        "name": "Karma·Kaslana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821013028751749120/iRBPrtYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12936,
+          "following_count": 2422,
+          "like_count": 44355,
+          "listed_count": 19,
+          "media_count": 1239,
+          "tweet_count": 28889
+        },
+        "username": "KK404error",
+        "verified": false
+      }
+    ]
+  }
+}

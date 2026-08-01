@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1872660428528160987",
+    "created_at": "2024-12-27T15:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T16:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872660428528160987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1374332792666873858",
+          "start": 3,
+          "username": "Stumm1559394490"
+        },
+        {
+          "end": 37,
+          "id": "1683426507660877825",
+          "start": 21,
+          "username": "Suzuki282614341"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872660428528160987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872659722404589789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Stumm1559394490: @Suzuki282614341 我有一种预感，我们很快就会一起去吃面包🥖……一起吃开心果可颂…碱水…法甜…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1872660428528160987",
+        "created_at": "2024-12-27T15:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T16:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872660428528160987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1374332792666873858",
+              "start": 3,
+              "username": "Stumm1559394490"
+            },
+            {
+              "end": 37,
+              "id": "1683426507660877825",
+              "start": 21,
+              "username": "Suzuki282614341"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872660428528160987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872659722404589789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Stumm1559394490: @Suzuki282614341 我有一种预感，我们很快就会一起去吃面包🥖……一起吃开心果可颂…碱水…法甜…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374332792666873858",
+        "conversation_id": "1872655920846774715",
+        "created_at": "2024-12-27T15:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T16:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872659722404589789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1683426507660877825",
+              "start": 0,
+              "username": "Suzuki282614341"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872659722404589789",
+        "in_reply_to_user_id": "1683426507660877825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872655920846774715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzuki282614341 我有一种预感，我们很快就会一起去吃面包🥖……一起吃开心果可颂…碱水…法甜…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2754,
+          "following_count": 2733,
+          "like_count": 26822,
+          "listed_count": 6,
+          "media_count": 1240,
+          "tweet_count": 18696
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T12:11:04.000Z",
+        "description": "在简介为自己的习好、立场、认识做范畴分类是一件很无聊的事情😩",
+        "id": "1374332792666873858",
+        "location": "太阳城",
+        "name": "Stumm！",
+        "pinned_tweet_id": "1604158948399284225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649009059536994304/Jq14dk-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 758,
+          "like_count": 22932,
+          "listed_count": 7,
+          "media_count": 773,
+          "tweet_count": 5677
+        },
+        "username": "Stumm1559394490",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T10:38:59.000Z",
+        "description": "不文不史不哲",
+        "id": "1683426507660877825",
+        "name": "あうん头顶怎么尖尖的",
+        "pinned_tweet_id": "1826578501472059633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826578245162020864/QMiaCWAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 2050,
+          "like_count": 51537,
+          "listed_count": 1,
+          "media_count": 588,
+          "tweet_count": 2019
+        },
+        "username": "Suzuki282614341",
+        "verified": false
+      }
+    ]
+  }
+}

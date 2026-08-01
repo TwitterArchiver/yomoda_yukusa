@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1959820503298048471",
+    "created_at": "2025-08-26T08:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T09:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960256116987736210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1922496146234077184",
+          "start": 0,
+          "username": "diaolingshan428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960256116987736210",
+    "in_reply_to_user_id": "1922496146234077184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959820503298048471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diaolingshan428 羡慕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1959820503298048471",
+        "created_at": "2025-08-26T08:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960256116987736210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1922496146234077184",
+              "start": 0,
+              "username": "diaolingshan428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960256116987736210",
+        "in_reply_to_user_id": "1922496146234077184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959820503298048471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diaolingshan428 羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922496146234077184",
+        "conversation_id": "1959820503298048471",
+        "created_at": "2025-08-25T03:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T04:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959820503298048471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959820503298048471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 25576,
+          "like_count": 387,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "一天\n我：你对男娘感觉怎么样\n同学：还行\n我：我是男娘ovo\n第二天\n同学：你知道我为什么对男娘感觉还行吗\n我：为什么\n同学：我也是ovo\n我：其实我是药娘ovo\n同学：懂\n没想到第一个朋友以这种方式交到了QAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2199,
+          "like_count": 29450,
+          "listed_count": 8,
+          "media_count": 1357,
+          "tweet_count": 19814
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T03:36:25.000Z",
+        "description": "mtf/家长反对党/不可爱又不迷人/没有糖糖吃/现居浙江嘉兴嘉善/酒蒙子/没有零花钱/刚从扭转机构出来/疑似抑郁症？/家长连抑郁症都不带我去看党/自残/爱大家",
+        "id": "1922496146234077184",
+        "location": "浙江嘉兴嘉善",
+        "name": "凋零杉🍥",
+        "pinned_tweet_id": "1944054076821712919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944452675438821376/qrqjmwST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 57,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 383
+        },
+        "username": "diaolingshan428",
+        "verified": false
+      }
+    ]
+  }
+}

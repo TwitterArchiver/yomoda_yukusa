@@ -1,0 +1,541 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061554788718772224",
+        "3_2061554788706209792"
+      ],
+      "media_source_tweet_id": [
+        "2061554818364170490",
+        "2061554818364170490"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1275179649987784704",
+          "name": "International Pride Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      }
+    ],
+    "conversation_id": "2071513739397062854",
+    "created_at": "2026-06-29T08:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071513739397062854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1417614196221546497",
+          "start": 3,
+          "username": "miassso"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BXBYXx5e1Z",
+          "end": 127,
+          "expanded_url": "https://x.com/miassso/status/2061554818364170490/photo/1",
+          "media_key": "3_2061554788718772224",
+          "start": 104,
+          "url": "https://t.co/BXBYXx5e1Z"
+        },
+        {
+          "display_url": "pic.x.com/BXBYXx5e1Z",
+          "end": 127,
+          "expanded_url": "https://x.com/miassso/status/2061554818364170490/photo/1",
+          "media_key": "3_2061554788706209792",
+          "start": 104,
+          "url": "https://t.co/BXBYXx5e1Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071513739397062854",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5378
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061554818364170490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miassso: mes do orgulho veio tao forte que o ceu de salvador literalmente ficou bissexual e lesbico https://t.co/BXBYXx5e1Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1435,
+        "media_key": "3_2061554788718772224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJwdKGKWgAACvNK.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1362,
+        "media_key": "3_2061554788706209792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJwdKGHW0AAfHIU.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061554788718772224",
+            "3_2061554788706209792"
+          ],
+          "media_source_tweet_id": [
+            "2061554818364170490",
+            "2061554818364170490"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2071513739397062854",
+        "created_at": "2026-06-29T08:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071513739397062854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1417614196221546497",
+              "start": 3,
+              "username": "miassso"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BXBYXx5e1Z",
+              "end": 127,
+              "expanded_url": "https://x.com/miassso/status/2061554818364170490/photo/1",
+              "media_key": "3_2061554788718772224",
+              "start": 104,
+              "url": "https://t.co/BXBYXx5e1Z"
+            },
+            {
+              "display_url": "pic.x.com/BXBYXx5e1Z",
+              "end": 127,
+              "expanded_url": "https://x.com/miassso/status/2061554818364170490/photo/1",
+              "media_key": "3_2061554788706209792",
+              "start": 104,
+              "url": "https://t.co/BXBYXx5e1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071513739397062854",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5378
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061554818364170490",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miassso: mes do orgulho veio tao forte que o ceu de salvador literalmente ficou bissexual e lesbico https://t.co/BXBYXx5e1Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061554788718772224",
+            "3_2061554788706209792"
+          ]
+        },
+        "author_id": "1417614196221546497",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          }
+        ],
+        "conversation_id": "2061554818364170490",
+        "created_at": "2026-06-01T21:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T22:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061554818364170490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BXBYXx5e1Z",
+              "end": 114,
+              "expanded_url": "https://x.com/miassso/status/2061554818364170490/photo/1",
+              "media_key": "3_2061554788718772224",
+              "start": 91,
+              "url": "https://t.co/BXBYXx5e1Z"
+            },
+            {
+              "display_url": "pic.x.com/BXBYXx5e1Z",
+              "end": 114,
+              "expanded_url": "https://x.com/miassso/status/2061554818364170490/photo/1",
+              "media_key": "3_2061554788706209792",
+              "start": 91,
+              "url": "https://t.co/BXBYXx5e1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061554818364170490",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 543,
+          "impression_count": 219733,
+          "like_count": 42958,
+          "quote_count": 144,
+          "reply_count": 82,
+          "retweet_count": 5378
+        },
+        "reply_settings": "everyone",
+        "text": "mes do orgulho veio tao forte que o ceu de salvador literalmente ficou bissexual e lesbico https://t.co/BXBYXx5e1Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2834,
+          "following_count": 2360,
+          "like_count": 34093,
+          "listed_count": 9,
+          "media_count": 1642,
+          "tweet_count": 22348
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-20T22:35:47.000Z",
+        "description": "nerdolices e etc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/31p5ltax4…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/31p5ltax4z2l63m6prdt35tlzttm?si=tCvR7w9JQMe4YtU76DjXgQ",
+                "start": 0,
+                "url": "https://t.co/ihX8bZronM"
+              }
+            ]
+          }
+        },
+        "id": "1417614196221546497",
+        "location": "fazendo arte",
+        "name": "mai 🐈‍⬛",
+        "pinned_tweet_id": "2065606357256933517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069172967372632067/L9UmF9vs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 408,
+          "like_count": 26172,
+          "listed_count": 1,
+          "media_count": 3025,
+          "tweet_count": 30447
+        },
+        "url": "https://t.co/ihX8bZronM",
+        "username": "miassso",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1969285190460567840",
+    "created_at": "2025-09-20T06:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T07:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969285709493116963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "106041696",
+          "start": 0,
+          "username": "kinnjiimanishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969285709493116963",
+    "in_reply_to_user_id": "106041696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969285190460567840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kinnjiimanishi 哪个电影，如果说的是《731》，中国人也一样在骂这部电影。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1969285190460567840",
+        "created_at": "2025-09-20T06:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T07:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969285709493116963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "106041696",
+              "start": 0,
+              "username": "kinnjiimanishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969285709493116963",
+        "in_reply_to_user_id": "106041696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969285190460567840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kinnjiimanishi 哪个电影，如果说的是《731》，中国人也一样在骂这部电影。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "106041696",
+        "conversation_id": "1969285190460567840",
+        "created_at": "2025-09-20T06:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T07:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969285190460567840"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "韓国",
+              "probability": 0.9626,
+              "start": 3,
+              "type": "Place"
+            },
+            {
+              "end": 99,
+              "normalized_text": "中国",
+              "probability": 0.9071,
+              "start": 98,
+              "type": "Place"
+            },
+            {
+              "end": 113,
+              "normalized_text": "日本",
+              "probability": 0.8398,
+              "start": 112,
+              "type": "Place"
+            },
+            {
+              "end": 116,
+              "normalized_text": "中国",
+              "probability": 0.7941,
+              "start": 115,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969285190460567840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "これは韓国でも同じだけど、ある国やある民族への嫌悪感情は教育によって作られるもの。\n日本人の「反省」など一切関係ない。\nそしてそう言う共同幻想による集団の団結と暴走はホモサピエンスの最大の特徴。\n中国の不安定化は益々強まり、日本の中国への警戒心も強まる。あの映画はただのオウンゴール"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 2275,
+          "like_count": 29722,
+          "listed_count": 10,
+          "media_count": 1365,
+          "tweet_count": 19966
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-18T09:13:50.000Z",
+        "description": "一か月に一冊中国語の本を読んで呟く\nあとは思った事を、、、",
+        "id": "106041696",
+        "name": "今西きんじ",
+        "pinned_tweet_id": "644215991795212288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000186428310/288091b71e04e70a247a1ccfa23f5bbd_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 2898,
+          "like_count": 42546,
+          "listed_count": 17,
+          "media_count": 156,
+          "tweet_count": 20390
+        },
+        "username": "kinnjiimanishi",
+        "verified": false
+      }
+    ]
+  }
+}

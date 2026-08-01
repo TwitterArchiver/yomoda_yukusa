@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1984168223009599655",
+    "created_at": "2025-10-31T07:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T08:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984168223009599655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597257668313260033",
+          "start": 3,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984168223009599655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984162240459894962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minokakay: 就这样呗，跨性别圈子也是一股老中那种社达味，吃饱了忘了受饿受冻的时候了就转过来不在意其他同类的死活了。\n\n至于这个东西好不好买，我拿着身份证在成都跑了很多家药店，用“我妈让我买的”这个理由，只有八家每家给我了一盒，均价31元，且由于身份证性别是男性…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1984168223009599655",
+        "created_at": "2025-10-31T07:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T08:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984168223009599655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597257668313260033",
+              "start": 3,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984168223009599655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984162240459894962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minokakay: 就这样呗，跨性别圈子也是一股老中那种社达味，吃饱了忘了受饿受冻的时候了就转过来不在意其他同类的死活了。\n\n至于这个东西好不好买，我拿着身份证在成都跑了很多家药店，用“我妈让我买的”这个理由，只有八家每家给我了一盒，均价31元，且由于身份证性别是男性…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1984162240459894962",
+        "created_at": "2025-10-31T07:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T08:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984162240459894962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/minokakay/status/1984159945068310699",
+              "start": 144,
+              "url": "https://t.co/btmqVvSCVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984162240459894962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984159945068310699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就这样呗，跨性别圈子也是一股老中那种社达味，吃饱了忘了受饿受冻的时候了就转过来不在意其他同类的死活了。\n\n至于这个东西好不好买，我拿着身份证在成都跑了很多家药店，用“我妈让我买的”这个理由，只有八家每家给我了一盒，均价31元，且由于身份证性别是男性，店员告知我无法使用医保。各位自辨是非 https://t.co/btmqVvSCVE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "雪雨氷織 虽然是活的但还是万圣节特供",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983852790356336640/EEujIE12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2789,
+          "following_count": 2331,
+          "like_count": 30757,
+          "listed_count": 10,
+          "media_count": 1411,
+          "tweet_count": 20390
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11906,
+          "following_count": 996,
+          "like_count": 45003,
+          "listed_count": 41,
+          "media_count": 1493,
+          "tweet_count": 22316
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

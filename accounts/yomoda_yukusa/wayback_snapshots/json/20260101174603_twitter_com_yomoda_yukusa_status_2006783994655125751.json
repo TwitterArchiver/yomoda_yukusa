@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2006782523477758341",
+    "created_at": "2026-01-01T17:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T18:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006783994655125751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1537730375241592832",
+          "start": 0,
+          "username": "Ayase_yorufu_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006783994655125751",
+    "in_reply_to_user_id": "1537730375241592832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006782523477758341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayase_yorufu_2 （摸）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2006782523477758341",
+        "created_at": "2026-01-01T17:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006783994655125751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1537730375241592832",
+              "start": 0,
+              "username": "Ayase_yorufu_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006783994655125751",
+        "in_reply_to_user_id": "1537730375241592832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006782523477758341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayase_yorufu_2 （摸）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537730375241592832",
+        "conversation_id": "2006782523477758341",
+        "created_at": "2026-01-01T17:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006782523477758341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006782523477758341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "法，我一直在哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2787,
+          "following_count": 2329,
+          "like_count": 32000,
+          "listed_count": 9,
+          "media_count": 1503,
+          "tweet_count": 21087
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T09:34:36.000Z",
+        "description": "透明なかたち 噛み潰したって",
+        "id": "1537730375241592832",
+        "location": "宇宙",
+        "name": "ﾖﾙﾌ",
+        "pinned_tweet_id": "1716396361258819706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883129497324752897/0UvtMk2Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 338,
+          "like_count": 9779,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 4052
+        },
+        "username": "Ayase_yorufu_2",
+        "verified": false
+      }
+    ]
+  }
+}

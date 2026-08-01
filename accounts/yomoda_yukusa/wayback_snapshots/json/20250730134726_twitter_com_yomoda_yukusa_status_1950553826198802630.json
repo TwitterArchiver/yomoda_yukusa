@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1950553826198802630",
+    "created_at": "2025-07-30T13:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T14:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950553826198802630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1547247978565423105",
+          "start": 4,
+          "username": "yomoda_yukusa"
+        },
+        {
+          "end": 110,
+          "id": "1720665183188922368",
+          "start": 105,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/xnhcy1126/stat…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/xnhcy1126/status/1950549712970662285",
+          "start": 111,
+          "url": "https://t.co/z7Cp60qNzr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950553826198802630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950549712970662285",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "据账号 @yomoda_yukusa\n 的推文想象人物画像，尽可能详细些并包括以下内容：\n1.性別    2.年齢   3.職業   4.学校    5.家族構成    6.趣味   7.思想    8.本名\n@grok https://t.co/z7Cp60qNzr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1950553826198802630",
+        "created_at": "2025-07-30T13:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T14:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950553826198802630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1547247978565423105",
+              "start": 4,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 110,
+              "id": "1720665183188922368",
+              "start": 105,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xnhcy1126/stat…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/xnhcy1126/status/1950549712970662285",
+              "start": 111,
+              "url": "https://t.co/z7Cp60qNzr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950553826198802630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950549712970662285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据账号 @yomoda_yukusa\n 的推文想象人物画像，尽可能详细些并包括以下内容：\n1.性別    2.年齢   3.職業   4.学校    5.家族構成    6.趣味   7.思想    8.本名\n@grok https://t.co/z7Cp60qNzr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758152770560159744",
+        "conversation_id": "1950549712970662285",
+        "created_at": "2025-07-30T13:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T14:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950549712970662285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758152770560159744",
+              "start": 3,
+              "username": "xnhcy1126"
+            },
+            {
+              "end": 104,
+              "id": "1720665183188922368",
+              "start": 99,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/chanxiulumanzh…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/chanxiulumanzhi/status/1950515866921222397",
+              "start": 105,
+              "url": "https://t.co/7xbQ6QPBBV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950549712970662285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950515866921222397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据账号@xnhcy1126 的推文想象人物画像，尽可能详细些并包括以下内容：\n1.性別    2.年齢   3.職業   4.学校    5.家族構成    6.趣味   7.思想    8.本名\n@grok https://t.co/7xbQ6QPBBV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 2158,
+          "like_count": 29389,
+          "listed_count": 7,
+          "media_count": 1344,
+          "tweet_count": 19703
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5647294,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4535,
+          "media_count": 2415336,
+          "tweet_count": 29921930
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-15T15:34:29.000Z",
+        "description": "mtf | 性取向女 | 赛博八字isfp| 随缘更新 |  重度社恐 | 欢迎私信互关扩列（没回关可能是没提示，如需互关可以私信我)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mohanan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mohanan2",
+                "start": 0,
+                "url": "https://t.co/joIWD0tYo5"
+              }
+            ]
+          }
+        },
+        "id": "1758152770560159744",
+        "location": "在世界中心呼唤爱💓",
+        "name": "汐乃华初桜🍥",
+        "pinned_tweet_id": "1945491284204122119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943361801401569281/XaECYufn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 297,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/joIWD0tYo5",
+        "username": "xnhcy1126",
+        "verified": false
+      }
+    ]
+  }
+}

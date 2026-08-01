@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1889647474677043287",
+    "created_at": "2025-02-12T12:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T13:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889647889904796017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1452123941686976519",
+          "start": 0,
+          "username": "C21Koy_7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889647889904796017",
+    "in_reply_to_user_id": "1452123941686976519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889647474677043287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C21Koy_7c 喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1889647474677043287",
+        "created_at": "2025-02-12T12:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T13:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889647889904796017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1452123941686976519",
+              "start": 0,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889647889904796017",
+        "in_reply_to_user_id": "1452123941686976519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889647474677043287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C21Koy_7c 喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452123941686976519",
+        "conversation_id": "1889647474677043287",
+        "created_at": "2025-02-12T12:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T13:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889647474677043287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/c21koy_7c/stat…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/c21koy_7c/status/1889643943798636619",
+              "start": 48,
+              "url": "https://t.co/kassS4RniH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889647474677043287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889643943798636619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以前真的不屑于这种，人家想回复你就会回复你的，我怎么了…反正我一直都很想亲友能跟我说多说些话 https://t.co/kassS4RniH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2789,
+          "following_count": 2797,
+          "like_count": 26886,
+          "listed_count": 9,
+          "media_count": 1254,
+          "tweet_count": 18830
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH! 18+警告⚠️ / they最近捣鼓：DOL/BG3/oc世界观/TMNT/COT/恐影/三国 大概淡坑：COD/MK 不善表达 但是还算可以 懒惰的同人爱好者 会突然产出想法 BL吃的比其他少 但是会吃 是成年账户 全是翻译器",
+        "id": "1452123941686976519",
+        "name": "鸦肉臀臀",
+        "pinned_tweet_id": "1852942963988631891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885384535879409667/UEQG5lqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 2969,
+          "like_count": 21479,
+          "listed_count": 2,
+          "media_count": 1202,
+          "tweet_count": 19905
+        },
+        "username": "C21Koy_7c",
+        "verified": false
+      }
+    ]
+  }
+}

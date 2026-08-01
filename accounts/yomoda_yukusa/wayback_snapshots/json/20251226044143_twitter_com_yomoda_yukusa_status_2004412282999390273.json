@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004412273247637511",
+        "3_2004412273239248896",
+        "3_2004412273243435008"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "2004412228343353801",
+    "created_at": "2025-12-26T04:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T05:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004412282999390273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EHBNlU5D1I",
+          "end": 50,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/2004412282999390273/photo/1",
+          "media_key": "3_2004412273247637511",
+          "start": 27,
+          "url": "https://t.co/EHBNlU5D1I"
+        },
+        {
+          "display_url": "pic.x.com/EHBNlU5D1I",
+          "end": 50,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/2004412282999390273/photo/1",
+          "media_key": "3_2004412273239248896",
+          "start": 27,
+          "url": "https://t.co/EHBNlU5D1I"
+        },
+        {
+          "display_url": "pic.x.com/EHBNlU5D1I",
+          "end": 50,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/2004412282999390273/photo/1",
+          "media_key": "3_2004412273243435008",
+          "start": 27,
+          "url": "https://t.co/EHBNlU5D1I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004412282999390273",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004412265534308659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "附录：为此准备的遗书（显然用不上了）（可查看ALT） https://t.co/EHBNlU5D1I"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "很抱歉这样仓促地同大家道别，\n原本我也有着计划好的盛大而炙燃的道别安排的，但此时一切已来不及进行更多布置了。\n\n那么。\n\n数天前，我已表明我的所有应对机制均已宣告失效，在这几日间重重叠叠如潮水般不等一波退却而一波又起的诸多事件中逐渐沦陷损耗，使我被迫进入了无法再次应对任何负面事件的无保护状态。\n当然，在对这浪潮般无止境的事件的对抗中，风波终于平息，而我也筋疲力尽时，终于发现了浪潮后的曙光。\n向着似乎存在的曙光伸出手的我啊。\n向着天花板上的蜡笔画伸出手的我啊。\n\n最终的风浪轻轻拂过，于是失去可以抵御的盔甲、可以柔软而柔韧的皮肤、支撑我的骨骼、作为缓冲的脂肪的我。\n精疲力竭、无力软弱的我终于落水了。\n\n我已经这么努力了我可以幸福了吗？\n我已经这么坚强了我可以幸福了吗？\n我已经这么落魄了我可以幸福了吗？\n我已经这么活下去了我可以幸福了吗？\n我已经要逃了我可以幸福了吗？\n已经这么久了 已经受够了 我可以幸福了吗？\n我可以幸福了吗？\n我可以幸福了吗？\n我可以幸福了吗？\n\n应受的苦我已受尽了么、还是没有么？\n可以幸福了么、还是不可以么？\n\n想要做的企划、本来也会拖一辈子也完不成的吧。\n想要拍的电影、本来也不可能了吧。\n想要拍的纪录片、也许还会有人去做吧？\n想要见的大家、见过的、没见过的大家、再也见不到了。\n与曙光失之交臂，甚至在尚未到达冰点的这座城。\n\n我与幸福，一步之遥。\n\n2025年12月26日子夜凌晨 1:30\n憂芷回归于芷海",
+        "height": 2048,
+        "media_key": "3_2004412273247637511",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EaV7pb0AcXlSu.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2004412273239248896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EaV7nb0AAk-QT.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2004412273243435008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EaV7obsAA5KsK.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004412273247637511",
+            "3_2004412273239248896",
+            "3_2004412273243435008"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "2004412228343353801",
+        "created_at": "2025-12-26T04:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T05:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004412282999390273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EHBNlU5D1I",
+              "end": 50,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2004412282999390273/photo/1",
+              "media_key": "3_2004412273247637511",
+              "start": 27,
+              "url": "https://t.co/EHBNlU5D1I"
+            },
+            {
+              "display_url": "pic.x.com/EHBNlU5D1I",
+              "end": 50,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2004412282999390273/photo/1",
+              "media_key": "3_2004412273239248896",
+              "start": 27,
+              "url": "https://t.co/EHBNlU5D1I"
+            },
+            {
+              "display_url": "pic.x.com/EHBNlU5D1I",
+              "end": 50,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2004412282999390273/photo/1",
+              "media_key": "3_2004412273243435008",
+              "start": 27,
+              "url": "https://t.co/EHBNlU5D1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004412282999390273",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004412265534308659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "附录：为此准备的遗书（显然用不上了）（可查看ALT） https://t.co/EHBNlU5D1I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2004412228343353801",
+        "created_at": "2025-12-26T04:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T05:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004412265534308659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004412265534308659",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004412262178869257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯，能别跳河还是尽量别跳河，想死的话一般来说死法有很多的。\n尤其是冬天。\n(11/11)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 2325,
+          "like_count": 31722,
+          "listed_count": 10,
+          "media_count": 1489,
+          "tweet_count": 20932
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

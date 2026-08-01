@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1937917907872461184",
+    "created_at": "2025-06-25T17:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T18:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937924117627609541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1783421192181039104",
+          "start": 0,
+          "username": "Lily_nothin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937924117627609541",
+    "in_reply_to_user_id": "1783421192181039104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937923303815192640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lily_nothin 我一开始也直接晒伤了，戴袖套之后好多了，后来换了防晒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1937917907872461184",
+        "created_at": "2025-06-25T17:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T18:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937924117627609541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783421192181039104",
+              "start": 0,
+              "username": "Lily_nothin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937924117627609541",
+        "in_reply_to_user_id": "1783421192181039104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937923303815192640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lily_nothin 我一开始也直接晒伤了，戴袖套之后好多了，后来换了防晒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783421192181039104",
+        "conversation_id": "1937917907872461184",
+        "created_at": "2025-06-25T17:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T18:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937923303815192640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937923303815192640",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937921767261306897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 有冰丝袖，但不是能防紫外线的材质（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2144,
+          "like_count": 28928,
+          "listed_count": 7,
+          "media_count": 1335,
+          "tweet_count": 19584
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T09:02:09.000Z",
+        "description": "地狱中，连火都不发光。",
+        "id": "1783421192181039104",
+        "name": "小茶🍃",
+        "pinned_tweet_id": "1934631242127089764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924870042518487047/cQ-aoHL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 478,
+          "like_count": 5483,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 3784
+        },
+        "username": "Lily_nothin",
+        "verified": false
+      }
+    ]
+  }
+}

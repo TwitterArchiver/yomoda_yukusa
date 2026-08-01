@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976880830489542660"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1976880837431116065",
+    "created_at": "2025-10-11T05:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T06:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976880837431116065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GcQ3sfHgZv",
+          "end": 29,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1976880837431116065/photo/1",
+          "media_key": "3_1976880830489542660",
+          "start": 6,
+          "url": "https://t.co/GcQ3sfHgZv"
+        },
+        {
+          "display_url": "x.com/nytchinese/sta…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/nytchinese/status/1976879285832139037",
+          "start": 30,
+          "url": "https://t.co/Hh4Dnz2GUZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976880837431116065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976879285832139037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇钓鱼佬。 https://t.co/GcQ3sfHgZv https://t.co/Hh4Dnz2GUZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_1976880830489542660",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29KpDCbwAQOLCw.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976880830489542660"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1976880837431116065",
+        "created_at": "2025-10-11T05:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T06:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976880837431116065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GcQ3sfHgZv",
+              "end": 29,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1976880837431116065/photo/1",
+              "media_key": "3_1976880830489542660",
+              "start": 6,
+              "url": "https://t.co/GcQ3sfHgZv"
+            },
+            {
+              "display_url": "x.com/nytchinese/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/nytchinese/status/1976879285832139037",
+              "start": 30,
+              "url": "https://t.co/Hh4Dnz2GUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976880837431116065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976879285832139037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇钓鱼佬。 https://t.co/GcQ3sfHgZv https://t.co/Hh4Dnz2GUZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "620632841",
+        "conversation_id": "1976879285832139037",
+        "created_at": "2025-10-11T05:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T06:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976879285832139037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "中国已建成41条特高压输电线路，将西北部充足的清洁能源输送到需求旺盛的东部。特高压建设的快速推进得益于自上而下的产业规划、对信息的管控以及对异议的零容忍。",
+              "display_url": "cn.nytimes.com/business/20251…",
+              "end": 127,
+              "expanded_url": "https://cn.nytimes.com/business/20251011/china-electric-grid/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "start": 104,
+              "status": 200,
+              "title": "中国推进电网升级：西电东送，建设特高压输电网络",
+              "unwound_url": "https://cn.nytimes.com/business/20251011/china-electric-grid/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "url": "https://t.co/34TbPvkRpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976879285832139037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1296,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中国推进电网升级：西电东送，建设特高压输电网络。中国目前已建成41条特高压输电线路，将西北部充足的清洁能源输送到需求旺盛的东部。特高压建设的快速推进得益于自上而下的产业规划、对信息的管控以及对异议的零容忍。\nhttps://t.co/34TbPvkRpb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 2291,
+          "like_count": 30300,
+          "listed_count": 10,
+          "media_count": 1390,
+          "tweet_count": 20165
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-28T04:25:01.000Z",
+        "description": "纽约时报中文网官方推特。Official Twitter Account of The New York Times Chinese Website.\niPhone & iPad app: https://t.co/hzbwaOOxA6\nAndroid app: https://t.co/NIusFpRU2S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "apple.co/2aLBQZl",
+                "end": 118,
+                "expanded_url": "http://apple.co/2aLBQZl",
+                "start": 95,
+                "url": "https://t.co/hzbwaOOxA6"
+              },
+              {
+                "display_url": "bit.ly/2qbAFH4",
+                "end": 155,
+                "expanded_url": "http://bit.ly/2qbAFH4",
+                "start": 132,
+                "url": "https://t.co/NIusFpRU2S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.nytimes.com",
+                "end": 23,
+                "expanded_url": "http://cn.nytimes.com",
+                "start": 0,
+                "url": "https://t.co/iOfk7hg4wi"
+              }
+            ]
+          }
+        },
+        "id": "620632841",
+        "name": "纽约时报中文网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/963709224466374656/W7eiSwd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3812212,
+          "following_count": 369,
+          "like_count": 1108,
+          "listed_count": 8959,
+          "media_count": 12927,
+          "tweet_count": 73004
+        },
+        "url": "https://t.co/iOfk7hg4wi",
+        "username": "nytchinese",
+        "verified": true
+      }
+    ]
+  }
+}

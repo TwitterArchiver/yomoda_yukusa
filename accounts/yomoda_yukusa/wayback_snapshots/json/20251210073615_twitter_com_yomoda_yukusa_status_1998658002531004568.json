@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1998658002531004568",
+    "created_at": "2025-12-10T07:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T08:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998658002531004568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1402630718870614020",
+          "start": 3,
+          "username": "xsarnayyy"
+        },
+        {
+          "end": 33,
+          "id": "1499709348616241155",
+          "start": 17,
+          "username": "caomeiweimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998658002531004568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998403103679463483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xsarnayyy: 讣告@caomeiweimaomao 于12月6日，去往猫猫的星球"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1998658002531004568",
+        "created_at": "2025-12-10T07:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998658002531004568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1402630718870614020",
+              "start": 3,
+              "username": "xsarnayyy"
+            },
+            {
+              "end": 33,
+              "id": "1499709348616241155",
+              "start": 17,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998658002531004568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998403103679463483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xsarnayyy: 讣告@caomeiweimaomao 于12月6日，去往猫猫的星球"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1402630718870614020",
+        "conversation_id": "1998403103679463483",
+        "created_at": "2025-12-09T14:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T15:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998403103679463483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1499709348616241155",
+              "start": 2,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998403103679463483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 545,
+          "like_count": 1,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "讣告@caomeiweimaomao 于12月6日，去往猫猫的星球"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 2328,
+          "like_count": 31591,
+          "listed_count": 9,
+          "media_count": 1456,
+          "tweet_count": 20715
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-09T14:16:46.000Z",
+        "description": "成分复杂/",
+        "id": "1402630718870614020",
+        "location": "8米",
+        "name": "星瑶",
+        "pinned_tweet_id": "1978385675402572282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830883450011697154/vteRgqZM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 435,
+          "like_count": 10919,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 386
+        },
+        "username": "xsarnayyy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T11:32:32.000Z",
+        "description": "🎀写故事的人丨🦜嘤鹉：@SENDOH214丨🚪55",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "SENDOH214"
+              }
+            ]
+          }
+        },
+        "id": "1499709348616241155",
+        "location": "天国",
+        "name": "爱礼",
+        "pinned_tweet_id": "1929894091644645497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834467993809813506/5lNrn_hG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40152,
+          "following_count": 1069,
+          "like_count": 23925,
+          "listed_count": 47,
+          "media_count": 2922,
+          "tweet_count": 31999
+        },
+        "username": "caomeiweimaomao",
+        "verified": true
+      }
+    ]
+  }
+}

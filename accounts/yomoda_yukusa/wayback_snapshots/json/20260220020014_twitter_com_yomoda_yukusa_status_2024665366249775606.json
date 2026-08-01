@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2024400547344966006",
+    "created_at": "2026-02-20T02:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T03:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024665366249775606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3319885484",
+          "start": 0,
+          "username": "LaWbda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024665366249775606",
+    "in_reply_to_user_id": "3319885484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024400547344966006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaWbda 妈咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2024400547344966006",
+        "created_at": "2026-02-20T02:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024665366249775606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3319885484",
+              "start": 0,
+              "username": "LaWbda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024665366249775606",
+        "in_reply_to_user_id": "3319885484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024400547344966006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaWbda 妈咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3319885484",
+        "conversation_id": "2024400547344966006",
+        "created_at": "2026-02-19T08:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024400547344966006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024400547344966006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 68011,
+          "like_count": 196,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开车吃口香糖路过边检酒精测试报警了。\n下车辅警问队长怎么办。\n队长问我你过十八了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2832,
+          "following_count": 2379,
+          "like_count": 33172,
+          "listed_count": 9,
+          "media_count": 1556,
+          "tweet_count": 21571
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-19T10:16:12.000Z",
+        "description": "半生因果，缘起我执| Programmer | Nekomancer. Wish all my friends live long and prosper. 最好的大猫: @Iceblue_Sakura, 天然呆妹妹:@qiyishi512（转生版）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "Iceblue_Sakura"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "qiyishi512"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Sewens",
+                "end": 23,
+                "expanded_url": "https://github.com/Sewens",
+                "start": 0,
+                "url": "https://t.co/6yqgj7jetJ"
+              }
+            ]
+          }
+        },
+        "id": "3319885484",
+        "name": "半生",
+        "pinned_tweet_id": "1809946193080017312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770260761631227904/HldxKxkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3155,
+          "following_count": 3807,
+          "like_count": 42786,
+          "listed_count": 10,
+          "media_count": 1358,
+          "tweet_count": 23882
+        },
+        "url": "https://t.co/6yqgj7jetJ",
+        "username": "LaWbda",
+        "verified": false
+      }
+    ]
+  }
+}

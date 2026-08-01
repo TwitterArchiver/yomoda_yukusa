@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2020857404800307325",
+    "created_at": "2026-02-09T13:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T14:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020858688622252112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "106041696",
+          "start": 0,
+          "username": "kinnjiimanishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020858688622252112",
+    "in_reply_to_user_id": "106041696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020857404800307325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kinnjiimanishi 哇。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020857401709338624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAuHGZKaoAA1IKS.jpg",
+        "width": 1663
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2020857404800307325",
+        "created_at": "2026-02-09T13:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020858688622252112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "106041696",
+              "start": 0,
+              "username": "kinnjiimanishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020858688622252112",
+        "in_reply_to_user_id": "106041696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020857404800307325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kinnjiimanishi 哇。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020857401709338624"
+          ]
+        },
+        "author_id": "106041696",
+        "conversation_id": "2020857404800307325",
+        "created_at": "2026-02-09T13:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020857404800307325"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "每天成语"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhGSGs1Nrz",
+              "end": 93,
+              "expanded_url": "https://x.com/kinnjiimanishi/status/2020857404800307325/photo/1",
+              "media_key": "3_2020857401709338624",
+              "start": 70,
+              "url": "https://t.co/hhGSGs1Nrz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020857404800307325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【每天成语 - 造句📝】「恩断义绝」\n我们的爱情好像卡在脱不了的涡流，恩断义绝地开始绝望的旅行。\n\n[AI採点] 92/100\n#每天成语 https://t.co/hhGSGs1Nrz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2824,
+          "following_count": 2371,
+          "like_count": 33113,
+          "listed_count": 9,
+          "media_count": 1553,
+          "tweet_count": 21507
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-18T09:13:50.000Z",
+        "description": "一か月に一冊中国語の本を読んで呟く\nあとは思った事を、、、",
+        "id": "106041696",
+        "name": "今西きんじ",
+        "pinned_tweet_id": "644215991795212288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000186428310/288091b71e04e70a247a1ccfa23f5bbd_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 2932,
+          "like_count": 45386,
+          "listed_count": 18,
+          "media_count": 310,
+          "tweet_count": 21977
+        },
+        "username": "kinnjiimanishi",
+        "verified": false
+      }
+    ]
+  }
+}

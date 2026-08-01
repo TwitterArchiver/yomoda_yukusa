@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1819785230456078336"
+      ],
+      "media_source_tweet_id": [
+        "1819785234923024478"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1819785493107835297",
+    "created_at": "2024-08-03T17:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T18:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819785493107835297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3038336575",
+          "start": 3,
+          "username": "MuramasaVI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/oEMsBvkFbn",
+          "end": 74,
+          "expanded_url": "https://twitter.com/MuramasaVI/status/1819785234923024478/photo/1",
+          "media_key": "3_1819785230456078336",
+          "start": 51,
+          "url": "https://t.co/oEMsBvkFbn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819785493107835297",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819785234923024478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MuramasaVI: through the world, lost in dreams. https://t.co/oEMsBvkFbn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1405,
+        "media_key": "3_1819785230456078336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUEtBoTWQAAEkcD.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819785230456078336"
+          ],
+          "media_source_tweet_id": [
+            "1819785234923024478"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1819785493107835297",
+        "created_at": "2024-08-03T17:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T18:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819785493107835297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3038336575",
+              "start": 3,
+              "username": "MuramasaVI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/oEMsBvkFbn",
+              "end": 74,
+              "expanded_url": "https://twitter.com/MuramasaVI/status/1819785234923024478/photo/1",
+              "media_key": "3_1819785230456078336",
+              "start": 51,
+              "url": "https://t.co/oEMsBvkFbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819785493107835297",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819785234923024478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MuramasaVI: through the world, lost in dreams. https://t.co/oEMsBvkFbn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819785230456078336"
+          ]
+        },
+        "author_id": "3038336575",
+        "conversation_id": "1819785234923024478",
+        "created_at": "2024-08-03T17:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T18:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819785234923024478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/oEMsBvkFbn",
+              "end": 58,
+              "expanded_url": "https://twitter.com/MuramasaVI/status/1819785234923024478/photo/1",
+              "media_key": "3_1819785230456078336",
+              "start": 35,
+              "url": "https://t.co/oEMsBvkFbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819785234923024478",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "through the world, lost in dreams. https://t.co/oEMsBvkFbn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2676,
+          "following_count": 2508,
+          "like_count": 25872,
+          "listed_count": 7,
+          "tweet_count": 17964
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-23T17:02:05.000Z",
+        "description": "lainposting to an extent. | I love lain. | Let’s all love Lain! | no art is mine.",
+        "id": "3038336575",
+        "location": "Canada",
+        "name": "「CommanderSenpai」",
+        "pinned_tweet_id": "1448897302781906944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812573669006217216/OLKWI7ih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 916,
+          "like_count": 3596,
+          "listed_count": 30,
+          "tweet_count": 3264
+        },
+        "username": "MuramasaVI",
+        "verified": false
+      }
+    ]
+  }
+}

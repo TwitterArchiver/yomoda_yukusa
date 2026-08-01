@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2015382391800631685",
+    "created_at": "2026-01-28T14:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T15:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016523703396552789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1640150075950374914",
+          "start": 0,
+          "username": "AraBh_channels"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016523703396552789",
+    "in_reply_to_user_id": "1640150075950374914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015383860826325044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AraBh_channels 什么游戏呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2015382494057725953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gTs0zaAAEHeyc.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2015382391800631685",
+        "created_at": "2026-01-28T14:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016523703396552789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1640150075950374914",
+              "start": 0,
+              "username": "AraBh_channels"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016523703396552789",
+        "in_reply_to_user_id": "1640150075950374914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015383860826325044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraBh_channels 什么游戏呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015382494057725953"
+          ]
+        },
+        "author_id": "1640150075950374914",
+        "conversation_id": "2015382391800631685",
+        "created_at": "2026-01-25T11:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015383860826325044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OIgA14dz8R",
+              "end": 42,
+              "expanded_url": "https://x.com/AraBh_channels/status/2015383860826325044/photo/1",
+              "media_key": "3_2015382494057725953",
+              "start": 19,
+              "url": "https://t.co/OIgA14dz8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015383860826325044",
+        "in_reply_to_user_id": "1640150075950374914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015382391800631685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关键这一关情报显示可能还会有反潜战： https://t.co/OIgA14dz8R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2811,
+          "following_count": 2359,
+          "like_count": 32941,
+          "listed_count": 9,
+          "media_count": 1540,
+          "tweet_count": 21412
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T00:33:58.000Z",
+        "description": "“佛子既如是，堅持菩提心， 恆勤勿懈怠，莫違諸學處”。——寂天菩薩《入行論》。",
+        "id": "1640150075950374914",
+        "location": "普愿沉溺诸众生 速往无量光佛刹",
+        "name": "☸️Ara深空",
+        "pinned_tweet_id": "1918315541317705753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923123420927000576/GqKaD-b0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 575,
+          "like_count": 31146,
+          "listed_count": 3,
+          "media_count": 1395,
+          "tweet_count": 3594
+        },
+        "username": "AraBh_channels",
+        "verified": false
+      }
+    ]
+  }
+}

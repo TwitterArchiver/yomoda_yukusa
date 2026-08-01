@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1986399220145004932",
+    "created_at": "2025-11-06T11:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T12:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986399310402216433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "878794367103676416",
+          "start": 0,
+          "username": "_NekoKage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986399310402216433",
+    "in_reply_to_user_id": "878794367103676416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986399220145004932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_NekoKage 影猫影猫你欠多少个人多少钱啊~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_1986399212502982657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5EbjzNbIAE18UT.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1986399220145004932",
+        "created_at": "2025-11-06T11:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T12:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986399310402216433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "878794367103676416",
+              "start": 0,
+              "username": "_NekoKage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986399310402216433",
+        "in_reply_to_user_id": "878794367103676416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986399220145004932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_NekoKage 影猫影猫你欠多少个人多少钱啊~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986399212502982657"
+          ]
+        },
+        "author_id": "878794367103676416",
+        "conversation_id": "1986399220145004932",
+        "created_at": "2025-11-06T11:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T12:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986399220145004932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hu1mtYTg47",
+              "end": 33,
+              "expanded_url": "https://x.com/_NekoKage/status/1986399220145004932/photo/1",
+              "media_key": "3_1986399212502982657",
+              "start": 10,
+              "url": "https://t.co/hu1mtYTg47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986399220145004932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求施舍\n穷死了，， https://t.co/hu1mtYTg47"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984486210988089345/XvAXq227_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2793,
+          "following_count": 2332,
+          "like_count": 30889,
+          "listed_count": 10,
+          "media_count": 1417,
+          "tweet_count": 20445
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证含糖💁INFP🐈猫娘⚡电工姬🌌天体物理学💻GNU/Linux🛏罕见病小女孩🩸自傷🦿biid📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@_kagenone🦋@neko-kage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "_kagenone"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "username": "neko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "location": "中国 河北省 邯郸市",
+        "name": "NekoKage",
+        "pinned_tweet_id": "1940178381393613285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863364308094308352/n1PiLHVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7958,
+          "following_count": 5244,
+          "like_count": 13443,
+          "listed_count": 17,
+          "media_count": 2469,
+          "tweet_count": 17821
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false
+      }
+    ]
+  }
+}

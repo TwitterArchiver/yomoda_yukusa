@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1977336760469422111",
+    "created_at": "2025-10-12T11:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T12:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977339816712024143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1225358261467197440",
+          "start": 0,
+          "username": "chanxiulumanzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977339816712024143",
+    "in_reply_to_user_id": "1225358261467197440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977336760469422111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanxiulumanzhi （捏）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3771,
+        "media_key": "3_1977336743964893185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3DpStFa4AE0vYV.jpg",
+        "width": 3771
+      },
+      {
+        "height": 3598,
+        "media_key": "3_1977336743977508864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3DpStIbYAAO25Z.jpg",
+        "width": 2698
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1977336760469422111",
+        "created_at": "2025-10-12T11:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T12:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977339816712024143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1225358261467197440",
+              "start": 0,
+              "username": "chanxiulumanzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977339816712024143",
+        "in_reply_to_user_id": "1225358261467197440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977336760469422111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanxiulumanzhi （捏）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977336743964893185",
+            "3_1977336743977508864"
+          ]
+        },
+        "author_id": "1225358261467197440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1977336760469422111",
+        "created_at": "2025-10-12T11:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T12:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977336760469422111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wCv72N9D5o",
+              "end": 154,
+              "expanded_url": "https://x.com/chanxiulumanzhi/status/1977336760469422111/photo/1",
+              "media_key": "3_1977336743964893185",
+              "start": 131,
+              "url": "https://t.co/wCv72N9D5o"
+            },
+            {
+              "display_url": "pic.x.com/wCv72N9D5o",
+              "end": 154,
+              "expanded_url": "https://x.com/chanxiulumanzhi/status/1977336760469422111/photo/1",
+              "media_key": "3_1977336743977508864",
+              "start": 131,
+              "url": "https://t.co/wCv72N9D5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977336760469422111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突发奇想记录自己每天吃了什么（不知道能坚持几天吧嗯对）\n今天只吃了一顿，和室友吃的药膳鸡还有四分之一的千层蛋糕\n去吃饭的时候跑到第一家店，还有一个小时才开门，跑到另一家店门口已经大排长队，又赶回一开始这家，虽然开门了但是还要排队一小时，于是决定今天一定要吃（） https://t.co/wCv72N9D5o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2778,
+          "following_count": 2295,
+          "like_count": 30338,
+          "listed_count": 10,
+          "media_count": 1390,
+          "tweet_count": 20170
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T09:59:23.000Z",
+        "description": "圈名泠风/精神医学在读/重度社恐/友跨顺女/泛性恋/inxp/绘画/怪谈爱好者/恋姐/精神状态堪忧/欢迎私信互关扩列(没回关可能是没提示，如需互关可以私信我) \n\n“谁にも爱されず闇の中朽ちるだけ それは楽园?”",
+        "id": "1225358261467197440",
+        "location": "站在世界中心呼唤爱💙",
+        "name": "爱，死亡与猫猫娘",
+        "pinned_tweet_id": "1764669814717718863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927756291612766208/gL5z2gOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 254,
+          "like_count": 1753,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 2671
+        },
+        "username": "chanxiulumanzhi",
+        "verified": false
+      }
+    ]
+  }
+}

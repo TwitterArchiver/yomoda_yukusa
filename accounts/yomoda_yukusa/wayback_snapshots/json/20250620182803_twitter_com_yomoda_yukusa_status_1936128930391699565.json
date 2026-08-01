@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1936128599209185280"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1936128930391699565",
+    "created_at": "2025-06-20T18:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T19:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936128930391699565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S3Gh5JgK9P",
+          "end": 23,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1936128930391699565/video/1",
+          "media_key": "7_1936128599209185280",
+          "start": 0,
+          "url": "https://t.co/S3Gh5JgK9P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936128930391699565",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/S3Gh5JgK9P"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 121000,
+        "height": 1280,
+        "media_key": "7_1936128599209185280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1936128599209185280/pu/img/5A-fwCpeCroZ-bP_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936128599209185280/pu/vid/avc1/320x568/tfERP8_8GCa3y0IO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936128599209185280/pu/vid/avc1/480x852/xF9lY-BZHS5e3Qit.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1936128599209185280/pu/vid/avc1/720x1280/9MxV9O7MlDmZsykk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1936128599209185280/pu/pl/scjV7rKZiR099iQx.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1936128599209185280"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1936128930391699565",
+        "created_at": "2025-06-20T18:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T19:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936128930391699565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3Gh5JgK9P",
+              "end": 23,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1936128930391699565/video/1",
+              "media_key": "7_1936128599209185280",
+              "start": 0,
+              "url": "https://t.co/S3Gh5JgK9P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936128930391699565",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/S3Gh5JgK9P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 2147,
+          "like_count": 28775,
+          "listed_count": 7,
+          "media_count": 1331,
+          "tweet_count": 19533
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1994069279637905849",
+    "created_at": "2025-11-27T22:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T23:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994174438191841414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1570319690869899266",
+          "start": 0,
+          "username": "Yuko0Ruuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994174438191841414",
+    "in_reply_to_user_id": "1570319690869899266",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994069279637905849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuko0Ruuu ）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 587,
+        "media_key": "3_1994069276483899393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xbcSJX0AE0HnD.jpg",
+        "width": 583
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1994069279637905849",
+        "created_at": "2025-11-27T22:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T23:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994174438191841414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570319690869899266",
+              "start": 0,
+              "username": "Yuko0Ruuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994174438191841414",
+        "in_reply_to_user_id": "1570319690869899266",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994069279637905849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuko0Ruuu ）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994069276483899393"
+          ]
+        },
+        "author_id": "1570319690869899266",
+        "conversation_id": "1994069279637905849",
+        "created_at": "2025-11-27T15:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994069279637905849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9dBoqk2Isj",
+              "end": 28,
+              "expanded_url": "https://x.com/Yuko0Ruuu/status/1994069279637905849/photo/1",
+              "media_key": "3_1994069276483899393",
+              "start": 5,
+              "url": "https://t.co/9dBoqk2Isj"
+            },
+            {
+              "display_url": "x.com/yomoda_yukusa/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/yomoda_yukusa/status/1994061783175208987",
+              "start": 29,
+              "url": "https://t.co/YiyBEopVSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994069279637905849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994061783175208987",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早上好（ https://t.co/9dBoqk2Isj https://t.co/YiyBEopVSL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 2326,
+          "like_count": 31383,
+          "listed_count": 9,
+          "media_count": 1442,
+          "tweet_count": 20625
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T07:52:55.000Z",
+        "description": "搞！搞起来",
+        "id": "1570319690869899266",
+        "location": "40.000, -105.000",
+        "name": "🍉✰Yuko✰🍉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622708737495687169/fa99ZwzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 116,
+          "like_count": 7659,
+          "listed_count": 1,
+          "media_count": 366,
+          "tweet_count": 4868
+        },
+        "username": "Yuko0Ruuu",
+        "verified": false
+      }
+    ]
+  }
+}

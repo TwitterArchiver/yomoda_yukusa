@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925492293794242560"
+      ],
+      "media_source_tweet_id": [
+        "1925492301490790806"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1926292084211814873",
+    "created_at": "2025-05-24T14:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T15:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926292084211814873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1467095000609849345",
+          "start": 3,
+          "username": "carnagesociety"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RhQr5Ne0kG",
+          "end": 46,
+          "expanded_url": "https://x.com/carnagesociety/status/1925492301490790806/photo/1",
+          "media_key": "3_1925492293794242560",
+          "start": 23,
+          "url": "https://t.co/RhQr5Ne0kG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926292084211814873",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925492301490790806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carnagesociety: ♨️ https://t.co/RhQr5Ne0kG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926292084211814873].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926292084211814873",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926292084211814873"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925492293794242560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gri5Ch1boAAz0LA.jpg",
+        "width": 1868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925492293794242560"
+          ]
+        },
+        "author_id": "1467095000609849345",
+        "conversation_id": "1925492301490790806",
+        "created_at": "2025-05-22T10:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T11:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925492301490790806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RhQr5Ne0kG",
+              "end": 26,
+              "expanded_url": "https://x.com/carnagesociety/status/1925492301490790806/photo/1",
+              "media_key": "3_1925492293794242560",
+              "start": 3,
+              "url": "https://t.co/RhQr5Ne0kG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925492301490790806",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 306,
+          "impression_count": 32079,
+          "like_count": 2447,
+          "quote_count": 9,
+          "reply_count": 39,
+          "retweet_count": 345
+        },
+        "reply_settings": "everyone",
+        "text": "♨️ https://t.co/RhQr5Ne0kG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2799,
+          "following_count": 2108,
+          "like_count": 28378,
+          "listed_count": 9,
+          "media_count": 1299,
+          "tweet_count": 19313
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T11:34:48.000Z",
+        "description": "ゴアゾノさんを推せ🩸メタルとV系が好き \n💀commission▶@yuki12278947 \n💀sub account▶@GorezonoNeo \n💀goods▶#CarnageSociety \n💀comic▶#ハイスクールゴアガール \n💀fanart▶#ゴアガールファンアート \n💀link▼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 97,
+                "start": 82,
+                "tag": "CarnageSociety"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "tag": "ハイスクールゴアガール"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "tag": "ゴアガールファンアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "yuki12278947"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "GorezonoNeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukicarnagesoc…",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukicarnagesociety",
+                "start": 0,
+                "url": "https://t.co/ZWgT5VWTU9"
+              }
+            ]
+          }
+        },
+        "id": "1467095000609849345",
+        "location": "ご依頼は(@yuki12278947 )のDMへ",
+        "name": "幽妃-yuki-🫀G0RE-GlRL PR0JECT/流血少女",
+        "pinned_tweet_id": "1925492301490790806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876935508863102976/arithVKG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38558,
+          "following_count": 741,
+          "like_count": 95469,
+          "listed_count": 171,
+          "media_count": 1399,
+          "tweet_count": 37682
+        },
+        "url": "https://t.co/ZWgT5VWTU9",
+        "username": "carnagesociety",
+        "verified": true
+      }
+    ]
+  }
+}

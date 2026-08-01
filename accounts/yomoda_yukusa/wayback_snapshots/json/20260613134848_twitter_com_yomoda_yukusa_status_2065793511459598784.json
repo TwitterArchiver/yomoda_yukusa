@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051379330",
+          "name": "少女終末旅行"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology",
+          "id": "857879456773357569",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2065793511459598784",
+    "created_at": "2026-06-13T13:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065793511459598784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2786677338",
+          "start": 3,
+          "username": "denfaminicogame"
+        }
+      ],
+      "urls": [
+        {
+          "description": "高度なテクノロジーで築かれた巨大な階層都市を舞台に、終末に至るまでの長い歴史の中で起きたさまざまな出来事が短編形式で描かれる",
+          "display_url": "news.denfaminicogamer.jp/news/260613j",
+          "end": 102,
+          "expanded_url": "https://news.denfaminicogamer.jp/news/260613j",
+          "images": [
+            {
+              "height": 1020,
+              "url": "https://pbs.twimg.com/news_img/2065710944442073088/aSvnJTSM?format=jpg&name=orig",
+              "width": 720
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2065710944442073088/aSvnJTSM?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 79,
+          "status": 200,
+          "title": "『少女終末旅行』の前日譚『階層都市断片集』が6月26日より連載開始。つくみず氏による、8年ぶりのくらげバンチ新連載",
+          "unwound_url": "https://news.denfaminicogamer.jp/news/260613j",
+          "url": "https://t.co/dM6uBlOZQs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065793511459598784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3991
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065710898480824683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @denfaminicogame: 『少女終末旅行』の前日譚『階層都市断片集』が6月26日より連載開始。つくみず氏による、8年ぶりのくらげバンチ新連載\nhttps://t.co/dM6uBlOZQs\n\n高度なテクノロジーで築かれた巨大な階層都市を舞台に、終末に至るまでの長…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_2065710894106206209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrhHRPa4AEAfha.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology",
+              "id": "857879456773357569",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2065793511459598784",
+        "created_at": "2026-06-13T13:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065793511459598784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2786677338",
+              "start": 3,
+              "username": "denfaminicogame"
+            }
+          ],
+          "urls": [
+            {
+              "description": "高度なテクノロジーで築かれた巨大な階層都市を舞台に、終末に至るまでの長い歴史の中で起きたさまざまな出来事が短編形式で描かれる",
+              "display_url": "news.denfaminicogamer.jp/news/260613j",
+              "end": 102,
+              "expanded_url": "https://news.denfaminicogamer.jp/news/260613j",
+              "images": [
+                {
+                  "height": 1020,
+                  "url": "https://pbs.twimg.com/news_img/2065710944442073088/aSvnJTSM?format=jpg&name=orig",
+                  "width": 720
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2065710944442073088/aSvnJTSM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 79,
+              "status": 200,
+              "title": "『少女終末旅行』の前日譚『階層都市断片集』が6月26日より連載開始。つくみず氏による、8年ぶりのくらげバンチ新連載",
+              "unwound_url": "https://news.denfaminicogamer.jp/news/260613j",
+              "url": "https://t.co/dM6uBlOZQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065793511459598784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3991
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065710898480824683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @denfaminicogame: 『少女終末旅行』の前日譚『階層都市断片集』が6月26日より連載開始。つくみず氏による、8年ぶりのくらげバンチ新連載\nhttps://t.co/dM6uBlOZQs\n\n高度なテクノロジーで築かれた巨大な階層都市を舞台に、終末に至るまでの長…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065710894106206209"
+          ]
+        },
+        "author_id": "2786677338",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology",
+              "id": "857879456773357569",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2065710898480824683",
+        "created_at": "2026-06-13T08:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065710898480824683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "高度なテクノロジーで築かれた巨大な階層都市を舞台に、終末に至るまでの長い歴史の中で起きたさまざまな出来事が短編形式で描かれる",
+              "display_url": "news.denfaminicogamer.jp/news/260613j",
+              "end": 81,
+              "expanded_url": "https://news.denfaminicogamer.jp/news/260613j",
+              "images": [
+                {
+                  "height": 1020,
+                  "url": "https://pbs.twimg.com/news_img/2065710944442073088/aSvnJTSM?format=jpg&name=orig",
+                  "width": 720
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2065710944442073088/aSvnJTSM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "『少女終末旅行』の前日譚『階層都市断片集』が6月26日より連載開始。つくみず氏による、8年ぶりのくらげバンチ新連載",
+              "unwound_url": "https://news.denfaminicogamer.jp/news/260613j",
+              "url": "https://t.co/dM6uBlOZQs"
+            },
+            {
+              "display_url": "pic.x.com/LzWKgbkPXH",
+              "end": 169,
+              "expanded_url": "https://x.com/denfaminicogame/status/2065710898480824683/photo/1",
+              "media_key": "3_2065710894106206209",
+              "start": 146,
+              "url": "https://t.co/LzWKgbkPXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065710898480824683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1576,
+          "impression_count": 536224,
+          "like_count": 9432,
+          "quote_count": 397,
+          "reply_count": 60,
+          "retweet_count": 3991
+        },
+        "reply_settings": "everyone",
+        "text": "『少女終末旅行』の前日譚『階層都市断片集』が6月26日より連載開始。つくみず氏による、8年ぶりのくらげバンチ新連載\nhttps://t.co/dM6uBlOZQs\n\n高度なテクノロジーで築かれた巨大な階層都市を舞台に、終末に至るまでの長い歴史の中で起きたさまざまな出来事が短編形式で描かれる https://t.co/LzWKgbkPXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 2369,
+          "like_count": 34150,
+          "listed_count": 9,
+          "media_count": 1640,
+          "tweet_count": 22336
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-02T21:20:04.000Z",
+        "description": "開発者への独占取材、制作秘話、業界分析など「他では読めない」記事を配信。ゲームの魅力を、作り手の想いとともにお伝えします。時にマニアック、時にポップに。すべてのゲームファンに向けて情報をお届けします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.denfaminicogamer.jp",
+                "end": 23,
+                "expanded_url": "https://news.denfaminicogamer.jp/",
+                "start": 0,
+                "url": "https://t.co/8vJgkHBnTV"
+              }
+            ]
+          }
+        },
+        "id": "2786677338",
+        "location": "日本 東京都",
+        "name": "電ファミニコゲーマー",
+        "pinned_tweet_id": "2063819554384744648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552262697852366848/KJN34d9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379224,
+          "following_count": 3452,
+          "like_count": 9017,
+          "listed_count": 5617,
+          "media_count": 88959,
+          "tweet_count": 97878
+        },
+        "url": "https://t.co/8vJgkHBnTV",
+        "username": "denfaminicogame",
+        "verified": true
+      }
+    ]
+  }
+}

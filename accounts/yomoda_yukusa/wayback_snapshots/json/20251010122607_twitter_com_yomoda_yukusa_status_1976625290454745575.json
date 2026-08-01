@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976624537665236992",
+        "3_1976624581155938304"
+      ],
+      "media_source_tweet_id": [
+        "1976624766330269783",
+        "1976624766330269783"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1976625290454745575",
+    "created_at": "2025-10-10T12:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T13:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976625290454745575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1575694392706228224",
+          "start": 3,
+          "username": "Bubutothestars"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Bubutothestars…",
+          "end": 92,
+          "expanded_url": "https://x.com/Bubutothestars/status/1966404249849602314",
+          "start": 69,
+          "url": "https://t.co/YcuGPeWc7M"
+        },
+        {
+          "display_url": "pic.x.com/XxjopIdcjw",
+          "end": 116,
+          "expanded_url": "https://x.com/Bubutothestars/status/1976624766330269783/photo/1",
+          "media_key": "3_1976624537665236992",
+          "start": 93,
+          "url": "https://t.co/XxjopIdcjw"
+        },
+        {
+          "display_url": "pic.x.com/XxjopIdcjw",
+          "end": 116,
+          "expanded_url": "https://x.com/Bubutothestars/status/1976624766330269783/photo/1",
+          "media_key": "3_1976624581155938304",
+          "start": 93,
+          "url": "https://t.co/XxjopIdcjw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976625290454745575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976624766330269783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bubutothestars: 补一个12345投诉后续吧，户籍地不开放审核的话改照片真的很难，后续有时间再去看看行政复议什么的\nhttps://t.co/YcuGPeWc7M https://t.co/XxjopIdcjw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1976625290454745575].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1976625290454745575",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1976625290454745575"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976624537665236992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25hi13bcAAArwy.jpg",
+        "width": 1029
+      },
+      {
+        "height": 1115,
+        "media_key": "3_1976624581155938304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25hlX4a4AAy648.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976624537665236992",
+            "3_1976624581155938304"
+          ]
+        },
+        "author_id": "1575694392706228224",
+        "conversation_id": "1976624766330269783",
+        "created_at": "2025-10-10T12:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T13:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976624766330269783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bubutothestars…",
+              "end": 72,
+              "expanded_url": "https://x.com/Bubutothestars/status/1966404249849602314",
+              "start": 49,
+              "url": "https://t.co/YcuGPeWc7M"
+            },
+            {
+              "display_url": "pic.x.com/XxjopIdcjw",
+              "end": 96,
+              "expanded_url": "https://x.com/Bubutothestars/status/1976624766330269783/photo/1",
+              "media_key": "3_1976624537665236992",
+              "start": 73,
+              "url": "https://t.co/XxjopIdcjw"
+            },
+            {
+              "display_url": "pic.x.com/XxjopIdcjw",
+              "end": 96,
+              "expanded_url": "https://x.com/Bubutothestars/status/1976624766330269783/photo/1",
+              "media_key": "3_1976624581155938304",
+              "start": 73,
+              "url": "https://t.co/XxjopIdcjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976624766330269783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966404249849602314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补一个12345投诉后续吧，户籍地不开放审核的话改照片真的很难，后续有时间再去看看行政复议什么的\nhttps://t.co/YcuGPeWc7M https://t.co/XxjopIdcjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 2287,
+          "like_count": 30288,
+          "listed_count": 10,
+          "media_count": 1389,
+          "tweet_count": 20158
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T03:50:02.000Z",
+        "description": "🏳️‍⚧️🌈 @tofuherb\n毒沼里窒息...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "tofuherb"
+              }
+            ]
+          }
+        },
+        "id": "1575694392706228224",
+        "name": "布布",
+        "pinned_tweet_id": "1824423788819403122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936831501460520960/n2PG27sf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 79,
+          "like_count": 5049,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 913
+        },
+        "username": "Bubutothestars",
+        "verified": false
+      }
+    ]
+  }
+}

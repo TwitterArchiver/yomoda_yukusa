@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1957383041862787405",
+    "created_at": "2025-08-18T10:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T11:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957383041862787405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597257668313260033",
+          "start": 3,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957383041862787405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 163
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951463657336086693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minokakay: Choseki工作室暑期活动暨8月抽奖帖🥳\n以后每个月1号设为抽奖日 次日1号开奖\n一等奖 泰补或lucius色普龙一板（可折算店内50元代金券）共10份\n二等奖 20元现金红包 共5份\n三等奖 10元现金红包 共5份\n转发并评论点赞此帖参与\n新上…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1940,
+        "media_key": "3_1951463650419679235",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxT92ctaIAMA7wm.jpg",
+        "width": 1552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1957383041862787405",
+        "created_at": "2025-08-18T10:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T11:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957383041862787405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597257668313260033",
+              "start": 3,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957383041862787405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 163
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951463657336086693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minokakay: Choseki工作室暑期活动暨8月抽奖帖🥳\n以后每个月1号设为抽奖日 次日1号开奖\n一等奖 泰补或lucius色普龙一板（可折算店内50元代金券）共10份\n二等奖 20元现金红包 共5份\n三等奖 10元现金红包 共5份\n转发并评论点赞此帖参与\n新上…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951463650419679235"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1951463657336086693",
+        "created_at": "2025-08-02T02:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T03:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951463657336086693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 166,
+              "id": "1856322437144817667",
+              "start": 150,
+              "username": "ChosekiNoraneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSFgUmZEXe",
+              "end": 193,
+              "expanded_url": "https://x.com/Minokakay/status/1951463657336086693/photo/1",
+              "media_key": "3_1951463650419679235",
+              "start": 170,
+              "url": "https://t.co/RSFgUmZEXe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951463657336086693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 49796,
+          "like_count": 254,
+          "quote_count": 2,
+          "reply_count": 190,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "Choseki工作室暑期活动暨8月抽奖帖🥳\n以后每个月1号设为抽奖日 次日1号开奖\n一等奖 泰补或lucius色普龙一板（可折算店内50元代金券）共10份\n二等奖 20元现金红包 共5份\n三等奖 10元现金红包 共5份\n转发并评论点赞此帖参与\n新上架 比卡鲁胺\n以下价格表保持活动价至9月1日\n欢迎找@ChosekiNoraneko 下单 https://t.co/RSFgUmZEXe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 2166,
+          "like_count": 29248,
+          "listed_count": 8,
+          "media_count": 1348,
+          "tweet_count": 19740
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8962,
+          "following_count": 923,
+          "like_count": 44462,
+          "listed_count": 33,
+          "media_count": 1379,
+          "tweet_count": 20389
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2014745998900523208",
+    "created_at": "2026-03-07T14:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T15:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030289217377698107"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030289217377698107",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014745998900523208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唱出你的热情伸出你双手\n让我拥抱着你的梦\n让我拥有你真心的笑容\n让我们的笑容充满着青春的骄傲\n让我们期待明天会更好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2014745994798546944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XQzsSbwAAFKXH.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2014745998900523208",
+        "created_at": "2026-03-07T14:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030289217377698107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030289217377698107",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014745998900523208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唱出你的热情伸出你双手\n让我拥抱着你的梦\n让我拥有你真心的笑容\n让我们的笑容充满着青春的骄傲\n让我们期待明天会更好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014745994798546944"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "2014745998900523208",
+        "created_at": "2026-01-23T17:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T18:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014745998900523208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XtIA4M6BBy",
+              "end": 36,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2014745998900523208/photo/1",
+              "media_key": "3_2014745994798546944",
+              "start": 13,
+              "url": "https://t.co/XtIA4M6BBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014745998900523208",
+        "lang": "cs",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8038,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Hello Navi ! https://t.co/XtIA4M6BBy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 2385,
+          "like_count": 33216,
+          "listed_count": 9,
+          "media_count": 1566,
+          "tweet_count": 21670
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

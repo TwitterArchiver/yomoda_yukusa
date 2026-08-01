@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2052711480458661992",
+    "created_at": "2026-05-08T11:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052711480458661992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1753470997422878720",
+          "start": 3,
+          "username": "404nocoriander"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052711480458661992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827166714754474483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @404nocoriander: 唉我真感觉一个人身上的自信和大方不是钱堆出来的就是爱堆出来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2052711480458661992",
+        "created_at": "2026-05-08T11:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052711480458661992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1753470997422878720",
+              "start": 3,
+              "username": "404nocoriander"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052711480458661992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827166714754474483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @404nocoriander: 唉我真感觉一个人身上的自信和大方不是钱堆出来的就是爱堆出来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753470997422878720",
+        "conversation_id": "1827166714754474483",
+        "created_at": "2024-08-24T02:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T03:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827166714754474483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827166714754474483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 160694,
+          "like_count": 1543,
+          "quote_count": 24,
+          "reply_count": 68,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "唉我真感觉一个人身上的自信和大方不是钱堆出来的就是爱堆出来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2861,
+          "following_count": 2393,
+          "like_count": 33972,
+          "listed_count": 9,
+          "media_count": 1634,
+          "tweet_count": 22236
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T17:30:39.000Z",
+        "description": "与其被定义 不如自定义",
+        "id": "1753470997422878720",
+        "location": "宛平南路600号",
+        "name": "精神卫生中心菜医生",
+        "pinned_tweet_id": "2006779245671100515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997698629545713664/6A_5O8o1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2815,
+          "following_count": 337,
+          "like_count": 17752,
+          "listed_count": 12,
+          "media_count": 356,
+          "tweet_count": 10173
+        },
+        "username": "404nocoriander",
+        "verified": false
+      }
+    ]
+  }
+}

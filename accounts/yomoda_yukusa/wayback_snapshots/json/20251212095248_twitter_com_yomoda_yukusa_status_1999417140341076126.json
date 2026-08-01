@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1999417140341076126",
+    "created_at": "2025-12-12T09:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T10:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999417140341076126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999007250829230080",
+          "start": 3,
+          "username": "DDaquaforever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/z0Ar",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/z0Ar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999417140341076126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999103250763518407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDaquaforever: 关注点赞转发留言新置顶参与抽奖 \n一等奖是一只175的中号博士\n 二等奖是两只86.2的龙泡泡 \n三等奖是五只51的山山兔 \n以上都可以折现成人民币 \n周日14号给大家开奖QWQ \n希望大家踊跃参与qwq https://t.co/z0Ar…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999103188277043200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G749wg6aoAA14ey.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999103216546648064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G749yKOakAApawr.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999103237300129792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G749zXibkAA8Eew.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1999417140341076126",
+        "created_at": "2025-12-12T09:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T10:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999417140341076126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999007250829230080",
+              "start": 3,
+              "username": "DDaquaforever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/z0Ar",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/z0Ar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999417140341076126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999103250763518407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDaquaforever: 关注点赞转发留言新置顶参与抽奖 \n一等奖是一只175的中号博士\n 二等奖是两只86.2的龙泡泡 \n三等奖是五只51的山山兔 \n以上都可以折现成人民币 \n周日14号给大家开奖QWQ \n希望大家踊跃参与qwq https://t.co/z0Ar…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999103188277043200",
+            "3_1999103216546648064",
+            "3_1999103237300129792"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999103250763518407",
+        "created_at": "2025-12-11T13:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T14:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999103250763518407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0Ar8XkGOk",
+              "end": 126,
+              "expanded_url": "https://x.com/DDaquaforever/status/1999103250763518407/photo/1",
+              "media_key": "3_1999103188277043200",
+              "start": 103,
+              "url": "https://t.co/z0Ar8XkGOk"
+            },
+            {
+              "display_url": "pic.x.com/z0Ar8XkGOk",
+              "end": 126,
+              "expanded_url": "https://x.com/DDaquaforever/status/1999103250763518407/photo/1",
+              "media_key": "3_1999103216546648064",
+              "start": 103,
+              "url": "https://t.co/z0Ar8XkGOk"
+            },
+            {
+              "display_url": "pic.x.com/z0Ar8XkGOk",
+              "end": 126,
+              "expanded_url": "https://x.com/DDaquaforever/status/1999103250763518407/photo/1",
+              "media_key": "3_1999103237300129792",
+              "start": 103,
+              "url": "https://t.co/z0Ar8XkGOk"
+            },
+            {
+              "display_url": "x.com/DDaquaforever/…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/DDaquaforever/status/1999101315126116445",
+              "start": 127,
+              "url": "https://t.co/csTIgjtr59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999103250763518407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1425,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999101315126116445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关注点赞转发留言新置顶参与抽奖 \n一等奖是一只175的中号博士\n 二等奖是两只86.2的龙泡泡 \n三等奖是五只51的山山兔 \n以上都可以折现成人民币 \n周日14号给大家开奖QWQ \n希望大家踊跃参与qwq https://t.co/z0Ar8XkGOk https://t.co/csTIgjtr59"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 2324,
+          "like_count": 31481,
+          "listed_count": 9,
+          "media_count": 1462,
+          "tweet_count": 20735
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了",
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 292,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 129
+        },
+        "username": "DDaquaforever",
+        "verified": false
+      }
+    ]
+  }
+}

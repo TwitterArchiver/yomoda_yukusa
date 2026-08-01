@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1916390022728609899",
+    "created_at": "2025-04-28T09:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T10:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916788170995245337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1615229704549859329",
+          "start": 0,
+          "username": "U7dc8Sf9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916788170995245337",
+    "in_reply_to_user_id": "1615229704549859329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916390022728609899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@U7dc8Sf9 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1916390022728609899",
+        "created_at": "2025-04-28T09:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T10:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916788170995245337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1615229704549859329",
+              "start": 0,
+              "username": "U7dc8Sf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916788170995245337",
+        "in_reply_to_user_id": "1615229704549859329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916390022728609899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@U7dc8Sf9 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615229704549859329",
+        "conversation_id": "1916390022728609899",
+        "created_at": "2025-04-27T07:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T08:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916390022728609899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916390022728609899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4043,
+          "like_count": 93,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我对学计算机及相关专业的人印象差到想mute甚至屏蔽那种，能留在我列表里的还是其他的优点真的太多了所以能继续相处\n一方面，鬼知道为什么计算机成了mtf刻板印象，因此动不动被除跨籍。二是ta们有着其他专业都没有的做题家的味道，我承认计算机更赚钱，但是那种有意无意中透露出来的优越感确实很讨厌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2775,
+          "following_count": 2846,
+          "like_count": 27587,
+          "listed_count": 7,
+          "media_count": 1279,
+          "tweet_count": 19107
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T06:09:40.000Z",
+        "description": "广告位招租",
+        "id": "1615229704549859329",
+        "name": "Erbswurst",
+        "pinned_tweet_id": "1913976025781817639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911057411059691520/x5R0TnU5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2017,
+          "following_count": 3363,
+          "like_count": 40641,
+          "listed_count": 3,
+          "media_count": 650,
+          "tweet_count": 10527
+        },
+        "username": "U7dc8Sf9",
+        "verified": false
+      }
+    ]
+  }
+}

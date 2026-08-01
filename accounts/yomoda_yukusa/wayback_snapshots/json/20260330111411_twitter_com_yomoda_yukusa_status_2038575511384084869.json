@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2038575511384084869",
+    "created_at": "2026-03-30T11:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T12:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038575511384084869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1825459880268050432",
+          "start": 3,
+          "username": "shinysilver404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038575511384084869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038567668605936067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shinysilver404: 不是去“成为男人/女人”，而是面对更根本的问题：\n“你想成为一个什么样的存在？你如何与你的身体、你的缺憾共处？”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2038575511384084869",
+        "created_at": "2026-03-30T11:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038575511384084869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1825459880268050432",
+              "start": 3,
+              "username": "shinysilver404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038575511384084869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038567668605936067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shinysilver404: 不是去“成为男人/女人”，而是面对更根本的问题：\n“你想成为一个什么样的存在？你如何与你的身体、你的缺憾共处？”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825459880268050432",
+        "conversation_id": "2038567668605936067",
+        "created_at": "2026-03-30T10:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038567668605936067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038567668605936067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不是去“成为男人/女人”，而是面对更根本的问题：\n“你想成为一个什么样的存在？你如何与你的身体、你的缺憾共处？”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2831,
+          "following_count": 2382,
+          "like_count": 33408,
+          "listed_count": 9,
+          "media_count": 1600,
+          "tweet_count": 21873
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T09:08:57.000Z",
+        "description": "要成为一个真正的人类/过去发生的故事是今后人生的伏笔/碗不会自己洗",
+        "id": "1825459880268050432",
+        "location": "南湖",
+        "name": "冰冷小鱼块",
+        "pinned_tweet_id": "2038050015759970538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021393278487363585/yeDtyevT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 159,
+          "like_count": 10487,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 6632
+        },
+        "username": "shinysilver404",
+        "verified": false
+      }
+    ]
+  }
+}

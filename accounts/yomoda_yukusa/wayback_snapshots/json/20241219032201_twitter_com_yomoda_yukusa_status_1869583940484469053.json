@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1869583940484469053",
+    "created_at": "2024-12-19T03:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T04:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869583940484469053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721895937357004800",
+          "start": 3,
+          "username": "Strf_9040C"
+        },
+        {
+          "end": 43,
+          "id": "1721895937357004800",
+          "start": 32,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869583940484469053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869539059875618994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Strf_9040C: 这是一条互 Fo 寻回贴\n我是 @Strf_9040C\n原Strv_122_B_PLSS\n我的推特号于 2024/12/18 被爆破无法登陆\n请认识我的推油点点转发\n助力我找回互 Fo\n重建瑞典国防军装甲车气势 https://t.co/lsjU…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1869583940484469053",
+        "created_at": "2024-12-19T03:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T04:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869583940484469053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721895937357004800",
+              "start": 3,
+              "username": "Strf_9040C"
+            },
+            {
+              "end": 43,
+              "id": "1721895937357004800",
+              "start": 32,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869583940484469053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869539059875618994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Strf_9040C: 这是一条互 Fo 寻回贴\n我是 @Strf_9040C\n原Strv_122_B_PLSS\n我的推特号于 2024/12/18 被爆破无法登陆\n请认识我的推油点点转发\n助力我找回互 Fo\n重建瑞典国防军装甲车气势 https://t.co/lsjU…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869539056289447936"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "1869539059875618994",
+        "created_at": "2024-12-19T00:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T01:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869539059875618994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1721895937357004800",
+              "start": 16,
+              "username": "Strf_9040C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lsjUqkCXv0",
+              "end": 129,
+              "expanded_url": "https://x.com/Strf_9040C/status/1869539059875618994/photo/1",
+              "media_key": "3_1869539056289447936",
+              "start": 106,
+              "url": "https://t.co/lsjUqkCXv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869539059875618994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 544,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条互 Fo 寻回贴\n我是 @Strf_9040C\n原Strv_122_B_PLSS\n我的推特号于 2024/12/18 被爆破无法登陆\n请认识我的推油点点转发\n助力我找回互 Fo\n重建瑞典国防军装甲车气势 https://t.co/lsjUqkCXv0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2748,
+          "following_count": 2722,
+          "like_count": 26766,
+          "listed_count": 6,
+          "media_count": 1239,
+          "tweet_count": 18673
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869344088295956831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 117,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

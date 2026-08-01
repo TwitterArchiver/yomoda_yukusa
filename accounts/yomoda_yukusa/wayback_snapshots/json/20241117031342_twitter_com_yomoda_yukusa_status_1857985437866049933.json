@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1857983373735768333",
+    "created_at": "2024-11-17T03:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T04:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857985437866049933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657797956852916226",
+          "start": 0,
+          "username": "waizai6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857985437866049933",
+    "in_reply_to_user_id": "1657797956852916226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857983373735768333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waizai6666 没钱就花不了了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1857983373735768333",
+        "created_at": "2024-11-17T03:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T04:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857985437866049933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657797956852916226",
+              "start": 0,
+              "username": "waizai6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857985437866049933",
+        "in_reply_to_user_id": "1657797956852916226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857983373735768333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waizai6666 没钱就花不了了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657797956852916226",
+        "conversation_id": "1857983373735768333",
+        "created_at": "2024-11-17T03:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T04:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857983373735768333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857983373735768333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hi我想问下躁郁症躁期怎么控制花钱的 我感觉自己要完蛋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 2716,
+          "like_count": 26704,
+          "listed_count": 6,
+          "tweet_count": 18562
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-14T17:20:20.000Z",
+        "description": "/施虐受虐狂/1or4i//爱与死亡在午夜狂奔/@wwwyy421 日记📓/模特被缚/接寄拍/拍照收费/接推广/👉 @Amayyyy0214福利号门槛88/🛰️🚪222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "wwwyy421"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Amayyyy0214"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=SjraKA8R",
+                "start": 0,
+                "url": "https://t.co/WJcjp6tU7V"
+              }
+            ]
+          }
+        },
+        "id": "1657797956852916226",
+        "location": "疯子 别吵🚪222，可以找我玩/自用vpn👇🏻",
+        "name": "Amay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853075214860800000/2KZcbmon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10516,
+          "following_count": 186,
+          "like_count": 4222,
+          "listed_count": 36,
+          "tweet_count": 2859
+        },
+        "url": "https://t.co/WJcjp6tU7V",
+        "username": "waizai6666",
+        "verified": false
+      }
+    ]
+  }
+}

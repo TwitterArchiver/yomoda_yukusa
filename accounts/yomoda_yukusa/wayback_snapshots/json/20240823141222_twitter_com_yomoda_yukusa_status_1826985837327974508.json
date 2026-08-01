@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1826687822851702847",
+    "created_at": "2024-08-23T14:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T15:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826985837327974508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3926792292",
+          "start": 0,
+          "username": "wyyazxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826985837327974508",
+    "in_reply_to_user_id": "3926792292",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826925977487675768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyyazxy 這又是什麼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1826687822851702847",
+        "created_at": "2024-08-23T14:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T15:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826985837327974508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3926792292",
+              "start": 0,
+              "username": "wyyazxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826985837327974508",
+        "in_reply_to_user_id": "3926792292",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826925977487675768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyyazxy 這又是什麼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826925974430101504"
+          ]
+        },
+        "author_id": "3926792292",
+        "conversation_id": "1826687822851702847",
+        "created_at": "2024-08-23T10:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T11:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826925977487675768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/emedhiqvnk",
+              "end": 44,
+              "expanded_url": "https://twitter.com/wyyazxy/status/1826925977487675768/photo/1",
+              "media_key": "3_1826925974430101504",
+              "start": 21,
+              "url": "https://t.co/EmedhiQvNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826925977487675768",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826687822851702847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 我还有蓝的 https://t.co/EmedhiQvNk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 2558,
+          "like_count": 26084,
+          "listed_count": 7,
+          "tweet_count": 18059
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-17T16:59:46.000Z",
+        "description": "平易不近人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw01.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw01.damoplane.com/#/register?code=gUYYOtgz",
+                "start": 0,
+                "url": "https://t.co/JneOlumJhP"
+              }
+            ]
+          }
+        },
+        "id": "3926792292",
+        "location": "自用VPN：",
+        "name": "💙",
+        "pinned_tweet_id": "1800123130939330864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824755120719998976/Dv7_osaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6094,
+          "following_count": 269,
+          "like_count": 14549,
+          "listed_count": 15,
+          "tweet_count": 9100
+        },
+        "url": "https://t.co/JneOlumJhP",
+        "username": "wyyazxy",
+        "verified": false
+      }
+    ]
+  }
+}

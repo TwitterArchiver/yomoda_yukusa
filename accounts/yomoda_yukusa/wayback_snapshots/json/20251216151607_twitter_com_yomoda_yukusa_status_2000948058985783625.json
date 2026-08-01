@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2000948058985783625",
+    "created_at": "2025-12-16T15:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T16:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000948058985783625"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000948058985783625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "[语音]和我爸发了很多消息，互相发了很多消息。然后我妈打电话，我和我妈打了一个多小时的电话。待会儿她现在在和我爸交接，待会儿我爸要和我继续打电话，或者他们两个接下来要待会儿继续和我打电话。我刚刚一边打电话一边喝完了两瓶酒，可能待会儿还要再喝两瓶酒。我可能得准备点儿宿醉药，我的天。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2000948058985783625",
+        "created_at": "2025-12-16T15:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T16:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000948058985783625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000948058985783625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "[语音]和我爸发了很多消息，互相发了很多消息。然后我妈打电话，我和我妈打了一个多小时的电话。待会儿她现在在和我爸交接，待会儿我爸要和我继续打电话，或者他们两个接下来要待会儿继续和我打电话。我刚刚一边打电话一边喝完了两瓶酒，可能待会儿还要再喝两瓶酒。我可能得准备点儿宿醉药，我的天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 2320,
+          "like_count": 31569,
+          "listed_count": 9,
+          "media_count": 1476,
+          "tweet_count": 20804
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

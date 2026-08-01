@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1889339895795028117",
+    "created_at": "2025-02-12T00:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T01:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889475292290490579"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "ルアン",
+          "probability": 0.8144,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884627325398212611",
+          "start": 0,
+          "username": "Revive_Meink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889475292290490579",
+    "in_reply_to_user_id": "1884627325398212611",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889339895795028117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Revive_Meink ルアン）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1889339895795028117",
+        "created_at": "2025-02-12T00:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T01:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889475292290490579"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "ルアン",
+              "probability": 0.8144,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884627325398212611",
+              "start": 0,
+              "username": "Revive_Meink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889475292290490579",
+        "in_reply_to_user_id": "1884627325398212611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889339895795028117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Revive_Meink ルアン）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889339884738945024"
+          ]
+        },
+        "author_id": "1884627325398212611",
+        "conversation_id": "1889339895795028117",
+        "created_at": "2025-02-11T15:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T16:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889339895795028117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3xxP4vmCI",
+              "end": 37,
+              "expanded_url": "https://x.com/Revive_Meink/status/1889339895795028117/photo/1",
+              "media_key": "3_1889339884738945024",
+              "start": 14,
+              "url": "https://t.co/d3xxP4vmCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889339895795028117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为什么写不出“卵”这个字 https://t.co/d3xxP4vmCI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2789,
+          "following_count": 2798,
+          "like_count": 26872,
+          "listed_count": 9,
+          "media_count": 1254,
+          "tweet_count": 18827
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "莱铭系统💧LeminkSystem（ftmtf vers.\n@LeminkSystem\n—————\n\n📌⚠️该用户距离你不足一厘米,请小心被吃掉⚠️  📅joined September 2021\n\n430 Following          2630 Followers",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "LeminkSystem"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "location": "这个世界的某处",
+        "name": "铭💧Meink（莱铭系统2.0）",
+        "pinned_tweet_id": "1885381254306046084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884627488296386561/PkmwSrej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 180,
+          "like_count": 1754,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 663
+        },
+        "username": "Revive_Meink",
+        "verified": false
+      }
+    ]
+  }
+}

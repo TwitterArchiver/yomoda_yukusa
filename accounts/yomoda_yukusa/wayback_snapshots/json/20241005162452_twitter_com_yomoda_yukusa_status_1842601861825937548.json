@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1842530921792331821",
+    "created_at": "2024-10-05T16:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T17:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842601861825937548"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1842601861825937548",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842581303558066246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下午，我被家長接走了，而眠墨仍然留著派出所等待。\n回家路上，派出所打來電話，通知我眠墨陷入昏迷。\n接下來幾天，我和家長疲於應對來自眠墨母親與派出所的電話。 有時我也可以在電話中和眠墨說一些話。 同時我也開始了40元/小時的助教工作。\n1月25日，潘來我家陪我。 她很可愛，並且幾乎一直在發情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1842530921792331821",
+        "created_at": "2024-10-05T16:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T17:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842601861825937548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842601861825937548",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842581303558066246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下午，我被家長接走了，而眠墨仍然留著派出所等待。\n回家路上，派出所打來電話，通知我眠墨陷入昏迷。\n接下來幾天，我和家長疲於應對來自眠墨母親與派出所的電話。 有時我也可以在電話中和眠墨說一些話。 同時我也開始了40元/小時的助教工作。\n1月25日，潘來我家陪我。 她很可愛，並且幾乎一直在發情。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1842530921792331821",
+        "created_at": "2024-10-05T15:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T16:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842581303558066246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842581303558066246",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842579918401724534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "21日凌晨。眠墨吞下膠囊後服用喹硫平以期入眠，我則嘗試將自己吊死。\n兩小時後，眠墨無法入眠，我無法將自己吊死，於是我扶著眠墨打車前往附近醫院洗胃，我簽了字。\n洗胃結束後眠墨拒絕了進一步救治，我們回到酒店，在觀察幾小時後入眠。\n上午，房間被一群民警突入，我們被帶去了派出所等待家長接人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2725,
+          "following_count": 2621,
+          "like_count": 26437,
+          "listed_count": 7,
+          "tweet_count": 18329
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

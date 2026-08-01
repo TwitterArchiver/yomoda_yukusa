@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1934215187722359070",
+    "created_at": "2025-06-15T11:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T12:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934216441668247749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597945043251187712",
+          "start": 0,
+          "username": "Sorsacerba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934216441668247749",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934216337091629462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorsacerba 我都能开他妈的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1934215187722359070",
+        "created_at": "2025-06-15T11:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T12:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934216441668247749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597945043251187712",
+              "start": 0,
+              "username": "Sorsacerba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934216441668247749",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934216337091629462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorsacerba 我都能开他妈的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1934215187722359070",
+        "created_at": "2025-06-15T11:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T12:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934216337091629462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597945043251187712",
+              "start": 0,
+              "username": "Sorsacerba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934216337091629462",
+        "in_reply_to_user_id": "1597945043251187712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934215187722359070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorsacerba 中国小地方精神科真的不如招个精神病OD人开药算了，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2810,
+          "following_count": 2148,
+          "like_count": 28745,
+          "listed_count": 7,
+          "media_count": 1321,
+          "tweet_count": 19477
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "恋人 @Anastasia195113",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "Anastasia195113"
+              }
+            ]
+          }
+        },
+        "id": "1597945043251187712",
+        "location": "死全家也要笑",
+        "name": "Rayest",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904425712846819328/A0Whtylm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 722,
+          "like_count": 58728,
+          "listed_count": 8,
+          "media_count": 1202,
+          "tweet_count": 13578
+        },
+        "username": "Sorsacerba",
+        "verified": false
+      }
+    ]
+  }
+}

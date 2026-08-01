@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1833852826398998737",
+    "created_at": "2024-09-11T19:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T20:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833949407072731239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833949407072731239",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833852826398998737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 ニャー"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1833852826398998737",
+        "created_at": "2024-09-11T19:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T20:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833949407072731239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833949407072731239",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833852826398998737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 ニャー"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833852815254720512"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1833852826398998737",
+        "created_at": "2024-09-11T12:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T13:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833852826398998737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jaxcjcoqyd",
+              "end": 25,
+              "expanded_url": "https://twitter.com/hsn8086/status/1833852826398998737/photo/1",
+              "media_key": "3_1833852815254720512",
+              "start": 2,
+              "url": "https://t.co/jaxCjcoQYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833852826398998737",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 314,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😺 https://t.co/jaxCjcoQYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2720,
+          "following_count": 2592,
+          "like_count": 26250,
+          "listed_count": 7,
+          "tweet_count": 18169
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn!半角符号万岁!主人: @permanent_yin backup: https://t.co/Oug18Qj2wJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "permanent_yin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mastodon.social/@hsn8086",
+                "end": 67,
+                "expanded_url": "https://mastodon.social/@hsn8086",
+                "start": 44,
+                "url": "https://t.co/Oug18Qj2wJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh314.xyz",
+                "end": 23,
+                "expanded_url": "http://www.zh314.xyz",
+                "start": 0,
+                "url": "https://t.co/UXagT1hqJX"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1766387926320214177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 792,
+          "like_count": 33818,
+          "listed_count": 2,
+          "tweet_count": 4355
+        },
+        "url": "https://t.co/UXagT1hqJX",
+        "username": "hsn8086",
+        "verified": false
+      }
+    ]
+  }
+}

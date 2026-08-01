@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1831689307889005002",
+    "created_at": "2024-09-06T03:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T04:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831899367856554238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1769924206979166209",
+          "start": 0,
+          "username": "jingtao9153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831899367856554238",
+    "in_reply_to_user_id": "1769924206979166209",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831892482894008798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingtao9153 图中不是我，我是拍摄者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1831689307889005002",
+        "created_at": "2024-09-06T03:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T04:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831899367856554238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1769924206979166209",
+              "start": 0,
+              "username": "jingtao9153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831899367856554238",
+        "in_reply_to_user_id": "1769924206979166209",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831892482894008798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingtao9153 图中不是我，我是拍摄者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769924206979166209",
+        "conversation_id": "1831689307889005002",
+        "created_at": "2024-09-06T03:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T04:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831892482894008798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831892482894008798",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831689307889005002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 可以炒吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2696,
+          "following_count": 2577,
+          "like_count": 26195,
+          "listed_count": 7,
+          "tweet_count": 18134
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T03:10:05.000Z",
+        "description": "乃希は子供の時から今までとてもかかわい",
+        "id": "1769924206979166209",
+        "name": "のき",
+        "pinned_tweet_id": "1770061717286044102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829445757373739008/8CfgvQKq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 40,
+          "like_count": 81,
+          "listed_count": 1,
+          "tweet_count": 364
+        },
+        "username": "jingtao9153",
+        "verified": false
+      }
+    ]
+  }
+}

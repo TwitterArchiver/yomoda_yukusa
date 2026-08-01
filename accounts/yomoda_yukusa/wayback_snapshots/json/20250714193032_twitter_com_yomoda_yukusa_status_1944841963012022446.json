@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1944841963012022446",
+    "created_at": "2025-07-14T19:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T20:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944841963012022446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1833576737214763008",
+          "start": 3,
+          "username": "PsychoKokuon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944841963012022446",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944825857761272091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PsychoKokuon: OK I immediately fixed his hand and post again this because omori had 2 right hands anyway they so slayy💅💅💅💅💅\n笑死我了剛剛才發現牽著…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1816,
+        "media_key": "3_1944825854703624195",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv1oz4ua4AMqWFX.jpg",
+        "width": 1810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1944841963012022446",
+        "created_at": "2025-07-14T19:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T20:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944841963012022446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1833576737214763008",
+              "start": 3,
+              "username": "PsychoKokuon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944841963012022446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944825857761272091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PsychoKokuon: OK I immediately fixed his hand and post again this because omori had 2 right hands anyway they so slayy💅💅💅💅💅\n笑死我了剛剛才發現牽著…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944825854703624195"
+          ]
+        },
+        "author_id": "1833576737214763008",
+        "conversation_id": "1944825857761272091",
+        "created_at": "2025-07-14T18:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T19:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944825857761272091"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 135,
+              "tag": "OMORI"
+            },
+            {
+              "end": 154,
+              "start": 142,
+              "tag": "OMORIFANART"
+            },
+            {
+              "end": 170,
+              "start": 155,
+              "tag": "omorisunflower"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdTgDygGH3",
+              "end": 194,
+              "expanded_url": "https://x.com/PsychoKokuon/status/1944825857761272091/photo/1",
+              "media_key": "3_1944825854703624195",
+              "start": 171,
+              "url": "https://t.co/mdTgDygGH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944825857761272091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 474,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "OK I immediately fixed his hand and post again this because omori had 2 right hands anyway they so slayy💅💅💅💅💅\n笑死我了剛剛才發現牽著的手畫反了嚇得我趕緊改回來\n#OMORI #OMORIFANART #omorisunflower https://t.co/mdTgDygGH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 2156,
+          "like_count": 29344,
+          "listed_count": 7,
+          "media_count": 1342,
+          "tweet_count": 19683
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T18:42:31.000Z",
+        "description": "18/Nsfw alert!/Sunflower左右皆可Omosun左右固定/No politics/BF @OMORE47858045 /pfp by @lilac_aesthetic",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "OMORE47858045"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "lilac_aesthetic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kokuon.straw.page",
+                "end": 23,
+                "expanded_url": "https://kokuon.straw.page",
+                "start": 0,
+                "url": "https://t.co/MOqtMzU8le"
+              }
+            ]
+          }
+        },
+        "id": "1833576737214763008",
+        "location": "UTW",
+        "name": "Kokuon Araton",
+        "pinned_tweet_id": "1937569046087758306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853746718694924288/XU5C5mq8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3368,
+          "following_count": 303,
+          "like_count": 20937,
+          "listed_count": 13,
+          "media_count": 913,
+          "tweet_count": 10186
+        },
+        "url": "https://t.co/MOqtMzU8le",
+        "username": "PsychoKokuon",
+        "verified": false
+      }
+    ]
+  }
+}

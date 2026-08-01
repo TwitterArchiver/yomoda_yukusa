@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1936160848302756257",
+    "created_at": "2025-06-20T20:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T21:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936162445309182026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608034171456294912",
+          "start": 0,
+          "username": "wiopqwtrpp5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936162445309182026",
+    "in_reply_to_user_id": "1608034171456294912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936160848302756257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wiopqwtrpp5 我相信。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1936160848302756257",
+        "created_at": "2025-06-20T20:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T21:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936162445309182026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608034171456294912",
+              "start": 0,
+              "username": "wiopqwtrpp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936162445309182026",
+        "in_reply_to_user_id": "1608034171456294912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936160848302756257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wiopqwtrpp5 我相信。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608034171456294912",
+        "conversation_id": "1936160848302756257",
+        "created_at": "2025-06-20T20:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T21:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936160848302756257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936160848302756257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我开风扇会害怕 但是有的时候感觉特别安心\n我不用镜子我可以看见自己脸 你们相信吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 2148,
+          "like_count": 28788,
+          "listed_count": 7,
+          "media_count": 1332,
+          "tweet_count": 19542
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T09:36:46.000Z",
+        "description": "豆沙包上海松江\n如果你在我最糟糕的时候\n喜欢我 陪着我 那我真无话可讲\n我真会爱你一辈子\n 直到你不爱我的时候\n我想我还是会爱你 \n重度抑郁/重度焦虑症/双向情感障碍/心境障碍/精神障碍/精神分裂/分离障碍\n自用蜂鸟VPN\nhttps://t.co/XClbLa0Hlr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 135,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=YKcJQwQq",
+                "start": 112,
+                "url": "https://t.co/XClbLa0Hlr"
+              }
+            ]
+          }
+        },
+        "id": "1608034171456294912",
+        "location": "距离你54m",
+        "name": "豆沙包（一直回忆你爱我的时候 我就当在做梦 沉迷在里面 我愿意永远不要醒过来了 求解脱 成为小天使）",
+        "pinned_tweet_id": "1919023559864705113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929584102476599297/OraaQykl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 2089,
+          "like_count": 56223,
+          "listed_count": 9,
+          "media_count": 1880,
+          "tweet_count": 32826
+        },
+        "username": "wiopqwtrpp5",
+        "verified": false
+      }
+    ]
+  }
+}

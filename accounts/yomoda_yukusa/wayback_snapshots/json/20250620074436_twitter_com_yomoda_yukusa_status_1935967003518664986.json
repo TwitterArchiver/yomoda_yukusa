@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1935832089641042165",
+    "created_at": "2025-06-20T07:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T08:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935967003518664986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "878428930650161152",
+          "start": 0,
+          "username": "hakui_x"
+        },
+        {
+          "end": 25,
+          "id": "1484072544009347072",
+          "start": 9,
+          "username": "BelovedUren8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935967003518664986",
+    "in_reply_to_user_id": "878428930650161152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935913638084460966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hakui_x @BelovedUren8964 那时的话，在看电影，太幸福了，太兴奋了。于是我划了几刀，把他的脸和嘴摁在了我出血的伤口上。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1935832089641042165",
+        "created_at": "2025-06-20T07:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T08:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935967003518664986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "878428930650161152",
+              "start": 0,
+              "username": "hakui_x"
+            },
+            {
+              "end": 25,
+              "id": "1484072544009347072",
+              "start": 9,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935967003518664986",
+        "in_reply_to_user_id": "878428930650161152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935913638084460966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakui_x @BelovedUren8964 那时的话，在看电影，太幸福了，太兴奋了。于是我划了几刀，把他的脸和嘴摁在了我出血的伤口上。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "878428930650161152",
+        "conversation_id": "1935832089641042165",
+        "created_at": "2025-06-20T04:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T05:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935913638084460966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 31,
+              "id": "1484072544009347072",
+              "start": 15,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935913638084460966",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935832107282317740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa @BelovedUren8964 呃呃你们在做什么啊😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 2143,
+          "like_count": 28738,
+          "listed_count": 0,
+          "media_count": 1326,
+          "tweet_count": 19511
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-24T01:45:52.000Z",
+        "description": "(they/she) ｜一教日语的｜趣味垢：音ゲー／ボカロ／絵など｜ドラム初心者、一生バンドしてくれませんか",
+        "id": "878428930650161152",
+        "location": "@unihakui.bsky.social",
+        "name": "U&i★はくい🍥彡",
+        "pinned_tweet_id": "1846990947529511189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707623175541194752/uUdCdLIx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 1301,
+          "like_count": 9525,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 2498
+        },
+        "username": "hakui_x",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。\n💊oder 我支持为OD正名/这还用说吗，我是汉奸哪🇯🇵 / #台湾は国です🇹🇼 / 反男反女反跨反人类反一切",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 44,
+                "tag": "台湾は国です"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "1808346704829468916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801971387571277824/4_0eu45P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 415,
+          "like_count": 3459,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 2687
+        },
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

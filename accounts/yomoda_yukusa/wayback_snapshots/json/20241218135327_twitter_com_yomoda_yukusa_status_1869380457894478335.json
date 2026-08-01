@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1861265793134059661",
+    "created_at": "2024-12-18T13:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T14:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869380457894478335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822681763761577984",
+          "start": 0,
+          "username": "Demon_bladee"
+        },
+        {
+          "end": 30,
+          "id": "1652757998995927043",
+          "start": 14,
+          "username": "Strv_122_B_PLSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869380457894478335",
+    "in_reply_to_user_id": "1822681763761577984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869185711775334653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Demon_bladee @Strv_122_B_PLSS 她号怎么炸了"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [Strv_122_B_PLSS].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Strv_122_B_PLSS",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Strv_122_B_PLSS"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1861265793134059661",
+        "created_at": "2024-12-18T13:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T14:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869380457894478335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822681763761577984",
+              "start": 0,
+              "username": "Demon_bladee"
+            },
+            {
+              "end": 30,
+              "id": "1652757998995927043",
+              "start": 14,
+              "username": "Strv_122_B_PLSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869380457894478335",
+        "in_reply_to_user_id": "1822681763761577984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869185711775334653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Demon_bladee @Strv_122_B_PLSS 她号怎么炸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822681763761577984",
+        "conversation_id": "1861265793134059661",
+        "created_at": "2024-12-18T00:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T01:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869185711775334653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 31,
+              "id": "1652757998995927043",
+              "start": 15,
+              "username": "Strv_122_B_PLSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869185711775334653",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869175056653566195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa @Strv_122_B_PLSS 跳楼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2747,
+          "following_count": 2721,
+          "like_count": 26768,
+          "listed_count": 6,
+          "media_count": 1238,
+          "tweet_count": 18669
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T17:09:54.000Z",
+        "description": "诺克萨斯即将崛起!\n万物非主唯有真主。",
+        "id": "1822681763761577984",
+        "name": "手持巨斧的大将军",
+        "pinned_tweet_id": "1866355168717254858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867097660563554304/Ymd1oTkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 150,
+          "like_count": 2697,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 2127
+        },
+        "username": "Demon_bladee",
+        "verified": false
+      }
+    ]
+  }
+}

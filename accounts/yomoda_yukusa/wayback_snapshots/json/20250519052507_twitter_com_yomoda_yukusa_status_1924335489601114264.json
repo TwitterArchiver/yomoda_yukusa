@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1923940183365517459",
+    "created_at": "2025-05-19T05:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T06:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924335489601114264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1657175394267848704",
+          "start": 0,
+          "username": "Zh40Le1ZOOB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924335489601114264",
+    "in_reply_to_user_id": "1657175394267848704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924328212324290804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zh40Le1ZOOB 我拿去给其他人看了，她们也说好像（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1923940183365517459",
+        "created_at": "2025-05-19T05:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T06:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924335489601114264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1657175394267848704",
+              "start": 0,
+              "username": "Zh40Le1ZOOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924335489601114264",
+        "in_reply_to_user_id": "1657175394267848704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924328212324290804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zh40Le1ZOOB 我拿去给其他人看了，她们也说好像（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657175394267848704",
+        "conversation_id": "1923940183365517459",
+        "created_at": "2025-05-19T04:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T05:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924328212324290804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924328212324290804",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924327833578725632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2797,
+          "following_count": 2098,
+          "like_count": 28269,
+          "listed_count": 7,
+          "media_count": 1292,
+          "tweet_count": 19267
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "NixOS 用户，Nix Pure 原教旨主义者；反对 module system，拒绝 out of store symlink；讨厌 Home Manager，symlinkJoin makeWrapper 配置一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Zh40Le1ZOOB",
+                "end": 23,
+                "expanded_url": "https://github.com/Zh40Le1ZOOB",
+                "start": 0,
+                "url": "https://t.co/yxR4GeWz6U"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "nixpkgs#command_block | 暴打扭转机构教官进医院抢救的战神命令方块",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 384,
+          "like_count": 4847,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 3831
+        },
+        "url": "https://t.co/yxR4GeWz6U",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      }
+    ]
+  }
+}

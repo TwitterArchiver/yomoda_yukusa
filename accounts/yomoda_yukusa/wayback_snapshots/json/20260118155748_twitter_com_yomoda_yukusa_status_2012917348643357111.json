@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2012901564470661546",
+    "created_at": "2026-01-18T15:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T16:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012917348643357111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1423494052733874182",
+          "start": 0,
+          "username": "SaturnXVIII_Pan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012917348643357111",
+    "in_reply_to_user_id": "1423494052733874182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012916257822228527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaturnXVIII_Pan 这样，摸）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2012916257822228527].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2012916257822228527",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2012916257822228527"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2012901564470661546",
+        "created_at": "2026-01-18T15:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012917348643357111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1423494052733874182",
+              "start": 0,
+              "username": "SaturnXVIII_Pan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012917348643357111",
+        "in_reply_to_user_id": "1423494052733874182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012916257822228527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaturnXVIII_Pan 这样，摸）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2799,
+          "following_count": 2351,
+          "like_count": 32845,
+          "listed_count": 9,
+          "media_count": 1520,
+          "tweet_count": 21280
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T04:00:17.000Z",
+        "description": "Nothing ever lasts forever",
+        "id": "1423494052733874182",
+        "location": "Encke Gap, Rings of Saturn",
+        "name": "Pan🍥",
+        "pinned_tweet_id": "1670140488639455232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721862599686733824/2W8dEMkd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 532,
+          "like_count": 25457,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 9994
+        },
+        "username": "SaturnXVIII_Pan",
+        "verified": false
+      }
+    ]
+  }
+}

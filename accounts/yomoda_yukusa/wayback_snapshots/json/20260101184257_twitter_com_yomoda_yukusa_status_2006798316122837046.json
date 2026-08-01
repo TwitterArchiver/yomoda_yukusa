@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2006798316122837046",
+    "created_at": "2026-01-01T18:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T19:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006798316122837046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581478431274983424",
+          "start": 3,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006798316122837046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006797377345343920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhoynqi3: 焦虑症的一部纪录片里。\n政客坐在餐桌上吃饭，家人聊着很多主义和政府的东西，他安安静静地吃饭，一切都很平常。\n下楼梯，打算工作。看着窗外的树和街景，他突然崩溃了，出现濒死发作。\n这一幕给我的印象很深刻。\n唉。\n想到另一个纪录片里，抑郁症患安安静静地吃完…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2006798316122837046",
+        "created_at": "2026-01-01T18:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T19:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006798316122837046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581478431274983424",
+              "start": 3,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006798316122837046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006797377345343920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhoynqi3: 焦虑症的一部纪录片里。\n政客坐在餐桌上吃饭，家人聊着很多主义和政府的东西，他安安静静地吃饭，一切都很平常。\n下楼梯，打算工作。看着窗外的树和街景，他突然崩溃了，出现濒死发作。\n这一幕给我的印象很深刻。\n唉。\n想到另一个纪录片里，抑郁症患安安静静地吃完…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2006797377345343920",
+        "created_at": "2026-01-01T18:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T19:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006797377345343920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006797377345343920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "焦虑症的一部纪录片里。\n政客坐在餐桌上吃饭，家人聊着很多主义和政府的东西，他安安静静地吃饭，一切都很平常。\n下楼梯，打算工作。看着窗外的树和街景，他突然崩溃了，出现濒死发作。\n这一幕给我的印象很深刻。\n唉。\n想到另一个纪录片里，抑郁症患安安静静地吃完了饭，然后，平静地去到阳台。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2787,
+          "following_count": 2330,
+          "like_count": 32011,
+          "listed_count": 9,
+          "media_count": 1503,
+          "tweet_count": 21089
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "1976511377679487385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3932,
+          "following_count": 188,
+          "like_count": 29570,
+          "listed_count": 17,
+          "media_count": 305,
+          "tweet_count": 6956
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1964248445650084320",
+    "created_at": "2025-09-10T14:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T15:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965780873703522801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1935436306894798848",
+          "start": 0,
+          "username": "proklyataydoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965780873703522801",
+    "in_reply_to_user_id": "1935436306894798848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965433350153535893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@proklyataydoll 谢谢你，一切都很糟，但还没有遭到头，我还能活下去，谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1964248445650084320",
+        "created_at": "2025-09-10T14:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T15:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965780873703522801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1935436306894798848",
+              "start": 0,
+              "username": "proklyataydoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965780873703522801",
+        "in_reply_to_user_id": "1935436306894798848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965433350153535893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@proklyataydoll 谢谢你，一切都很糟，但还没有遭到头，我还能活下去，谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935436306894798848",
+        "conversation_id": "1964248445650084320",
+        "created_at": "2025-09-09T15:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T16:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965433350153535893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965433350153535893",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965403267783180575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 你不认识我，但我看了你的资料，心里很关心你。我没有任何恶意，只希望你一切都好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2789,
+          "following_count": 2217,
+          "like_count": 29594,
+          "listed_count": 9,
+          "media_count": 1359,
+          "tweet_count": 19914
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T20:35:58.000Z",
+        "description": ":¨ ·.· ¨: ᧉɗեա𑀱 ҂ຣꚕեա𑀱 `· . ୨୧♡₊˚🦢‧☼⋆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fatphobic.com",
+                "end": 23,
+                "expanded_url": "http://fatphobic.com",
+                "start": 0,
+                "url": "https://t.co/7gn9TuHlSn"
+              }
+            ]
+          }
+        },
+        "id": "1935436306894798848",
+        "location": "cw: 43kg/gw: 38kg/hw: 48kg ",
+        "name": "꒰ঌ♡໒꒱ проклятаякукла 🍄꒱ (-1/5)",
+        "pinned_tweet_id": "1937664483045879813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936526720644853760/1-FyaEvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 29,
+          "like_count": 1039,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 344
+        },
+        "url": "https://t.co/7gn9TuHlSn",
+        "username": "proklyataydoll",
+        "verified": false
+      }
+    ]
+  }
+}

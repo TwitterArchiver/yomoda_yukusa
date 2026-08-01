@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042376405455896576"
+      ],
+      "media_source_tweet_id": [
+        "2042467610399584505"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042813036352934300",
+    "created_at": "2026-04-11T03:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T04:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042813036352934300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kjoVYabFkj",
+          "end": 71,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2042467610399584505/photo/1",
+          "media_key": "3_2042376405455896576",
+          "start": 48,
+          "url": "https://t.co/kjoVYabFkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042813036352934300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 139
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042467610399584505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 7月起，南韩免费为所有女性提供卫生巾，不限收入与年龄。 https://t.co/kjoVYabFkj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2042376405455896576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFf6hRDWgAAC66P.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042376405455896576"
+          ],
+          "media_source_tweet_id": [
+            "2042467610399584505"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042813036352934300",
+        "created_at": "2026-04-11T03:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042813036352934300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjoVYabFkj",
+              "end": 71,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2042467610399584505/photo/1",
+              "media_key": "3_2042376405455896576",
+              "start": 48,
+              "url": "https://t.co/kjoVYabFkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042813036352934300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 139
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042467610399584505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 7月起，南韩免费为所有女性提供卫生巾，不限收入与年龄。 https://t.co/kjoVYabFkj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042376405455896576"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042467610399584505",
+        "created_at": "2026-04-10T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042467610399584505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjoVYabFkj",
+              "end": 51,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2042467610399584505/photo/1",
+              "media_key": "3_2042376405455896576",
+              "start": 28,
+              "url": "https://t.co/kjoVYabFkj"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1861328883632742785",
+              "start": 52,
+              "url": "https://t.co/ED9S4vPD2k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042467610399584505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 220990,
+          "like_count": 1813,
+          "quote_count": 30,
+          "reply_count": 194,
+          "retweet_count": 139
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861328883632742785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7月起，南韩免费为所有女性提供卫生巾，不限收入与年龄。 https://t.co/kjoVYabFkj https://t.co/ED9S4vPD2k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2811,
+          "following_count": 2381,
+          "like_count": 33533,
+          "listed_count": 9,
+          "media_count": 1612,
+          "tweet_count": 21974
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2041858598054064378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193704,
+          "following_count": 1027,
+          "like_count": 9401,
+          "listed_count": 8616,
+          "media_count": 45060,
+          "tweet_count": 52139
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

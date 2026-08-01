@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1826607253920891140",
+    "created_at": "2024-08-22T13:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T14:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826608126981976130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1381761619168874498",
+          "start": 0,
+          "username": "mtf97062273"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826608126981976130",
+    "in_reply_to_user_id": "1381761619168874498",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826607253920891140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtf97062273 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1826607253920891140",
+        "created_at": "2024-08-22T13:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T14:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826608126981976130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1381761619168874498",
+              "start": 0,
+              "username": "mtf97062273"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826608126981976130",
+        "in_reply_to_user_id": "1381761619168874498",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826607253920891140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtf97062273 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826607250032787459",
+            "3_1826607250485673984",
+            "3_1826607250632503297",
+            "3_1826607250682904576"
+          ]
+        },
+        "author_id": "1381761619168874498",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1826607253920891140",
+        "created_at": "2024-08-22T13:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T14:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826607253920891140"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "抽奖活动"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "买糖"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "药娘"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "丰胸"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "日雌"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "药商"
+            },
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "糖商"
+            },
+            {
+              "end": 166,
+              "start": 162,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "description": "🍭获取优惠活动，mtf公益科普推送，糖的图文介绍，最新店铺动态➡️点击加入Telegram 彩虹糖旗舰店订阅号频道 🍭欢迎加入Telegram电报群一起交流经验 🍭有任何疑问，如需要店铺自助下单疑难解答，mtf科普咨询，或者售后问题。点击私信店铺客服 🍭点击即可打开彩虹糖旗舰店网站在线选购下单 🍭糖店安卓版软件安装包 🍭点击查看糖店谐音名称选购方法对照表 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍...",
+              "display_url": "github.com/MtfCHSUGAR/CHS…",
+              "end": 130,
+              "expanded_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1825854715525214209/tUiEE9NJ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1825854715525214209/tUiEE9NJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 107,
+              "status": 200,
+              "title": "MTF买糖店铺【彩虹糖旗舰店】糖价表 糖谐音名称店铺选购方法 各种🍬的图文介绍用法用量和相关科普 · Issue #3 · MtfCHSUGAR/CHSUGAR-",
+              "unwound_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+              "url": "https://t.co/bkec3MQefJ"
+            },
+            {
+              "display_url": "pic.x.com/cl0kuayons",
+              "end": 190,
+              "expanded_url": "https://twitter.com/mtf97062273/status/1826607253920891140/photo/1",
+              "media_key": "3_1826607250032787459",
+              "start": 167,
+              "url": "https://t.co/Cl0kuayONs"
+            },
+            {
+              "display_url": "pic.x.com/cl0kuayons",
+              "end": 190,
+              "expanded_url": "https://twitter.com/mtf97062273/status/1826607253920891140/photo/1",
+              "media_key": "3_1826607250485673984",
+              "start": 167,
+              "url": "https://t.co/Cl0kuayONs"
+            },
+            {
+              "display_url": "pic.x.com/cl0kuayons",
+              "end": 190,
+              "expanded_url": "https://twitter.com/mtf97062273/status/1826607253920891140/photo/1",
+              "media_key": "3_1826607250632503297",
+              "start": 167,
+              "url": "https://t.co/Cl0kuayONs"
+            },
+            {
+              "display_url": "pic.x.com/cl0kuayons",
+              "end": 190,
+              "expanded_url": "https://twitter.com/mtf97062273/status/1826607253920891140/photo/1",
+              "media_key": "3_1826607250682904576",
+              "start": 167,
+              "url": "https://t.co/Cl0kuayONs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826607253920891140",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝本店四千五百关注！\n抽奖活动\n🎁买一送一，送出一盒日雌\n参与抽奖：关注+评论+转推（同时点赞本帖）就可以啦～\n抽奖方式：随机\n参与即有几率中奖\n中奖我将私信发日雌代金券，只需要再买一盒，买一送一。\n糖店买糖方法https://t.co/bkec3MQefJ\n\n#抽奖活动 #买糖 #药娘 #丰胸 #日雌 #药商 #糖商 #mtf https://t.co/Cl0kuayONs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2681,
+          "following_count": 2536,
+          "like_count": 25922,
+          "listed_count": 7,
+          "tweet_count": 18018
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-13T00:10:27.000Z",
+        "description": "MTF糖果屋店铺 https://t.co/iEy3PNdKTg \n糖店导航网页 糖价https://t.co/Kssys6LvMS\n🏳️‍⚧️tg交流群https://t.co/3DiFbWv20Q  mtf糖商 色谱龙  德补 雌贴 日雌 孕针 正品 🔞",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mtfshopcht.com",
+                "end": 32,
+                "expanded_url": "http://www.mtfshopcht.com",
+                "start": 9,
+                "url": "https://t.co/iEy3PNdKTg"
+              },
+              {
+                "display_url": "github.com/MtfCHSUGAR/CHS…",
+                "end": 66,
+                "expanded_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+                "start": 43,
+                "url": "https://t.co/Kssys6LvMS"
+              },
+              {
+                "display_url": "t.me/mtfshopchtqzd",
+                "end": 100,
+                "expanded_url": "https://t.me/mtfshopchtqzd",
+                "start": 77,
+                "url": "https://t.co/3DiFbWv20Q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/MtfCHSUGAR/CHS…",
+                "end": 23,
+                "expanded_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+                "start": 0,
+                "url": "https://t.co/Kssys6LvMS"
+              }
+            ]
+          }
+        },
+        "id": "1381761619168874498",
+        "location": "广州",
+        "name": "药商:彩虹糖旗舰店♥MTF凤凰糖果屋",
+        "pinned_tweet_id": "1819677170920493179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741296435285700608/NT-x35cr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4531,
+          "following_count": 1422,
+          "like_count": 464,
+          "listed_count": 16,
+          "tweet_count": 1008
+        },
+        "url": "https://t.co/Kssys6LvMS",
+        "username": "mtf97062273",
+        "verified": false
+      }
+    ]
+  }
+}

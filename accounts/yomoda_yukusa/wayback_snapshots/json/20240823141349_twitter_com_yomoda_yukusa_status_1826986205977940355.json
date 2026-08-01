@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1826687822851702847",
+    "created_at": "2024-08-23T14:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T15:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826986205977940355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1416141878689292288",
+          "start": 0,
+          "username": "QiaoXuYun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826986205977940355",
+    "in_reply_to_user_id": "1416141878689292288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826960644899475905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiaoXuYun 這又是什麼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1826687822851702847",
+        "created_at": "2024-08-23T14:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T15:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826986205977940355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1416141878689292288",
+              "start": 0,
+              "username": "QiaoXuYun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826986205977940355",
+        "in_reply_to_user_id": "1416141878689292288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826960644899475905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiaoXuYun 這又是什麼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416141878689292288",
+        "conversation_id": "1826687822851702847",
+        "created_at": "2024-08-23T12:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T13:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826960644899475905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826960644899475905",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826687822851702847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 建议用bbshow的修改版，非常强大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 2558,
+          "like_count": 26085,
+          "listed_count": 7,
+          "tweet_count": 18061
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-16T21:05:16.000Z",
+        "description": "大清帝国931支体研究院负责人\n大清帝国总统帝位天皇陛下\n大清帝国道家开道祖师\n大东亚清帝国统内洲长\n炎黄二帝之祖大清始祖\n大清帝国特级炼丹师\n大清帝国特别行动队总负责人\n大清帝国古武世家第一人\n大清帝国古武全国协会书记\n大清帝国龙组组长\n大清帝国复国英雄\n大清帝国宪法修订负责人\n大清帝国军部统帅\n大清帝国器官库分配权",
+        "id": "1416141878689292288",
+        "name": "山本习次郎🇨🇳🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1818183137031237837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740711649965965312/ofVh3uR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 16,
+          "like_count": 3682,
+          "listed_count": 1,
+          "tweet_count": 962
+        },
+        "username": "QiaoXuYun",
+        "verified": false
+      }
+    ]
+  }
+}

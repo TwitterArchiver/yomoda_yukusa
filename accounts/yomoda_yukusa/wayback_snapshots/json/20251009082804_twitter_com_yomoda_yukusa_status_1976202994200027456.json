@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976202983923978240"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1976193747395465712",
+    "created_at": "2025-10-09T08:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T09:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976202994200027456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894375325934784517",
+          "start": 0,
+          "username": "sword_1003"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qoJtXU0cCp",
+          "end": 47,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1976202994200027456/photo/1",
+          "media_key": "3_1976202983923978240",
+          "start": 24,
+          "url": "https://t.co/qoJtXU0cCp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976202994200027456",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976202539818418399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sword_1003 （似乎没有解释的必要） https://t.co/qoJtXU0cCp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976202983923978240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ziJLzbEAAP6yJ.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976202983923978240"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1976193747395465712",
+        "created_at": "2025-10-09T08:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T09:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976202994200027456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "sword_1003"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qoJtXU0cCp",
+              "end": 47,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1976202994200027456/photo/1",
+              "media_key": "3_1976202983923978240",
+              "start": 24,
+              "url": "https://t.co/qoJtXU0cCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976202994200027456",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976202539818418399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sword_1003 （似乎没有解释的必要） https://t.co/qoJtXU0cCp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1976193747395465712",
+        "created_at": "2025-10-09T08:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T09:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976202539818418399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "sword_1003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976202539818418399",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976201627918053524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sword_1003 啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 2287,
+          "like_count": 30209,
+          "listed_count": 10,
+          "media_count": 1383,
+          "tweet_count": 20134
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "一些花开在高高的树上，一些果结在深深的地下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sword_1003",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sword_1003",
+                "start": 0,
+                "url": "https://t.co/XsfLeAzBaa"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "name": "HongSword🚏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963640817748529152/rO-B39dJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 171,
+          "like_count": 10392,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 2518
+        },
+        "url": "https://t.co/XsfLeAzBaa",
+        "username": "sword_1003",
+        "verified": false
+      }
+    ]
+  }
+}

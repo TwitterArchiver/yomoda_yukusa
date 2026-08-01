@@ -1,0 +1,608 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983730571122720768"
+      ],
+      "media_source_tweet_id": [
+        "1983730778912780652"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "1983856708054331703",
+    "created_at": "2025-10-30T11:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T12:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983856708054331703"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 57,
+          "normalized_text": "魔法少女ノ魔女裁判",
+          "probability": 0.5253,
+          "start": 49,
+          "type": "Other"
+        },
+        {
+          "end": 65,
+          "normalized_text": "二階堂ヒロ",
+          "probability": 0.8163,
+          "start": 61,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 109,
+          "start": 104,
+          "tag": "まのさば"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1761599169066893312",
+          "start": 3,
+          "username": "13witch_Trials"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8DJh0x6W2y",
+          "end": 133,
+          "expanded_url": "https://x.com/13witch_Trials/status/1983730778912780652/photo/1",
+          "media_key": "3_1983730571122720768",
+          "start": 110,
+          "url": "https://t.co/8DJh0x6W2y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983856708054331703",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2837
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983730778912780652",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @13witch_Trials: ◆共犯特報◆\n\n株式会社グッドスマイルカンパニー様から\n「魔法少女ノ魔女裁判」より二階堂ヒロのねんどろいど化が決定しました。\n詳細については追ってお報せいたします。\n\n#まのさば https://t.co/8DJh0x6W2y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1983730571122720768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4egcbXaQAAE2Z0.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983730571122720768"
+          ],
+          "media_source_tweet_id": [
+            "1983730778912780652"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "1983856708054331703",
+        "created_at": "2025-10-30T11:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983856708054331703"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "魔法少女ノ魔女裁判",
+              "probability": 0.5253,
+              "start": 49,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "二階堂ヒロ",
+              "probability": 0.8163,
+              "start": 61,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 104,
+              "tag": "まのさば"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1761599169066893312",
+              "start": 3,
+              "username": "13witch_Trials"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DJh0x6W2y",
+              "end": 133,
+              "expanded_url": "https://x.com/13witch_Trials/status/1983730778912780652/photo/1",
+              "media_key": "3_1983730571122720768",
+              "start": 110,
+              "url": "https://t.co/8DJh0x6W2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983856708054331703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2837
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983730778912780652",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @13witch_Trials: ◆共犯特報◆\n\n株式会社グッドスマイルカンパニー様から\n「魔法少女ノ魔女裁判」より二階堂ヒロのねんどろいど化が決定しました。\n詳細については追ってお報せいたします。\n\n#まのさば https://t.co/8DJh0x6W2y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983730571122720768"
+          ]
+        },
+        "author_id": "1761599169066893312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "1983730778912780652",
+        "created_at": "2025-10-30T03:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T04:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983730778912780652"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "魔法少女ノ魔女裁判",
+              "probability": 0.5722,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "二階堂ヒロ",
+              "probability": 0.8189,
+              "start": 41,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "まのさば"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DJh0x6W2y",
+              "end": 113,
+              "expanded_url": "https://x.com/13witch_Trials/status/1983730778912780652/photo/1",
+              "media_key": "3_1983730571122720768",
+              "start": 90,
+              "url": "https://t.co/8DJh0x6W2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983730778912780652",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 502,
+          "impression_count": 425654,
+          "like_count": 9231,
+          "quote_count": 299,
+          "reply_count": 42,
+          "retweet_count": 2837
+        },
+        "reply_settings": "everyone",
+        "text": "◆共犯特報◆\n\n株式会社グッドスマイルカンパニー様から\n「魔法少女ノ魔女裁判」より二階堂ヒロのねんどろいど化が決定しました。\n詳細については追ってお報せいたします。\n\n#まのさば https://t.co/8DJh0x6W2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983852790356336640/EEujIE12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2790,
+          "following_count": 2332,
+          "like_count": 30745,
+          "listed_count": 10,
+          "media_count": 1410,
+          "tweet_count": 20383
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T03:49:14.000Z",
+        "description": "「Acacia（アカシア）」がお届けする魔法議論ミステリゲーム「魔法少女ノ魔女裁判」公式です。Steam版発売中。開発状況報告と公式アナウンスを行います。#まのさば\n\nYoutube：https://t.co/2vD4itw83M\nBooth：https://t.co/oPzbKCJDJO\n運営：@Acacia_offical_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 77,
+                "tag": "まのさば"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 165,
+                "start": 149,
+                "username": "Acacia_offical_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/uAqSn",
+                "end": 115,
+                "expanded_url": "https://x.gd/uAqSn",
+                "start": 92,
+                "url": "https://t.co/2vD4itw83M"
+              },
+              {
+                "display_url": "x.gd/PtVST",
+                "end": 145,
+                "expanded_url": "https://x.gd/PtVST",
+                "start": 122,
+                "url": "https://t.co/oPzbKCJDJO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manosaba.com",
+                "end": 23,
+                "expanded_url": "https://manosaba.com",
+                "start": 0,
+                "url": "https://t.co/3ri3J0EKXa"
+              }
+            ]
+          }
+        },
+        "id": "1761599169066893312",
+        "location": "シナリオ制作会社Re,AER",
+        "name": "魔法少女ノ魔女裁判 公式",
+        "pinned_tweet_id": "1946155490582602149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774974247125106688/8mB9zMiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200849,
+          "following_count": 52,
+          "like_count": 3649,
+          "listed_count": 312,
+          "media_count": 531,
+          "tweet_count": 988
+        },
+        "url": "https://t.co/3ri3J0EKXa",
+        "username": "13witch_Trials",
+        "verified": true
+      }
+    ]
+  }
+}

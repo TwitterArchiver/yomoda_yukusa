@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1954460786832666832",
+    "created_at": "2025-08-10T08:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T09:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954460786832666832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1815649539057201152",
+          "start": 3,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954460786832666832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954454333829091820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NankyuSeiichi: 我感觉你国精神科医生对地雷妹的治疗方案就是骗他们吃喹硫平，等他们吃成肥猪被赶出小圈子之后就变健全了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1954460786832666832",
+        "created_at": "2025-08-10T08:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T09:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954460786832666832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1815649539057201152",
+              "start": 3,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954460786832666832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954454333829091820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NankyuSeiichi: 我感觉你国精神科医生对地雷妹的治疗方案就是骗他们吃喹硫平，等他们吃成肥猪被赶出小圈子之后就变健全了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "1954454333829091820",
+        "created_at": "2025-08-10T08:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T09:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954454333829091820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954454333829091820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉你国精神科医生对地雷妹的治疗方案就是骗他们吃喹硫平，等他们吃成肥猪被赶出小圈子之后就变健全了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 2167,
+          "like_count": 29266,
+          "listed_count": 8,
+          "media_count": 1345,
+          "tweet_count": 19710
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "我对象@yeol_lisu/加速南墙、历史决议、混乱控制、敬畏之心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "yeol_lisu"
+              }
+            ]
+          }
+        },
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1931922221225890292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 1266,
+          "like_count": 21088,
+          "listed_count": 2,
+          "media_count": 608,
+          "tweet_count": 7420
+        },
+        "username": "NankyuSeiichi",
+        "verified": true
+      }
+    ]
+  }
+}

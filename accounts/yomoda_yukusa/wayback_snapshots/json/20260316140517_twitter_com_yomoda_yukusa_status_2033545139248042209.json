@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2033545110596849665"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "2033545139248042209",
+    "created_at": "2026-03-16T14:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T15:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033545139248042209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "2029494203315900416",
+          "start": 11,
+          "username": "SweetBunnyctue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EzH2UWfrkh",
+          "end": 73,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/2033545139248042209/video/1",
+          "media_key": "7_2033545110596849665",
+          "start": 50,
+          "url": "https://t.co/EzH2UWfrkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033545139248042209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "面基花絮（3月8日）\n@SweetBunnyctue \n（我只是刚出火车去找个地方临时放行李去了） https://t.co/EzH2UWfrkh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10212,
+        "height": 1280,
+        "media_key": "7_2033545110596849665",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2033545110596849665/pu/img/guLP8XvfL6_KSiKv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033545110596849665/pu/vid/avc1/320x568/NNfKFi3N8IMoyRMC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033545110596849665/pu/vid/avc1/480x852/Ytj9e8MrAe61xhQ9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033545110596849665/pu/vid/avc1/720x1280/-dUWUpA1m8ZpgKSV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2033545110596849665/pu/pl/pWrpY2SmsupLGtYO.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2033545110596849665"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "2033545139248042209",
+        "created_at": "2026-03-16T14:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033545139248042209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "2029494203315900416",
+              "start": 11,
+              "username": "SweetBunnyctue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EzH2UWfrkh",
+              "end": 73,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2033545139248042209/video/1",
+              "media_key": "7_2033545110596849665",
+              "start": 50,
+              "url": "https://t.co/EzH2UWfrkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033545139248042209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面基花絮（3月8日）\n@SweetBunnyctue \n（我只是刚出火车去找个地方临时放行李去了） https://t.co/EzH2UWfrkh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 2379,
+          "like_count": 33310,
+          "listed_count": 9,
+          "media_count": 1580,
+          "tweet_count": 21763
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T09:48:31.000Z",
+        "description": "✨ 努力努力的小coser，一隻個人勢小偶像✨\n🇭🇰常駐香港📍 港鐵大好📍廣州偶爾閃現📍\n🩷 🩷請先關注才能私信哦～攝影請踴躍私信騷擾！！👉🏻產出產出！！🩷🩷\n⚓️ 歡迎上艦🚪解锁福利🩷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kumabearlover",
+                "end": 23,
+                "expanded_url": "https://t.me/kumabearlover",
+                "start": 0,
+                "url": "https://t.co/KFRS7HJDRy"
+              }
+            ]
+          }
+        },
+        "id": "2029494203315900416",
+        "location": "粉丝频道✈️►►",
+        "name": "草莓兔叽🍓🐇",
+        "pinned_tweet_id": "2033390836323700803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029501873447981056/Cjj-M9xN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 61,
+          "like_count": 117,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/KFRS7HJDRy",
+        "username": "SweetBunnyctue",
+        "verified": true
+      }
+    ]
+  }
+}

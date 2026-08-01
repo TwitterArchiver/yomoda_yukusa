@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2010359291463582151",
+    "created_at": "2026-01-12T15:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T16:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010738098850980313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1834004198612238336",
+          "start": 0,
+          "username": "turningpointjpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010738098850980313",
+    "in_reply_to_user_id": "1834004198612238336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010359291463582151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@turningpointjpn 听口音像是石家庄我们村附近的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25766,
+        "height": 1080,
+        "media_key": "13_2010097716312072192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010097716312072192/img/MDerhNigpFpBCseR.jpg",
+        "public_metrics": {
+          "view_count": 3481964
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010097716312072192/vid/avc1/640x360/-d8YVI51rJ9HXxdV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010097716312072192/vid/avc1/1280x720/IIIuuDqgqPANLEUa.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010097716312072192/vid/avc1/480x270/bUw4AbTgWFDFKP4v.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010097716312072192/vid/avc1/1920x1080/PvMC5iMmpF0bAEt5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010097716312072192/pl/6mRl3wq4f7tBJuHm.m3u8?v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2010359291463582151",
+        "created_at": "2026-01-12T15:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T16:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010738098850980313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1834004198612238336",
+              "start": 0,
+              "username": "turningpointjpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010738098850980313",
+        "in_reply_to_user_id": "1834004198612238336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010359291463582151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@turningpointjpn 听口音像是石家庄我们村附近的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010097716312072192"
+          ],
+          "media_source_tweet_id": [
+            "2010097806384738763"
+          ]
+        },
+        "author_id": "1834004198612238336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2010359291463582151",
+        "created_at": "2026-01-11T14:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010359291463582151"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 102,
+              "normalized_text": "中国",
+              "probability": 0.6635,
+              "start": 101,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iLiozWwE9R",
+              "end": 139,
+              "expanded_url": "https://x.com/Ma_WuKong/status/2010097806384738763/video/1",
+              "media_key": "13_2010097716312072192",
+              "start": 116,
+              "url": "https://t.co/iLiozWwE9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010359291463582151",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1643,
+          "impression_count": 2466845,
+          "like_count": 9288,
+          "quote_count": 395,
+          "reply_count": 292,
+          "retweet_count": 1141
+        },
+        "reply_settings": "everyone",
+        "text": "悲報：未婚男性に中国式・結婚圧の洗礼🤣\n\n実家に帰省した青年、未婚と知った祖母が突然ダンスで攻撃。\n「結婚しろ」を連呼しながら腰を振る。\n\nさらに翌日、祖母が友達まで召集して包囲網完成。\n愛が重すぎる中国の“催婚文化”、容赦なし。\nhttps://t.co/iLiozWwE9R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 2350,
+          "like_count": 32713,
+          "listed_count": 9,
+          "media_count": 1512,
+          "tweet_count": 21213
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T23:01:15.000Z",
+        "description": "世界で起こる様々な情報をお届けします",
+        "id": "1834004198612238336",
+        "name": "TotalNewsWorld",
+        "pinned_tweet_id": "2010260395684938042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973159739082387456/nytf36bB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40307,
+          "following_count": 314,
+          "like_count": 1053,
+          "listed_count": 186,
+          "media_count": 1267,
+          "tweet_count": 2807
+        },
+        "username": "turningpointjpn",
+        "verified": true
+      }
+    ]
+  }
+}

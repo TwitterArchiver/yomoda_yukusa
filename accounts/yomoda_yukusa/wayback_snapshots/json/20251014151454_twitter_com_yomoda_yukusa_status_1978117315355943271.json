@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1978114150883868796",
+    "created_at": "2025-10-14T15:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T16:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978117315355943271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1354157392959660038",
+          "start": 0,
+          "username": "translate_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978117315355943271",
+    "in_reply_to_user_id": "1354157392959660038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978114150883868796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@translate_cn 但是翻译过来之后这里也不是美国（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_1978114140003594241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3OsVHAXcAE9EAz.jpg",
+        "width": 1531
+      },
+      {
+        "height": 2560,
+        "media_key": "3_1978114144445304833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3OsVXjWkAEpINy.jpg",
+        "width": 1397
+      },
+      {
+        "height": 900,
+        "media_key": "3_1978114148534804480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3OsVmyXYAAoHl2.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1978114150883868796",
+        "created_at": "2025-10-14T15:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978117315355943271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1354157392959660038",
+              "start": 0,
+              "username": "translate_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978117315355943271",
+        "in_reply_to_user_id": "1354157392959660038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978114150883868796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@translate_cn 但是翻译过来之后这里也不是美国（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978114140003594241",
+            "3_1978114144445304833",
+            "3_1978114148534804480"
+          ]
+        },
+        "author_id": "1354157392959660038",
+        "conversation_id": "1978114150883868796",
+        "created_at": "2025-10-14T15:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978114150883868796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "martinkhall: “twitblr: “Love this! Stay safe folks (x) ” I suggest changing that to: “I am invoking my right to remain silent. I am invoking my right to an attorney.” Current phrasing leaves too much...",
+              "display_url": "bread-and-roses-too.tumblr.com/post/712533052…",
+              "end": 54,
+              "expanded_url": "https://bread-and-roses-too.tumblr.com/post/712533052153348096/martinkhall-twitblr-love-this-stay-safe-folks",
+              "images": [
+                {
+                  "height": 633,
+                  "url": "https://pbs.twimg.com/news_img/1978114195184132096/btHfb23O?format=jpg&name=orig",
+                  "width": 500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1978114195184132096/btHfb23O?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "bread-and-roses-too",
+              "unwound_url": "https://bread-and-roses-too.tumblr.com/post/712533052153348096/martinkhall-twitblr-love-this-stay-safe-folks",
+              "url": "https://t.co/pxXEDnR9a4"
+            },
+            {
+              "description": "=== 我的律师推荐大家把这张提示贴在门内 === 请不要给警察开门。 请在门内和警察对话，记录当事警察的姓名、电话和所在警局。 如果警察有搜查令，请让警察把搜查令从门缝递过来。请仔细逐字逐句阅读搜查令，注意搜查令限定的搜查范围和搜查目的。不要靠门太近，警察可能会硬闯。如果警察硬闯，不要阻止。 在律师到来前，不要回答警察任何问题，不要与警察对话。请记住，和警察对话只会增加你的麻烦。 如果警察问你问题，请回复：“我将保持沉默。请不要妨碍我保持沉默，因为保持沉默是法律赋予我的权利。我将与我的律师沟通。请不要妨碍我与我的律师沟通，因为与律师沟通也是法律赋予我的权利。” 请记住在这几句话说完之后，不要再和警察说任何话。 source",
+              "display_url": "t.me/twitter_transl…",
+              "end": 82,
+              "expanded_url": "https://t.me/twitter_translate/29178",
+              "images": [
+                {
+                  "height": 240,
+                  "url": "https://pbs.twimg.com/news_img/1978114155971514368/P_DxM_Tl?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1978114155971514368/P_DxM_Tl?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 59,
+              "status": 200,
+              "title": "推特翻译",
+              "unwound_url": "https://t.me/twitter_translate/29178",
+              "url": "https://t.co/Whfg228x2v"
+            },
+            {
+              "display_url": "pic.x.com/kkmtEGoDOp",
+              "end": 106,
+              "expanded_url": "https://x.com/translate_cn/status/1978114150883868796/photo/1",
+              "media_key": "3_1978114140003594241",
+              "start": 83,
+              "url": "https://t.co/kkmtEGoDOp"
+            },
+            {
+              "display_url": "pic.x.com/kkmtEGoDOp",
+              "end": 106,
+              "expanded_url": "https://x.com/translate_cn/status/1978114150883868796/photo/1",
+              "media_key": "3_1978114144445304833",
+              "start": 83,
+              "url": "https://t.co/kkmtEGoDOp"
+            },
+            {
+              "display_url": "pic.x.com/kkmtEGoDOp",
+              "end": 106,
+              "expanded_url": "https://x.com/translate_cn/status/1978114150883868796/photo/1",
+              "media_key": "3_1978114148534804480",
+              "start": 83,
+              "url": "https://t.co/kkmtEGoDOp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978114150883868796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "=== 我的律师推荐大家把这张提示贴在门内 ===\n\n原文： https://t.co/pxXEDnR9a4\n翻译： https://t.co/Whfg228x2v https://t.co/kkmtEGoDOp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 2295,
+          "like_count": 30391,
+          "listed_count": 10,
+          "media_count": 1393,
+          "tweet_count": 20188
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T20:01:30.000Z",
+        "description": "这边是个人账号哦～ \n\n欢迎关注！欢迎贴贴！\n\n想要看我日常生活推的朋友请私信\n\n有意参与翻译的朋友请留言",
+        "id": "1354157392959660038",
+        "name": "推特翻译",
+        "pinned_tweet_id": "1856026041489498490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354668835484225540/azcPVoB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16200,
+          "following_count": 630,
+          "like_count": 906,
+          "listed_count": 97,
+          "media_count": 9118,
+          "tweet_count": 9700
+        },
+        "username": "translate_cn",
+        "verified": false
+      }
+    ]
+  }
+}

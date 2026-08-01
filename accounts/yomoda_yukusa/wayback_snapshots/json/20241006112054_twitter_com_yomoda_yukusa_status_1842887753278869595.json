@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1842887742667341824"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1842530921792331821",
+    "created_at": "2024-10-06T11:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T12:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842887753278869595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wxR8cuEn6m",
+          "end": 23,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1842887753278869595/photo/1",
+          "media_key": "3_1842887742667341824",
+          "start": 0,
+          "url": "https://t.co/wxR8cuEn6m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842887753278869595",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842577177990386154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/wxR8cuEn6m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 921,
+        "media_key": "3_1842887742667341824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZNAo06bwAABnHu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842887742667341824"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1842530921792331821",
+        "created_at": "2024-10-06T11:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T12:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842887753278869595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxR8cuEn6m",
+              "end": 23,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1842887753278869595/photo/1",
+              "media_key": "3_1842887742667341824",
+              "start": 0,
+              "url": "https://t.co/wxR8cuEn6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842887753278869595",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842577177990386154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/wxR8cuEn6m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1842530921792331821",
+        "created_at": "2024-10-05T14:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T15:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842577177990386154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842577177990386154",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842575881656819774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我們懷疑是影貓帶走了亞硝酸鈉，於是呼喚她過來一起找。三個人在整個房間都找不到亞硝酸鈉。\n在之前推君彼時，由於眠墨出現了驚恐，我餵她吃了一顆地西泮。\n我決定使用我們攜帶的其他藥品代替鈉鹽進行自殺，但眠墨不願意，聲稱是在吃下地西泮後就不想死了。\n我決定獨自自殺，抓起藥卻被二人摁在床上。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 2627,
+          "like_count": 26463,
+          "listed_count": 7,
+          "tweet_count": 18367
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

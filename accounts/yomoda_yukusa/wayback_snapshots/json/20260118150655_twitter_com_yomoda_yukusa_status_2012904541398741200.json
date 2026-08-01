@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2012853203449139539",
+    "created_at": "2026-01-18T15:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T16:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012904541398741200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535701819812462600",
+          "start": 0,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012904541398741200",
+    "in_reply_to_user_id": "1535701819812462600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012853203449139539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kenntnis22 王冠可以妈妈自己戴。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2012853199368073216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8XUf1XsAAUqOp.jpg",
+        "width": 851
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2012853203449139539",
+        "created_at": "2026-01-18T15:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012904541398741200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012904541398741200",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012853203449139539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 王冠可以妈妈自己戴。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012853199368073216"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012853203449139539",
+        "created_at": "2026-01-18T11:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T12:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012853203449139539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7kFMne6If",
+              "end": 39,
+              "expanded_url": "https://x.com/Kenntnis22/status/2012853203449139539/photo/1",
+              "media_key": "3_2012853199368073216",
+              "start": 16,
+              "url": "https://t.co/G7kFMne6If"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012853203449139539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 21606,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "好心办坏事，结果二桃杀三士了😧 https://t.co/G7kFMne6If"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2799,
+          "following_count": 2351,
+          "like_count": 32842,
+          "listed_count": 9,
+          "media_count": 1520,
+          "tweet_count": 21276
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2012738561808740758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48142,
+          "following_count": 368,
+          "like_count": 43079,
+          "listed_count": 232,
+          "media_count": 8768,
+          "tweet_count": 13572
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

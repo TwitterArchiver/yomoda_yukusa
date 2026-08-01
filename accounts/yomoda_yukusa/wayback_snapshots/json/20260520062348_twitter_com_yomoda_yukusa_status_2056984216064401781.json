@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2056725322863903205",
+    "created_at": "2026-05-20T06:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056984216064401781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1940622242381262848",
+          "start": 0,
+          "username": "Inoue_CxAAII"
+        },
+        {
+          "end": 28,
+          "id": "1593547850637791233",
+          "start": 14,
+          "username": "didengshengwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056984216064401781",
+    "in_reply_to_user_id": "1940622242381262848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056977320184041959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inoue_CxAAII @didengshengwu 已读……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2056725322863903205",
+        "created_at": "2026-05-20T06:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056984216064401781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1940622242381262848",
+              "start": 0,
+              "username": "Inoue_CxAAII"
+            },
+            {
+              "end": 28,
+              "id": "1593547850637791233",
+              "start": 14,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056984216064401781",
+        "in_reply_to_user_id": "1940622242381262848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056977320184041959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inoue_CxAAII @didengshengwu 已读……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940622242381262848",
+        "conversation_id": "2056725322863903205",
+        "created_at": "2026-05-20T05:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056977320184041959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593547850637791233",
+              "start": 0,
+              "username": "didengshengwu"
+            },
+            {
+              "end": 29,
+              "id": "1547247978565423105",
+              "start": 15,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056977320184041959",
+        "in_reply_to_user_id": "1593547850637791233",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056725322863903205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didengshengwu @yomoda_yukusa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 2397,
+          "like_count": 34080,
+          "listed_count": 9,
+          "media_count": 1638,
+          "tweet_count": 22305
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T04:03:08.000Z",
+        "description": "大梦方醒，永归主怀",
+        "id": "1940622242381262848",
+        "name": "井上 彩結樹 Inoue Sayuki ༒R.I.P.",
+        "pinned_tweet_id": "2052352435528843501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029202626315993095/w12DBvYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 164,
+          "like_count": 122,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1611
+        },
+        "username": "Inoue_CxAAII",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。致力于用走心的方式，输出有价值、有温度的内容。",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187709,
+          "following_count": 1342,
+          "like_count": 3305,
+          "listed_count": 756,
+          "media_count": 3904,
+          "tweet_count": 7290
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

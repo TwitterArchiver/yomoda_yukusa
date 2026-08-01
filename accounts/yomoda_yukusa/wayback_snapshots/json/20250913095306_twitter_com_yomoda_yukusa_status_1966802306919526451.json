@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1966447517861863777",
+    "created_at": "2025-09-13T09:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T10:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966802306919526451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484072544009347072",
+          "start": 0,
+          "username": "BelovedUren8964"
+        },
+        {
+          "end": 31,
+          "id": "1491549894066143233",
+          "start": 17,
+          "username": "Themistospace"
+        },
+        {
+          "end": 48,
+          "id": "1902129412503695361",
+          "start": 32,
+          "username": "whydoilovedoris"
+        },
+        {
+          "end": 60,
+          "id": "1892114014563598339",
+          "start": 49,
+          "username": "tyumen1871"
+        },
+        {
+          "end": 71,
+          "id": "1729436345913995265",
+          "start": 61,
+          "username": "p1NRed1_A"
+        },
+        {
+          "end": 83,
+          "id": "1736686097919569920",
+          "start": 72,
+          "username": "sesamesama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966802306919526451",
+    "in_reply_to_user_id": "1484072544009347072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966447517861863777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BelovedUren8964 @Themistospace @whydoilovedoris @tyumen1871 @p1NRed1_A @sesamesama 思索"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1966447514024112129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0o5mGbbcAEgsjr.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1966447517861863777",
+        "created_at": "2025-09-13T09:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T10:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966802306919526451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484072544009347072",
+              "start": 0,
+              "username": "BelovedUren8964"
+            },
+            {
+              "end": 31,
+              "id": "1491549894066143233",
+              "start": 17,
+              "username": "Themistospace"
+            },
+            {
+              "end": 48,
+              "id": "1902129412503695361",
+              "start": 32,
+              "username": "whydoilovedoris"
+            },
+            {
+              "end": 60,
+              "id": "1892114014563598339",
+              "start": 49,
+              "username": "tyumen1871"
+            },
+            {
+              "end": 71,
+              "id": "1729436345913995265",
+              "start": 61,
+              "username": "p1NRed1_A"
+            },
+            {
+              "end": 83,
+              "id": "1736686097919569920",
+              "start": 72,
+              "username": "sesamesama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966802306919526451",
+        "in_reply_to_user_id": "1484072544009347072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966447517861863777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BelovedUren8964 @Themistospace @whydoilovedoris @tyumen1871 @p1NRed1_A @sesamesama 思索"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966447514024112129"
+          ]
+        },
+        "author_id": "1484072544009347072",
+        "conversation_id": "1966447517861863777",
+        "created_at": "2025-09-12T10:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T11:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966447517861863777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1491549894066143233",
+              "start": 22,
+              "username": "Themistospace"
+            },
+            {
+              "end": 53,
+              "id": "1902129412503695361",
+              "start": 37,
+              "username": "whydoilovedoris"
+            },
+            {
+              "end": 71,
+              "id": "1892114014563598339",
+              "start": 60,
+              "username": "tyumen1871"
+            },
+            {
+              "end": 88,
+              "id": "1729436345913995265",
+              "start": 78,
+              "username": "p1NRed1_A"
+            },
+            {
+              "end": 100,
+              "id": "1736686097919569920",
+              "start": 89,
+              "username": "sesamesama"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 128,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1966103343618732033/B6GA59xy?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1966103343618732033/B6GA59xy?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 105,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/Qeo6rGlYX1"
+            },
+            {
+              "display_url": "pic.x.com/MYSyncrhVR",
+              "end": 152,
+              "expanded_url": "https://x.com/BelovedUren8964/status/1966447517861863777/photo/1",
+              "media_key": "3_1966447514024112129",
+              "start": 129,
+              "url": "https://t.co/MYSyncrhVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966447517861863777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Themistospace @whydoilovedoris\n👰 配偶: @tyumen1871\n👶 孩子: @p1NRed1_A @sesamesama\n\n➡️ https://t.co/Qeo6rGlYX1 https://t.co/MYSyncrhVR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 2218,
+          "like_count": 29633,
+          "listed_count": 9,
+          "media_count": 1362,
+          "tweet_count": 19940
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/💊oder 我支持为OD正名/这还用说吗，我是汉奸哪🇯🇵 / #台湾は国です🇹🇼 / 反男反女反跨反人类反一切/支那人没有一个无辜的",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 49,
+                "tag": "台湾は国です"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/RMci0J1xvd"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "1808346704829468916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940854805343125504/iG-giSXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 472,
+          "like_count": 4273,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 3153
+        },
+        "url": "https://t.co/RMci0J1xvd",
+        "username": "BelovedUren8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T23:09:59.000Z",
+        "description": "Now I know the perfect kiss is the kiss of death. —— New Order",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/78214420",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/78214420",
+                "start": 0,
+                "url": "https://t.co/Vd6vBPfATv"
+              }
+            ]
+          }
+        },
+        "id": "1491549894066143233",
+        "location": "🇺🇳",
+        "name": "Themisto space🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812745371598127104/UpyoBz2Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 480,
+          "like_count": 17538,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 2435
+        },
+        "url": "https://t.co/Vd6vBPfATv",
+        "username": "Themistospace",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T22:46:56.000Z",
+        "description": "",
+        "id": "1902129412503695361",
+        "name": "sili",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964051893573074944/Fn5FPWDQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 131,
+          "like_count": 8752,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1643
+        },
+        "username": "whydoilovedoris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  你有尝试变得真实吗?叫我 𝗞𝗮𝗶𝗿𝗼 就好ɪɴғᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "xX梅妻鹤子Xx",
+        "pinned_tweet_id": "1962443374633644505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958953550865981441/LtgazIls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 328,
+          "like_count": 38665,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1706
+        },
+        "username": "tyumen1871",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914538348674486272/IsPRXHXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 443,
+          "like_count": 1379,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 4677
+        },
+        "username": "p1NRed1_A",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T09:53:42.000Z",
+        "description": "我的一切：@Warden47119942/哲人王，你带我走吧😭/还是来个贴贴信标吧：🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Warden47119942"
+              }
+            ]
+          }
+        },
+        "id": "1736686097919569920",
+        "location": "上海",
+        "name": "meowdel",
+        "pinned_tweet_id": "1963868350377086979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955402202862006272/Xe2cFx2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 506,
+          "like_count": 19363,
+          "listed_count": 6,
+          "media_count": 35,
+          "tweet_count": 426
+        },
+        "username": "sesamesama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2019741591607427322",
+    "created_at": "2026-02-08T05:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T06:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020372056244912361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1437034228768595977",
+          "start": 0,
+          "username": "Kumamushi2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020372056244912361",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019741591607427322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kumamushi2021 爱你。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2019741591607427322",
+        "created_at": "2026-02-08T05:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T06:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020372056244912361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020372056244912361",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019741591607427322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 爱你。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2019741591607427322",
+        "created_at": "2026-02-06T11:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T12:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019741591607427322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019741591607427322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 340,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "14t氨酚羟考酮+8t阿普唑仑+普瑞巴林任意量+酒任意量  或许我会配昂丹司琼\n我不知道死亡概率  但只要能死，不管是呼吸抑制还是呛死我都无所谓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2825,
+          "following_count": 2373,
+          "like_count": 33107,
+          "listed_count": 9,
+          "media_count": 1550,
+          "tweet_count": 21489
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 101,
+          "like_count": 3676,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 1899
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

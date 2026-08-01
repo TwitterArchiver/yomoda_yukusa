@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2014554820481569231",
+    "created_at": "2026-01-23T04:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T05:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014555264427688230"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014555264427688230",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014554820481569231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骗你的 并没有一小时休息时间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2014554820481569231",
+        "created_at": "2026-01-23T04:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014555264427688230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014555264427688230",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014554820481569231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骗你的 并没有一小时休息时间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2014554820481569231",
+        "created_at": "2026-01-23T04:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014554820481569231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yomoda_yukusa/…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/yomoda_yukusa/status/2014540141784977805",
+              "start": 119,
+              "url": "https://t.co/LhnlkEPhoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014554820481569231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014540141784977805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "——橄榄菜老师请问我现在躺下睡觉的话是否能躺半个小时以上？您在十点多的时候就已经在开始独占我的电脑了。\n——我一个小时之后喊你。\n——您还要大概准备多久？\n——一个小时。\n——您打算一个小时之后把我叫醒后就立刻喂我咖啡和专吗？\n——对。 https://t.co/LhnlkEPhoN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2795,
+          "following_count": 2359,
+          "like_count": 32897,
+          "listed_count": 9,
+          "media_count": 1534,
+          "tweet_count": 21355
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

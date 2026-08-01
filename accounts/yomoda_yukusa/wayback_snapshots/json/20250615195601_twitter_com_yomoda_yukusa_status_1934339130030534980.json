@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934339127471923200"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1934189692888748118",
+    "created_at": "2025-06-15T19:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T20:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934339130030534980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "51627149",
+          "start": 0,
+          "username": "Cherub_www"
+        },
+        {
+          "end": 26,
+          "id": "1530703346901823488",
+          "start": 12,
+          "username": "penny_so_good"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VUO7nJWfFt",
+          "end": 67,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1934339130030534980/photo/1",
+          "media_key": "3_1934339127471923200",
+          "start": 44,
+          "url": "https://t.co/VUO7nJWfFt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934339130030534980",
+    "in_reply_to_user_id": "51627149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934228126881714319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cherub_www @penny_so_good 我不清楚你们那边有没有这种叫法啦 https://t.co/VUO7nJWfFt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934339127471923200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtgnMBgaYAASTqy.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934339127471923200"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1934189692888748118",
+        "created_at": "2025-06-15T19:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T20:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934339130030534980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "51627149",
+              "start": 0,
+              "username": "Cherub_www"
+            },
+            {
+              "end": 26,
+              "id": "1530703346901823488",
+              "start": 12,
+              "username": "penny_so_good"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VUO7nJWfFt",
+              "end": 67,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1934339130030534980/photo/1",
+              "media_key": "3_1934339127471923200",
+              "start": 44,
+              "url": "https://t.co/VUO7nJWfFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934339130030534980",
+        "in_reply_to_user_id": "51627149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934228126881714319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cherub_www @penny_so_good 我不清楚你们那边有没有这种叫法啦 https://t.co/VUO7nJWfFt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "51627149",
+        "conversation_id": "1934189692888748118",
+        "created_at": "2025-06-15T12:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T13:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934228126881714319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1530703346901823488",
+              "start": 0,
+              "username": "penny_so_good"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934228126881714319",
+        "in_reply_to_user_id": "1530703346901823488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 385,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934189692888748118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penny_so_good 要這麼說的話，竹筒飯不就更接近？\n一樣都有一層矽化合物外殼。\n\n而且敲開的時候有時會受傷 🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2808,
+          "following_count": 2147,
+          "like_count": 28752,
+          "listed_count": 7,
+          "media_count": 1323,
+          "tweet_count": 19481
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-28T02:32:15.000Z",
+        "description": "",
+        "id": "51627149",
+        "name": "Cherub_shiao",
+        "pinned_tweet_id": "1597104698221133825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852756149663334400/G8DCuSXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 3685,
+          "like_count": 200246,
+          "listed_count": 17,
+          "media_count": 1150,
+          "tweet_count": 38853
+        },
+        "username": "Cherub_www",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-29T00:11:49.000Z",
+        "description": "@studio_tsa一期生 沒有愛就世界末日 讓裴妮陪你玩~ 奇怪姊姊一枚 是個資深腐女 繪師@MAKAI2013 模型@RedSoda0213 綠茶室友@suki_luckybaby 商業合作 💌 tsastudio7@gmail.com\n連動合作 💌 tsastudio.vtuber@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "studio_tsa"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "username": "MAKAI2013"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "RedSoda0213"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "suki_luckybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCFZnI…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCFZnIzx5T0tGl0DMQb8yPjg?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/tJYO99JTPW"
+              }
+            ]
+          }
+        },
+        "id": "1530703346901823488",
+        "location": "陪你吃棉花糖 https://reurl.cc/8N081X",
+        "name": "裴妮大姊姊 penny VTuber 💎🍺 TSA 所屬 【SUPER】",
+        "pinned_tweet_id": "1877490539223978309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530848734791098370/lt7g0T3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14057,
+          "following_count": 1157,
+          "like_count": 12862,
+          "listed_count": 34,
+          "media_count": 1489,
+          "tweet_count": 6136
+        },
+        "url": "https://t.co/tJYO99JTPW",
+        "username": "penny_so_good",
+        "verified": true
+      }
+    ]
+  }
+}

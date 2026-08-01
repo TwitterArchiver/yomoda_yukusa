@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1908767043991855560",
+    "created_at": "2025-04-06T06:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T07:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908767137898053856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1253165636210978817",
+          "start": 0,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908767137898053856",
+    "in_reply_to_user_id": "1253165636210978817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908767043991855560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exusiai159 怀念广州了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1908767040267313152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn1NgpIbYAAoZfC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1908767039663333378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn1Ngm4bYAIRwpK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1908767040099540994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn1NgogbYAIxz76.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1908767043991855560",
+        "created_at": "2025-04-06T06:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T07:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908767137898053856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908767137898053856",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908767043991855560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 怀念广州了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908767040267313152",
+            "3_1908767039663333378",
+            "3_1908767040099540994"
+          ]
+        },
+        "author_id": "1253165636210978817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1908767043991855560",
+        "created_at": "2025-04-06T06:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T07:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908767043991855560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YrjHq0z004",
+              "end": 155,
+              "expanded_url": "https://x.com/Exusiai159/status/1908767043991855560/photo/1",
+              "media_key": "3_1908767040267313152",
+              "start": 132,
+              "url": "https://t.co/YrjHq0z004"
+            },
+            {
+              "display_url": "pic.x.com/YrjHq0z004",
+              "end": 155,
+              "expanded_url": "https://x.com/Exusiai159/status/1908767043991855560/photo/1",
+              "media_key": "3_1908767039663333378",
+              "start": 132,
+              "url": "https://t.co/YrjHq0z004"
+            },
+            {
+              "display_url": "pic.x.com/YrjHq0z004",
+              "end": 155,
+              "expanded_url": "https://x.com/Exusiai159/status/1908767043991855560/photo/1",
+              "media_key": "3_1908767040099540994",
+              "start": 132,
+              "url": "https://t.co/YrjHq0z004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908767043991855560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在广州吃的最后一顿，叉烧滑蛋饭\n出来坐地铁又来到嘉禾望岗，然后在人流的裹挟下坐上4号线去机场。\n待在广州的四天三夜，每一秒都很新鲜，见到了很多从来没见到的景色，尝了很多特色粤菜，面到了很多友善可爱的推友，也买到了自己喜欢的谷子，这是今年以来我度过的最难忘的时光。 https://t.co/YrjHq0z004"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2746,
+          "following_count": 2792,
+          "like_count": 27369,
+          "listed_count": 7,
+          "media_count": 1271,
+          "tweet_count": 19005
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "混吃等死大学牲，粥批，正太控，中推鹿野灸和能天使粉丝头子/头图来自剧毒的KCN老师/⚠️会转发正太黄推🔞，如有介意请不要关注/推特用来当日记本记录碎碎念/数码产品迷，Windows二合一爱好者/编程一生黑/拉黑政治歧视仇恨言论/有大量政治内容的账号恕不回fo/扩列可私信/避难所@Exusiai159_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "https://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/7uMHbOqbVv"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1853604123599622531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905504003678765057/ZCuNwwog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4076,
+          "following_count": 4914,
+          "like_count": 103795,
+          "listed_count": 8,
+          "media_count": 3119,
+          "tweet_count": 30033
+        },
+        "url": "https://t.co/7uMHbOqbVv",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

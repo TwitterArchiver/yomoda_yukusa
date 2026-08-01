@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986673959698661376"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1976193747395465712",
+    "created_at": "2025-11-07T05:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T06:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986673967223169138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1565591413282476033",
+          "start": 0,
+          "username": "sakanadesu0449"
+        },
+        {
+          "end": 42,
+          "id": "1662058783215087617",
+          "start": 28,
+          "username": "HacchiTheMaid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dvTtt1wyPG",
+          "end": 89,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1986673967223169138/photo/1",
+          "media_key": "3_1986673959698661376",
+          "start": 66,
+          "url": "https://t.co/dvTtt1wyPG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986673967223169138",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986673497779937691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakanadesu0449 终末旅行之东营，和安娜 @HacchiTheMaid ，在酒吧里吃外卖炒饭喝老板牛奶顺老板大蒜啃。 https://t.co/dvTtt1wyPG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986673959698661376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5IVcMRbgAA8gCo.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986673959698661376"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1976193747395465712",
+        "created_at": "2025-11-07T05:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T06:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986673967223169138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1565591413282476033",
+              "start": 0,
+              "username": "sakanadesu0449"
+            },
+            {
+              "end": 42,
+              "id": "1662058783215087617",
+              "start": 28,
+              "username": "HacchiTheMaid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvTtt1wyPG",
+              "end": 89,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1986673967223169138/photo/1",
+              "media_key": "3_1986673959698661376",
+              "start": 66,
+              "url": "https://t.co/dvTtt1wyPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986673967223169138",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986673497779937691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakanadesu0449 终末旅行之东营，和安娜 @HacchiTheMaid ，在酒吧里吃外卖炒饭喝老板牛奶顺老板大蒜啃。 https://t.co/dvTtt1wyPG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1976193747395465712",
+        "created_at": "2025-11-07T05:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T06:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986673497779937691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1565591413282476033",
+              "start": 0,
+              "username": "sakanadesu0449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986673497779937691",
+        "in_reply_to_user_id": "1565591413282476033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986663507405005178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakanadesu0449 那你很坏了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984486210988089345/XvAXq227_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2793,
+          "following_count": 2331,
+          "like_count": 30931,
+          "listed_count": 10,
+          "media_count": 1420,
+          "tweet_count": 20462
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T06:44:26.000Z",
+        "description": "誰より太陽を嫌うあたしはシーラカンス      \n比任何人都讨厌太阳的我是空棘鱼",
+        "id": "1565591413282476033",
+        "name": "魚",
+        "pinned_tweet_id": "1859245305360982293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779263333759385600/G6OBkG5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 1701,
+          "like_count": 11748,
+          "listed_count": 5,
+          "media_count": 2830,
+          "tweet_count": 21006
+        },
+        "username": "sakanadesu0449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。狗狗@Sorsacerba 姐姐@emiya436900 匿名提问https://t.co/FqhYHQnDQd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "emiya436900"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/anastasia195113",
+                "end": 66,
+                "expanded_url": "https://ngl.link/anastasia195113",
+                "start": 43,
+                "url": "https://t.co/FqhYHQnDQd"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi🏳️‍⚧️",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6744,
+          "following_count": 1954,
+          "like_count": 50879,
+          "listed_count": 16,
+          "media_count": 1122,
+          "tweet_count": 33799
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

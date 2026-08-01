@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1885144411090379247",
+    "created_at": "2025-01-31T11:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T12:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885293853466563049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721895937357004800",
+          "start": 0,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885293853466563049",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885144411090379247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strf_9040C 昨天我去电影院，手机设了静音，帕夏一个半小时给我打了三十四通电话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1885144411090379247",
+        "created_at": "2025-01-31T11:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T12:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885293853466563049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885293853466563049",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885144411090379247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 昨天我去电影院，手机设了静音，帕夏一个半小时给我打了三十四通电话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885144406426324992",
+            "3_1885144407521058819"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "1885144411090379247",
+        "created_at": "2025-01-31T01:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T02:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885144411090379247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WYBqBsyz9X",
+              "end": 71,
+              "expanded_url": "https://x.com/Strf_9040C/status/1885144411090379247/photo/1",
+              "media_key": "3_1885144406426324992",
+              "start": 48,
+              "url": "https://t.co/WYBqBsyz9X"
+            },
+            {
+              "display_url": "pic.x.com/WYBqBsyz9X",
+              "end": 71,
+              "expanded_url": "https://x.com/Strf_9040C/status/1885144411090379247/photo/1",
+              "media_key": "3_1885144407521058819",
+              "start": 48,
+              "url": "https://t.co/WYBqBsyz9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885144411090379247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4867,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我可趣你的吧大半夜睡着了没说声晚安被网友想着似了报警了\n睡醒爬起来一看被吓死了\n还以为被传唤了 https://t.co/WYBqBsyz9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2766,
+          "following_count": 2768,
+          "like_count": 26864,
+          "listed_count": 7,
+          "media_count": 1247,
+          "tweet_count": 18781
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869539059875618994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 1544,
+          "like_count": 4010,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

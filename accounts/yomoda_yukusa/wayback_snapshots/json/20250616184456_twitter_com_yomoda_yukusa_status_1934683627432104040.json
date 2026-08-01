@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1934683489649217550",
+    "created_at": "2025-06-16T18:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T19:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934683627432104040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1679118022861271040",
+          "start": 0,
+          "username": "Anarchmama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934683627432104040",
+    "in_reply_to_user_id": "1679118022861271040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934683489649217550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anarchmama 恐怖"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934683489649217550].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934683489649217550",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934683489649217550"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1934683489649217550",
+        "created_at": "2025-06-16T18:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T19:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934683627432104040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1679118022861271040",
+              "start": 0,
+              "username": "Anarchmama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934683627432104040",
+        "in_reply_to_user_id": "1679118022861271040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934683489649217550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anarchmama 恐怖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2806,
+          "following_count": 2146,
+          "like_count": 28768,
+          "listed_count": 7,
+          "media_count": 1323,
+          "tweet_count": 19488
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T13:18:46.000Z",
+        "description": "不過只是我而已",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.m.wikipedia.org/zh-cn/%E6%B3%9…",
+                "end": 23,
+                "expanded_url": "https://zh.m.wikipedia.org/zh-cn/%E6%B3%95%E5%9C%8B%E5%85%B1%E5%92%8C%E6%9B%86",
+                "start": 0,
+                "url": "https://t.co/CmQcbHcHDu"
+              }
+            ]
+          }
+        },
+        "id": "1679118022861271040",
+        "location": "末人之间",
+        "name": "纯氧",
+        "pinned_tweet_id": "1853776524786446415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930289519007608832/s1nC7cLh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 265,
+          "like_count": 3560,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 217
+        },
+        "url": "https://t.co/CmQcbHcHDu",
+        "username": "Anarchmama",
+        "verified": false
+      }
+    ]
+  }
+}

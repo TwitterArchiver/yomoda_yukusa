@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2043630585894359392",
+    "created_at": "2026-04-13T10:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043633541846847966"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043633541846847966",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043630585894359392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当我告诉护士我明天过生日："
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043630577035984896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxvLqRbQAAWkrN.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2043630585894359392",
+        "created_at": "2026-04-13T10:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043633541846847966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043633541846847966",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043630585894359392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当我告诉护士我明天过生日："
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043630577035984896"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "2043630585894359392",
+        "created_at": "2026-04-13T10:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043630585894359392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Esz2j2Voa2",
+              "end": 23,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2043630585894359392/photo/1",
+              "media_key": "3_2043630577035984896",
+              "start": 0,
+              "url": "https://t.co/Esz2j2Voa2"
+            },
+            {
+              "display_url": "x.com/yomoda_yukusa/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yomoda_yukusa/status/2043621503279972803",
+              "start": 24,
+              "url": "https://t.co/upB8xJiHCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043630585894359392",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043621503279972803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Esz2j2Voa2 https://t.co/upB8xJiHCF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2818,
+          "following_count": 2379,
+          "like_count": 33606,
+          "listed_count": 9,
+          "media_count": 1619,
+          "tweet_count": 22042
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2015672007422329275",
+    "created_at": "2026-01-26T06:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T07:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015672007422329275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1728656771735273472",
+          "start": 3,
+          "username": "amiercreer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015672007422329275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1765721690301219061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amiercreer: 聊斋中有个小故事，讲狐女婴宁，天真活泼，喜欢大笑，养她长大的母亲说婴宁 \"若不笑，当为全人〞\n后来婴宁与人类相恋，逐渐放弃身为狐女的各种法力，也渐渐地不笑了，果然成了个十全十美的人类妻子。\n读到这个故事时总是怅然，觉得婴宁的本性和她的笑容一起消失…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1765721678590705664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GIEagvCbAAAAv4S.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2015672007422329275",
+        "created_at": "2026-01-26T06:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T07:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015672007422329275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1728656771735273472",
+              "start": 3,
+              "username": "amiercreer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015672007422329275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1765721690301219061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amiercreer: 聊斋中有个小故事，讲狐女婴宁，天真活泼，喜欢大笑，养她长大的母亲说婴宁 \"若不笑，当为全人〞\n后来婴宁与人类相恋，逐渐放弃身为狐女的各种法力，也渐渐地不笑了，果然成了个十全十美的人类妻子。\n读到这个故事时总是怅然，觉得婴宁的本性和她的笑容一起消失…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1765721678590705664"
+          ]
+        },
+        "author_id": "1728656771735273472",
+        "conversation_id": "1765721690301219061",
+        "created_at": "2024-03-07T12:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-07T13:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1765721690301219061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSkMtjuhV8",
+              "end": 168,
+              "expanded_url": "https://x.com/aclockworkgrape/status/1765721690301219061/photo/1",
+              "media_key": "3_1765721678590705664",
+              "start": 145,
+              "url": "https://t.co/CSkMtjuhV8"
+            },
+            {
+              "display_url": "x.com/mybluerose00/s…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/mybluerose00/status/1757229540114575826",
+              "start": 169,
+              "url": "https://t.co/zWbTaQ4Lq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1765721690301219061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 219787,
+          "like_count": 201,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1757229540114575826",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "聊斋中有个小故事，讲狐女婴宁，天真活泼，喜欢大笑，养她长大的母亲说婴宁 \"若不笑，当为全人〞\n后来婴宁与人类相恋，逐渐放弃身为狐女的各种法力，也渐渐地不笑了，果然成了个十全十美的人类妻子。\n读到这个故事时总是怅然，觉得婴宁的本性和她的笑容一起消失了\n“欢迎来到安全无害的庸常世界”\n我绝不 https://t.co/CSkMtjuhV8 https://t.co/zWbTaQ4Lq7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 2361,
+          "like_count": 32934,
+          "listed_count": 9,
+          "media_count": 1540,
+          "tweet_count": 21402
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T06:07:58.000Z",
+        "description": "你既怕又何必想，你既想又何必怕@yannan74713我的幕后",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "yannan74713"
+              }
+            ]
+          }
+        },
+        "id": "1728656771735273472",
+        "name": "Hermaphroditus🎀",
+        "pinned_tweet_id": "1765721690301219061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893501220620509186/59T8Mbft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3699,
+          "following_count": 365,
+          "like_count": 13209,
+          "listed_count": 6,
+          "media_count": 737,
+          "tweet_count": 5853
+        },
+        "username": "amiercreer",
+        "verified": false
+      }
+    ]
+  }
+}

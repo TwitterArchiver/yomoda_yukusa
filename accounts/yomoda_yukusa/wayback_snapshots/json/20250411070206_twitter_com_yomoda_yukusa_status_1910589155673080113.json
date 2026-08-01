@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1910344995963560409",
+    "created_at": "2025-04-11T07:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T08:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910589155673080113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1821805480538525696",
+          "start": 0,
+          "username": "NekoChan6684816"
+        },
+        {
+          "end": 24,
+          "id": "1389190165566877699",
+          "start": 17,
+          "username": "amcje1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910589155673080113",
+    "in_reply_to_user_id": "1821805480538525696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910588251951554888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekoChan6684816 @amcje1 好吃的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1910344995963560409",
+        "created_at": "2025-04-11T07:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T08:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910589155673080113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1821805480538525696",
+              "start": 0,
+              "username": "NekoChan6684816"
+            },
+            {
+              "end": 24,
+              "id": "1389190165566877699",
+              "start": 17,
+              "username": "amcje1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910589155673080113",
+        "in_reply_to_user_id": "1821805480538525696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910588251951554888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekoChan6684816 @amcje1 好吃的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821805480538525696",
+        "conversation_id": "1910344995963560409",
+        "created_at": "2025-04-11T06:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T07:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910588251951554888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1389190165566877699",
+              "start": 0,
+              "username": "amcje1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910588251951554888",
+        "in_reply_to_user_id": "1389190165566877699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910567762373771268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amcje1 橄榄菜好吃吗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2741,
+          "following_count": 2794,
+          "like_count": 27434,
+          "listed_count": 6,
+          "media_count": 1273,
+          "tweet_count": 19030
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T07:07:37.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/NekoChan6684816",
+                "end": 23,
+                "expanded_url": "https://x.com/NekoChan6684816",
+                "start": 0,
+                "url": "https://t.co/ZitQIGLIUo"
+              }
+            ]
+          }
+        },
+        "id": "1821805480538525696",
+        "location": "Banned Accounts",
+        "name": "没力气咪的小猫咪",
+        "pinned_tweet_id": "1898717819686334549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821816382641901568/dkOVGNkt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 81,
+          "like_count": 1536,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 1570
+        },
+        "url": "https://t.co/ZitQIGLIUo",
+        "username": "NekoChan6684816",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-03T12:09:08.000Z",
+        "description": "https://t.co/Bcmy9MP61E\nhttps://t.co/xXi3oKo4E0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ganlancai",
+                "end": 23,
+                "expanded_url": "http://t.me/ganlancai",
+                "start": 0,
+                "url": "https://t.co/Bcmy9MP61E"
+              },
+              {
+                "display_url": "borecole.bsky.social",
+                "end": 47,
+                "expanded_url": "http://borecole.bsky.social",
+                "start": 24,
+                "url": "https://t.co/xXi3oKo4E0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hatateaya.github.io",
+                "end": 23,
+                "expanded_url": "https://hatateaya.github.io",
+                "start": 0,
+                "url": "https://t.co/z4FSwRpLQO"
+              }
+            ]
+          }
+        },
+        "id": "1389190165566877699",
+        "name": "橄榄菜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872947652662575106/McUAMGzN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 177,
+          "like_count": 17127,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 703
+        },
+        "url": "https://t.co/z4FSwRpLQO",
+        "username": "amcje1",
+        "verified": false
+      }
+    ]
+  }
+}

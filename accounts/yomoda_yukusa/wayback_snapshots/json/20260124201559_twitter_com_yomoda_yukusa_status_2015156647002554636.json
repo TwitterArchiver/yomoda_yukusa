@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2014383791251595421",
+    "created_at": "2026-01-24T20:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T21:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015156647002554636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1943804045036019712",
+          "start": 0,
+          "username": "oiyunia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015156647002554636",
+    "in_reply_to_user_id": "1943804045036019712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014383791251595421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oiyunia 药丸还是空格还是谁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2014383791251595421",
+        "created_at": "2026-01-24T20:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T21:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015156647002554636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1943804045036019712",
+              "start": 0,
+              "username": "oiyunia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015156647002554636",
+        "in_reply_to_user_id": "1943804045036019712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014383791251595421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oiyunia 药丸还是空格还是谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943804045036019712",
+        "conversation_id": "2014383791251595421",
+        "created_at": "2026-01-22T17:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014383791251595421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014383791251595421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很久没刷推了\n刚才刷到一个药娘的中推\n我想说\n药娘中推说讣告，听取骂声一片\n太典了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 2360,
+          "like_count": 32913,
+          "listed_count": 9,
+          "media_count": 1539,
+          "tweet_count": 21388
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T22:47:05.000Z",
+        "description": "互fo👉请留言and私信 ❗️｜木与俞=榆 ｜双相水仙｜寻安眠药同好｜喜静、喜发呆｜x纯当随手记发，随便监视🤡｜上课忙💢未及时回复，见谅",
+        "id": "1943804045036019712",
+        "name": "木与俞💤",
+        "pinned_tweet_id": "1997515234349928797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998504992681111557/YGN_s6RE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 15,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 320
+        },
+        "username": "oiyunia",
+        "verified": false
+      }
+    ]
+  }
+}

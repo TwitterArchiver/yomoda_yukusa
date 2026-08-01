@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2020905619205890300",
+    "created_at": "2026-02-10T17:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T18:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021268318556934533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659897439590158338",
+          "start": 0,
+          "username": "China3191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021268318556934533",
+    "in_reply_to_user_id": "1659897439590158338",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021236771216900252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@China3191 请我（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2020905619205890300",
+        "created_at": "2026-02-10T17:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T18:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021268318556934533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659897439590158338",
+              "start": 0,
+              "username": "China3191"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021268318556934533",
+        "in_reply_to_user_id": "1659897439590158338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021236771216900252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@China3191 请我（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659897439590158338",
+        "conversation_id": "2020905619205890300",
+        "created_at": "2026-02-10T14:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021236771216900252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021236771216900252",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020905619205890300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 快点把你的腋毛和阴毛用激光脱毛打一下啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2826,
+          "following_count": 2371,
+          "like_count": 33129,
+          "listed_count": 9,
+          "media_count": 1554,
+          "tweet_count": 21527
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T12:22:51.000Z",
+        "description": "雌堕力~~",
+        "id": "1659897439590158338",
+        "name": "时雨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1971055886937526675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860492618658119681/b0Xr7-UB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 369,
+          "like_count": 381,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 481
+        },
+        "username": "China3191",
+        "verified": false
+      }
+    ]
+  }
+}

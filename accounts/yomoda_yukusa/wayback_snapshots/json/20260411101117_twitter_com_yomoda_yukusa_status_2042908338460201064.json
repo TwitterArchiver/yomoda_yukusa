@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2042826913572692169",
+    "created_at": "2026-04-11T10:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042908338460201064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1498354035854053377",
+          "start": 0,
+          "username": "lijunyi87429205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042908338460201064",
+    "in_reply_to_user_id": "1498354035854053377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042837702664736772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lijunyi87429205 三重服丧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2042837657945018372",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmeBseakAQQIlq.jpg",
+        "width": 1842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2042826913572692169",
+        "created_at": "2026-04-11T10:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042908338460201064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042908338460201064",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042837702664736772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 三重服丧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042837657945018372"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2042826913572692169",
+        "created_at": "2026-04-11T05:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042837702664736772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ko6ppogzoP",
+              "end": 131,
+              "expanded_url": "https://x.com/lijunyi87429205/status/2042837702664736772/photo/1",
+              "media_key": "3_2042837657945018372",
+              "start": 108,
+              "url": "https://t.co/ko6ppogzoP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042837702664736772",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042826913572692169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "炽曾经与小克（cloude 小炽对她的ai的称呼）抱怨，水熊在离开前下单了小炽的画，留下了一幅永远无法交付的作品，小克说这是最“狡猾”的被记住的方式。而小炽也留给了我一幅无法完成的画，这是她从水熊那里学到的吗www https://t.co/ko6ppogzoP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2810,
+          "following_count": 2379,
+          "like_count": 33536,
+          "listed_count": 9,
+          "media_count": 1612,
+          "tweet_count": 21983
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 378,
+          "like_count": 59869,
+          "listed_count": 8,
+          "media_count": 38,
+          "tweet_count": 1456
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

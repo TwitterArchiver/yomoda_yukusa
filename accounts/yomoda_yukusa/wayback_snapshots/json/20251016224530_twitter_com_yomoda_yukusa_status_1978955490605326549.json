@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1978799732882657715",
+    "created_at": "2025-10-16T22:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T23:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978955490605326549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1803377544319610880",
+          "start": 0,
+          "username": "lngdeshlin52751"
+        },
+        {
+          "end": 28,
+          "id": "1621552410048237569",
+          "start": 17,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978955490605326549",
+    "in_reply_to_user_id": "1803377544319610880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978860478345396499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lngdeshlin52751 @amecandy_x 麦辣鸡翅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1978799732882657715",
+        "created_at": "2025-10-16T22:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T23:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978955490605326549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803377544319610880",
+              "start": 0,
+              "username": "lngdeshlin52751"
+            },
+            {
+              "end": 28,
+              "id": "1621552410048237569",
+              "start": 17,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978955490605326549",
+        "in_reply_to_user_id": "1803377544319610880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978860478345396499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lngdeshlin52751 @amecandy_x 麦辣鸡翅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803377544319610880",
+        "conversation_id": "1978799732882657715",
+        "created_at": "2025-10-16T16:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T17:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978860478345396499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978860478345396499",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978799732882657715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 麦乐鸡上面的那个袋子里是什么东西？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2778,
+          "following_count": 2295,
+          "like_count": 30416,
+          "listed_count": 10,
+          "media_count": 1393,
+          "tweet_count": 20199
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T10:41:38.000Z",
+        "description": "不要溺死在自以为是的真实中",
+        "id": "1803377544319610880",
+        "name": "Broken love of evil spirits",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803378855098392576/KvX1_N0y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 764,
+          "like_count": 9544,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 123
+        },
+        "username": "lngdeshlin52751",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "小雨·Rain-chan//07//坐标武汉的济南人//🇦🇺UNSW预科//爱好旅游//HRT 2022.07//家长党跨女🏳️‍⚧️//双相情感障碍//写文+搞oc//博客https://t.co/dUMlF40UdN去过日韩+俄罗斯//Vocaloid//P社游戏//无门槛，欢来聊天扩列",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz//",
+                "end": 110,
+                "expanded_url": "https://angelkawaii.xyz//",
+                "start": 87,
+                "url": "https://t.co/dUMlF40UdN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "武汉",
+        "name": "超绝最可爱 Rain 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3829,
+          "following_count": 1390,
+          "like_count": 20486,
+          "listed_count": 9,
+          "media_count": 689,
+          "tweet_count": 6602
+        },
+        "url": "https://t.co/Ul32kqFwEJ",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

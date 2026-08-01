@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1899125274589204968",
+    "created_at": "2025-03-10T15:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T16:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899125274589204968"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "药商"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1708705868261564416",
+          "start": 3,
+          "username": "mtfshopcht"
+        }
+      ],
+      "urls": [
+        {
+          "description": "店庆活动：单笔订单金额满800备注即可免费送抱枕 店铺访问密码：666888123 点击此处即可打开彩虹糖旗舰店网站在线选购下单 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️ ⬇️滑动浏览➡️mtf科普资料➡️糖价表➡️点击糖的名字查看糖店对应的谐音名称，用...",
+          "display_url": "github.com/MtfCHSUGAR/CHS…",
+          "end": 127,
+          "expanded_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/1896912489834831872/Y5-Kzi7u?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1896912489834831872/Y5-Kzi7u?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 104,
+          "status": 200,
+          "title": "MTF买糖店铺【彩虹糖旗舰店】糖价表 糖谐音名称店铺选购方法 各种🍬的图文介绍用法用量和相关科普 · Issue #3 · MtfCHSUGAR/CHSUGAR-",
+          "unwound_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+          "url": "https://t.co/rUY0tbuoNR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899125274589204968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899040995284791356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mtfshopcht: 庆祝本人srs变性一周年\n抽奖活动🎉\n🎁送出3盒日雌\n参与抽奖：关注+评论（同时点赞本帖）就可以啦～\n抽奖方式：随机\n富士日雌415/盒 促销\n🌈糖价表mtf科普和店铺买糖方法https://t.co/rUY0tbuoNR\n此活动真实有效\n#药商…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1899026137780826112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlqyNfmbsAAK3r0.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1899026137680171008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlqyNfOb0AAMBdz.jpg",
+        "width": 900
+      },
+      {
+        "height": 444,
+        "media_key": "3_1899026137789132800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlqyNfoacAAZUPc.jpg",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1899125274589204968",
+        "created_at": "2025-03-10T15:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T16:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899125274589204968"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "药商"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1708705868261564416",
+              "start": 3,
+              "username": "mtfshopcht"
+            }
+          ],
+          "urls": [
+            {
+              "description": "店庆活动：单笔订单金额满800备注即可免费送抱枕 店铺访问密码：666888123 点击此处即可打开彩虹糖旗舰店网站在线选购下单 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️ ⬇️滑动浏览➡️mtf科普资料➡️糖价表➡️点击糖的名字查看糖店对应的谐音名称，用...",
+              "display_url": "github.com/MtfCHSUGAR/CHS…",
+              "end": 127,
+              "expanded_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1896912489834831872/Y5-Kzi7u?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1896912489834831872/Y5-Kzi7u?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "MTF买糖店铺【彩虹糖旗舰店】糖价表 糖谐音名称店铺选购方法 各种🍬的图文介绍用法用量和相关科普 · Issue #3 · MtfCHSUGAR/CHSUGAR-",
+              "unwound_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+              "url": "https://t.co/rUY0tbuoNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899125274589204968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899040995284791356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mtfshopcht: 庆祝本人srs变性一周年\n抽奖活动🎉\n🎁送出3盒日雌\n参与抽奖：关注+评论（同时点赞本帖）就可以啦～\n抽奖方式：随机\n富士日雌415/盒 促销\n🌈糖价表mtf科普和店铺买糖方法https://t.co/rUY0tbuoNR\n此活动真实有效\n#药商…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899026137780826112",
+            "3_1899026137680171008",
+            "3_1899026137789132800"
+          ]
+        },
+        "author_id": "1708705868261564416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1899040995284791356",
+        "created_at": "2025-03-10T10:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T10:14:48.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899026141115297929",
+          "1899030082078781717",
+          "1899032327478514055",
+          "1899040995284791356"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "药商"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "糖商"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "药娘"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "mtf"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "日雌"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "土色"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "泰补"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "德孕"
+            },
+            {
+              "end": 157,
+              "start": 153,
+              "tag": "色谱龙"
+            },
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "抗雄"
+            },
+            {
+              "end": 165,
+              "start": 162,
+              "tag": "变性"
+            },
+            {
+              "end": 170,
+              "start": 166,
+              "tag": "hrt"
+            },
+            {
+              "end": 175,
+              "start": 171,
+              "tag": "跨性别"
+            }
+          ],
+          "urls": [
+            {
+              "description": "店庆活动：单笔订单金额满800备注即可免费送抱枕 店铺访问密码：666888123 点击此处即可打开彩虹糖旗舰店网站在线选购下单 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️ ⬇️滑动浏览➡️mtf科普资料➡️糖价表➡️点击糖的名字查看糖店对应的谐音名称，用...",
+              "display_url": "github.com/MtfCHSUGAR/CHS…",
+              "end": 111,
+              "expanded_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1896912489834831872/Y5-Kzi7u?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1896912489834831872/Y5-Kzi7u?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "MTF买糖店铺【彩虹糖旗舰店】糖价表 糖谐音名称店铺选购方法 各种🍬的图文介绍用法用量和相关科普 · Issue #3 · MtfCHSUGAR/CHSUGAR-",
+              "unwound_url": "https://github.com/MtfCHSUGAR/CHSUGAR-/issues/3",
+              "url": "https://t.co/rUY0tbuoNR"
+            },
+            {
+              "display_url": "pic.x.com/jgw0F4zN7l",
+              "end": 199,
+              "expanded_url": "https://x.com/mtfshopcht/status/1899040995284791356/photo/1",
+              "media_key": "3_1899026137780826112",
+              "start": 176,
+              "url": "https://t.co/jgw0F4zN7l"
+            },
+            {
+              "display_url": "pic.x.com/jgw0F4zN7l",
+              "end": 199,
+              "expanded_url": "https://x.com/mtfshopcht/status/1899040995284791356/photo/1",
+              "media_key": "3_1899026137680171008",
+              "start": 176,
+              "url": "https://t.co/jgw0F4zN7l"
+            },
+            {
+              "display_url": "pic.x.com/jgw0F4zN7l",
+              "end": 199,
+              "expanded_url": "https://x.com/mtfshopcht/status/1899040995284791356/photo/1",
+              "media_key": "3_1899026137789132800",
+              "start": 176,
+              "url": "https://t.co/jgw0F4zN7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899040995284791356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4570,
+          "like_count": 110,
+          "quote_count": 2,
+          "reply_count": 74,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝本人srs变性一周年\n抽奖活动🎉\n🎁送出3盒日雌\n参与抽奖：关注+评论（同时点赞本帖）就可以啦～\n抽奖方式：随机\n富士日雌415/盒 促销\n🌈糖价表mtf科普和店铺买糖方法https://t.co/rUY0tbuoNR\n此活动真实有效\n#药商 #糖商 #药娘 #mtf #日雌 #土色 #泰补 #德孕 #色谱龙 #抗雄 #变性 #hrt #跨性别 https://t.co/jgw0F4zN7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2768,
+          "following_count": 2800,
+          "like_count": 27215,
+          "listed_count": 8,
+          "media_count": 1263,
+          "tweet_count": 18926
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T04:50:06.000Z",
+        "description": "mtf买糖店铺请点下方github链接 糖价表在我置顶贴🌈糖店客服https://t.co/J99lTDYfro 🏳️‍⚧️hrt激素 医美保健 德国拜耳色针 土色50 土色100 土耳其比卡 老挝色谱龙 德补 泰补 久光雌贴  德国雌贴100型 富士日雌 孕针 孕丸 阳进堂美白丸 超级减肥套餐 水光针 美思满 护肝",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mtfshopcht",
+                "end": 56,
+                "expanded_url": "http://t.me/mtfshopcht",
+                "start": 33,
+                "url": "https://t.co/J99lTDYfro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/chtewm/chtdpew…",
+                "end": 23,
+                "expanded_url": "https://github.com/chtewm/chtdpewm/issues/1",
+                "start": 0,
+                "url": "https://t.co/k9QvbakTao"
+              }
+            ]
+          }
+        },
+        "id": "1708705868261564416",
+        "location": "深圳上海北京",
+        "name": "药商/糖商：彩虹糖旗舰店🏳️‍⚧️MTF凤凰糖果屋",
+        "pinned_tweet_id": "1894716642346852535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833416046327566339/T7IGovRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6345,
+          "following_count": 493,
+          "like_count": 253,
+          "listed_count": 12,
+          "media_count": 311,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/k9QvbakTao",
+        "username": "mtfshopcht",
+        "verified": true
+      }
+    ]
+  }
+}

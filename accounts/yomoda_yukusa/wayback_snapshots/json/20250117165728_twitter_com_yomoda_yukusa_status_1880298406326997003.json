@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1880296085438247114",
+    "created_at": "2025-01-17T16:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T17:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880298406326997003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880298406326997003",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880296085438247114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowCatherina 不给差评就好，一个差评五百块钱）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1880296085438247114",
+        "created_at": "2025-01-17T16:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T17:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880298406326997003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880298406326997003",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880296085438247114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina 不给差评就好，一个差评五百块钱）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1880296085438247114",
+        "created_at": "2025-01-17T16:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T17:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880296085438247114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880296085438247114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为我没接到外卖员电话，耽误了人家一个小时，刚开始打电话在阴阳我，但是我给了10块小费之后，态度180度大转弯，语气态度非常好。\n\n猫猫歪头，社会学样本+1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2761,
+          "following_count": 2759,
+          "like_count": 26893,
+          "listed_count": 6,
+          "media_count": 1245,
+          "tweet_count": 18739
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "20INFP｜⚠️是一只学不会说话和社交的小阿斯｜🐈/🏹/🚴/💻｜CS&EE&AM｜创业公司高管（逃）｜BA4RIO｜GPG pubKey: C1D9 84F0 BBA1 B3B9｜🏫Monash｜🚪50,啥也没有｜嗓音训练160CNY｜@carafutaba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 119,
+                "username": "carafutaba"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cntt.uk",
+                "end": 23,
+                "expanded_url": "http://cntt.uk",
+                "start": 0,
+                "url": "https://t.co/l3eIEXmMQf"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈",
+        "pinned_tweet_id": "1828895115416613251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859246464494661632/Jwof0TVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4965,
+          "following_count": 993,
+          "like_count": 41511,
+          "listed_count": 15,
+          "media_count": 1421,
+          "tweet_count": 15176
+        },
+        "url": "https://t.co/l3eIEXmMQf",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

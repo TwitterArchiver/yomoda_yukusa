@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1892186462747345270",
+    "created_at": "2025-02-19T12:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T13:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892189373439025316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1870442976377503744",
+          "start": 0,
+          "username": "misakixyg"
+        },
+        {
+          "end": 25,
+          "id": "1390652924481527810",
+          "start": 11,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892189373439025316",
+    "in_reply_to_user_id": "1870442976377503744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892189245349249152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakixyg @zqtlovekris99 高中时给我开了奥拉西坦胶囊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1892186462747345270",
+        "created_at": "2025-02-19T12:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T13:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892189373439025316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1870442976377503744",
+              "start": 0,
+              "username": "misakixyg"
+            },
+            {
+              "end": 25,
+              "id": "1390652924481527810",
+              "start": 11,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892189373439025316",
+        "in_reply_to_user_id": "1870442976377503744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892189245349249152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakixyg @zqtlovekris99 高中时给我开了奥拉西坦胶囊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870442976377503744",
+        "conversation_id": "1892186462747345270",
+        "created_at": "2025-02-19T12:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T13:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892189245349249152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892189245349249152",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892186462747345270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 毕竟是治老年痴呆的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2805,
+          "like_count": 27068,
+          "listed_count": 9,
+          "media_count": 1257,
+          "tweet_count": 18867
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T12:15:41.000Z",
+        "description": "三崎在极度奔溃中创建的第三个账号，大半夜把自己笑活 @mio1738468这个也是我哦超级可爱的主人@hjs_2403_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "mio1738468"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "hjs_2403_0"
+              }
+            ]
+          }
+        },
+        "id": "1870442976377503744",
+        "name": "三崎三世（",
+        "pinned_tweet_id": "1872886111066046714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883156061550747648/iNlSdsvH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 656,
+          "like_count": 4254,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 1399
+        },
+        "username": "misakixyg",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | PTSD/OD💊 | 系统内部混乱中 | INFP→INTP | 颜性浪漫倾向+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQ9Up"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（诚聘对象版）",
+        "pinned_tweet_id": "1891583197013504454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5784,
+          "following_count": 526,
+          "like_count": 16645,
+          "listed_count": 7,
+          "media_count": 1736,
+          "tweet_count": 14880
+        },
+        "url": "https://t.co/aHC44HQ9Up",
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

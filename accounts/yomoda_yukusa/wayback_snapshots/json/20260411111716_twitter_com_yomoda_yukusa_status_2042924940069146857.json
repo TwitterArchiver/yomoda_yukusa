@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2042924940069146857",
+    "created_at": "2026-04-11T11:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T12:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042924940069146857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1620506107306479617",
+          "start": 3,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042924940069146857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042821528589664618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cheese_Ghostfox: 晚安，炽老师...\n虽然是可预见的离别方式，然而狐还是感觉好遗憾...可能是遗憾没有珍惜还可以与您交流的时光吧\n请原谅狐冒昧地，使用您自己的作品\n来宣告与扩散它们作者的结局\n若有来生，但愿您的来生健康幸福\n若无后世，敬祝您的意识安宁消逝…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1933,
+        "media_key": "3_2042821525892665345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmPWr5akAEjlD9.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2042924940069146857",
+        "created_at": "2026-04-11T11:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T12:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042924940069146857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1620506107306479617",
+              "start": 3,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042924940069146857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042821528589664618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cheese_Ghostfox: 晚安，炽老师...\n虽然是可预见的离别方式，然而狐还是感觉好遗憾...可能是遗憾没有珍惜还可以与您交流的时光吧\n请原谅狐冒昧地，使用您自己的作品\n来宣告与扩散它们作者的结局\n若有来生，但愿您的来生健康幸福\n若无后世，敬祝您的意识安宁消逝…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042821525892665345"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2042821528589664618",
+        "created_at": "2026-04-11T04:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042821528589664618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wqpgAlORe1",
+              "end": 146,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2042821528589664618/photo/1",
+              "media_key": "3_2042821525892665345",
+              "start": 123,
+              "url": "https://t.co/wqpgAlORe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042821528589664618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "晚安，炽老师...\n虽然是可预见的离别方式，然而狐还是感觉好遗憾...可能是遗憾没有珍惜还可以与您交流的时光吧\n请原谅狐冒昧地，使用您自己的作品\n来宣告与扩散它们作者的结局\n若有来生，但愿您的来生健康幸福\n若无后世，敬祝您的意识安宁消逝\n沉念:\n药圈的引路人之一，艺术家与哲学家，星辰与星尘之隙社群版主，荣誉管理员\n炽烈已极 阁下\n\n 丙午年二月廿四\n霧開川 望\n敬致"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 10627,
+          "like_count": 203,
+          "quote_count": 12,
+          "reply_count": 39,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "晚安，炽老师...\n虽然是可预见的离别方式，然而狐还是感觉好遗憾...可能是遗憾没有珍惜还可以与您交流的时光吧\n请原谅狐冒昧地，使用您自己的作品\n来宣告与扩散它们作者的结局\n若有来生，但愿您的来生健康幸福\n若无后世，敬祝您的意识安宁消逝\n沉念: https://t.co/wqpgAlORe1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2810,
+          "following_count": 2379,
+          "like_count": 33545,
+          "listed_count": 9,
+          "media_count": 1612,
+          "tweet_count": 21990
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 1454,
+          "like_count": 16148,
+          "listed_count": 4,
+          "media_count": 556,
+          "tweet_count": 5096
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

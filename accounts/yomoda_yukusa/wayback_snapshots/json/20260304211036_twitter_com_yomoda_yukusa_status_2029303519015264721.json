@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2029303485431443544",
+    "created_at": "2026-03-04T21:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T22:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029303519015264721"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029303519015264721",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029303513168396752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以及，合作狩猎的魅魔！\n\n希望大家可以赏脸参加我们的离婚典礼（觉得没办成结婚典礼还是好可惜，所以办离婚典礼咯）\n\n最后我还想说，我家妹宝也很可爱，谢谢妹宝愿意一直等着我！在你的账号上夸妹宝，呼哈哈哈哈哈哈，你气归气好了，绝对不许删！\n\n另外，你有条原味内裤落我这了，我可以50出了吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2029300182505197568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCmFw6jbkAAjb0C.jpg",
+        "width": 3072
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2029300182542950400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCmFw6sboAA2wvS.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2029300837433126912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCmGXCWasAAG4er.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2029300838200688641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCmGXFNawAEGylv.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2029303485431443544",
+        "created_at": "2026-03-04T21:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T22:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029303519015264721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029303519015264721",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029303513168396752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以及，合作狩猎的魅魔！\n\n希望大家可以赏脸参加我们的离婚典礼（觉得没办成结婚典礼还是好可惜，所以办离婚典礼咯）\n\n最后我还想说，我家妹宝也很可爱，谢谢妹宝愿意一直等着我！在你的账号上夸妹宝，呼哈哈哈哈哈哈，你气归气好了，绝对不许删！\n\n另外，你有条原味内裤落我这了，我可以50出了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029300182505197568",
+            "3_2029300182542950400",
+            "3_2029300837433126912",
+            "3_2029300838200688641"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2029303485431443544",
+        "created_at": "2026-03-04T21:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T22:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029303513168396752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/etg7MfTReg",
+              "end": 173,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2029303513168396752/photo/1",
+              "media_key": "3_2029300182505197568",
+              "start": 150,
+              "url": "https://t.co/etg7MfTReg"
+            },
+            {
+              "display_url": "pic.x.com/etg7MfTReg",
+              "end": 173,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2029303513168396752/photo/1",
+              "media_key": "3_2029300182542950400",
+              "start": 150,
+              "url": "https://t.co/etg7MfTReg"
+            },
+            {
+              "display_url": "pic.x.com/etg7MfTReg",
+              "end": 173,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2029303513168396752/photo/1",
+              "media_key": "3_2029300837433126912",
+              "start": 150,
+              "url": "https://t.co/etg7MfTReg"
+            },
+            {
+              "display_url": "pic.x.com/etg7MfTReg",
+              "end": 173,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/2029303513168396752/photo/1",
+              "media_key": "3_2029300838200688641",
+              "start": 150,
+              "url": "https://t.co/etg7MfTReg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029303513168396752",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029303504284860747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "p17-p18好平价的餐馆\np19：你恐怖的睡相\np20：不知道在干嘛的你\n\n唔，我手机里都是在上海的回忆啦，你也挑点在广州的回忆嘛，用我的号发可以吗？\n\n我也许永远都做不成自己理想里与你喜欢的那种大姐姐了，但是还是很感谢你陪我一起走了这么久，那么远，一起经历了这么多。我们将永远会是事业上的伙伴。 https://t.co/etg7MfTReg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2829,
+          "following_count": 2380,
+          "like_count": 33188,
+          "listed_count": 9,
+          "media_count": 1569,
+          "tweet_count": 21666
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

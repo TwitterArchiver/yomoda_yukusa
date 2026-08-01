@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1999149714311438561",
+    "created_at": "2025-12-11T16:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T17:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999149714311438561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679118022861271040",
+          "start": 3,
+          "username": "Anarchmama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999149714311438561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994659039708692517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anarchmama: 菲德拉 我爱你。\n[沉默。]\n希波利特斯 为什么?\n菲德拉 你怪僻。忧郁、愤世嫉俗、尖刻、肥胖、颓废、任性。你白天整日地睡晚间整夜地看电视，你在宫里东游西撞,睡眼昏昏,对别人不管不顾。你痛苦着。我爱慕你。\n希波利特斯 不太合乎逻辑。\n菲德拉 爱没…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1999149714311438561",
+        "created_at": "2025-12-11T16:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999149714311438561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679118022861271040",
+              "start": 3,
+              "username": "Anarchmama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999149714311438561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994659039708692517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anarchmama: 菲德拉 我爱你。\n[沉默。]\n希波利特斯 为什么?\n菲德拉 你怪僻。忧郁、愤世嫉俗、尖刻、肥胖、颓废、任性。你白天整日地睡晚间整夜地看电视，你在宫里东游西撞,睡眼昏昏,对别人不管不顾。你痛苦着。我爱慕你。\n希波利特斯 不太合乎逻辑。\n菲德拉 爱没…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679118022861271040",
+        "conversation_id": "1994659039708692517",
+        "created_at": "2025-11-29T06:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994659039708692517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/newkitty412/st…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/newkitty412/status/1994364634414170427",
+              "start": 128,
+              "url": "https://t.co/FpIkeOJYqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994659039708692517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994364634414170427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "菲德拉 我爱你。\n[沉默。]\n希波利特斯 为什么?\n菲德拉 你怪僻。忧郁、愤世嫉俗、尖刻、肥胖、颓废、任性。你白天整日地睡晚间整夜地看电视，你在宫里东游西撞,睡眼昏昏,对别人不管不顾。你痛苦着。我爱慕你。\n希波利特斯 不太合乎逻辑。\n菲德拉 爱没有逻辑。 https://t.co/FpIkeOJYqx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 2322,
+          "like_count": 31481,
+          "listed_count": 9,
+          "media_count": 1459,
+          "tweet_count": 20728
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T13:18:46.000Z",
+        "description": "至上主義者和本能現實主義者，指派性別男，文藝b。黑色正方形只是黑色正方形。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.m.wikipedia.org/zh-cn/%E6%B3%9…",
+                "end": 23,
+                "expanded_url": "https://zh.m.wikipedia.org/zh-cn/%E6%B3%95%E5%9C%8B%E5%85%B1%E5%92%8C%E6%9B%86",
+                "start": 0,
+                "url": "https://t.co/b0g7kYnDrW"
+              }
+            ]
+          }
+        },
+        "id": "1679118022861271040",
+        "location": "末人之间",
+        "name": "纯氧",
+        "pinned_tweet_id": "1977457662444110074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930289519007608832/s1nC7cLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 293,
+          "like_count": 3945,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 246
+        },
+        "url": "https://t.co/b0g7kYnDrW",
+        "username": "Anarchmama",
+        "verified": false
+      }
+    ]
+  }
+}

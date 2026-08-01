@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1840733327583854592"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1840721899401433105",
+    "created_at": "2024-09-30T12:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T13:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840733330763120898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1680291377228259330",
+          "start": 0,
+          "username": "ryuusei0451"
+        },
+        {
+          "end": 27,
+          "id": "1688233455363219456",
+          "start": 13,
+          "username": "Susiethegamer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ao9wutcwbz",
+          "end": 55,
+          "expanded_url": "https://twitter.com/yomoda_yukusa/status/1840733330763120898/photo/1",
+          "media_key": "3_1840733327583854592",
+          "start": 32,
+          "url": "https://t.co/Ao9WutCWbz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840733330763120898",
+    "in_reply_to_user_id": "1680291377228259330",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840733184482230721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryuusei0451 @Susiethegamer 加粗？ https://t.co/Ao9WutCWbz"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1840733184482230721].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1840733184482230721",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1840733184482230721"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1840733327583854592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYuZNXTbwAAiH1k.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840733327583854592"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1840721899401433105",
+        "created_at": "2024-09-30T12:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T13:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840733330763120898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1680291377228259330",
+              "start": 0,
+              "username": "ryuusei0451"
+            },
+            {
+              "end": 27,
+              "id": "1688233455363219456",
+              "start": 13,
+              "username": "Susiethegamer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ao9wutcwbz",
+              "end": 55,
+              "expanded_url": "https://twitter.com/yomoda_yukusa/status/1840733330763120898/photo/1",
+              "media_key": "3_1840733327583854592",
+              "start": 32,
+              "url": "https://t.co/Ao9WutCWbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840733330763120898",
+        "in_reply_to_user_id": "1680291377228259330",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840733184482230721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryuusei0451 @Susiethegamer 加粗？ https://t.co/Ao9WutCWbz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2722,
+          "following_count": 2612,
+          "like_count": 26396,
+          "listed_count": 7,
+          "tweet_count": 18285
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T19:01:10.000Z",
+        "description": "於是她轉身離開，唯獨留下了她的人性。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/z4ymvFTkgF",
+                "end": 23,
+                "expanded_url": "https://discord.gg/z4ymvFTkgF",
+                "start": 0,
+                "url": "https://t.co/L8WugyPd2I"
+              }
+            ]
+          }
+        },
+        "id": "1680291377228259330",
+        "location": "Complexe de Babyloné",
+        "name": "文小姐如是說",
+        "pinned_tweet_id": "1834833471853748380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834833931092258817/WrSCcOP6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2551,
+          "following_count": 2615,
+          "like_count": 24757,
+          "listed_count": 6,
+          "tweet_count": 6797
+        },
+        "url": "https://t.co/L8WugyPd2I",
+        "username": "ryuusei0451",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "ヨルシカ◂Ⓘ▸/ゲーム🎮/カルピス🥛/小孩@acenanami/可爱姐姐@lum1neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "acenanami"
+              },
+              {
+                "end": 45,
+                "start": 36,
+                "username": "lum1neko"
+              }
+            ]
+          }
+        },
+        "id": "1688233455363219456",
+        "name": "都落ち",
+        "pinned_tweet_id": "1837849254397977009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840619030303981569/DdLGSger_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 836,
+          "like_count": 120265,
+          "listed_count": 4,
+          "tweet_count": 22550
+        },
+        "username": "Susiethegamer",
+        "verified": false
+      }
+    ]
+  }
+}

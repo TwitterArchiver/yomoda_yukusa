@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869344084235784192",
+        "3_1869344083094962176"
+      ],
+      "media_source_tweet_id": [
+        "1869344088295956831",
+        "1869344088295956831"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1869415649963028617",
+    "created_at": "2024-12-18T16:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T17:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869415649963028617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721895937357004800",
+          "start": 3,
+          "username": "Strf_9040C"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZYizEbrw8e",
+          "end": 100,
+          "expanded_url": "https://x.com/Strf_9040C/status/1869344088295956831/photo/1",
+          "media_key": "3_1869344084235784192",
+          "start": 77,
+          "url": "https://t.co/ZYizEbrw8e"
+        },
+        {
+          "display_url": "pic.x.com/ZYizEbrw8e",
+          "end": 100,
+          "expanded_url": "https://x.com/Strf_9040C/status/1869344088295956831/photo/1",
+          "media_key": "3_1869344083094962176",
+          "start": 77,
+          "url": "https://t.co/ZYizEbrw8e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869415649963028617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869344088295956831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Strf_9040C: 你们好，我是 Strv_122_B_PLSS 的二世\nStrf9040C\n爱我的话可以 V 我 50，支持瑞典国防军事业 https://t.co/ZYizEbrw8e"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "我的前世",
+        "height": 1920,
+        "media_key": "3_1869344084235784192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfE-ilfaEAA5ave.jpg",
+        "width": 872
+      },
+      {
+        "height": 628,
+        "media_key": "3_1869344083094962176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfE-ihPagAACzu-.jpg",
+        "width": 628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869344084235784192",
+            "3_1869344083094962176"
+          ],
+          "media_source_tweet_id": [
+            "1869344088295956831",
+            "1869344088295956831"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1869415649963028617",
+        "created_at": "2024-12-18T16:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T17:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869415649963028617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721895937357004800",
+              "start": 3,
+              "username": "Strf_9040C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZYizEbrw8e",
+              "end": 100,
+              "expanded_url": "https://x.com/Strf_9040C/status/1869344088295956831/photo/1",
+              "media_key": "3_1869344084235784192",
+              "start": 77,
+              "url": "https://t.co/ZYizEbrw8e"
+            },
+            {
+              "display_url": "pic.x.com/ZYizEbrw8e",
+              "end": 100,
+              "expanded_url": "https://x.com/Strf_9040C/status/1869344088295956831/photo/1",
+              "media_key": "3_1869344083094962176",
+              "start": 77,
+              "url": "https://t.co/ZYizEbrw8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869415649963028617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869344088295956831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Strf_9040C: 你们好，我是 Strv_122_B_PLSS 的二世\nStrf9040C\n爱我的话可以 V 我 50，支持瑞典国防军事业 https://t.co/ZYizEbrw8e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869344084235784192",
+            "3_1869344083094962176"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "1869344088295956831",
+        "created_at": "2024-12-18T11:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T12:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869344088295956831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZYizEbrw8e",
+              "end": 84,
+              "expanded_url": "https://x.com/Strf_9040C/status/1869344088295956831/photo/1",
+              "media_key": "3_1869344084235784192",
+              "start": 61,
+              "url": "https://t.co/ZYizEbrw8e"
+            },
+            {
+              "display_url": "pic.x.com/ZYizEbrw8e",
+              "end": 84,
+              "expanded_url": "https://x.com/Strf_9040C/status/1869344088295956831/photo/1",
+              "media_key": "3_1869344083094962176",
+              "start": 61,
+              "url": "https://t.co/ZYizEbrw8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869344088295956831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们好，我是 Strv_122_B_PLSS 的二世\nStrf9040C\n爱我的话可以 V 我 50，支持瑞典国防军事业 https://t.co/ZYizEbrw8e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2749,
+          "following_count": 2722,
+          "like_count": 26768,
+          "listed_count": 6,
+          "media_count": 1239,
+          "tweet_count": 18672
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。它还配备了空调，使机组人员在温暖的气候中部署时更加舒适",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "1869344088295956831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 62,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

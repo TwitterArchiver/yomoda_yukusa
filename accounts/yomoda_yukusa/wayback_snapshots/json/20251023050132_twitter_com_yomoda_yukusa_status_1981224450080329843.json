@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1981224447484055765",
+    "created_at": "2025-10-23T05:01:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T06:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981224450080329843"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1981224450080329843",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981224447484055765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来试工早班的人不是跑了就是调去晚班了\n从晚班调来上早班的人都又逃回去上晚班了\n\n因为大家都觉得\n我们这个班次的经理\n太 傻 逼 了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1981224447484055765",
+        "created_at": "2025-10-23T05:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T06:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981224450080329843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981224450080329843",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981224447484055765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来试工早班的人不是跑了就是调去晚班了\n从晚班调来上早班的人都又逃回去上晚班了\n\n因为大家都觉得\n我们这个班次的经理\n太 傻 逼 了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1981224447484055765",
+        "created_at": "2025-10-23T05:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T06:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981224447484055765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981224447484055765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我知道为什么我们店我们班次为什么这么缺人了\n因为大家都公认\n我们这个班次的经理\n太 傻 逼 了\n为什么经理一直抱怨晚班那么多人而早班没人\n为什么我明明经常看到有人来试工也时不时有新的人来上班但是我们的人手就是不增加新来的人也全都跑了\n因为大家都公认\n我们这个班次的经理\n太 傻 逼 了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 2320,
+          "like_count": 30541,
+          "listed_count": 10,
+          "media_count": 1399,
+          "tweet_count": 20274
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

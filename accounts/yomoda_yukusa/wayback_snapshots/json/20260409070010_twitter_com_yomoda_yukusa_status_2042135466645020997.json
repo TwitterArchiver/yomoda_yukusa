@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2042085480595124383",
+    "created_at": "2026-04-09T07:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042135466645020997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847025525610762240",
+          "start": 0,
+          "username": "KS_Nitori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042135466645020997",
+    "in_reply_to_user_id": "1847025525610762240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042108356391805096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KS_Nitori 真对不起，落魄至此。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2042085480595124383",
+        "created_at": "2026-04-09T07:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042135466645020997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847025525610762240",
+              "start": 0,
+              "username": "KS_Nitori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042135466645020997",
+        "in_reply_to_user_id": "1847025525610762240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042108356391805096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KS_Nitori 真对不起，落魄至此。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847025525610762240",
+        "conversation_id": "2042085480595124383",
+        "created_at": "2026-04-09T05:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042108356391805096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042108356391805096",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042085480595124383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa kamisama😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2815,
+          "following_count": 2381,
+          "like_count": 33501,
+          "listed_count": 9,
+          "media_count": 1610,
+          "tweet_count": 21952
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我荷取|\n备用账号： @KS_Nitori_1|\n双相？/ASD/不登校|\nmtf（HRT 20250611）|\nBI9CJE/尼康佬/机械/铁道/……（爱好广泛，但是都不精通QAQ）|\n东方/P社/少战/邦/……\n|2009～2026？\n内疚、矛盾、自责……发病时概率掉落奇怪的文本及血图。害怕被讨厌、抛弃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "KS_Nitori_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/k_nitori",
+                "end": 23,
+                "expanded_url": "http://t.me/k_nitori",
+                "start": 0,
+                "url": "https://t.co/8rmha2lEIU"
+              }
+            ]
+          }
+        },
+        "id": "1847025525610762240",
+        "location": "Xi'an, Shaanxi, China",
+        "name": "_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008188563092049923/XJF7Zd3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 1820,
+          "like_count": 12710,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 2425
+        },
+        "url": "https://t.co/8rmha2lEIU",
+        "username": "KS_Nitori",
+        "verified": false
+      }
+    ]
+  }
+}

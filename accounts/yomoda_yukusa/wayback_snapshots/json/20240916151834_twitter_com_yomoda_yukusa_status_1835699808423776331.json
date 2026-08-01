@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1835303298502729729"
+      ],
+      "media_source_tweet_id": [
+        "1835303321407779215"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1835699808423776331",
+    "created_at": "2024-09-16T15:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T16:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835699808423776331"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "OMORI"
+        },
+        {
+          "end": 36,
+          "start": 24,
+          "tag": "OMORIFANART"
+        },
+        {
+          "end": 47,
+          "start": 37,
+          "tag": "omorimari"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1272820672155144193",
+          "start": 3,
+          "username": "GGneverover"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qicqnuk74t",
+          "end": 71,
+          "expanded_url": "https://twitter.com/GGneverover/status/1835303321407779215/video/1",
+          "media_key": "7_1835303298502729729",
+          "start": 48,
+          "url": "https://t.co/QICQnuK74T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835699808423776331",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1028
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835303321407779215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GGneverover: #OMORI #OMORIFANART #omorimari https://t.co/QICQnuK74T"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11333,
+        "height": 720,
+        "media_key": "7_1835303298502729729",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1835303298502729729/pu/img/hKry4RoaIIMjIoNy.jpg",
+        "public_metrics": {
+          "view_count": 50221
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1835303298502729729/pu/vid/avc1/320x320/0dqn62hDm_7OM19O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1835303298502729729/pu/vid/avc1/540x540/MgYuicvxyU8eQKuS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1835303298502729729/pu/vid/avc1/720x720/EMW8p8Z4IXZWcT-N.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1835303298502729729/pu/pl/A0LWsvp9ZoBZBUmR.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1835303298502729729"
+          ],
+          "media_source_tweet_id": [
+            "1835303321407779215"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1835699808423776331",
+        "created_at": "2024-09-16T15:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T16:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835699808423776331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "OMORI"
+            },
+            {
+              "end": 36,
+              "start": 24,
+              "tag": "OMORIFANART"
+            },
+            {
+              "end": 47,
+              "start": 37,
+              "tag": "omorimari"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1272820672155144193",
+              "start": 3,
+              "username": "GGneverover"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qicqnuk74t",
+              "end": 71,
+              "expanded_url": "https://twitter.com/GGneverover/status/1835303321407779215/video/1",
+              "media_key": "7_1835303298502729729",
+              "start": 48,
+              "url": "https://t.co/QICQnuK74T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835699808423776331",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1028
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835303321407779215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GGneverover: #OMORI #OMORIFANART #omorimari https://t.co/QICQnuK74T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1835303298502729729"
+          ]
+        },
+        "author_id": "1272820672155144193",
+        "conversation_id": "1835303321407779215",
+        "created_at": "2024-09-15T13:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T14:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835303321407779215"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "OMORI"
+            },
+            {
+              "end": 19,
+              "start": 7,
+              "tag": "OMORIFANART"
+            },
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "omorimari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qicqnuk74t",
+              "end": 54,
+              "expanded_url": "https://twitter.com/GGneverover/status/1835303321407779215/video/1",
+              "media_key": "7_1835303298502729729",
+              "start": 31,
+              "url": "https://t.co/QICQnuK74T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835303321407779215",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1155,
+          "impression_count": 120203,
+          "like_count": 10265,
+          "quote_count": 102,
+          "reply_count": 50,
+          "retweet_count": 1028
+        },
+        "reply_settings": "everyone",
+        "text": "#OMORI #OMORIFANART #omorimari https://t.co/QICQnuK74T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2723,
+          "following_count": 2592,
+          "like_count": 26296,
+          "listed_count": 7,
+          "tweet_count": 18201
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-16T09:17:59.000Z",
+        "description": "破烂画手😗 中文/EN/少し日本語\n(  ´ 3`)Thank you for love me \nauthorized avatar and wallpaper\n头像/壁纸🉑",
+        "id": "1272820672155144193",
+        "name": "更更咲寒",
+        "pinned_tweet_id": "1834190409586933827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616180689413758976/z-gd3yxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 109,
+          "like_count": 531,
+          "listed_count": 6,
+          "tweet_count": 432
+        },
+        "username": "GGneverover",
+        "verified": false
+      }
+    ]
+  }
+}

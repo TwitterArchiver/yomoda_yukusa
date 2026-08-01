@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959224850108796929"
+      ]
+    },
+    "author_id": "1547247978565423105",
+    "conversation_id": "1959224857998348774",
+    "created_at": "2025-08-23T12:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T13:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959224857998348774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QtJWFkxNHv",
+          "end": 28,
+          "expanded_url": "https://x.com/yomoda_yukusa/status/1959224857998348774/photo/1",
+          "media_key": "3_1959224850108796929",
+          "start": 5,
+          "url": "https://t.co/QtJWFkxNHv"
+        },
+        {
+          "display_url": "x.com/yomoda_yukusa/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/yomoda_yukusa/status/1959221803429355693",
+          "start": 29,
+          "url": "https://t.co/5k5yFzxA2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959224857998348774",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959221803429355693",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦应景x https://t.co/QtJWFkxNHv https://t.co/5k5yFzxA2s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_1959224850108796929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzCQnunaUAEKYUp.jpg",
+        "width": 1436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959224850108796929"
+          ]
+        },
+        "author_id": "1547247978565423105",
+        "conversation_id": "1959224857998348774",
+        "created_at": "2025-08-23T12:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T13:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959224857998348774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QtJWFkxNHv",
+              "end": 28,
+              "expanded_url": "https://x.com/yomoda_yukusa/status/1959224857998348774/photo/1",
+              "media_key": "3_1959224850108796929",
+              "start": 5,
+              "url": "https://t.co/QtJWFkxNHv"
+            },
+            {
+              "display_url": "x.com/yomoda_yukusa/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/yomoda_yukusa/status/1959221803429355693",
+              "start": 29,
+              "url": "https://t.co/5k5yFzxA2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959224857998348774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959221803429355693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦应景x https://t.co/QtJWFkxNHv https://t.co/5k5yFzxA2s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1959221803429355693",
+        "created_at": "2025-08-23T11:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T12:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959221803429355693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959221803429355693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《死神来了》\n从前，有个小药娘，每天都在家里犯玉玉。\n一天，小药娘觉得十分无聊，就想了个捉弄大家寻开心的主意。小药娘打开手机，对着阳台下面拍了张照片。友跨人士与救助者们看到了推特急忙发起救援行动，他们边跑边喊：“冷静点，宝宝，我们来帮你！”\n小药娘哈哈大笑：“真有意思，你们上当了！”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2779,
+          "following_count": 2179,
+          "like_count": 29363,
+          "listed_count": 8,
+          "media_count": 1352,
+          "tweet_count": 19774
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

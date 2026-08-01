@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1826656166048653695",
+    "created_at": "2024-08-22T16:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T17:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826657033460089124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1701940632649089024",
+          "start": 0,
+          "username": "Chiak1nanami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826657033460089124",
+    "in_reply_to_user_id": "1701940632649089024",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826656166048653695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiak1nanami (摸藥藥)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1826656166048653695].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1826656166048653695",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1826656166048653695"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1826656166048653695",
+        "created_at": "2024-08-22T16:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T17:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826657033460089124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1701940632649089024",
+              "start": 0,
+              "username": "Chiak1nanami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826657033460089124",
+        "in_reply_to_user_id": "1701940632649089024",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826656166048653695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiak1nanami (摸藥藥)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2680,
+          "following_count": 2535,
+          "like_count": 25926,
+          "listed_count": 7,
+          "tweet_count": 18022
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T12:47:29.000Z",
+        "description": "温柔的人。……或许吧。这是我的垃圾箱。我会在这里丢垃圾……不然我要丢到哪去呢。表推：@Lanperouge1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "Lanperouge1"
+              }
+            ]
+          }
+        },
+        "id": "1701940632649089024",
+        "name": "超高校级的垃圾箱。",
+        "pinned_tweet_id": "1826656166048653695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789989690722193408/BP40HRi3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 75,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 70
+        },
+        "username": "Chiak1nanami",
+        "verified": false
+      }
+    ]
+  }
+}

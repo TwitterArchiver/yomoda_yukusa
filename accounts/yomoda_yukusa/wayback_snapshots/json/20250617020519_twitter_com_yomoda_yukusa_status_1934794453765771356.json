@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1934215187722359070",
+    "created_at": "2025-06-17T02:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T03:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934794453765771356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1286274860214128641",
+          "start": 0,
+          "username": "EricaGPT"
+        },
+        {
+          "end": 23,
+          "id": "1684788748582883328",
+          "start": 10,
+          "username": "Martim036145"
+        },
+        {
+          "end": 35,
+          "id": "1597945043251187712",
+          "start": 24,
+          "username": "Sorsacerba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934794453765771356",
+    "in_reply_to_user_id": "1286274860214128641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934791601160945854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EricaGPT @Martim036145 @Sorsacerba 好好笑"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934791601160945854].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934791601160945854",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934791601160945854"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1934215187722359070",
+        "created_at": "2025-06-17T02:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T03:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934794453765771356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1286274860214128641",
+              "start": 0,
+              "username": "EricaGPT"
+            },
+            {
+              "end": 23,
+              "id": "1684788748582883328",
+              "start": 10,
+              "username": "Martim036145"
+            },
+            {
+              "end": 35,
+              "id": "1597945043251187712",
+              "start": 24,
+              "username": "Sorsacerba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934794453765771356",
+        "in_reply_to_user_id": "1286274860214128641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934791601160945854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EricaGPT @Martim036145 @Sorsacerba 好好笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2808,
+          "following_count": 2147,
+          "like_count": 28784,
+          "listed_count": 7,
+          "media_count": 1323,
+          "tweet_count": 19496
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T12:20:07.000Z",
+        "description": "我没有叫Erica的其他账号，请注意辨别。永远在看着你👁️👁️@KoNya14056。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "KoNya14056"
+              }
+            ]
+          }
+        },
+        "id": "1286274860214128641",
+        "location": "利伯塔利亚",
+        "name": "𝐄𝐫𝐢𝐜𝐚小语言模型☝🏻",
+        "pinned_tweet_id": "1892869669570408956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877114294510432259/nkgKPwwL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 3517,
+          "like_count": 208592,
+          "listed_count": 5,
+          "media_count": 1341,
+          "tweet_count": 9450
+        },
+        "username": "EricaGPT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:52:13.000Z",
+        "description": "ftm/激素四年左右/酗酒时长两年半/大陆下水道粪蛆/赛博模拟社交机器/十年精神病患者/巨剑神教狂热皈依者/所有药娘的爸爸/菜刀剃头真男人🔪🙏🏻/啃老又恨老/间歇性想死",
+        "id": "1684788748582883328",
+        "name": "菜刀剃头教教主🏳️‍⚧️",
+        "pinned_tweet_id": "1783089954052284777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892816510894092288/wAtxave-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 940,
+          "like_count": 9456,
+          "listed_count": 1,
+          "media_count": 696,
+          "tweet_count": 3924
+        },
+        "username": "Martim036145",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T13:26:10.000Z",
+        "description": "恋人 @Anastasia195113",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "Anastasia195113"
+              }
+            ]
+          }
+        },
+        "id": "1597945043251187712",
+        "location": "死全家也要笑",
+        "name": "Rayest",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904425712846819328/A0Whtylm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 722,
+          "like_count": 58901,
+          "listed_count": 0,
+          "media_count": 1202,
+          "tweet_count": 13637
+        },
+        "username": "Sorsacerba",
+        "verified": false
+      }
+    ]
+  }
+}

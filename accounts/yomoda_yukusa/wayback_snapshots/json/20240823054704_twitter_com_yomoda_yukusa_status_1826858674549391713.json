@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1826687822851702847",
+    "created_at": "2024-08-23T05:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T06:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826858674549391713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "756662744414244864",
+          "start": 0,
+          "username": "FubukitoArare"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826858674549391713",
+    "in_reply_to_user_id": "756662744414244864",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826858516822597907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FubukitoArare 輕聊版已經寄了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1826687822851702847",
+        "created_at": "2024-08-23T05:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T06:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826858674549391713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "756662744414244864",
+              "start": 0,
+              "username": "FubukitoArare"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826858674549391713",
+        "in_reply_to_user_id": "756662744414244864",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826858516822597907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FubukitoArare 輕聊版已經寄了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "756662744414244864",
+        "conversation_id": "1826687822851702847",
+        "created_at": "2024-08-23T05:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T06:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826858516822597907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826858516822597907",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826858209656930735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 抱歉，没用过记错了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 2557,
+          "like_count": 26040,
+          "listed_count": 7,
+          "tweet_count": 18053
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-23T01:30:31.000Z",
+        "description": "私はもう二度とあの夏に戻れなくなったんだ！",
+        "id": "756662744414244864",
+        "location": "分からない",
+        "name": "Haru_Yk",
+        "pinned_tweet_id": "801384737965117440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161153013433552896/8yay3Unm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 556,
+          "like_count": 25867,
+          "listed_count": 5,
+          "tweet_count": 863
+        },
+        "username": "FubukitoArare",
+        "verified": false
+      }
+    ]
+  }
+}

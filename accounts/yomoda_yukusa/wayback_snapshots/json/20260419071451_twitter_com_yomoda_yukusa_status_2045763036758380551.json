@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2045763036758380551",
+    "created_at": "2026-04-19T07:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T08:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045763036758380551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045763036758380551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045761295450857911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: 我真的想不出来该写谁的名字 估计会思考半天把自己的写上去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2045763036758380551",
+        "created_at": "2026-04-19T07:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045763036758380551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045763036758380551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045761295450857911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: 我真的想不出来该写谁的名字 估计会思考半天把自己的写上去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2045761295450857911",
+        "created_at": "2026-04-19T07:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045761295450857911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dearemon/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/dearemon/status/2045486236446674973",
+              "start": 29,
+              "url": "https://t.co/dJNdoRZE9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045761295450857911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045486236446674973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的想不出来该写谁的名字 估计会思考半天把自己的写上去 https://t.co/dJNdoRZE9c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2830,
+          "following_count": 2384,
+          "like_count": 33716,
+          "listed_count": 9,
+          "media_count": 1624,
+          "tweet_count": 22111
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤︎ @noaayoyaoaya / ★ @amber_toffee / ʙᴏᴛ₁ @amber_digit / ʙᴏᴛ₂ @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 34,
+                "start": 21,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "amber_digit"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "amber_digit2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/qBX9bbnFOS"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️ 同类互fo",
+        "name": "amber.jellyfish",
+        "pinned_tweet_id": "2039558466700747226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2403,
+          "following_count": 829,
+          "like_count": 2674,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 1861
+        },
+        "url": "https://t.co/qBX9bbnFOS",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

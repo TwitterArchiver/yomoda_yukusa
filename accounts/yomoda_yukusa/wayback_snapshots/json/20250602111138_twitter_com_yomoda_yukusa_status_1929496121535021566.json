@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1929342220357824983",
+    "created_at": "2025-06-02T11:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T12:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929496121535021566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1161862918347972608",
+          "start": 0,
+          "username": "chen88888899"
+        },
+        {
+          "end": 28,
+          "id": "1717707158379454464",
+          "start": 14,
+          "username": "fang_danie121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929496121535021566",
+    "in_reply_to_user_id": "1161862918347972608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929380726698614849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen88888899 @fang_danie121 6，我要杀十个婴儿十个少年十个青年十个壮年和十个老年，你能不能给我个赦免，我能上天堂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1929342220357824983",
+        "created_at": "2025-06-02T11:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T12:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929496121535021566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1161862918347972608",
+              "start": 0,
+              "username": "chen88888899"
+            },
+            {
+              "end": 28,
+              "id": "1717707158379454464",
+              "start": 14,
+              "username": "fang_danie121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929496121535021566",
+        "in_reply_to_user_id": "1161862918347972608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929380726698614849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen88888899 @fang_danie121 6，我要杀十个婴儿十个少年十个青年十个壮年和十个老年，你能不能给我个赦免，我能上天堂。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1161862918347972608",
+        "conversation_id": "1929342220357824983",
+        "created_at": "2025-06-02T03:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T04:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929380726698614849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717707158379454464",
+              "start": 0,
+              "username": "fang_danie121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929380726698614849",
+        "in_reply_to_user_id": "1717707158379454464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1374,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929342220357824983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fang_danie121 我们新中国联邦不承认中共的任何法律！中共倒台后所有人将被赦免！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 2130,
+          "like_count": 28560,
+          "listed_count": 8,
+          "media_count": 1305,
+          "tweet_count": 19379
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-15T04:51:20.000Z",
+        "description": "洛杉矶天成农场的新中国联邦人。从七哥开始爆料第一天坚定跟随至今！消灭CCP是人类正义！",
+        "id": "1161862918347972608",
+        "location": "California, USA",
+        "name": "挺郭灭共总司令部",
+        "pinned_tweet_id": "1927622934690255189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857573781755043840/_Y8wEpEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14053,
+          "following_count": 5961,
+          "like_count": 369613,
+          "listed_count": 29,
+          "media_count": 3264,
+          "tweet_count": 180140
+        },
+        "username": "chen88888899",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-27T00:58:19.000Z",
+        "description": "投稿邮箱：danielfang121@gmail.com\n基督徒，自由职业者，异见份子，\n我的嘴除了赞美上帝，不会赞美任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCYlCl…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCYlCldblgb_12kAaOtbZvJQ",
+                "start": 0,
+                "url": "https://t.co/nAozTV7SZv"
+              }
+            ]
+          }
+        },
+        "id": "1717707158379454464",
+        "name": "Daniel Fang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772444057241063424/J8O3EnOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120129,
+          "following_count": 10366,
+          "like_count": 277649,
+          "listed_count": 492,
+          "media_count": 19146,
+          "tweet_count": 163988
+        },
+        "url": "https://t.co/nAozTV7SZv",
+        "username": "fang_danie121",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1977006848982315425",
+    "created_at": "2025-10-12T07:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T08:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977273451074535453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638893284218261504",
+          "start": 0,
+          "username": "Benzyl_titanium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977273451074535453",
+    "in_reply_to_user_id": "1638893284218261504",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977006848982315425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Benzyl_titanium （？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2260,
+        "media_key": "3_1977006834507825154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-9PclbwAIWsxi.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1977006843269726214",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-9P9ObwAYtWwQ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1977006848982315425",
+        "created_at": "2025-10-12T07:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T08:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977273451074535453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638893284218261504",
+              "start": 0,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977273451074535453",
+        "in_reply_to_user_id": "1638893284218261504",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977006848982315425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benzyl_titanium （？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977006834507825154",
+            "3_1977006843269726214"
+          ]
+        },
+        "author_id": "1638893284218261504",
+        "conversation_id": "1977006848982315425",
+        "created_at": "2025-10-11T13:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977006848982315425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eAzKzXWPIi",
+              "end": 44,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1977006848982315425/photo/1",
+              "media_key": "3_1977006834507825154",
+              "start": 21,
+              "url": "https://t.co/eAzKzXWPIi"
+            },
+            {
+              "display_url": "pic.x.com/eAzKzXWPIi",
+              "end": 44,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1977006848982315425/photo/1",
+              "media_key": "3_1977006843269726214",
+              "start": 21,
+              "url": "https://t.co/eAzKzXWPIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977006848982315425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 61743,
+          "like_count": 231,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "出门在外喝这个水才是有面子的（小心水中毒 https://t.co/eAzKzXWPIi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 2292,
+          "like_count": 30331,
+          "listed_count": 0,
+          "media_count": 1390,
+          "tweet_count": 20169
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 四苄钛 死变态 苄钛 Fuck Organic Chemistry 友姬花穴 | 药物画学 | 有机合不成 | 精神药理学 | 网络药理学 | 计算机辅助药物设计 https://t.co/avoL4bMrR2 @biantailab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "biantailab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Benzyl-titanium.top",
+                "end": 131,
+                "expanded_url": "https://www.Benzyl-titanium.top",
+                "start": 108,
+                "url": "https://t.co/avoL4bMrR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Benzyl_titaniu…",
+                "end": 23,
+                "expanded_url": "https://t.me/Benzyl_titanium_space",
+                "start": 0,
+                "url": "https://t.co/L58dlFWFgV"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "location": "BianTai LAB",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1925059483618967837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921007502403268610/6Y_cusVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 534,
+          "like_count": 8292,
+          "listed_count": 7,
+          "media_count": 370,
+          "tweet_count": 2129
+        },
+        "url": "https://t.co/L58dlFWFgV",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

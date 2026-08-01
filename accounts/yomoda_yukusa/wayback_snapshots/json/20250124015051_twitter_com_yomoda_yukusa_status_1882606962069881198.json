@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1882603589782397053",
+    "created_at": "2025-01-24T01:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T02:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882606962069881198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1798982562494414848",
+          "start": 0,
+          "username": "Nokami_Rui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882606962069881198",
+    "in_reply_to_user_id": "1798982562494414848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882603589782397053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nokami_Rui 攻击性有点高了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1882603589782397053",
+        "created_at": "2025-01-24T01:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T02:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882606962069881198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1798982562494414848",
+              "start": 0,
+              "username": "Nokami_Rui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882606962069881198",
+        "in_reply_to_user_id": "1798982562494414848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882603589782397053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nokami_Rui 攻击性有点高了）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882603583620935680"
+          ]
+        },
+        "author_id": "1798982562494414848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1882603589782397053",
+        "created_at": "2025-01-24T01:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T02:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882603589782397053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVVT4xmKa5",
+              "end": 26,
+              "expanded_url": "https://x.com/Nokami_Rui/status/1882603589782397053/photo/1",
+              "media_key": "3_1882603583620935680",
+              "start": 3,
+              "url": "https://t.co/NVVT4xmKa5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882603589782397053",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☝️ https://t.co/NVVT4xmKa5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2772,
+          "following_count": 2767,
+          "like_count": 26849,
+          "listed_count": 6,
+          "media_count": 1246,
+          "tweet_count": 18758
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T07:37:57.000Z",
+        "description": "In death, there is life. In disease, there is strength/万物皆腐，众生不灭/中国語日常垢/互fo≠立场",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/okamirui",
+                "end": 23,
+                "expanded_url": "http://lit.link/okamirui",
+                "start": 0,
+                "url": "https://t.co/RAsYNByzkx"
+              }
+            ]
+          }
+        },
+        "id": "1798982562494414848",
+        "location": "Garden of Nurgle",
+        "name": "Sephy🍵渾沌神Nurgle",
+        "pinned_tweet_id": "1848380144463093876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798984703648882688/9zjGs5WC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 85,
+          "like_count": 1712,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/RAsYNByzkx",
+        "username": "Nokami_Rui",
+        "verified": false
+      }
+    ]
+  }
+}

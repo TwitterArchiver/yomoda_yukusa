@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1866326022117101668",
+    "created_at": "2024-12-10T03:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T04:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866326022117101668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1547247978565423105",
+          "start": 3,
+          "username": "yomoda_yukusa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866326022117101668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866319566277894353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yomoda_yukusa: 是否有在深圳宝安区附近的推友，容许我(1人)于\n2024/12/19-2024/12/26、\n2025/1/5-2025/1/9\n(共计13日夜)借宿？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1866326022117101668",
+        "created_at": "2024-12-10T03:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T04:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866326022117101668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1547247978565423105",
+              "start": 3,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866326022117101668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866319566277894353",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yomoda_yukusa: 是否有在深圳宝安区附近的推友，容许我(1人)于\n2024/12/19-2024/12/26、\n2025/1/5-2025/1/9\n(共计13日夜)借宿？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1866319566277894353",
+        "created_at": "2024-12-10T03:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T04:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866319566277894353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866319566277894353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "是否有在深圳宝安区附近的推友，容许我(1人)于\n2024/12/19-2024/12/26、\n2025/1/5-2025/1/9\n(共计13日夜)借宿？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 2717,
+          "like_count": 26716,
+          "listed_count": 6,
+          "media_count": 1234,
+          "tweet_count": 18641
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1982271637623017538",
+    "created_at": "2025-10-26T08:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T09:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982367246749188240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "SnowfairySerina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982367246749188240",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982271637623017538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowfairySerina 雪仙姐生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982271618266087424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4JxiMcWwAAt1jL.jpg",
+        "width": 1542
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982271618547109888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4JxiNfW0AAOXOv.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1982271637623017538",
+        "created_at": "2025-10-26T08:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T09:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982367246749188240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982367246749188240",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982271637623017538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina 雪仙姐生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982271618266087424",
+            "3_1982271618547109888"
+          ]
+        },
+        "author_id": "1869440990970556416",
+        "conversation_id": "1982271637623017538",
+        "created_at": "2025-10-26T02:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T03:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982271637623017538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "序章 盼望著，憧憬著，期待著，長路歸鄉，魂歸九泉------櫻井玲奈 “我只是想让地球上没得其应得的个体都得其所愿罢了。” ------摇光•星海 “云肆瑶光，幻市如梦。念得琳琅，即得琳琅。” ------亿杉晓 “祝你减肥成功，我是说，丢掉自己不需要的东西。” ------灵柒",
+              "display_url": "pixiv.net/novel/show.php…",
+              "end": 39,
+              "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1979781901025263616/4j30kkzr?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1979781901025263616/4j30kkzr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "星空礼品店",
+              "unwound_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+              "url": "https://t.co/8ZpQyn9JCy"
+            },
+            {
+              "display_url": "pic.x.com/UPiqPpXI0F",
+              "end": 63,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1982271637623017538/photo/1",
+              "media_key": "3_1982271618266087424",
+              "start": 40,
+              "url": "https://t.co/UPiqPpXI0F"
+            },
+            {
+              "display_url": "pic.x.com/UPiqPpXI0F",
+              "end": 63,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1982271637623017538/photo/1",
+              "media_key": "3_1982271618547109888",
+              "start": 40,
+              "url": "https://t.co/UPiqPpXI0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982271637623017538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 568,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我的生日，也是星空的生日\nhttps://t.co/8ZpQyn9JCy https://t.co/UPiqPpXI0F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2325,
+          "like_count": 30650,
+          "listed_count": 10,
+          "media_count": 1400,
+          "tweet_count": 20319
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "寄蜉蝣于天地，渺沧海之一粟//星空礼品店的守候者 星空文明的守夜人 书友世界 q 864276653 星光铁路 https://t.co/aBL8EQieV7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Shiohara.moe",
+                "end": 79,
+                "expanded_url": "http://Shiohara.moe",
+                "start": 56,
+                "url": "https://t.co/aBL8EQieV7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVs9o5"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 千载云屏 弥星原畔",
+        "name": "🌈⛩️摇光星辰🏳️‍⚧️✨（云游之星）",
+        "pinned_tweet_id": "1982271637623017538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 796,
+          "like_count": 2360,
+          "listed_count": 4,
+          "media_count": 424,
+          "tweet_count": 3102
+        },
+        "url": "https://t.co/3DFuJVs9o5",
+        "username": "SnowfairySerina",
+        "verified": false
+      }
+    ]
+  }
+}

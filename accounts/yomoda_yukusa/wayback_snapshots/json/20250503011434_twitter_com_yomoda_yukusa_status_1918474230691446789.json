@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1918474230691446789",
+    "created_at": "2025-05-03T01:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T02:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918474230691446789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1251033624222158849",
+          "start": 3,
+          "username": "baozou0121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918474230691446789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918474040878174477",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baozou0121: 聊什么雷我什么党讨厌，互相攻击的时间真可惜。用那时间好好享受你推、创造自己喜欢的东西就好吧！那也是最聪明的攻击对方的方法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1918474230691446789",
+        "created_at": "2025-05-03T01:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T02:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918474230691446789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1251033624222158849",
+              "start": 3,
+              "username": "baozou0121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918474230691446789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918474040878174477",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baozou0121: 聊什么雷我什么党讨厌，互相攻击的时间真可惜。用那时间好好享受你推、创造自己喜欢的东西就好吧！那也是最聪明的攻击对方的方法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251033624222158849",
+        "conversation_id": "1918474040878174477",
+        "created_at": "2025-05-03T01:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T02:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918474040878174477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918474040878174477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "聊什么雷我什么党讨厌，互相攻击的时间真可惜。用那时间好好享受你推、创造自己喜欢的东西就好吧！那也是最聪明的攻击对方的方法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 2058,
+          "like_count": 27810,
+          "listed_count": 7,
+          "media_count": 1284,
+          "tweet_count": 19147
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-17T06:24:04.000Z",
+        "description": "同志们好！我是日本人喜欢学习汉语、中国文化、和奇怪的知识！如果我的中文错了，请告诉我！今天也用力踩下油门🩵 #王洪文迷你比基尼社团\n🚫请勿转载🚫请勿在我的评论区发歧视性言论、政治宣传、骚扰、吵架。违反了就给你看排泄癖好小说\n🔞: @baozouR18\n接稿 https://t.co/E75CSTtbRx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 54,
+                "tag": "王洪文迷你比基尼社团"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "baozouR18"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@baozou0121",
+                "end": 152,
+                "expanded_url": "https://skeb.jp/@baozou0121",
+                "start": 129,
+                "url": "https://t.co/E75CSTtbRx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1159370376",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1159370376",
+                "start": 0,
+                "url": "https://t.co/2z547YWi9M"
+              }
+            ]
+          }
+        },
+        "id": "1251033624222158849",
+        "location": "🇯🇵",
+        "name": "暴走半島",
+        "pinned_tweet_id": "1731493071790232033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1474259239279665156/KN7ImQ0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23101,
+          "following_count": 371,
+          "like_count": 74266,
+          "listed_count": 49,
+          "media_count": 1418,
+          "tweet_count": 9036
+        },
+        "url": "https://t.co/2z547YWi9M",
+        "username": "baozou0121",
+        "verified": true
+      }
+    ]
+  }
+}

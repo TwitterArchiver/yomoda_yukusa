@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2051634152928317939",
+    "created_at": "2026-05-05T12:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T13:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051634152928317939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777129646867542016",
+          "start": 3,
+          "username": "Sunset__3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051634152928317939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051361461646291382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sunset__3000: 三个精神病聚一块聊过去，一个躯体化应激无法回忆，一个mect电忘了，一个解离剂o多了记忆受损，最后三脸懵逼不聊了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2051634152928317939",
+        "created_at": "2026-05-05T12:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051634152928317939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777129646867542016",
+              "start": 3,
+              "username": "Sunset__3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051634152928317939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051361461646291382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sunset__3000: 三个精神病聚一块聊过去，一个躯体化应激无法回忆，一个mect电忘了，一个解离剂o多了记忆受损，最后三脸懵逼不聊了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777129646867542016",
+        "conversation_id": "2051361461646291382",
+        "created_at": "2026-05-04T18:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T19:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051361461646291382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051361461646291382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 10079,
+          "like_count": 410,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "三个精神病聚一块聊过去，一个躯体化应激无法回忆，一个mect电忘了，一个解离剂o多了记忆受损，最后三脸懵逼不聊了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 2386,
+          "like_count": 33922,
+          "listed_count": 9,
+          "media_count": 1632,
+          "tweet_count": 22216
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo呀♡漏回提醒我🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/swMyC2Mdbe"
+              }
+            ]
+          }
+        },
+        "id": "1777129646867542016",
+        "location": "神秘600号",
+        "name": "日落三千次💊",
+        "pinned_tweet_id": "2034272198798811213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 610,
+          "like_count": 3913,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 761
+        },
+        "url": "https://t.co/swMyC2Mdbe",
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

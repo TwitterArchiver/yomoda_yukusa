@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1994443446879183071",
+    "created_at": "2025-11-28T16:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T17:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994443449685119483"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994443449685119483",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994443446879183071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝你问我为什么我身上一堆伤口？有一些是烫伤有一些是纸板割伤有一些我也不晓得怎么来的宝宝。宝宝你问我为什么天天这么emo？因为我时薪只有21.5，五险一金还要扣掉九百多快一千。宝宝你问我为什么毕业了还要在麦当劳？宝宝宝宝因为我上的是大专。宝宝宝宝。宝宝宝宝。宝宝你怎么不理我了宝宝。宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1994443446879183071",
+        "created_at": "2025-11-28T16:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T17:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994443449685119483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994443449685119483",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994443446879183071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝你问我为什么我身上一堆伤口？有一些是烫伤有一些是纸板割伤有一些我也不晓得怎么来的宝宝。宝宝你问我为什么天天这么emo？因为我时薪只有21.5，五险一金还要扣掉九百多快一千。宝宝你问我为什么毕业了还要在麦当劳？宝宝宝宝因为我上的是大专。宝宝宝宝。宝宝宝宝。宝宝你怎么不理我了宝宝。宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1994443446879183071",
+        "created_at": "2025-11-28T16:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T17:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994443446879183071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994443446879183071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝你问我为什么剪了指甲？因为我在麦当劳打工在后厨做餐饮。宝宝你问我为什么扎头发了？为了防止头发掉到食物上被顾客投诉。宝宝你问我为什么这么刺激？因为我刚刚去裹麦辣鸡翅和麦辣鸡腿了我手上全是裹粉里面一堆香辛料有辣椒粉胡椒粉之类的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2786,
+          "following_count": 2327,
+          "like_count": 31391,
+          "listed_count": 9,
+          "media_count": 1442,
+          "tweet_count": 20632
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

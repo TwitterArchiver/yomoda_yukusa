@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1931389608564244551",
+    "created_at": "2025-06-07T16:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T17:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931389608564244551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1725683921763905536",
+          "start": 3,
+          "username": "luonbe69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931389608564244551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926876139374403935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luonbe69: 要觉得自己幸福，或者假装自己幸福\n这样就可以骗过自己\n哪怕去当一个疯子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1931389608564244551",
+        "created_at": "2025-06-07T16:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931389608564244551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1725683921763905536",
+              "start": 3,
+              "username": "luonbe69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931389608564244551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926876139374403935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luonbe69: 要觉得自己幸福，或者假装自己幸福\n这样就可以骗过自己\n哪怕去当一个疯子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725683921763905536",
+        "conversation_id": "1926876139374403935",
+        "created_at": "2025-05-26T05:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T06:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926876139374403935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926876139374403935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 470,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "要觉得自己幸福，或者假装自己幸福\n这样就可以骗过自己\n哪怕去当一个疯子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2806,
+          "following_count": 2138,
+          "like_count": 28718,
+          "listed_count": 7,
+          "media_count": 1317,
+          "tweet_count": 19441
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T01:14:59.000Z",
+        "description": "鸦 寂寞 世界 空心 呢喃 命运 废死 流浪 列车 白梦 闪烁 凝视 傲慢 节制 内脏 终焉 彷徨 憎恶 白躁 黄铜 血 糜烂 负荷 荒芜 哽咽 徘徊 雨",
+        "id": "1725683921763905536",
+        "location": "比邻星",
+        "name": "♰罗伦贝尔♰",
+        "pinned_tweet_id": "1930294464733687981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850527858571325440/tCL5f4k4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2616,
+          "following_count": 6171,
+          "like_count": 42617,
+          "listed_count": 4,
+          "media_count": 524,
+          "tweet_count": 17456
+        },
+        "username": "luonbe69",
+        "verified": false
+      }
+    ]
+  }
+}

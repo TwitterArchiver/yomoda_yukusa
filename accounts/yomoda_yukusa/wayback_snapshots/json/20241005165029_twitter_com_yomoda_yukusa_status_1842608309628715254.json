@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1842530921792331821",
+    "created_at": "2024-10-05T16:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T17:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842608309628715254"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1842608309628715254",
+    "in_reply_to_user_id": "1547247978565423105",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842606137197351156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "4月19日，我與潘同Jose、雪秋見面。\n24日夜，香椿在上海吞服大量藥物后登上樓頂與我打視頻電話。我在與其溝通的同時通知其他人。對其進行簡易搶救後送醫處理。為籌集其醫藥費，我在推特上發起了籌款，數小時內籌到九千余元。遺憾的是，除已退回和自願放棄退回的四千餘元外，均被避難所管理員進行挪用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1842530921792331821",
+        "created_at": "2024-10-05T16:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T17:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842608309628715254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842608309628715254",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842606137197351156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "4月19日，我與潘同Jose、雪秋見面。\n24日夜，香椿在上海吞服大量藥物后登上樓頂與我打視頻電話。我在與其溝通的同時通知其他人。對其進行簡易搶救後送醫處理。為籌集其醫藥費，我在推特上發起了籌款，數小時內籌到九千余元。遺憾的是，除已退回和自願放棄退回的四千餘元外，均被避難所管理員進行挪用。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1842530921792331821",
+        "created_at": "2024-10-05T16:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T17:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842606137197351156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842606137197351156",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842602728981475579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "16日，因貓加處發生變故，隨潘回鎮江。\n27日，與雪仙在南京見面。\n29日，與雪仙、泠風見面。\n31日，回上海嘉定“避難所”\n4月3日，應邀與佚銘同OD。\n4月13日夜，與多個同伴一起開Birthday Overdose Party。\n4月14日，回鎮江。那時Jose在趁身邊人睡著吃過敏藥。生命過於沉重，以至於祂離開時你不敢挽留。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2725,
+          "following_count": 2621,
+          "like_count": 26437,
+          "listed_count": 7,
+          "tweet_count": 18333
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

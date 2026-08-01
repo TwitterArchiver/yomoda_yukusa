@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1955883145183813738",
+    "created_at": "2025-08-14T11:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T12:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955953941570838816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "934723058039848960",
+          "start": 0,
+          "username": "SleepyIcarus_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955953941570838816",
+    "in_reply_to_user_id": "934723058039848960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955888770789859699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SleepyIcarus_ 啊草）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1955883145183813738",
+        "created_at": "2025-08-14T11:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T12:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955953941570838816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "934723058039848960",
+              "start": 0,
+              "username": "SleepyIcarus_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955953941570838816",
+        "in_reply_to_user_id": "934723058039848960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955888770789859699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SleepyIcarus_ 啊草）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "934723058039848960",
+        "conversation_id": "1955883145183813738",
+        "created_at": "2025-08-14T07:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T08:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955888770789859699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955888770789859699",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955883145183813738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 啊啊啊我每次1+1都这么定制——！\n虽然会保留洋葱粒x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 2166,
+          "like_count": 29282,
+          "listed_count": 8,
+          "media_count": 1345,
+          "tweet_count": 19723
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-26T09:58:38.000Z",
+        "description": "",
+        "id": "934723058039848960",
+        "name": "醒死",
+        "pinned_tweet_id": "1950507981646487620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943244720836349955/1v-uebmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 196,
+          "like_count": 1264,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 915
+        },
+        "username": "SleepyIcarus_",
+        "verified": false
+      }
+    ]
+  }
+}

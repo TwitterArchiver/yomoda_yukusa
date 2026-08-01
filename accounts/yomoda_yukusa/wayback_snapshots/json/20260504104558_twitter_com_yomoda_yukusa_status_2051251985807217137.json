@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2051251985807217137",
+    "created_at": "2026-05-04T10:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051251985807217137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_ropu/status/2…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/_ropu/status/2050941222529970373",
+          "start": 45,
+          "url": "https://t.co/Selo9F0ib9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051251985807217137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050941222529970373",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想死。不od也想。如果我哪天od之后自杀了，那一定是在我神志清醒的时候就决定了要死的。 https://t.co/Selo9F0ib9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2051251985807217137",
+        "created_at": "2026-05-04T10:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051251985807217137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_ropu/status/2…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/_ropu/status/2050941222529970373",
+              "start": 45,
+              "url": "https://t.co/Selo9F0ib9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051251985807217137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050941222529970373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想死。不od也想。如果我哪天od之后自杀了，那一定是在我神志清醒的时候就决定了要死的。 https://t.co/Selo9F0ib9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "758296624875446272",
+        "conversation_id": "2050941222529970373",
+        "created_at": "2026-05-03T14:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050941222529970373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050941222529970373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1552,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些时候真的害怕自己临时起意o什么药o着o着就兴致大发去跳楼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 2385,
+          "like_count": 33902,
+          "listed_count": 9,
+          "media_count": 1631,
+          "tweet_count": 22197
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| お姉さん： @Cchang3243 || CN/EN/JP/KR ○ || タグ：#まのさば #ヨグソトースの庭 #NeedyGirlOverdose ||",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 44,
+                "tag": "まのさば"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "tag": "ヨグソトースの庭"
+              },
+              {
+                "end": 78,
+                "start": 60,
+                "tag": "NeedyGirlOverdose"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "Cchang3243"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロ Ropu プ",
+        "pinned_tweet_id": "2035368636328878543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041579235350077440/8fAzCTT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29277,
+          "following_count": 4206,
+          "like_count": 13891,
+          "listed_count": 29,
+          "media_count": 4636,
+          "tweet_count": 33018
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

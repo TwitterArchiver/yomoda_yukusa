@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1940018963389587590",
+    "created_at": "2025-07-01T12:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T13:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940019266654547997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1448881148541685760",
+          "start": 0,
+          "username": "yemi20051127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940019266654547997",
+    "in_reply_to_user_id": "1448881148541685760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940018963389587590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yemi20051127 不想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1940018963389587590",
+        "created_at": "2025-07-01T12:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T13:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940019266654547997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1448881148541685760",
+              "start": 0,
+              "username": "yemi20051127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940019266654547997",
+        "in_reply_to_user_id": "1448881148541685760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940018963389587590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yemi20051127 不想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448881148541685760",
+        "conversation_id": "1940018963389587590",
+        "created_at": "2025-07-01T12:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T13:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940018963389587590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940018963389587590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小药娘想不想要月经"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2806,
+          "following_count": 2157,
+          "like_count": 29146,
+          "listed_count": 7,
+          "media_count": 1340,
+          "tweet_count": 19636
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-15T05:19:35.000Z",
+        "description": "cn叶米/りる/小屿\n主发od/牢骚/es\n我推まふまふ 朱樱司 樱河琥珀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yemidepingdao",
+                "end": 23,
+                "expanded_url": "http://t.me/yemidepingdao",
+                "start": 0,
+                "url": "https://t.co/Jpfhojf186"
+              }
+            ]
+          }
+        },
+        "id": "1448881148541685760",
+        "location": "地狱",
+        "name": "山与屿",
+        "pinned_tweet_id": "1855825143269867562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931965004682846208/7vmVxYs6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 376,
+          "like_count": 59910,
+          "listed_count": 0,
+          "media_count": 535,
+          "tweet_count": 1476
+        },
+        "url": "https://t.co/Jpfhojf186",
+        "username": "yemi20051127",
+        "verified": false
+      }
+    ]
+  }
+}

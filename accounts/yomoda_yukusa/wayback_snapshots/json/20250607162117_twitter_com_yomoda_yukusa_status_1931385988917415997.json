@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1931365389860311133",
+    "created_at": "2025-06-07T16:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T17:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931385988917415997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664859019830517760",
+          "start": 0,
+          "username": "kagurazakachiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931385988917415997",
+    "in_reply_to_user_id": "1664859019830517760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931365389860311133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakachiyo 诶…………"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1170,
+        "media_key": "3_1931365386962038784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs2Wli1bcAAegL3.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1931365389860311133",
+        "created_at": "2025-06-07T16:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931385988917415997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664859019830517760",
+              "start": 0,
+              "username": "kagurazakachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931385988917415997",
+        "in_reply_to_user_id": "1664859019830517760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931365389860311133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakachiyo 诶…………"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931365386962038784"
+          ]
+        },
+        "author_id": "1664859019830517760",
+        "conversation_id": "1931365389860311133",
+        "created_at": "2025-06-07T14:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T15:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931365389860311133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iP6ge9EPTy",
+              "end": 26,
+              "expanded_url": "https://x.com/kagurazakachiyo/status/1931365389860311133/photo/1",
+              "media_key": "3_1931365386962038784",
+              "start": 3,
+              "url": "https://t.co/iP6ge9EPTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931365389860311133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "紫绀 https://t.co/iP6ge9EPTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2805,
+          "following_count": 2137,
+          "like_count": 28714,
+          "listed_count": 7,
+          "media_count": 1316,
+          "tweet_count": 19437
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T04:58:45.000Z",
+        "description": "🥺",
+        "id": "1664859019830517760",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915057104655900672/y-wLPyZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 2000,
+          "like_count": 23732,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 2918
+        },
+        "username": "kagurazakachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

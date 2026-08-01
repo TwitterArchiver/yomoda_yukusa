@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1893065869317808451",
+    "created_at": "2025-02-21T22:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T23:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893066357505478847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "953248183118807042",
+          "start": 0,
+          "username": "allhellshiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893066357505478847",
+    "in_reply_to_user_id": "953248183118807042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893065869317808451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allhellshiki 这他妈是躁狂吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1893065869317808451",
+        "created_at": "2025-02-21T22:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T23:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893066357505478847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "953248183118807042",
+              "start": 0,
+              "username": "allhellshiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893066357505478847",
+        "in_reply_to_user_id": "953248183118807042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893065869317808451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allhellshiki 这他妈是躁狂吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "953248183118807042",
+        "conversation_id": "1893065869317808451",
+        "created_at": "2025-02-21T22:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T23:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893065869317808451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893065869317808451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性欲异常，一天冲六七次，睡五六小时也不困，睡两个小时醒一下，上班猛猛干活，下班打游戏干活不觉得累，挥霍无度，说话变得特别多。这次躁狂好像有点严重。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 2805,
+          "like_count": 27150,
+          "listed_count": 9,
+          "media_count": 1260,
+          "tweet_count": 18890
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-16T12:50:52.000Z",
+        "description": "里号@ryougishiki2333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "ryougishiki2333"
+              }
+            ]
+          }
+        },
+        "id": "953248183118807042",
+        "name": "Vivi",
+        "pinned_tweet_id": "1889356842213712005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881019331452235776/NfvkNTRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7859,
+          "following_count": 1852,
+          "like_count": 40473,
+          "listed_count": 16,
+          "media_count": 1119,
+          "tweet_count": 13773
+        },
+        "username": "allhellshiki",
+        "verified": false
+      }
+    ]
+  }
+}

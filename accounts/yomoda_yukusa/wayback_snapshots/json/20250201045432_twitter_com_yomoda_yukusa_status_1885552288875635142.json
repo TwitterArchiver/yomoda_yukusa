@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1885552288875635142",
+    "created_at": "2025-02-01T04:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T05:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885552288875635142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1884627325398212611",
+          "start": 3,
+          "username": "Revive_Meink"
+        },
+        {
+          "end": 33,
+          "id": "1440737806532288522",
+          "start": 20,
+          "username": "LeminkSystem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885552288875635142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885381254306046084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Revive_Meink: 我是@LeminkSystem（旧用户名@LemuCat_87）的号主...\n\n曾经有着2.6k关注，存活时间超过三年。\n而就在两天前，该账号惨遭恶意举报导致冻结，多次申诉无果后决定重生。请麻烦大家多多转发，谢谢！争取找回大部分认识的人&gt;:D…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [LeminkSystem].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "LeminkSystem",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "LeminkSystem"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1885552288875635142",
+        "created_at": "2025-02-01T04:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T05:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885552288875635142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1884627325398212611",
+              "start": 3,
+              "username": "Revive_Meink"
+            },
+            {
+              "end": 33,
+              "id": "1440737806532288522",
+              "start": 20,
+              "username": "LeminkSystem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885552288875635142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885381254306046084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Revive_Meink: 我是@LeminkSystem（旧用户名@LemuCat_87）的号主...\n\n曾经有着2.6k关注，存活时间超过三年。\n而就在两天前，该账号惨遭恶意举报导致冻结，多次申诉无果后决定重生。请麻烦大家多多转发，谢谢！争取找回大部分认识的人&gt;:D…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885381144499081216",
+            "3_1885381144494927872",
+            "3_1885381144494874624",
+            "3_1885381144507453440"
+          ]
+        },
+        "author_id": "1884627325398212611",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1885381254306046084",
+        "created_at": "2025-01-31T17:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T18:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885381254306046084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1440737806532288522",
+              "start": 2,
+              "username": "LeminkSystem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kx7eMKEMZJ",
+              "end": 174,
+              "expanded_url": "https://x.com/Revive_Meink/status/1885381254306046084/photo/1",
+              "media_key": "3_1885381144499081216",
+              "start": 151,
+              "url": "https://t.co/kx7eMKEMZJ"
+            },
+            {
+              "display_url": "pic.x.com/kx7eMKEMZJ",
+              "end": 174,
+              "expanded_url": "https://x.com/Revive_Meink/status/1885381254306046084/photo/1",
+              "media_key": "3_1885381144494927872",
+              "start": 151,
+              "url": "https://t.co/kx7eMKEMZJ"
+            },
+            {
+              "display_url": "pic.x.com/kx7eMKEMZJ",
+              "end": 174,
+              "expanded_url": "https://x.com/Revive_Meink/status/1885381254306046084/photo/1",
+              "media_key": "3_1885381144494874624",
+              "start": 151,
+              "url": "https://t.co/kx7eMKEMZJ"
+            },
+            {
+              "display_url": "pic.x.com/kx7eMKEMZJ",
+              "end": 174,
+              "expanded_url": "https://x.com/Revive_Meink/status/1885381254306046084/photo/1",
+              "media_key": "3_1885381144507453440",
+              "start": 151,
+              "url": "https://t.co/kx7eMKEMZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885381254306046084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 933,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我是@LeminkSystem（旧用户名@LemuCat_87）的号主...\n\n曾经有着2.6k关注，存活时间超过三年。\n而就在两天前，该账号惨遭恶意举报导致冻结，多次申诉无果后决定重生。请麻烦大家多多转发，谢谢！争取找回大部分认识的人&gt;:D\n\n别惹我，我急了会给你背π。再不济我还能霸占你tl https://t.co/kx7eMKEMZJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2768,
+          "following_count": 2775,
+          "like_count": 26903,
+          "listed_count": 7,
+          "media_count": 1247,
+          "tweet_count": 18787
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "@LeminkSystem 的小号\n—————\n看见我吧，拜托了。不想一切从头开始…\n\n⚠️该用户距离你不足一厘米,请小心被吃掉⚠️  joined September 2021\n\n430 Following          2630 Followers",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "LeminkSystem"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "location": "这个世界的某处",
+        "name": "铭💧Meink（莱铭系统2.0）",
+        "pinned_tweet_id": "1885381254306046084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884627488296386561/PkmwSrej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 155,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 188
+        },
+        "username": "Revive_Meink",
+        "verified": false
+      }
+    ]
+  }
+}

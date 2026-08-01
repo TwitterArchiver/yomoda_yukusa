@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2003889199783743806",
+    "created_at": "2025-12-26T13:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T14:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004539505307754546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679060089007742977",
+          "start": 0,
+          "username": "wo4wendidegou"
+        },
+        {
+          "end": 25,
+          "id": "1969051788453003265",
+          "start": 15,
+          "username": "Reedmist_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004539505307754546",
+    "in_reply_to_user_id": "1679060089007742977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004532117301325896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wo4wendidegou @Reedmist_ 我能憋气三分钟，但那种情况根本没办法理智的憋气目标明确的呼吸什么的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2003889199783743806",
+        "created_at": "2025-12-26T13:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T14:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004539505307754546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679060089007742977",
+              "start": 0,
+              "username": "wo4wendidegou"
+            },
+            {
+              "end": 25,
+              "id": "1969051788453003265",
+              "start": 15,
+              "username": "Reedmist_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004539505307754546",
+        "in_reply_to_user_id": "1679060089007742977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004532117301325896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wo4wendidegou @Reedmist_ 我能憋气三分钟，但那种情况根本没办法理智的憋气目标明确的呼吸什么的……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679060089007742977",
+        "conversation_id": "2003889199783743806",
+        "created_at": "2025-12-26T12:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T13:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004532117301325896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1969051788453003265",
+              "start": 0,
+              "username": "Reedmist_"
+            },
+            {
+              "end": 25,
+              "id": "1547247978565423105",
+              "start": 11,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004532117301325896",
+        "in_reply_to_user_id": "1969051788453003265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004530139124867332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reedmist_ @yomoda_yukusa 能憋气两分钟会给自己解开怎么办（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 2325,
+          "like_count": 31743,
+          "listed_count": 10,
+          "media_count": 1491,
+          "tweet_count": 20943
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T09:28:26.000Z",
+        "description": "左派青年/尊重LGBTQ+/反中修/馬克思主義者/不是键政魔怔人/170cm 52±2kg/09高二理科生～/ENTP/愛好cos 二次元 羽毛球 中長跑 化學/有时R18/在和心理疾病自由搏击ing/我喜歡你們 歡迎互fo捏～",
+        "id": "1679060089007742977",
+        "location": "半人马座",
+        "name": "化学菜鸡",
+        "pinned_tweet_id": "2004079983782965616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976982635965820928/pxRPYl9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 842,
+          "like_count": 10459,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 4439
+        },
+        "username": "wo4wendidegou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T14:52:18.000Z",
+        "description": "は林彪に重度に依存しています...",
+        "id": "1969051788453003265",
+        "location": "台北市, 台灣",
+        "name": "Reedmist",
+        "pinned_tweet_id": "1997274214198562893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986072217172512768/8rNPD6Mt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 50,
+          "like_count": 9580,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1830
+        },
+        "username": "Reedmist_",
+        "verified": false
+      }
+    ]
+  }
+}

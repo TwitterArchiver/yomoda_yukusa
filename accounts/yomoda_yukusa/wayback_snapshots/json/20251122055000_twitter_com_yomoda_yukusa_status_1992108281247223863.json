@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1992107797899854038",
+    "created_at": "2025-11-22T05:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T06:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992108281247223863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992108281247223863",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992107797899854038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD 我草……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1278,
+        "media_key": "3_1992107358466842624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6VjFn_boAAb473.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1992107797899854038",
+        "created_at": "2025-11-22T05:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992108281247223863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992108281247223863",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992107797899854038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 我草……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992107358466842624"
+          ]
+        },
+        "author_id": "1700948552078467072",
+        "conversation_id": "1992107797899854038",
+        "created_at": "2025-11-22T05:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992107797899854038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7vi7VqVn3",
+              "end": 117,
+              "expanded_url": "https://x.com/Overdose_DBD/status/1992107797899854038/photo/1",
+              "media_key": "3_1992107358466842624",
+              "start": 94,
+              "url": "https://t.co/p7vi7VqVn3"
+            },
+            {
+              "display_url": "x.com/Overdose_DBD/s…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/Overdose_DBD/status/1991607625902092703",
+              "start": 118,
+              "url": "https://t.co/nenL3iFYp4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992107797899854038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991607625902092703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽来真的啊？估计蓖麻毒素不纯了。鉴定为弦月犯傻搞事，话说沐雨这人是真的命硬啊\n\n蓖麻毒素这条可以被证明是真的了，但并不是50mg要不然沐雨怎么活下来的\n\n按照描述，此时正是沐鸡合作期间 https://t.co/p7vi7VqVn3 https://t.co/nenL3iFYp4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 2324,
+          "like_count": 31292,
+          "listed_count": 9,
+          "media_count": 1440,
+          "tweet_count": 20595
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/WnyZ64LosE\n有事请点击https://t.co/UdJgE8LpGT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/WnyZ64LosE"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/UdJgE8LpGT"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4205,
+          "following_count": 56,
+          "like_count": 4,
+          "listed_count": 11,
+          "media_count": 527,
+          "tweet_count": 6251
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

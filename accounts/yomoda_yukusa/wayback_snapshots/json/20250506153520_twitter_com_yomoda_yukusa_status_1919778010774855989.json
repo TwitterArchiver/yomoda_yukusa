@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1919748292792996149",
+    "created_at": "2025-05-06T15:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T16:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919778010774855989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1468416451208179712",
+          "start": 0,
+          "username": "kokowamakotsu"
+        },
+        {
+          "end": 24,
+          "id": "1601893417549967360",
+          "start": 15,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919778010774855989",
+    "in_reply_to_user_id": "1468416451208179712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919776421960114335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokowamakotsu @AcboxLiu 不许幽怨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1919748292792996149",
+        "created_at": "2025-05-06T15:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T16:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919778010774855989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1468416451208179712",
+              "start": 0,
+              "username": "kokowamakotsu"
+            },
+            {
+              "end": 24,
+              "id": "1601893417549967360",
+              "start": 15,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919778010774855989",
+        "in_reply_to_user_id": "1468416451208179712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919776421960114335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokowamakotsu @AcboxLiu 不许幽怨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468416451208179712",
+        "conversation_id": "1919748292792996149",
+        "created_at": "2025-05-06T15:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T16:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919776421960114335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919776421960114335",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919749207948234972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 为什么小萝莉会比我高（还在幽怨）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2787,
+          "following_count": 2073,
+          "like_count": 27971,
+          "listed_count": 7,
+          "media_count": 1284,
+          "tweet_count": 19182
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T03:05:47.000Z",
+        "description": "持证上岗//COC跑团人//Oliva青果系骰娘骰主//路过的骑士厨//学生\n长毛象：https://t.co/P1XBuGxmUg\n糖果贩售商店表https://t.co/d7W8od0z7F\n已逝爱人 @ANQNKNy\n微信公众号 makotsu-transer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 103,
+                "username": "ANQNKNy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mstdn.party/@makotsu",
+                "end": 66,
+                "expanded_url": "http://mstdn.party/@makotsu",
+                "start": 43,
+                "url": "https://t.co/P1XBuGxmUg"
+              },
+              {
+                "display_url": "netsusyou-makotsu.github.io/E2-docs",
+                "end": 97,
+                "expanded_url": "http://netsusyou-makotsu.github.io/E2-docs",
+                "start": 74,
+                "url": "https://t.co/d7W8od0z7F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makotsu.xyz",
+                "end": 23,
+                "expanded_url": "https://makotsu.xyz/",
+                "start": 0,
+                "url": "https://t.co/FWQxuSbLU2"
+              }
+            ]
+          }
+        },
+        "id": "1468416451208179712",
+        "location": "幻想乡 红魔馆",
+        "name": "紫·恒箫·魔骨",
+        "pinned_tweet_id": "1500615371094691842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509737319129100289/HaKWuuFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3801,
+          "following_count": 718,
+          "like_count": 4972,
+          "listed_count": 23,
+          "media_count": 688,
+          "tweet_count": 20830
+        },
+        "url": "https://t.co/FWQxuSbLU2",
+        "username": "kokowamakotsu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "💻开源开发&全职创业/全栈&LLM/Building EchoAI/🎨UI&UX学习中/Founder of @bijon_ai/🐱Github: sheepbox8646/🍥🏳️‍⚧️🇭🇰/📮me@acbox.lol/🧭@sciuxkit @bugduckteam/小号@xiaoxiangziqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "bijon_ai"
+              },
+              {
+                "end": 120,
+                "start": 111,
+                "username": "sciuxkit"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "bugduckteam"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "xiaoxiangziqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "acbox.lol",
+                "end": 23,
+                "expanded_url": "https://acbox.lol",
+                "start": 0,
+                "url": "https://t.co/kJvOSjAt1j"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳-廣州-香港",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1911631620274086230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914958257879441409/Yh9QRIIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4464,
+          "following_count": 2871,
+          "like_count": 2180,
+          "listed_count": 17,
+          "media_count": 658,
+          "tweet_count": 3548
+        },
+        "url": "https://t.co/kJvOSjAt1j",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

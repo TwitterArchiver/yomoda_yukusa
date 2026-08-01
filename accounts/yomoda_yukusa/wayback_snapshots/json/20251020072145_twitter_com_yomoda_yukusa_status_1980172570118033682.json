@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1980135410866307349",
+    "created_at": "2025-10-20T07:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T08:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980172570118033682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1629428861690843136",
+          "start": 0,
+          "username": "VentusUta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980172570118033682",
+    "in_reply_to_user_id": "1629428861690843136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980167639927509159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VentusUta 我没双开啊，我去双开的设置界面也没找到浏览器的选项，它本来不存在，忽然自己莫名其妙冒出来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1980135410866307349",
+        "created_at": "2025-10-20T07:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T08:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980172570118033682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1629428861690843136",
+              "start": 0,
+              "username": "VentusUta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980172570118033682",
+        "in_reply_to_user_id": "1629428861690843136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980167639927509159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VentusUta 我没双开啊，我去双开的设置界面也没找到浏览器的选项，它本来不存在，忽然自己莫名其妙冒出来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629428861690843136",
+        "conversation_id": "1980135410866307349",
+        "created_at": "2025-10-20T07:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T08:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980167639927509159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980167639927509159",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980135410866307349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 你小米双开的浏览器吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782,
+          "following_count": 2306,
+          "like_count": 30477,
+          "listed_count": 10,
+          "media_count": 1396,
+          "tweet_count": 20235
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T10:31:36.000Z",
+        "description": "不配苟活、我讨厌我自己 ¦ OLED screen hater ¦ 退步人 ¦ ❤️@fallenleavesw ¦ 🌙@tokerumaisurii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "fallenleavesw"
+              },
+              {
+                "end": 75,
+                "start": 60,
+                "username": "tokerumaisurii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/ventusuta",
+                "end": 23,
+                "expanded_url": "https://bento.me/ventusuta",
+                "start": 0,
+                "url": "https://t.co/SnLolYQeZ3"
+              }
+            ]
+          }
+        },
+        "id": "1629428861690843136",
+        "location": "Zhengzhou, Henan, China",
+        "name": "文圖絲·烏塔",
+        "pinned_tweet_id": "1974853830815912377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955460716946747392/sxF_uHav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 614,
+          "like_count": 23229,
+          "listed_count": 3,
+          "media_count": 683,
+          "tweet_count": 5698
+        },
+        "url": "https://t.co/SnLolYQeZ3",
+        "username": "VentusUta",
+        "verified": false
+      }
+    ]
+  }
+}

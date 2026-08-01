@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2008859465962172551",
+    "created_at": "2026-01-07T13:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T14:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008897551794323861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1570069037496819714",
+          "start": 0,
+          "username": "SilentNagiyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008897551794323861",
+    "in_reply_to_user_id": "1570069037496819714",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008874081198981158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SilentNagiyou x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2008859465962172551",
+        "created_at": "2026-01-07T13:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T14:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008897551794323861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1570069037496819714",
+              "start": 0,
+              "username": "SilentNagiyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008897551794323861",
+        "in_reply_to_user_id": "1570069037496819714",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008874081198981158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SilentNagiyou x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570069037496819714",
+        "conversation_id": "2008859465962172551",
+        "created_at": "2026-01-07T12:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008874081198981158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008874081198981158",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008859465962172551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 不放图就能做到了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2342,
+          "like_count": 32308,
+          "listed_count": 9,
+          "media_count": 1506,
+          "tweet_count": 21158
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T15:17:34.000Z",
+        "description": "玩过很多游戏，以及更多的盗版游戏丨隐忍丨精神edging享受者丨https://t.co/6W96kKjWbQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/WeisseGestalt",
+                "end": 55,
+                "expanded_url": "https://t.me/WeisseGestalt",
+                "start": 32,
+                "url": "https://t.co/6W96kKjWbQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/WeisseGestalt",
+                "end": 23,
+                "expanded_url": "https://t.me/WeisseGestalt",
+                "start": 0,
+                "url": "https://t.co/6W96kKjWbQ"
+              }
+            ]
+          }
+        },
+        "id": "1570069037496819714",
+        "location": "👨‍🏭网评员🧭妖怪之山迷途竹林永远亭",
+        "name": "🍥疏若巧🍥",
+        "pinned_tweet_id": "1953483222341304775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946284002157211649/z5XSBjQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 510,
+          "like_count": 44723,
+          "listed_count": 6,
+          "media_count": 387,
+          "tweet_count": 6880
+        },
+        "url": "https://t.co/6W96kKjWbQ",
+        "username": "SilentNagiyou",
+        "verified": false
+      }
+    ]
+  }
+}

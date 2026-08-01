@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1849773172847149200",
+    "created_at": "2024-10-27T13:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T14:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850536300233056311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1412733948082352134",
+          "start": 0,
+          "username": "CSYS_Endless"
+        },
+        {
+          "end": 23,
+          "id": "1271652280438308864",
+          "start": 14,
+          "username": "Jasonzyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850536300233056311",
+    "in_reply_to_user_id": "1412733948082352134",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850509293982007353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CSYS_Endless @Jasonzyt 存櫃要花錢 四毛一次 顧客沒要求的話我也不想存櫃吶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1849773172847149200",
+        "created_at": "2024-10-27T13:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T14:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850536300233056311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1412733948082352134",
+              "start": 0,
+              "username": "CSYS_Endless"
+            },
+            {
+              "end": 23,
+              "id": "1271652280438308864",
+              "start": 14,
+              "username": "Jasonzyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850536300233056311",
+        "in_reply_to_user_id": "1412733948082352134",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850509293982007353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CSYS_Endless @Jasonzyt 存櫃要花錢 四毛一次 顧客沒要求的話我也不想存櫃吶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412733948082352134",
+        "conversation_id": "1849773172847149200",
+        "created_at": "2024-10-27T12:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T13:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850509293982007353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            },
+            {
+              "end": 24,
+              "id": "1271652280438308864",
+              "start": 15,
+              "username": "Jasonzyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850509293982007353",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849884219675378067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa @Jasonzyt 确实，但是几乎所有人都把这条规定当耳旁风"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2754,
+          "following_count": 2698,
+          "like_count": 26504,
+          "listed_count": 6,
+          "tweet_count": 18505
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-07T11:23:43.000Z",
+        "description": "那就祝我保持清醒吧。 矛盾结合体/政治不中立/沉迷理想主义/回笼教信徒/性别不明/占卜/猫控/维基百科/Trans友好/泛性恋/音乐/插画/音游/街机/VOCALOID",
+        "id": "1412733948082352134",
+        "location": "永不終結的深夜",
+        "name": "坐标系#EndlessNight",
+        "pinned_tweet_id": "1847948213837312393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775755881344577536/UQIxQdh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 152,
+          "like_count": 1611,
+          "listed_count": 0,
+          "tweet_count": 1397
+        },
+        "username": "CSYS_Endless",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ INFP-T | 16 y.o. Student | Otaku | Coder | OIer | Photographer | Member of @LiteLDev | ACGN lover | ✈/🚅/🚢 lover | 🌈Crossdresser | Friendly to EVERYONE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "LiteLDev"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/realJasonzyt",
+                "end": 23,
+                "expanded_url": "https://github.com/realJasonzyt",
+                "start": 0,
+                "url": "https://t.co/AC2ccBu2e8"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "Wuhan, China",
+        "name": "JasonZYT🏳️",
+        "pinned_tweet_id": "1848001512926310841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820373289329442816/7AhwlzfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 216,
+          "like_count": 13097,
+          "listed_count": 1,
+          "tweet_count": 3737
+        },
+        "url": "https://t.co/AC2ccBu2e8",
+        "username": "Jasonzyt",
+        "verified": false
+      }
+    ]
+  }
+}

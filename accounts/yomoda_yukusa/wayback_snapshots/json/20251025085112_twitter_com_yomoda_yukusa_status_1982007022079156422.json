@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1981832387022770474",
+    "created_at": "2025-10-25T08:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T09:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982007022079156422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1783421192181039104",
+          "start": 0,
+          "username": "Lily_nothin"
+        },
+        {
+          "end": 23,
+          "id": "1863439189909618688",
+          "start": 13,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982007022079156422",
+    "in_reply_to_user_id": "1783421192181039104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982006655287202220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lily_nothin @hsn8086xe 多讲讲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1981832387022770474",
+        "created_at": "2025-10-25T08:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T09:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982007022079156422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783421192181039104",
+              "start": 0,
+              "username": "Lily_nothin"
+            },
+            {
+              "end": 23,
+              "id": "1863439189909618688",
+              "start": 13,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982007022079156422",
+        "in_reply_to_user_id": "1783421192181039104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982006655287202220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lily_nothin @hsn8086xe 多讲讲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783421192181039104",
+        "conversation_id": "1981832387022770474",
+        "created_at": "2025-10-25T08:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T09:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982006655287202220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982006655287202220",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981832387022770474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 8裹尸要使用大量活性炭并包裹在厚厚的保鲜膜里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 2323,
+          "like_count": 30585,
+          "listed_count": 10,
+          "media_count": 1400,
+          "tweet_count": 20299
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T09:02:09.000Z",
+        "description": "",
+        "id": "1783421192181039104",
+        "name": "小茶",
+        "pinned_tweet_id": "1974862176809796028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980689641356357632/zYj0ELE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 760,
+          "like_count": 11443,
+          "listed_count": 1,
+          "media_count": 448,
+          "tweet_count": 6466
+        },
+        "username": "Lily_nothin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1946867029245624703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21495,
+          "following_count": 206,
+          "like_count": 53,
+          "listed_count": 60,
+          "media_count": 7157,
+          "tweet_count": 7181
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

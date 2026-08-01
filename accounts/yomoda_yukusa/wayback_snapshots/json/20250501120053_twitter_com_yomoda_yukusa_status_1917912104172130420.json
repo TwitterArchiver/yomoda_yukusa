@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1917412938907783283",
+    "created_at": "2025-05-01T12:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T13:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917912104172130420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2411954377",
+          "start": 0,
+          "username": "heanquan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917912104172130420",
+    "in_reply_to_user_id": "2411954377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917412938907783283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heanquan 独立的胆子没有……但借独立之名敛财的胆子有……而且很大……副组长老爷的钱如数奉还……普通韭菜的钱三七分成"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1917412938907783283",
+        "created_at": "2025-05-01T12:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T13:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917912104172130420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2411954377",
+              "start": 0,
+              "username": "heanquan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917912104172130420",
+        "in_reply_to_user_id": "2411954377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917412938907783283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heanquan 独立的胆子没有……但借独立之名敛财的胆子有……而且很大……副组长老爷的钱如数奉还……普通韭菜的钱三七分成"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2411954377",
+        "conversation_id": "1917412938907783283",
+        "created_at": "2025-04-30T02:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T03:54:50.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917412299339620855",
+          "1917412585839943690",
+          "1917412938907783283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/heanquan/statu…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/heanquan/status/1917237964603593171",
+              "start": 111,
+              "url": "https://t.co/3bqn20mJ74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917412938907783283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "道歉声明：\n谨向本次大会会务组副组长孙寅和曹艾莊道歉，对发生在今年1月份对二位提出无理要求增加2000美元捐款额度的不当行为表示深刻的悔意和内疚。\n本人将从大会预算余额中提取4000美元择日分别归还给两位各2000美元。\n\n在2024年年底，孙寅和曹艾莊根据我的要求分别答应为大会捐款各1000美元。但在1月份的大会筹备会议上，我以苏珊捐款5000美元为由，向孙、曹二位提出无理要求，要求他们二位各增加2000美元，使二位的捐款总数达3000美元。\n\n希望孙寅和曹艾莊能够原谅我的过错，并接受我的道歉。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 18287,
+          "like_count": 31,
+          "quote_count": 9,
+          "reply_count": 18,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917237964603593171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "道歉声明：\n谨向本次大会会务组副组长孙寅和曹艾莊道歉，对发生在今年1月份对二位提出无理要求增加2000美元捐款额度的不当行为表示深刻的悔意和内疚。\n本人将从大会预算余额中提取4000美元择日分别归还给两位各2000美元。 https://t.co/3bqn20mJ74"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 2055,
+          "like_count": 27708,
+          "listed_count": 7,
+          "media_count": 1280,
+          "tweet_count": 19125
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-26T03:17:19.000Z",
+        "description": "He Anquan | 前上海外科医生Surgeon | 沪裔美国人 Shanghai American | 华尔街日报专访https://t.co/vpVCgubiss",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wsj.com/articles/shang…",
+                "end": 85,
+                "expanded_url": "https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204",
+                "start": 62,
+                "url": "https://t.co/vpVCgubiss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCOBkJ…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCOBkJ9y25vTAb_IugHg5hxw",
+                "start": 0,
+                "url": "https://t.co/LMSWummYmZ"
+              }
+            ]
+          }
+        },
+        "id": "2411954377",
+        "location": "美国纽约",
+        "name": "何岸泉｜2025上海独立大会",
+        "pinned_tweet_id": "1917568191636857245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781810725075177472/HRnUVZuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39522,
+          "following_count": 885,
+          "like_count": 37517,
+          "listed_count": 191,
+          "media_count": 6260,
+          "tweet_count": 39125
+        },
+        "url": "https://t.co/LMSWummYmZ",
+        "username": "heanquan",
+        "verified": true
+      }
+    ]
+  }
+}

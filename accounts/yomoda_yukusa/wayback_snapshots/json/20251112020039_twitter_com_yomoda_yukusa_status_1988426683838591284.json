@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1988399074987708535",
+    "created_at": "2025-11-12T02:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T03:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988426683838591284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1819327280482865152",
+          "start": 0,
+          "username": "hzyj772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988426683838591284",
+    "in_reply_to_user_id": "1819327280482865152",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988426227435344086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzyj772 21.5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1988399074987708535",
+        "created_at": "2025-11-12T02:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988426683838591284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1819327280482865152",
+              "start": 0,
+              "username": "hzyj772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988426683838591284",
+        "in_reply_to_user_id": "1819327280482865152",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988426227435344086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzyj772 21.5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819327280482865152",
+        "conversation_id": "1988399074987708535",
+        "created_at": "2025-11-12T01:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T02:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988426227435344086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988426227435344086",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988399074987708535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 时薪这么高？我也要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984486210988089345/XvAXq227_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2793,
+          "following_count": 2329,
+          "like_count": 31027,
+          "listed_count": 9,
+          "media_count": 1426,
+          "tweet_count": 20511
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T11:00:13.000Z",
+        "description": "是@phia50611171的可爱猫猫～🐱这和我们人前是Les并不矛盾，所以还是ppl🎀｜情侣号兼色推：@mt1zsyxil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "phia50611171"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "mt1zsyxil"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xlog.477771.xyz",
+                "end": 23,
+                "expanded_url": "http://xlog.477771.xyz",
+                "start": 0,
+                "url": "https://t.co/QY9nt2EU0a"
+              }
+            ]
+          }
+        },
+        "id": "1819327280482865152",
+        "location": "#7 0.4kV变压台",
+        "name": "燕檁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984549670404882432/XHLn_YLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 280,
+          "like_count": 50377,
+          "listed_count": 1,
+          "media_count": 690,
+          "tweet_count": 6611
+        },
+        "url": "https://t.co/QY9nt2EU0a",
+        "username": "hzyj772",
+        "verified": true
+      }
+    ]
+  }
+}

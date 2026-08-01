@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2008773448039100534",
+    "created_at": "2026-01-07T05:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T06:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008773448039100534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000501337143033856",
+          "start": 3,
+          "username": "wangwihd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008773448039100534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008495390421926095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wangwihd: 有些人什么时候才能意识到，把一个生命带到这个世界的严肃程度跟把一个生命从这个世界上抹杀是一样的？我求求你们不要再继续制造痛苦和不快乐的人类了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2008773448039100534",
+        "created_at": "2026-01-07T05:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T06:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008773448039100534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000501337143033856",
+              "start": 3,
+              "username": "wangwihd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008773448039100534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008495390421926095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wangwihd: 有些人什么时候才能意识到，把一个生命带到这个世界的严肃程度跟把一个生命从这个世界上抹杀是一样的？我求求你们不要再继续制造痛苦和不快乐的人类了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000501337143033856",
+        "conversation_id": "2008495390421926095",
+        "created_at": "2026-01-06T11:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T12:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008495390421926095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008495390421926095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 59344,
+          "like_count": 2158,
+          "quote_count": 17,
+          "reply_count": 37,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "有些人什么时候才能意识到，把一个生命带到这个世界的严肃程度跟把一个生命从这个世界上抹杀是一样的？我求求你们不要再继续制造痛苦和不快乐的人类了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2793,
+          "following_count": 2342,
+          "like_count": 32276,
+          "listed_count": 9,
+          "media_count": 1505,
+          "tweet_count": 21143
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T09:42:33.000Z",
+        "description": "小号：@wihdwang 匿名箱： https://t.co/0O6j9Dt498 如果有之前的互关刷到我，我没有双取，我只是号没了。小号里都是我的阴暗负能量，日常抓马事件，随口而来的mean言mean语和有些无聊的脱口秀，所以谨慎关注。IG:vivvvvee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "wihdwang"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/luna58220",
+                "end": 41,
+                "expanded_url": "https://ngl.link/luna58220",
+                "start": 18,
+                "url": "https://t.co/0O6j9Dt498"
+              }
+            ]
+          }
+        },
+        "id": "2000501337143033856",
+        "name": "三千年前（原号After 17已被盗）",
+        "pinned_tweet_id": "2000919471280808410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004587319089876992/FUnOBmaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 117,
+          "like_count": 1769,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 875
+        },
+        "username": "wangwihd",
+        "verified": false
+      }
+    ]
+  }
+}

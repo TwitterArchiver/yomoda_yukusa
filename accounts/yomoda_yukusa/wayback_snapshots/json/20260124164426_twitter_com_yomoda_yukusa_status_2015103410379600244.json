@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2015103410379600244",
+    "created_at": "2026-01-24T16:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T17:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015103410379600244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1294962246410412032",
+          "start": 3,
+          "username": "oshio_heihachir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015103410379600244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889937365998903506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oshio_heihachir: 虽然某件事情注定要刺痛我的一生，生前死后都无法消弭，但我实在不知道我在其中到底做错了什么，我好像什么都是错的，也好像什么都没做错😭😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2015103410379600244",
+        "created_at": "2026-01-24T16:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T17:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015103410379600244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1294962246410412032",
+              "start": 3,
+              "username": "oshio_heihachir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015103410379600244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889937365998903506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oshio_heihachir: 虽然某件事情注定要刺痛我的一生，生前死后都无法消弭，但我实在不知道我在其中到底做错了什么，我好像什么都是错的，也好像什么都没做错😭😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1294962246410412032",
+        "conversation_id": "1889937365998903506",
+        "created_at": "2025-02-13T07:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T08:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889937365998903506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889937365998903506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1446,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "虽然某件事情注定要刺痛我的一生，生前死后都无法消弭，但我实在不知道我在其中到底做错了什么，我好像什么都是错的，也好像什么都没做错😭😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2798,
+          "following_count": 2359,
+          "like_count": 32914,
+          "listed_count": 9,
+          "media_count": 1539,
+          "tweet_count": 21384
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-16T11:40:42.000Z",
+        "description": "知莫大乎棄疑，行莫大乎無過，事莫大乎無悔。事至無悔而止矣，成不可必矣。",
+        "id": "1294962246410412032",
+        "name": "洗心洞箚記",
+        "pinned_tweet_id": "1388502964122308614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708143260953346048/LUigz4vb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 504,
+          "like_count": 2977,
+          "listed_count": 10,
+          "media_count": 353,
+          "tweet_count": 3460
+        },
+        "username": "oshio_heihachir",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1985234824689574014",
+    "created_at": "2025-11-03T07:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T08:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985251110135939463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1612680283332952064",
+          "start": 0,
+          "username": "xcs03563104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985251110135939463",
+    "in_reply_to_user_id": "1612680283332952064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985234824689574014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcs03563104 看不懂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20201,
+        "height": 1280,
+        "media_key": "13_1985234779349073920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985234779349073920/img/3tPckXWCxPc5Ao5i.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985234779349073920/vid/avc1/320x572/s8KjiGwB7-ARFEJY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985234779349073920/vid/avc1/480x858/r_KiiLWAPq1FY8Dz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985234779349073920/vid/avc1/716x1280/wbhE2fQmBCXVEPuF.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985234779349073920/pl/zNvZLqJ_-45BMa8Z.m3u8?tag=14"
+          }
+        ],
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1985234824689574014",
+        "created_at": "2025-11-03T07:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T08:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985251110135939463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1612680283332952064",
+              "start": 0,
+              "username": "xcs03563104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985251110135939463",
+        "in_reply_to_user_id": "1612680283332952064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985234824689574014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcs03563104 看不懂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985234779349073920"
+          ]
+        },
+        "author_id": "1612680283332952064",
+        "conversation_id": "1985234824689574014",
+        "created_at": "2025-11-03T06:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T07:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985234824689574014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uh3lqg0HRs",
+              "end": 23,
+              "expanded_url": "https://x.com/xcs03563104/status/1985234824689574014/video/1",
+              "media_key": "13_1985234779349073920",
+              "start": 0,
+              "url": "https://t.co/uh3lqg0HRs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985234824689574014",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uh3lqg0HRs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984486210988089345/XvAXq227_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 2331,
+          "like_count": 30808,
+          "listed_count": 10,
+          "media_count": 1414,
+          "tweet_count": 20410
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T05:18:54.000Z",
+        "description": "中/ENG|個人口嗨用 啥都搞点 说话不过脑臭傻逼 友好一切|my art禁止轉載，保存，使用 嚴禁ai學習 不授權任何|I only post my arts on x|画自己想画的",
+        "id": "1612680283332952064",
+        "name": "🐱",
+        "pinned_tweet_id": "1974759335944499260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983781153221033984/lHWqoqYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 216,
+          "like_count": 35042,
+          "listed_count": 3,
+          "media_count": 1044,
+          "tweet_count": 8023
+        },
+        "username": "xcs03563104",
+        "verified": false
+      }
+    ]
+  }
+}

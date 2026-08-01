@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "2010690166558765494",
+    "created_at": "2026-01-13T14:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T15:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011078425017258247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2003468394604228608",
+          "start": 0,
+          "username": "pinxowosofure"
+        },
+        {
+          "end": 30,
+          "id": "1522542545598705664",
+          "start": 15,
+          "username": "Alexius_Jashin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011078425017258247",
+    "in_reply_to_user_id": "2003468394604228608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011038667503255586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pinxowosofure @Alexius_Jashin 坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "2010690166558765494",
+        "created_at": "2026-01-13T14:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T15:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011078425017258247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2003468394604228608",
+              "start": 0,
+              "username": "pinxowosofure"
+            },
+            {
+              "end": 30,
+              "id": "1522542545598705664",
+              "start": 15,
+              "username": "Alexius_Jashin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011078425017258247",
+        "in_reply_to_user_id": "2003468394604228608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011038667503255586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinxowosofure @Alexius_Jashin 坏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003468394604228608",
+        "conversation_id": "2010690166558765494",
+        "created_at": "2026-01-13T11:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T12:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011038667503255586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522542545598705664",
+              "start": 0,
+              "username": "Alexius_Jashin"
+            },
+            {
+              "end": 30,
+              "id": "1547247978565423105",
+              "start": 16,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011038667503255586",
+        "in_reply_to_user_id": "1522542545598705664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010701590244872460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alexius_Jashin @yomoda_yukusa 好想坐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvn6D"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1936170196802433143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 2351,
+          "like_count": 32723,
+          "listed_count": 9,
+          "media_count": 1513,
+          "tweet_count": 21218
+        },
+        "url": "https://t.co/yYj34tvn6D",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T14:11:20.000Z",
+        "description": "首先 愿所有人有美好的一天\n本号有键政内容 言论蛮激进\n讨厌男权制 顺直正统主义 违背现实的“自然”二元性别论及刻板印象和刻板印象扩大化 资产阶级专政 语言文化帝国主义 民族沙文主义 文明-野蛮叙事 华夷秩序 东方主义 极端/低智民族主义 小激激女 三好非顺直\n我谙倒都晓得我是哪个了",
+        "id": "2003468394604228608",
+        "name": "落猫儿散晴",
+        "pinned_tweet_id": "2003483415526744238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003709335646666754/F6wCyvYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 171,
+          "like_count": 2958,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1238
+        },
+        "username": "pinxowosofure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-06T11:43:34.000Z",
+        "description": "🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱😺🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱🐱",
+        "id": "1522542545598705664",
+        "location": "Sasebo-shi, Nagasaki",
+        "name": "松PI-ne果CO-ne💛ᩚ🤍ᩚ💜ᩚ🖤ᩚAlexius",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010733193021009920/R8lNwN8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3960,
+          "following_count": 1811,
+          "like_count": 8726,
+          "listed_count": 7,
+          "media_count": 702,
+          "tweet_count": 4914
+        },
+        "username": "Alexius_Jashin",
+        "verified": false
+      }
+    ]
+  }
+}

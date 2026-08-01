@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "1826668534388457829",
+    "created_at": "2024-08-22T17:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T18:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826668534388457829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Akirameru_QwQ"
+        },
+        {
+          "end": 63,
+          "id": "1647815138450505730",
+          "start": 48,
+          "username": "yaming00742313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826668534388457829",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826622463410835801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akirameru_QwQ: 哔哩哔哩up主“温柔JUNZ”近日发布的一则关于亚明事件（@yaming00742313）的视频稿件刚刚被下架。\n下架前，该视频的播放量为93万，16.6万点赞。\n原视频已经我补档至YouTube：https://t.co/RZKDOkbP…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1826668534388457829",
+        "created_at": "2024-08-22T17:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T18:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826668534388457829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Akirameru_QwQ"
+            },
+            {
+              "end": 63,
+              "id": "1647815138450505730",
+              "start": 48,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826668534388457829",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826622463410835801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Akirameru_QwQ: 哔哩哔哩up主“温柔JUNZ”近日发布的一则关于亚明事件（@yaming00742313）的视频稿件刚刚被下架。\n下架前，该视频的播放量为93万，16.6万点赞。\n原视频已经我补档至YouTube：https://t.co/RZKDOkbP…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "1826622463410835801",
+        "created_at": "2024-08-22T14:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T15:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826622463410835801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1647815138450505730",
+              "start": 29,
+              "username": "yaming00742313"
+            }
+          ],
+          "urls": [
+            {
+              "description": "BV1pT421r7AZ被下架了。B站真有你的。今日我若冷眼旁观 他日祸临己身 则无人为我摇旗呐喊。",
+              "display_url": "youtu.be/psSpXqI7xhE?si…",
+              "end": 122,
+              "expanded_url": "https://youtu.be/psSpXqI7xhE?si=13f3ZwOoxzMvfGXQ",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1826622507107188740/fKaW7Sqr?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1826622507107188740/fKaW7Sqr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 99,
+              "status": 200,
+              "title": "［补档］［亚明］一切为了拯救，被送进戒网瘾机构的他！【温柔】",
+              "unwound_url": "https://www.youtube.com/watch?si=13f3ZwOoxzMvfGXQ&v=psSpXqI7xhE&feature=youtu.be",
+              "url": "https://t.co/RZKDOkbPMO"
+            },
+            {
+              "display_url": "drive.google.com/file/d/1ExaOV9…",
+              "end": 153,
+              "expanded_url": "https://drive.google.com/file/d/1ExaOV92kTab8hb4Y-8IRUVLfOu8Ccu8B/view?usp=drivesdk",
+              "start": 130,
+              "status": 401,
+              "unwound_url": "https://drive.google.com/file/d/1ExaOV92kTab8hb4Y-8IRUVLfOu8Ccu8B/view?usp=drivesdk",
+              "url": "https://t.co/QlpvsBY7Yx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826622463410835801",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3692,
+          "like_count": 106,
+          "quote_count": 7,
+          "reply_count": 9,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "哔哩哔哩up主“温柔JUNZ”近日发布的一则关于亚明事件（@yaming00742313）的视频稿件刚刚被下架。\n下架前，该视频的播放量为93万，16.6万点赞。\n原视频已经我补档至YouTube：https://t.co/RZKDOkbPMO\n缓存原始文件：https://t.co/QlpvsBY7Yx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1725975584432701717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2680,
+          "following_count": 2540,
+          "like_count": 25948,
+          "listed_count": 8,
+          "tweet_count": 18030
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "Every morning tell yourself that you are getting better and better.\nLC_MESSAGES=zh_CN(正常)/zh_TW(心酸/想哭)/en_US\n想和頭像一樣可愛//喜歡電腦技術//愛大家♥️//互fo是好文明！",
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "永不言棄🥺♥️（貼貼",
+        "pinned_tweet_id": "1826622463410835801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817164041938223105/KiWCGCWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 472,
+          "like_count": 59679,
+          "listed_count": 4,
+          "tweet_count": 2132
+        },
+        "username": "Akirameru_QwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（为生民立命）🙂",
+        "pinned_tweet_id": "1824811916034007316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784893238341459968/c_rdFaYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6505,
+          "following_count": 972,
+          "like_count": 5120,
+          "listed_count": 11,
+          "tweet_count": 1779
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}
