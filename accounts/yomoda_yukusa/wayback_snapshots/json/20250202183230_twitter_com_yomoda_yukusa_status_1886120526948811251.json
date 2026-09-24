@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547247978565423105",
+    "conversation_id": "1886058387332542471",
+    "created_at": "2025-02-02T18:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T19:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886120526948811251"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "方舟健",
+          "probability": 0.4802,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "Inhara_Akime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886120526948811251",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886058387332542471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inhara_Akime 方舟健客"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547247978565423105",
+        "conversation_id": "1886058387332542471",
+        "created_at": "2025-02-02T18:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T19:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886120526948811251"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "方舟健",
+              "probability": 0.4802,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "Inhara_Akime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886120526948811251",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886058387332542471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inhara_Akime 方舟健客"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886058374124670977"
+          ]
+        },
+        "author_id": "1680834021377593344",
+        "conversation_id": "1886058387332542471",
+        "created_at": "2025-02-02T14:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T15:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886058387332542471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C44acb9ufn",
+              "end": 47,
+              "expanded_url": "https://x.com/Inhara_Akime/status/1886058387332542471/photo/1",
+              "media_key": "3_1886058374124670977",
+              "start": 24,
+              "url": "https://t.co/C44acb9ufn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886058387332542471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1158,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊我草和十几个药店撕逼终于搞到了🫠处方还被收了 https://t.co/C44acb9ufn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuhaoriIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yuhaoriIRS",
+                "start": 0,
+                "url": "https://t.co/yYj34tvUWb"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的天國：晶狀體",
+        "name": "Yomoda Yukusa 四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "1842530921792331821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819499481148366848/daHkxoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2771,
+          "following_count": 2788,
+          "like_count": 26956,
+          "listed_count": 8,
+          "media_count": 1248,
+          "tweet_count": 18794
+        },
+        "url": "https://t.co/yYj34tvUWb",
+        "username": "yomoda_yukusa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "その時僕は、僕を忘れてほしいのです",
+        "id": "1680834021377593344",
+        "location": "土星",
+        "name": "温原アキメ🍥🫖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885676132571533312/-dq0DmQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 934,
+          "like_count": 63143,
+          "listed_count": 13,
+          "media_count": 3536,
+          "tweet_count": 21021
+        },
+        "username": "Inhara_Akime",
+        "verified": false
+      }
+    ]
+  }
+}
